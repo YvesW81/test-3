@@ -203,3 +203,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-10 17:30,N57,Langzaam rijdend verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,5.0,3000,51.544376,3.6051,2026-07-10 17:13,10005348493
 2026-07-10 17:30,N59,Stilstaand verkeer,Knooppunt Hellegatsplein - Oude-Tonge,Tussen knooppunt Hellegatsplein en Den Bommel.,,5.0,2000,51.699833,4.293553,2026-07-10 17:27,10005348556
 2026-07-10 17:30,N434,Stilstaand verkeer,Wassenaar - Zoeterwoude,Tussen knooppunt Ommedijk en knooppunt Hofvliet.,,15.0,4100,52.125263,4.472726,2026-07-10 14:44,10005347450
+2026-07-10 19:23,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,,8.0,2100,52.31377,7.043839,2026-07-10 19:13,10005348788
+2026-07-10 19:23,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Beek (30) en Duitsland.,Door grenscontrole,15.0,1200,51.898357,6.165913,2026-07-10 18:43,10005348763
+2026-07-10 19:23,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Nieuwerkerk aan den IJssel (17) en knooppunt Terbregseplein.,Wegwerkzaamheden,5.0,2100,51.953865,4.55135,2026-07-10 18:54,10005348774
+2026-07-10 19:23,A67,Stilstaand verkeer,Venlo - Eindhoven,Tussen Asten (36) en Someren (35).,Ongevalsonderzoek,26.0,3800,51.42254,5.695809,2026-07-10 15:14,10005347652
+2026-07-10 19:23,A67,Stilstaand verkeer,Eindhoven - Venlo,Tussen Liessel (37) en Panningen (38).,Ongeval(len),15.0,4200,51.377537,5.989697,2026-07-10 19:01,10005348781
