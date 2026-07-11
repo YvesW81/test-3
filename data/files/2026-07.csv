@@ -306,3 +306,23 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-11 14:01,N57,Stilstaand verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,7.0,2200,51.815773,3.981904,2026-07-11 12:51,10005349205
 2026-07-11 14:01,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,10.0,3000,51.544376,3.6051,2026-07-11 13:22,10005349261
 2026-07-11 14:01,N434,Langzaam rijdend verkeer,Wassenaar - Zoeterwoude,Tussen knooppunt Ommedijk en knooppunt Hofvliet.,,6.0,3700,52.128345,4.469724,2026-07-11 13:26,10005349270
+2026-07-11 15:48,A1,Stilstaand verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,Bergingswerkzaamheden,59.0,9200,52.166176,5.553804,2026-07-11 13:44,10005349309
+2026-07-11 15:48,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Deil en Waardenburg (16).,,6.0,2500,51.83783,5.24702,2026-07-11 15:42,10005349542
+2026-07-11 15:48,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen Hoofddorp-Zuid (3a) en Ringvaart-Aquaduct.,Wegwerkzaamheden,13.0,3600,52.225197,4.636489,2026-07-11 10:04,10005348940
+2026-07-11 15:48,A4,Langzaam rijdend verkeer,Den Haag - Rotterdam,Tussen Den Haag-Zuid (12) en Slinksloot.,,10.0,4600,51.97593,4.335807,2026-07-11 13:46,10005349316
+2026-07-11 15:48,A6,Stilstaand verkeer,Lelystad - Emmeloord,Tussen Lelystad-Noord (11) en Swifterbant (12).,Bergingswerkzaamheden,17.0,4000,52.60227,5.617364,2026-07-11 14:46,10005349444
+2026-07-11 15:48,A9,Langzaam rijdend verkeer,Alkmaar - Amstelveen,Tussen knooppunt Badhoevedorp en Schiphol-Oost.,,5.0,2100,52.3088,4.823344,2026-07-11 15:45,10005349550
+2026-07-11 15:48,A12,Langzaam rijdend verkeer,Utrecht - Den Haag,Tussen Kanaleneiland (17) en knooppunt Oudenrijn.,,5.0,2100,52.063797,5.077636,2026-07-11 15:45,10005349549
+2026-07-11 15:48,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Capelle a/d IJssel (25) en de Rottemerentunnel.,,14.0,4800,51.96116,4.520613,2026-07-11 11:55,10005349110
+2026-07-11 15:48,A16,Stilstaand verkeer op parallelrijbaan,Rotterdam - Breda,Op de parallelbaan. Tussen Rotterdam-Kralingen (26) en Rotterdam-Feijenoord (24).,,13.0,3600,51.893684,4.558517,2026-07-11 14:31,10005349404
+2026-07-11 15:48,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Berkel en Rodenrijs (29) en de Rottemerentunnel.,,7.0,2000,51.97071,4.500901,2026-07-11 15:44,10005349547
+2026-07-11 15:48,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen Nieuwerkerk aan den IJssel (17) en knooppunt Terbregseplein.,,8.0,2400,51.952446,4.540873,2026-07-11 12:15,10005349144
+2026-07-11 15:48,A20,Langzaam rijdend verkeer,Hoek van Holland - Gouda,Tussen Prins Alexander (16) en Moordrecht (18).,,5.0,2200,51.98387,4.625698,2026-07-11 15:29,10005349512
+2026-07-11 15:48,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen Houten (29) en Hagestein (27).,Wegwerkzaamheden,13.0,3600,51.99082,5.11083,2026-07-11 08:54,10005348910
+2026-07-11 15:48,A28,Langzaam rijdend verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,,4.0,1400,52.078636,5.1592064,2026-07-11 13:50,10005349330
+2026-07-11 15:48,A28,Stilstaand verkeer,Amersfoort - Zwolle,Tussen knooppunt Hoevelaken en Amersfoort-Vathorst (8a).,,6.0,2200,52.189835,5.439664,2026-07-11 15:34,10005349523
+2026-07-11 15:48,A59,Langzaam rijdend verkeer,'s-Hertogenbosch - Oss,Tussen Kruisstraat (50) en Nuland (51).,,5.0,2500,51.71895,5.440238,2026-07-11 13:30,10005349278
+2026-07-11 15:48,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,2000,50.818733,6.024534,2026-07-11 14:45,10005349443
+2026-07-11 15:48,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,3.0,2200,51.815773,3.981904,2026-07-11 15:15,10005349493
+2026-07-11 15:48,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,5.0,2700,51.861423,4.156718,2026-07-11 15:24,10005349505
+2026-07-11 15:48,N434,Langzaam rijdend verkeer,Wassenaar - Zoeterwoude,Tussen knooppunt Ommedijk en knooppunt Hofvliet.,,6.0,3700,52.127575,4.470474,2026-07-11 15:42,10005349544
