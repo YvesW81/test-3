@@ -326,3 +326,13 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-11 15:48,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,3.0,2200,51.815773,3.981904,2026-07-11 15:15,10005349493
 2026-07-11 15:48,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,5.0,2700,51.861423,4.156718,2026-07-11 15:24,10005349505
 2026-07-11 15:48,N434,Langzaam rijdend verkeer,Wassenaar - Zoeterwoude,Tussen knooppunt Ommedijk en knooppunt Hofvliet.,,6.0,3700,52.127575,4.470474,2026-07-11 15:42,10005349544
+2026-07-11 16:41,A1,Stilstaand verkeer,Apeldoorn - Amersfoort,Tussen Hoenderloo (19) en Kootwijk (18).,Ongeval(len),45.0,4700,52.20273,5.799877,2026-07-11 16:14,10005349588
+2026-07-11 16:41,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen Nieuw-Vennep (4) en Ringvaart-Aquaduct.,Wegwerkzaamheden,14.0,3600,52.21543,4.626811,2026-07-11 10:04,10005348940
+2026-07-11 16:41,A4,Langzaam rijdend verkeer,Rotterdam - Den Haag,Tussen Rijswijk (11) en Den Haag-Ypenburg (9).,,5.0,2600,52.042656,4.34753,2026-07-11 16:24,10005349597
+2026-07-11 16:41,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Terbregseplein en de Rottemerentunnel.,,11.0,2200,51.961727,4.519486,2026-07-11 11:55,10005349110
+2026-07-11 16:41,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen Nieuwegein (28) en knooppunt Everdingen.,Wegwerkzaamheden,8.0,2800,51.990334,5.110691,2026-07-11 08:54,10005348910
+2026-07-11 16:41,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen knooppunt Hellegatsplein en de Haringvlietbrug.,,7.0,2400,51.719997,4.403438,2026-07-11 16:07,10005349581
+2026-07-11 16:41,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Numansdorp (22) en de Haringvlietbrug.,,12.0,3100,51.719784,4.403164,2026-07-11 16:17,10005349593
+2026-07-11 16:41,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,2000,50.818733,6.024534,2026-07-11 14:45,10005349443
+2026-07-11 16:41,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,4.0,2300,51.861423,4.156718,2026-07-11 15:24,10005349505
+2026-07-11 16:41,N434,Langzaam rijdend verkeer,Wassenaar - Zoeterwoude,Tussen knooppunt Ommedijk en knooppunt Hofvliet.,,5.0,3000,52.128345,4.469724,2026-07-11 16:34,10005349608
