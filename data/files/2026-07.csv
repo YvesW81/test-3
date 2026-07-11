@@ -209,3 +209,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-10 19:23,A67,Stilstaand verkeer,Venlo - Eindhoven,Tussen Asten (36) en Someren (35).,Ongevalsonderzoek,26.0,3800,51.42254,5.695809,2026-07-10 15:14,10005347652
 2026-07-10 19:23,A67,Stilstaand verkeer,Eindhoven - Venlo,Tussen Liessel (37) en Panningen (38).,Ongeval(len),15.0,4200,51.377537,5.989697,2026-07-10 19:01,10005348781
 2026-07-10 22:26,A28,Stilstaand verkeer,Utrecht - Amersfoort,Tussen Leusden-Zuid (6) en Amersfoort (8).,,15.0,2200,52.159355,5.419122,2026-07-10 21:59,10005348823
+2026-07-11 10:24,A2,Stilstaand verkeer,Maastricht - Eindhoven,Tussen knooppunt Leenderheide en knooppunt Batadorp.,Ongeval(len),18.0,2100,51.41198,5.430045,2026-07-11 10:19,10005348955
+2026-07-11 10:24,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen Nieuw-Vennep (4) en Ringvaart-Aquaduct.,Wegwerkzaamheden,7.0,2400,52.226185,4.637933,2026-07-11 10:04,10005348940
+2026-07-11 10:24,A7,Stilstaand verkeer,Westerbroek - Bremen,Tussen Oudeschans (48) en Duitsland.,Verkeerssituatie gewijzigd als gevolg van wegwerkzaamheden,16.0,2000,53.18038,7.227433,2026-07-11 10:02,10005348938
+2026-07-11 10:24,A15,Stilstaand verkeer,Ridderkerk - Nijmegen,Tussen Hardinxveld-Giessendam (26) en Arkel (28).,Ongeval(len),40.0,4300,51.845463,4.994364,2026-07-11 09:44,10005348922
+2026-07-11 10:24,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen knooppunt Terbregseplein en de Rottemerentunnel.,Wegwerkzaamheden op aansluitende weg,6.0,2500,51.962288,4.518383,2026-07-11 10:03,10005348939
+2026-07-11 10:24,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen Nieuwegein (28) en knooppunt Everdingen.,Wegwerkzaamheden,11.0,3200,51.990334,5.110691,2026-07-11 08:54,10005348910
+2026-07-11 10:24,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Waspik (35) en Waalwijk (37).,Spoedreparatie,10.0,3500,51.69322,5.023337,2026-07-11 09:50,10005348930
+2026-07-11 10:24,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,13.0,5500,51.861423,4.156718,2026-07-11 10:10,10005348948
+2026-07-11 10:24,N57,Langzaam rijdend verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,6.0,3000,51.544376,3.6051,2026-07-11 10:16,10005348953
