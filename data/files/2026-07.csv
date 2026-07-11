@@ -275,3 +275,34 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-11 13:04,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,8.0,3000,51.544376,3.6051,2026-07-11 12:46,10005349195
 2026-07-11 13:04,N57,Stilstaand verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,6.0,2200,51.815773,3.981904,2026-07-11 12:51,10005349205
 2026-07-11 13:04,N59,Stilstaand verkeer,Knooppunt Hellegatsplein - Oude-Tonge,Tussen knooppunt Hellegatsplein en Den Bommel.,,7.0,2600,51.699833,4.293553,2026-07-11 12:44,10005349189
+2026-07-11 14:01,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,,10.0,4700,52.16485,5.544212,2026-07-11 13:44,10005349309
+2026-07-11 14:01,A2,Stilstaand verkeer,Amsterdam - Utrecht,Tussen Maarssen (6) en de Leidsche Rijntunnel.,Bergingswerkzaamheden,40.0,5300,52.08579,5.075429,2026-07-11 12:52,10005349206
+2026-07-11 14:01,A2,Langzaam rijdend verkeer,Eindhoven - Maastricht,Tussen Leenderheide/Randweg N2 en Leende (35).,,9.0,4100,51.345215,5.54977,2026-07-11 12:56,10005349212
+2026-07-11 14:01,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen Geldermalsen (15) en Culemborg (13).,Eerder ongeval,18.0,5000,51.92521,5.168557,2026-07-11 13:05,10005349228
+2026-07-11 14:01,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Amsterdam,Tussen knooppunt Oudenrijn en Utrecht-Centrum (7).,Ongeval(len),7.0,3200,52.101376,5.065184,2026-07-11 13:10,10005349235
+2026-07-11 14:01,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen Hoofddorp-Zuid (3a) en Ringvaart-Aquaduct.,Wegwerkzaamheden,17.0,4000,52.224545,4.635536,2026-07-11 10:04,10005348940
+2026-07-11 14:01,A4,Stilstaand verkeer,Den Haag - Rotterdam,Tussen Rijswijk (11) en Den Hoorn (13).,,7.0,2800,51.99515,4.318016,2026-07-11 13:46,10005349316
+2026-07-11 14:01,A5,Stilstaand verkeer,Hoofddorp - Amsterdam,Op de verbindingsweg van de A5 vanuit Hoofddorp naar de A9 richting Alkmaar.,,10.0,2200,52.363388,4.728195,2026-07-11 13:33,10005349294
+2026-07-11 14:01,A7,Stilstaand verkeer,Westerbroek - Bremen,Tussen Oudeschans (48) en Duitsland.,Verkeerssituatie gewijzigd als gevolg van wegwerkzaamheden,28.0,3200,53.18038,7.227433,2026-07-11 10:02,10005348938
+2026-07-11 14:01,A7,Stilstaand verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,17.0,4000,52.93327,5.039222,2026-07-11 13:40,10005349305
+2026-07-11 14:01,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen Badhoevedorp (7) en Haarlem-Zuid.,Ongeval(len),35.0,3400,52.368908,4.717917,2026-07-11 13:29,10005349276
+2026-07-11 14:01,A9,Langzaam rijdend verkeer,Alkmaar - Amstelveen,Tussen knooppunt Badhoevedorp en Schiphol-Oost.,,5.0,2100,52.3088,4.823344,2026-07-11 13:54,10005349334
+2026-07-11 14:01,A10,Stilstaand verkeer,Knooppunt De Nieuwe Meer - Knooppunt Coenplein,Tussen Amsterdam-Hemhavens (1) en de Coentunnel.,,6.0,2100,52.417194,4.867576,2026-07-11 13:57,10005349339
+2026-07-11 14:01,A12,Stilstaand verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Zevenaar (29).,,11.0,3100,51.93232,6.103215,2026-07-11 13:11,10005349237
+2026-07-11 14:01,A12,Langzaam rijdend verkeer op parallelrijbaan,Utrecht - Den Haag,Op de parallelbaan. Tussen Houten (18) en Nieuwegein (16).,,4.0,2500,52.061413,5.092282,2026-07-11 13:58,10005349341
+2026-07-11 14:01,A12,Langzaam rijdend verkeer,Utrecht - Den Haag,Tussen Houten (18) en knooppunt Oudenrijn.,,4.0,2200,52.06189,5.086279,2026-07-11 13:58,10005349340
+2026-07-11 14:01,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen Rotterdam-Charlois (19) en knooppunt Benelux.,,6.0,2700,51.873207,4.413845,2026-07-11 13:49,10005349323
+2026-07-11 14:01,A15,Stilstaand verkeer op parallelrijbaan,Europoort - Ridderkerk,Op de parallelbaan. Tussen knooppunt Benelux en Rotterdam-Heijplaat (18).,,6.0,2000,51.86876,4.436205,2026-07-11 13:58,10005349342
+2026-07-11 14:01,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Rotterdam-Kralingen (26) en de Rottemerentunnel.,,16.0,4700,51.96201,4.518935,2026-07-11 11:55,10005349110
+2026-07-11 14:01,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen Nieuwerkerk aan den IJssel (17) en knooppunt Terbregseplein.,,12.0,3900,51.953865,4.55135,2026-07-11 12:15,10005349144
+2026-07-11 14:01,A20,Stilstaand verkeer,Hoek van Holland - Gouda,Tussen Prins Alexander (16) en Moordrecht (18).,,10.0,3400,51.984814,4.627198,2026-07-11 13:36,10005349293
+2026-07-11 14:01,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen knooppunt Lunetten en Hagestein (27).,Wegwerkzaamheden,28.0,7600,51.99082,5.11083,2026-07-11 08:54,10005348910
+2026-07-11 14:01,A27,Stilstaand verkeer,Breda - Gorinchem,Tussen Werkendam (23) en de Merwedebrug.,,8.0,2200,51.829678,4.943376,2026-07-11 13:20,10005349256
+2026-07-11 14:01,A27,Langzaam rijdend verkeer,Almere - Gorinchem,Tussen Utrecht-Noord (31) en knooppunt Rijnsweerd.,,9.0,4100,52.08683,5.162281,2026-07-11 13:49,10005349324
+2026-07-11 14:01,A28,Langzaam rijdend verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,,6.0,1900,52.078636,5.1592064,2026-07-11 13:50,10005349330
+2026-07-11 14:01,A29,Stilstaand verkeer,Rotterdam - Sabina,Op de verbindingsweg van de A29 vanuit Rotterdam naar de N59 richting Zierikzee.,,4.0,600,51.70126,4.390069,2026-07-11 13:22,10005349266
+2026-07-11 14:01,A59,Langzaam rijdend verkeer,'s-Hertogenbosch - Oss,Tussen Rosmalen (48) en Nuland (51).,,14.0,5700,51.71895,5.440238,2026-07-11 13:30,10005349278
+2026-07-11 14:01,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1900,50.818733,6.024534,2026-07-11 10:49,10005348996
+2026-07-11 14:01,N57,Stilstaand verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,7.0,2200,51.815773,3.981904,2026-07-11 12:51,10005349205
+2026-07-11 14:01,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,10.0,3000,51.544376,3.6051,2026-07-11 13:22,10005349261
+2026-07-11 14:01,N434,Langzaam rijdend verkeer,Wassenaar - Zoeterwoude,Tussen knooppunt Ommedijk en knooppunt Hofvliet.,,6.0,3700,52.128345,4.469724,2026-07-11 13:26,10005349270
