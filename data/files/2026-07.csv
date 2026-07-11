@@ -336,3 +336,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-11 16:41,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,2000,50.818733,6.024534,2026-07-11 14:45,10005349443
 2026-07-11 16:41,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,4.0,2300,51.861423,4.156718,2026-07-11 15:24,10005349505
 2026-07-11 16:41,N434,Langzaam rijdend verkeer,Wassenaar - Zoeterwoude,Tussen knooppunt Ommedijk en knooppunt Hofvliet.,,5.0,3000,52.128345,4.469724,2026-07-11 16:34,10005349608
+2026-07-11 17:39,A4,Langzaam rijdend verkeer,Amsterdam - Den Haag,Tussen knooppunt Burgerveen en Ringvaart-Aquaduct.,,5.0,2100,52.22389,4.634574,2026-07-11 17:27,10005349641
+2026-07-11 17:39,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Numansdorp (22) en de Haringvlietbrug.,Technische storing,7.0,2100,51.728844,4.408791,2026-07-11 16:17,10005349593
+2026-07-11 17:39,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,5.0,2100,51.861423,4.156718,2026-07-11 17:10,10005349631
+2026-07-11 17:39,N59,Stilstaand verkeer,Oude-Tonge - Knooppunt Hellegatsplein,Tussen Den Bommel en knooppunt Hellegatsplein.,,25.0,4800,51.69728,4.395801,2026-07-11 16:49,10005349619
+2026-07-11 17:39,N434,Langzaam rijdend verkeer,Wassenaar - Zoeterwoude,Tussen knooppunt Ommedijk en knooppunt Hofvliet.,,7.0,3600,52.128345,4.469724,2026-07-11 17:05,10005349626
