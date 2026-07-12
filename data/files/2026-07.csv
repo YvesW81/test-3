@@ -346,3 +346,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-12 11:18,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen knooppunt Rijnsweerd en knooppunt Lunetten.,Wegwerkzaamheden,7.0,2600,52.075047,5.155358,2026-07-12 09:05,10005349733
 2026-07-12 11:18,A28,Stilstaand verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,Incident op aansluitende weg,9.0,1900,52.078636,5.1592064,2026-07-12 08:33,10005349728
 2026-07-12 11:18,A28,Stilstaand verkeer,Amersfoort - Utrecht,Tussen Utrecht-Science Park (2) en Utrecht-Centrum.,Incident op aansluitende weg,13.0,2400,52.089073,5.149194,2026-07-12 10:18,10005349741
+2026-07-12 12:46,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen Hoofddorp-Zuid (3a) en knooppunt Burgerveen.,Defect voertuig,10.0,2300,52.2418,4.660007,2026-07-12 12:30,10005349805
+2026-07-12 12:46,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,11.0,2000,51.898357,6.165913,2026-07-12 10:38,10005349746
+2026-07-12 12:46,A12,Stilstaand verkeer,Arnhem - Duitse grens,Tussen Duiven (28) en Zevenaar (29).,,13.0,3600,51.94342,6.079855,2026-07-12 12:26,10005349800
+2026-07-12 12:46,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht-Centrum (21).,Ongeval(len),16.0,4800,51.79706,4.649379,2026-07-12 12:24,10005349799
+2026-07-12 12:46,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen Nieuwegein (28) en Hagestein (27).,Wegwerkzaamheden,11.0,2900,51.99082,5.11083,2026-07-12 11:29,10005349766
+2026-07-12 12:46,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,4.0,2200,51.815773,3.981904,2026-07-12 12:27,10005349802
+2026-07-12 12:46,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,8.0,4000,51.861423,4.156718,2026-07-12 12:34,10005349808
+2026-07-12 12:46,N59,Langzaam rijdend verkeer,Knooppunt Hellegatsplein - Oude-Tonge,Tussen knooppunt Hellegatsplein en Den Bommel.,,5.0,2700,51.699833,4.293553,2026-07-12 12:38,10005349815
