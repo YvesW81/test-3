@@ -362,3 +362,15 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-12 13:46,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen De Bilt (30) en knooppunt Rijnsweerd.,Wegwerkzaamheden,15.0,2100,52.0843,5.162069,2026-07-12 13:04,10005349841
 2026-07-12 13:46,A27,Stilstaand verkeer,Breda - Gorinchem,Tussen Werkendam (23) en de Merwedebrug.,,6.0,2300,51.829678,4.943376,2026-07-12 13:40,10005349864
 2026-07-12 13:46,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,8.0,3700,51.861423,4.156718,2026-07-12 13:20,10005349851
+2026-07-12 14:40,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,12.0,1800,52.31377,7.043839,2026-07-12 12:57,10005349834
+2026-07-12 14:40,A2,Stilstaand verkeer,Eindhoven - 's-Hertogenbosch,Tussen Best (28) en Boxtel (26).,Ongeval(len),18.0,3300,51.53826,5.3783,2026-07-12 13:48,10005349868
+2026-07-12 14:40,A2,Stilstaand verkeer,'s-Hertogenbosch - Eindhoven,Tussen Boxtel (26) en Best-West (27).,Afremmend verkeer als gevolg van kijkers naar ongeval(len),14.0,4000,51.53612,5.380174,2026-07-12 13:49,10005349870
+2026-07-12 14:40,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen Nieuw-Vennep (4) en Ringvaart-Aquaduct.,Wegwerkzaamheden,8.0,2800,52.22487,4.636008,2026-07-12 12:49,10005349830
+2026-07-12 14:40,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,11.0,2000,51.898357,6.165913,2026-07-12 10:38,10005349746
+2026-07-12 14:40,A15,Langzaam rijdend verkeer,Nijmegen - Gorinchem,Tussen knooppunt Deil en Arkel (28).,,6.0,2500,51.83964,5.078872,2026-07-12 14:35,10005349900
+2026-07-12 14:40,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen Nieuwerkerk aan den IJssel (17) en knooppunt Terbregseplein.,Wegwerkzaamheden,10.0,2800,51.953865,4.55135,2026-07-12 13:56,10005349877
+2026-07-12 14:40,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen Vlaardingen-West (8) en de brug over de Boonervliet.,Door opruimwerkzaamheden,6.0,2000,51.922276,4.287053,2026-07-12 13:56,10005349878
+2026-07-12 14:40,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen Nieuwegein (28) en Hagestein (27).,Wegwerkzaamheden,8.0,2800,51.99082,5.11083,2026-07-12 11:29,10005349766
+2026-07-12 14:40,A28,Langzaam rijdend verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,,3.0,1400,52.078636,5.1592064,2026-07-12 12:27,10005349803
+2026-07-12 14:40,A50,Stilstaand verkeer,Eindhoven - Oss,Tussen Eerde (10) en de Julian J. Ewellbrug.,,8.0,2700,51.62314,5.503173,2026-07-12 14:30,10005349898
+2026-07-12 14:40,N57,Stilstaand verkeer,Stellendam - Rotterdam,Tussen Stellendam-Havens Zuid en Rockanje.,,11.0,3400,51.860397,4.152182,2026-07-12 13:56,10005349879
