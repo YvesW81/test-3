@@ -374,3 +374,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-12 14:40,A28,Langzaam rijdend verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,,3.0,1400,52.078636,5.1592064,2026-07-12 12:27,10005349803
 2026-07-12 14:40,A50,Stilstaand verkeer,Eindhoven - Oss,Tussen Eerde (10) en de Julian J. Ewellbrug.,,8.0,2700,51.62314,5.503173,2026-07-12 14:30,10005349898
 2026-07-12 14:40,N57,Stilstaand verkeer,Stellendam - Rotterdam,Tussen Stellendam-Havens Zuid en Rockanje.,,11.0,3400,51.860397,4.152182,2026-07-12 13:56,10005349879
+2026-07-12 16:17,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,12.0,1800,52.31377,7.043839,2026-07-12 12:57,10005349834
+2026-07-12 16:17,A4,Langzaam rijdend verkeer,Amsterdam - Den Haag,Tussen Hoogmade (6) en Zoeterwoude-Rijndijk (6A).,Ongeval(len),6.0,2700,52.13687,4.505001,2026-07-12 16:07,10005349941
+2026-07-12 16:17,A6,Stilstaand verkeer,Lelystad - Muiden,Tussen knooppunt Gooimeer en Muiderberg (1).,Ongeval(len),23.0,4700,52.319923,5.12624,2026-07-12 14:59,10005349908
+2026-07-12 16:17,A6,Stilstaand verkeer op parallelrijbaan,Lelystad - Muiden,Op de parallelbaan. Tussen knooppunt Gooimeer en de Hollandse Brug.,Ongeval(len),19.0,1900,52.330532,5.148538,2026-07-12 15:28,10005349920
+2026-07-12 16:17,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,11.0,2000,51.898357,6.165913,2026-07-12 10:38,10005349746
+2026-07-12 16:17,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen Nieuwegein (28) en Hagestein (27).,Wegwerkzaamheden,8.0,2500,51.99082,5.11083,2026-07-12 11:29,10005349766
+2026-07-12 16:17,N57,Langzaam rijdend verkeer,Ellemeet - Stellendam,Tussen Port Zélande en Goedereede.,,8.0,3500,51.8156,3.983306,2026-07-12 15:53,10005349936
+2026-07-12 16:17,N59,Langzaam rijdend verkeer,Zierikzee - Oude-Tonge,Tussen Sirjansland en Steenbergen.,,5.0,3300,51.674744,4.114156,2026-07-12 16:12,10005349945
+2026-07-12 16:17,N434,Langzaam rijdend verkeer,Wassenaar - Zoeterwoude,Tussen knooppunt Ommedijk en knooppunt Hofvliet.,,3.0,2400,52.128345,4.469724,2026-07-12 16:10,10005349943
