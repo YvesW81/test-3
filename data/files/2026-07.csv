@@ -354,3 +354,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-12 12:46,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,4.0,2200,51.815773,3.981904,2026-07-12 12:27,10005349802
 2026-07-12 12:46,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,8.0,4000,51.861423,4.156718,2026-07-12 12:34,10005349808
 2026-07-12 12:46,N59,Langzaam rijdend verkeer,Knooppunt Hellegatsplein - Oude-Tonge,Tussen knooppunt Hellegatsplein en Den Bommel.,,5.0,2700,51.699833,4.293553,2026-07-12 12:38,10005349815
+2026-07-12 13:46,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,12.0,1800,52.31377,7.043839,2026-07-12 12:57,10005349834
+2026-07-12 13:46,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen Nieuw-Vennep (4) en Ringvaart-Aquaduct.,,8.0,2900,52.22389,4.634574,2026-07-12 12:49,10005349830
+2026-07-12 13:46,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,11.0,2000,51.898357,6.165913,2026-07-12 10:38,10005349746
+2026-07-12 13:46,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Rotterdam-Kralingen (26) en de Rottemerentunnel.,Extra verkeersdrukte door wegwerkzaamheden elders,9.0,3700,51.961445,4.52005,2026-07-12 13:36,10005349859
+2026-07-12 13:46,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen Nieuwegein (28) en Hagestein (27).,Wegwerkzaamheden,9.0,2600,51.99082,5.11083,2026-07-12 11:29,10005349766
+2026-07-12 13:46,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen De Bilt (30) en knooppunt Rijnsweerd.,Wegwerkzaamheden,15.0,2100,52.0843,5.162069,2026-07-12 13:04,10005349841
+2026-07-12 13:46,A27,Stilstaand verkeer,Breda - Gorinchem,Tussen Werkendam (23) en de Merwedebrug.,,6.0,2300,51.829678,4.943376,2026-07-12 13:40,10005349864
+2026-07-12 13:46,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,8.0,3700,51.861423,4.156718,2026-07-12 13:20,10005349851
