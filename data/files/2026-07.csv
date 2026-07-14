@@ -607,3 +607,13 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-14 08:22,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,16.0,2300,50.818733,6.024534,2026-07-14 06:53,10005352809
 2026-07-14 08:22,N11,Langzaam rijdend verkeer,Bodegraven - Leiden,Tussen Hazerswoude (7) en A4: Zoeterwoude-Rijndijk.,,7.0,3700,52.140472,4.506819,2026-07-14 07:48,10005353052
 2026-07-14 08:22,N57,Langzaam rijdend verkeer,Voorne-Putten - Rotterdam,Tussen Rockanje en Brielle/Zwartewaal.,,5.0,2100,51.866325,4.174615,2026-07-14 08:14,10005353210
+2026-07-14 10:34,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen knooppunt Deil en Beesd (14).,Ongeval(len),23.0,3900,51.898132,5.191532,2026-07-14 10:17,10005353556
+2026-07-14 10:34,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1600,51.898357,6.165913,2026-07-14 09:13,10005353451
+2026-07-14 10:34,A15,Stilstaand verkeer,Nijmegen - Gorinchem,Tussen knooppunt Deil en Arkel (28).,Opruimwerkzaamheden,35.0,10600,51.839664,5.063222,2026-07-14 08:42,10005353345
+2026-07-14 10:34,A15,Langzaam rijdend verkeer,Ridderkerk - Gorinchem,Tussen knooppunt Ridderkerk-Zuid en de Noordtunnel.,,6.0,2400,51.85715,4.641604,2026-07-14 10:27,10005353563
+2026-07-14 10:34,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Rotterdam-Kralingen (26) en de Rottemerentunnel.,,10.0,4000,51.961445,4.52005,2026-07-14 06:15,10005352719
+2026-07-14 10:34,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Nieuwerkerk aan den IJssel (17) en knooppunt Terbregseplein.,Wegwerkzaamheden,11.0,4700,51.95396,4.552056,2026-07-14 07:04,10005352851
+2026-07-14 10:34,A20,Langzaam rijdend verkeer,Hoek van Holland - Gouda,Tussen Prins Alexander (16) en Moordrecht (18).,,4.0,2400,51.990463,4.636194,2026-07-14 10:31,10005353569
+2026-07-14 10:34,A27,Langzaam rijdend verkeer,Breda - Utrecht,Tussen knooppunt Gorinchem en Noordeloos (25).,,7.0,3600,51.87569,4.966564,2026-07-14 09:54,10005353527
+2026-07-14 10:34,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,11.0,4700,51.80212,5.672889,2026-07-14 10:13,10005353551
+2026-07-14 10:34,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,,22.0,4300,50.818733,6.024534,2026-07-14 06:53,10005352809
