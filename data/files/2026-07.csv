@@ -617,3 +617,19 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-14 10:34,A27,Langzaam rijdend verkeer,Breda - Utrecht,Tussen knooppunt Gorinchem en Noordeloos (25).,,7.0,3600,51.87569,4.966564,2026-07-14 09:54,10005353527
 2026-07-14 10:34,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,11.0,4700,51.80212,5.672889,2026-07-14 10:13,10005353551
 2026-07-14 10:34,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,,22.0,4300,50.818733,6.024534,2026-07-14 06:53,10005352809
+2026-07-14 12:21,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,8.0,2600,52.31377,7.043839,2026-07-14 11:29,10005353622
+2026-07-14 12:21,A1,Langzaam rijdend verkeer,Amsterdam - Amersfoort,Tussen Naarden-Vesting (6) en Blaricum (8).,,6.0,2300,52.275284,5.188352,2026-07-14 11:54,10005353642
+2026-07-14 12:21,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Op de verbindingsweg van de A2 vanuit Amsterdam naar de A12 richting Arnhem.,,4.0,800,52.061695,5.0867257,2026-07-14 10:57,10005353601
+2026-07-14 12:21,A2,Langzaam rijdend verkeer,Utrecht - Amsterdam,Tussen Breukelen (5) en Abcoude (3).,,6.0,2500,52.234158,4.97784,2026-07-14 12:12,10005353652
+2026-07-14 12:21,A7,Stilstaand verkeer,Westerbroek - Bremen,Tussen Oudeschans (48) en Duitsland.,,11.0,1800,53.18038,7.227433,2026-07-14 11:58,10005353644
+2026-07-14 12:21,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,2000,51.898357,6.165913,2026-07-14 10:48,10005353581
+2026-07-14 12:21,A12,Stilstaand verkeer,Den Haag - Utrecht,Tussen Woerden (14) en Nieuwegein (16).,Ongeval met vrachtwagen,60.0,9400,52.061237,5.090952,2026-07-14 10:54,10005353586
+2026-07-14 12:21,A12,Stilstaand verkeer op parallelrijbaan,Den Haag - Utrecht,Op de parallelbaan. Tussen De Meern (15) en Nieuwegein (16).,Ongeval met vrachtwagen,11.0,2700,52.06011,5.092009,2026-07-14 11:00,10005353600
+2026-07-14 12:21,A12,Langzaam rijdend verkeer,Utrecht - Den Haag,Tussen Zoetermeer (7) en Zoetermeer-Centrum (6).,,5.0,2000,52.047516,4.486368,2026-07-14 12:16,10005353656
+2026-07-14 12:21,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Rotterdam-Kralingen (26) en de Rottemerentunnel.,,9.0,3500,51.96116,4.520613,2026-07-14 11:35,10005353629
+2026-07-14 12:21,A16,Stilstaand verkeer,Belgische grens - Breda,Op de verbindingsweg van de A16 vanuit Antwerpen naar de A58 richting Tilburg.,,7.0,600,51.526154,4.750837,2026-07-14 12:03,10005353645
+2026-07-14 12:21,A22,Stilstaand verkeer,Beverwijk - Velsen,Tussen knooppunt Beverwijk en Beverwijk (2).,Extra verkeersdrukte door wegwerkzaamheden elders,29.0,2700,52.477432,4.657016,2026-07-14 12:08,10005353649
+2026-07-14 12:21,A27,Langzaam rijdend verkeer,Utrecht - Gorinchem,Tussen Nieuwegein (28) en Hagestein (27).,,5.0,2900,51.99082,5.11083,2026-07-14 12:18,10005353659
+2026-07-14 12:21,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Oud-Beijerland (21) en de Haringvlietbrug.,Schade aan wegmeubilair,37.0,7100,51.719784,4.403164,2026-07-14 11:13,10005353613
+2026-07-14 12:21,A58,Stilstaand verkeer,Breda - Tilburg,Tussen knooppunt Galder en Ulvenhout (14).,,8.0,2000,51.528637,4.773675,2026-07-14 12:10,10005353651
+2026-07-14 12:21,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,27.0,5400,50.818733,6.024534,2026-07-14 06:53,10005352809
