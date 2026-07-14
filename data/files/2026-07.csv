@@ -633,3 +633,21 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-14 12:21,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Oud-Beijerland (21) en de Haringvlietbrug.,Schade aan wegmeubilair,37.0,7100,51.719784,4.403164,2026-07-14 11:13,10005353613
 2026-07-14 12:21,A58,Stilstaand verkeer,Breda - Tilburg,Tussen knooppunt Galder en Ulvenhout (14).,,8.0,2000,51.528637,4.773675,2026-07-14 12:10,10005353651
 2026-07-14 12:21,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,27.0,5400,50.818733,6.024534,2026-07-14 06:53,10005352809
+2026-07-14 13:52,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,6.0,2000,52.31377,7.043839,2026-07-14 12:18,10005353658
+2026-07-14 13:52,A1,Langzaam rijdend verkeer,Amsterdam - Amersfoort,Tussen Naarden-Vesting (6) en Blaricum (8).,,9.0,4600,52.273624,5.191598,2026-07-14 13:05,10005353731
+2026-07-14 13:52,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Op de verbindingsweg van de A2 vanuit Amsterdam naar de A12 richting Arnhem.,Incident op aansluitende weg,15.0,2000,52.061695,5.0867257,2026-07-14 12:30,10005353676
+2026-07-14 13:52,A2,Stilstaand verkeer,Eindhoven - Maastricht,Tussen Ulestraten (50) en Maastricht-Noord (52).,Ongeval(len),31.0,5000,50.889103,5.740544,2026-07-14 13:37,10005353778
+2026-07-14 13:52,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Deil en de Martinus Nijhoffbrug.,,6.0,2600,51.831104,5.253125,2026-07-14 13:46,10005353794
+2026-07-14 13:52,A9,Langzaam rijdend verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,,5.0,2200,52.430367,4.678548,2026-07-14 13:49,10005353799
+2026-07-14 13:52,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,11.0,1900,51.898357,6.165913,2026-07-14 12:46,10005353704
+2026-07-14 13:52,A12,Stilstaand verkeer,Den Haag - Utrecht,Tussen Harmelen (14a) en Nieuwegein (16).,Bergingswerkzaamheden,29.0,6300,52.061237,5.090952,2026-07-14 13:27,10005353764
+2026-07-14 13:52,A12,Stilstaand verkeer op parallelrijbaan,Den Haag - Utrecht,Op de parallelbaan. Tussen De Meern (15) en de Galecopperbrug.,Ongeval(len),30.0,3100,52.060436,5.097985,2026-07-14 13:39,10005353780
+2026-07-14 13:52,A15,Stilstaand verkeer,Ridderkerk - Gorinchem,Tussen Sliedrecht-West (24) en Gorinchem (27).,Bergingswerkzaamheden,30.0,6900,51.828396,4.87252,2026-07-14 13:11,10005353739
+2026-07-14 13:52,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Rotterdam-Kralingen (26) en de Rottemerentunnel.,,10.0,3400,51.961445,4.52005,2026-07-14 11:35,10005353629
+2026-07-14 13:52,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Nieuwerkerk aan den IJssel (17) en knooppunt Terbregseplein.,,6.0,2700,51.952637,4.542314,2026-07-14 12:22,10005353664
+2026-07-14 13:52,A20,Stilstaand verkeer,Hoek van Holland - Gouda,Op de verbindingsweg van de A20 vanuit Hoek van Holland naar de A16 richting Breda.,,5.0,1200,51.945976,4.5315943,2026-07-14 13:31,10005353773
+2026-07-14 13:52,A50,Stilstaand verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,Ongeval(len),63.0,7200,51.795856,5.665183,2026-07-14 13:28,10005353770
+2026-07-14 13:52,A50,Stilstaand verkeer,Eindhoven - Arnhem,Tussen knooppunt Paalgraven en knooppunt Bankhoef.,Afremmend verkeer als gevolg van kijkers naar ongeval(len),20.0,6700,51.79683,5.666586,2026-07-14 13:30,10005353772
+2026-07-14 13:52,A58,Langzaam rijdend verkeer,Breda - Tilburg,Tussen knooppunt Galder en Ulvenhout (14).,,6.0,2600,51.53277,4.786507,2026-07-14 13:45,10005353792
+2026-07-14 13:52,A73,Langzaam rijdend verkeer,Maasbracht - Nijmegen,Tussen Beesel (18) en knooppunt Tiglia.,,5.0,2600,51.322926,6.139981,2026-07-14 13:48,10005353796
+2026-07-14 13:52,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,30.0,6100,50.818733,6.024534,2026-07-14 06:53,10005352809
