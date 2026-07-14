@@ -763,3 +763,18 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-14 17:07,N11,Langzaam rijdend verkeer,Bodegraven - Leiden,Tussen Hazerswoude (7) en A4: Zoeterwoude-Rijndijk.,,9.0,4000,52.140472,4.506819,2026-07-14 15:41,10005354177
 2026-07-14 17:07,N65,Stilstaand verkeer,'s-Hertogenbosch - Oisterwijk,Tussen knooppunt Vught en A65: Vught.,,9.0,2500,51.65662,5.287062,2026-07-14 16:57,10005354665
 2026-07-14 17:07,N434,Langzaam rijdend verkeer,Wassenaar - Zoeterwoude,Tussen de Corbulotunnel en knooppunt Hofvliet.,,5.0,2400,52.125263,4.472726,2026-07-14 17:00,10005354683
+2026-07-14 18:35,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,8.0,2100,52.31377,7.043839,2026-07-14 14:13,10005353852
+2026-07-14 18:35,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen Nieuwegein-Zuid (10) en Everdingen (12).,,7.0,4200,51.96923,5.109711,2026-07-14 14:55,10005353960
+2026-07-14 18:35,A4,Langzaam rijdend verkeer,Rotterdam - Den Haag,Tussen knooppunt Benelux en de Beneluxtunnel.,,5.0,3300,51.90406,4.370762,2026-07-14 17:57,10005355019
+2026-07-14 18:35,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen knooppunt Hofvliet en Leidschendam (8).,,19.0,2500,52.092155,4.427534,2026-07-14 18:26,10005355083
+2026-07-14 18:35,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen Haarlem-Zuid en knooppunt Velsen.,,42.0,6000,52.42479,4.685531,2026-07-14 14:30,10005353894
+2026-07-14 18:35,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,11.0,1900,51.898357,6.165913,2026-07-14 12:46,10005353704
+2026-07-14 18:35,A15,Langzaam rijdend verkeer,Nijmegen - Gorinchem,Tussen Leerdam (29) en Arkel (28).,,4.0,2700,51.839684,5.049717,2026-07-14 18:32,10005355090
+2026-07-14 18:35,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Capelle a/d IJssel (25) en de Rottemerentunnel.,,18.0,5600,51.962566,4.517832,2026-07-14 11:35,10005353629
+2026-07-14 18:35,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Dordrecht-Centrum (21) en Dordrecht-Willemsdorp (19).,,13.0,3500,51.760914,4.645686,2026-07-14 18:28,10005355087
+2026-07-14 18:35,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Zonzeel en knooppunt Princeville.,Ongeval(len),21.0,3200,51.595516,4.723643,2026-07-14 18:28,10005355088
+2026-07-14 18:35,A16,Stilstaand verkeer op parallelrijbaan,Rotterdam - Breda,Op de parallelbaan. Tussen Dordrecht (20) en de Moerdijkbrug.,,12.0,1900,51.74713,4.638897,2026-07-14 18:32,10005355091
+2026-07-14 18:35,A27,Langzaam rijdend verkeer,Utrecht - Gorinchem,Tussen Nieuwegein (28) en Hagestein (27).,,5.0,2700,51.99082,5.11083,2026-07-14 14:26,10005353886
+2026-07-14 18:35,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Oud-Beijerland (21) en Numansdorp (22).,,22.0,3100,51.771408,4.421845,2026-07-14 18:07,10005355050
+2026-07-14 18:35,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,Ongeval(len),23.0,2700,51.687298,4.883118,2026-07-14 18:22,10005355077
+2026-07-14 18:35,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,34.0,5000,50.818733,6.024534,2026-07-14 06:53,10005352809
