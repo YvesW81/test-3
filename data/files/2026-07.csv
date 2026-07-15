@@ -840,3 +840,22 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-15 12:10,A22,Stilstaand verkeer,Velsen - Beverwijk,Tussen knooppunt Velsen en IJmuiden (1).,,12.0,1700,52.448296,4.660347,2026-07-15 12:03,10005355804
 2026-07-15 12:10,A27,Langzaam rijdend verkeer,Utrecht - Gorinchem,Tussen Nieuwegein (28) en Hagestein (27).,,5.0,2600,51.99082,5.11083,2026-07-15 11:57,10005355797
 2026-07-15 12:10,A50,Stilstaand verkeer,Arnhem - Oss,Tussen Renkum (19) en knooppunt Valburg.,,21.0,4900,51.91286,5.771034,2026-07-15 11:57,10005355798
+2026-07-15 13:51,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,12.0,2800,52.31377,7.043839,2026-07-15 11:12,10005355750
+2026-07-15 13:51,A1,Langzaam rijdend verkeer,Amsterdam - Amersfoort,Tussen Naarden-Vesting (6) en Blaricum (8).,,8.0,3300,52.274166,5.190502,2026-07-15 13:26,10005355933
+2026-07-15 13:51,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Oudenrijn en Everdingen (12).,,16.0,8600,51.969604,5.109328,2026-07-15 12:10,10005355809
+2026-07-15 13:51,A4,Langzaam rijdend verkeer,Den Haag - Rotterdam,Tussen Rijswijk (11) en Delft (14).,,11.0,4900,51.978996,4.332996,2026-07-15 13:35,10005355951
+2026-07-15 13:51,A4,Langzaam rijdend verkeer,Rotterdam - Den Haag,Tussen Rijswijk (11) en Den Haag-Ypenburg (9).,,4.0,2700,52.042915,4.34808,2026-07-15 13:47,10005355966
+2026-07-15 13:51,A7,Stilstaand verkeer,Westerbroek - Bremen,Tussen Oudeschans (48) en Duitsland.,Verkeerssituatie gewijzigd als gevolg van wegwerkzaamheden,12.0,2000,53.18038,7.227433,2026-07-15 13:09,10005355909
+2026-07-15 13:51,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,Wegwerkzaamheden,31.0,3800,52.43558,4.673165,2026-07-15 13:23,10005355930
+2026-07-15 13:51,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,13.0,2100,51.898357,6.165913,2026-07-15 13:13,10005355915
+2026-07-15 13:51,A15,Langzaam rijdend verkeer,Ridderkerk - Gorinchem,Tussen Sliedrecht-Oost (25) en Hardinxveld-Giessendam (26).,,4.0,2200,51.82434,4.846692,2026-07-15 13:47,10005355965
+2026-07-15 13:51,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Rotterdam-Kralingen (26) en de Rottemerentunnel.,Extra verkeersdrukte door wegwerkzaamheden elders,10.0,3300,51.96116,4.520613,2026-07-15 06:21,10005355202
+2026-07-15 13:51,A16,Stilstaand verkeer op parallelrijbaan,Rotterdam - Breda,Op de parallelbaan. Tussen Capelle a/d IJssel (25) en Rotterdam-Feijenoord (24).,,9.0,3400,51.893684,4.558517,2026-07-15 13:12,10005355913
+2026-07-15 13:51,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Nieuwerkerk aan den IJssel (17) en knooppunt Terbregseplein.,Wegwerkzaamheden,9.0,3900,51.952446,4.540873,2026-07-15 12:25,10005355836
+2026-07-15 13:51,A20,Langzaam rijdend verkeer,Hoek van Holland - Gouda,Tussen Prins Alexander (16) en Nieuwerkerk aan den IJssel (17).,,5.0,2300,51.981503,4.621714,2026-07-15 13:41,10005355955
+2026-07-15 13:51,A27,Langzaam rijdend verkeer,Utrecht - Gorinchem,Tussen knooppunt Lunetten en Hagestein (27).,Wegwerkzaamheden,13.0,5700,51.99082,5.11083,2026-07-15 11:57,10005355797
+2026-07-15 13:51,A27,Langzaam rijdend verkeer,Breda - Gorinchem,Tussen Werkendam (23) en knooppunt Gorinchem.,Wegwerkzaamheden,7.0,2900,51.84025,4.947961,2026-07-15 13:01,10005355890
+2026-07-15 13:51,A28,Langzaam rijdend verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,,7.0,1800,52.078636,5.1592064,2026-07-15 12:33,10005355848
+2026-07-15 13:51,A28,Langzaam rijdend verkeer,Amersfoort - Utrecht,Tussen Den Dolder (3) en Utrecht-Centrum.,Ongeval op aansluitende weg,5.0,3400,52.089073,5.149194,2026-07-15 12:42,10005355860
+2026-07-15 13:51,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,7.0,4500,51.79903,5.669092,2026-07-15 13:27,10005355936
+2026-07-15 13:51,A73,Stilstaand verkeer,Maasbracht - Nijmegen,Tussen Beesel (18) en Belfeld (17).,,6.0,2100,51.310295,6.128747,2026-07-15 13:47,10005355967
