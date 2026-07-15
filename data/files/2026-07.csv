@@ -829,3 +829,14 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-15 09:59,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,13.0,6700,51.80353,5.674493,2026-07-15 09:41,10005355625
 2026-07-15 09:59,N11,Langzaam rijdend verkeer,Bodegraven - Leiden,Tussen Hazerswoude (7) en Zoeterwoude-Weipoort/Rijndijk.,,5.0,2100,52.134277,4.527101,2026-07-15 09:56,10005355651
 2026-07-15 09:59,N59,Langzaam rijdend verkeer,Bruinisse - Zierikzee,Tussen Bruinisse en Ouwerkerk.,,6.0,3500,51.643963,3.983787,2026-07-15 09:57,10005355653
+2026-07-15 12:10,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,,14.0,3000,52.31377,7.043839,2026-07-15 11:12,10005355750
+2026-07-15 12:10,A1,Langzaam rijdend verkeer,Amsterdam - Amersfoort,Tussen Naarden-Vesting (6) en Blaricum (8).,,6.0,2800,52.273083,5.192691,2026-07-15 11:48,10005355787
+2026-07-15 12:10,A7,Stilstaand verkeer,Westerbroek - Bremen,Tussen Oudeschans (48) en Duitsland.,,22.0,3000,53.18038,7.227433,2026-07-15 10:53,10005355728
+2026-07-15 12:10,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,18.0,3900,51.898357,6.165913,2026-07-15 11:16,10005355756
+2026-07-15 12:10,A12,Langzaam rijdend verkeer,Den Haag - Utrecht,Tussen Reeuwijk (12) en Woerden (14).,Schade aan wegmeubilair,8.0,3900,52.069393,4.850213,2026-07-15 11:56,10005355794
+2026-07-15 12:10,A15,Langzaam rijdend verkeer,Nijmegen - Gorinchem,Tussen knooppunt Deil en Arkel (28).,,6.0,3700,51.83967,5.058962,2026-07-15 12:06,10005355806
+2026-07-15 12:10,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Rotterdam-Kralingen (26) en de Rottemerentunnel.,Extra verkeersdrukte door wegwerkzaamheden elders,9.0,3300,51.96116,4.520613,2026-07-15 06:21,10005355202
+2026-07-15 12:10,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen Nieuwerkerk aan den IJssel (17) en knooppunt Terbregseplein.,Wegwerkzaamheden,9.0,3200,51.954056,4.552748,2026-07-15 10:11,10005355674
+2026-07-15 12:10,A22,Stilstaand verkeer,Velsen - Beverwijk,Tussen knooppunt Velsen en IJmuiden (1).,,12.0,1700,52.448296,4.660347,2026-07-15 12:03,10005355804
+2026-07-15 12:10,A27,Langzaam rijdend verkeer,Utrecht - Gorinchem,Tussen Nieuwegein (28) en Hagestein (27).,,5.0,2600,51.99082,5.11083,2026-07-15 11:57,10005355797
+2026-07-15 12:10,A50,Stilstaand verkeer,Arnhem - Oss,Tussen Renkum (19) en knooppunt Valburg.,,21.0,4900,51.91286,5.771034,2026-07-15 11:57,10005355798
