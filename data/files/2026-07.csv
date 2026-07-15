@@ -951,3 +951,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-15 17:07,N57,Stilstaand verkeer,Rotterdam - Voorne-Putten,Tussen A15: Brielle en Hellevoetsluis/Oudenhoorn.,,11.0,3400,51.87676,4.189825,2026-07-15 16:35,10005356605
 2026-07-15 17:07,N57,Langzaam rijdend verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,5.0,2500,51.544376,3.6051,2026-07-15 16:57,10005356715
 2026-07-15 17:07,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,4.0,2200,51.815773,3.981904,2026-07-15 17:01,10005356731
+2026-07-15 18:43,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,10.0,2300,52.31377,7.043839,2026-07-15 18:17,10005356996
+2026-07-15 18:43,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Deil en Waardenburg (16).,,3.0,2000,51.842945,5.24184,2026-07-15 18:39,10005357013
+2026-07-15 18:43,A13,Stilstaand verkeer,Rijswijk - Rotterdam,Tussen knooppunt Zestienhoven en knooppunt Kleinpolderplein.,,8.0,2200,51.93832,4.430134,2026-07-15 18:06,10005356977
+2026-07-15 18:43,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen knooppunt Vaanplein en Rotterdam-Charlois (19).,Defecte vrachtwagen,8.0,3100,51.872078,4.422191,2026-07-15 16:47,10005356662
+2026-07-15 18:43,A15,Langzaam rijdend verkeer op parallelrijbaan,Ridderkerk - Europoort,Op de parallelbaan. Tussen knooppunt Vaanplein en Rotterdam-Charlois (19).,,4.0,2000,51.86739,4.444575,2026-07-15 16:53,10005356688
+2026-07-15 18:43,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Rotterdam-Feijenoord (24) en de Rottemerentunnel.,Extra verkeersdrukte door wegwerkzaamheden elders,21.0,6000,51.96116,4.520613,2026-07-15 06:21,10005355202
+2026-07-15 18:43,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Berkel en Rodenrijs (29) en de Rottemerentunnel.,,10.0,2300,51.971844,4.497047,2026-07-15 18:28,10005357007
+2026-07-15 18:43,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen Nieuwerkerk aan den IJssel (17) en knooppunt Terbregseplein.,,8.0,2400,51.952446,4.540873,2026-07-15 12:25,10005355836
