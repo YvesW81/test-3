@@ -960,3 +960,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-15 18:43,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Berkel en Rodenrijs (29) en de Rottemerentunnel.,,10.0,2300,51.971844,4.497047,2026-07-15 18:28,10005357007
 2026-07-15 18:43,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen Nieuwerkerk aan den IJssel (17) en knooppunt Terbregseplein.,,8.0,2400,51.952446,4.540873,2026-07-15 12:25,10005355836
 2026-07-15 21:12,A28,Langzaam rijdend verkeer,Amersfoort - Utrecht,Tussen Den Dolder (3) en Utrecht-Centrum.,Wegwerkzaamheden,7.0,3600,52.089073,5.149194,2026-07-15 21:07,10005357047
+2026-07-16 06:20,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen Leidschendam (8) en Zoeterwoude-Dorp (7).,,10.0,5200,52.125313,4.482132,2026-07-16 06:04,10005357095
+2026-07-16 06:20,A12,Stilstaand verkeer,Arnhem - Utrecht,Tussen knooppunt Waterberg en knooppunt Grijsoord.,Eerder incident op aansluitende weg,17.0,3500,52.02833,5.859887,2026-07-16 05:56,10005357092
+2026-07-16 06:20,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Rotterdam-Kralingen (26) en de Rottemerentunnel.,Extra verkeersdrukte door wegwerkzaamheden elders,9.0,3500,51.95751,4.525921,2026-07-16 06:10,10005357098
+2026-07-16 06:20,A20,Stilstaand verkeer,Hoek van Holland - Gouda,Tussen Prins Alexander (16) en Moordrecht (18).,,12.0,4500,51.985443,4.628198,2026-07-16 06:08,10005357097
+2026-07-16 06:20,A27,Stilstaand verkeer,Breda - Gorinchem,Tussen Nieuwendijk (22) en Industriegebied Avelingen (24).,Wegwerkzaamheden,12.0,4200,51.830486,4.943668,2026-07-16 05:54,10005357091
