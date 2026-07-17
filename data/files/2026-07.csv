@@ -1399,3 +1399,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-17 17:10,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,8.0,3000,51.544376,3.6051,2026-07-17 16:34,10005361002
 2026-07-17 17:10,N57,Stilstaand verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,9.0,2100,51.702415,3.792988,2026-07-17 16:54,10005361114
 2026-07-17 17:10,N57,Stilstaand verkeer,Westenschouwen - Ellemeet,Tussen Burgh-Haamstede en Zierikzee.,,7.0,2300,51.70018,3.808698,2026-07-17 17:07,10005361163
+2026-07-17 18:35,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,10.0,2400,52.31377,7.043839,2026-07-17 09:37,10005359183
+2026-07-17 18:35,A2,Langzaam rijdend verkeer,Eindhoven - Maastricht,Tussen Grathem (41) en Wessem (42).,,6.0,3100,51.16715,5.87788,2026-07-17 18:31,10005361293
+2026-07-17 18:35,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en de Drechttunnel.,Schade aan tunnel,20.0,4700,51.803577,4.65031,2026-07-17 16:52,10005361101
+2026-07-17 18:35,A29,Langzaam rijdend verkeer,Sabina - Rotterdam,Tussen Willemstad (23) en de Haringvlietbrug.,,7.0,3800,51.709366,4.396812,2026-07-17 18:20,10005361291
+2026-07-17 18:35,A73,Stilstaand verkeer,Nijmegen - Maasbracht,Tussen Maasbree (14) en knooppunt Tiglia.,Wegwerkzaamheden,6.0,2400,51.348186,6.156928,2026-07-17 09:35,10005359179
