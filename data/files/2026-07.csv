@@ -1133,3 +1133,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-16 20:44,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen Numansdorp (22) en Oud-Beijerland (21).,Bergingswerkzaamheden,17.0,2600,51.79621,4.446109,2026-07-16 20:18,10005359065
 2026-07-16 21:47,A28,Stilstaand verkeer,Amersfoort - Utrecht,Tussen Den Dolder (3) en Utrecht-Centrum.,Wegwerkzaamheden,15.0,3900,52.089073,5.149194,2026-07-16 21:09,10005359075
 2026-07-16 22:37,A28,Stilstaand verkeer,Amersfoort - Utrecht,Tussen Den Dolder (3) en Utrecht-Centrum.,Wegwerkzaamheden,10.0,3100,52.089073,5.149194,2026-07-16 21:09,10005359075
+2026-07-17 06:27,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen knooppunt Hofvliet en Zoeterwoude-Rijndijk (6A).,,4.0,2700,52.133423,4.499079,2026-07-17 06:24,10005359117
+2026-07-17 06:27,A59,Stilstaand verkeer,Oss - 's-Hertogenbosch,Tussen Oss (52) en Rosmalen-Oost (49).,Ongeval(len),17.0,4100,51.71015,5.386559,2026-07-17 06:07,10005359112
