@@ -1504,3 +1504,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-18 15:04,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,4.0,2300,51.815773,3.981904,2026-07-18 14:18,10005361868
 2026-07-18 15:04,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,10.0,5200,51.861423,4.156718,2026-07-18 14:42,10005361905
 2026-07-18 15:04,N59,Stilstaand verkeer,Oude-Tonge - Zierikzee,Tussen Steenbergen en Bruinisse.,,9.0,3100,51.65964,4.077341,2026-07-18 14:55,10005361926
+2026-07-18 16:22,A7,Stilstaand verkeer,Westerbroek - Bremen,Tussen Oudeschans (48) en Duitsland.,Door grenscontrole,15.0,2300,53.18038,7.227433,2026-07-18 10:17,10005361413
+2026-07-18 16:22,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,,8.0,2400,52.429626,4.679322,2026-07-18 12:45,10005361674
+2026-07-18 16:22,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,5.0,2400,51.997955,4.647881,2026-07-18 16:12,10005361995
+2026-07-18 16:22,A28,Stilstaand verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,,10.0,1100,52.078636,5.1592064,2026-07-18 16:13,10005361999
