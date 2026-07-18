@@ -1417,3 +1417,24 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-18 10:05,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,10.0,2000,51.898357,6.165913,2026-07-18 08:07,10005361369
 2026-07-18 10:05,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Cortlandt-Aquaduct.,Defecte vrachtwagen,11.0,5700,51.974854,4.607856,2026-07-18 09:54,10005361398
 2026-07-18 10:05,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,7.0,2100,50.818733,6.024534,2026-07-18 09:08,10005361381
+2026-07-18 11:42,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,16.0,2900,52.31377,7.043839,2026-07-18 08:58,10005361377
+2026-07-18 11:42,A2,Stilstaand verkeer,Eindhoven - Maastricht,Tussen knooppunt Batadorp en knooppunt De Hogt.,,11.0,3000,51.45538,5.414207,2026-07-18 11:36,10005361534
+2026-07-18 11:42,A4,Langzaam rijdend verkeer,Amsterdam - Den Haag,Tussen Nieuw-Vennep (4) en Ringvaart-Aquaduct.,,6.0,2600,52.228146,4.640802,2026-07-18 11:33,10005361525
+2026-07-18 11:42,A7,Stilstaand verkeer,Westerbroek - Bremen,Tussen Oudeschans (48) en Duitsland.,Door grenscontrole,27.0,4000,53.18038,7.227433,2026-07-18 10:17,10005361413
+2026-07-18 11:42,A7,Stilstaand verkeer,Hoorn - Knooppunt Zurich,Tussen Wieringerwerf (13) en de brug over Stevinsluizen.,,10.0,2300,52.936493,5.046382,2026-07-18 10:20,10005361416
+2026-07-18 11:42,A7,Stilstaand verkeer,Ring-Sneek-West - Den Oever,Tussen Zurich (15) en de brug over de Lorentzsluis.,,6.0,2200,53.073597,5.331465,2026-07-18 11:26,10005361512
+2026-07-18 11:42,A7,Stilstaand verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,10.0,3300,53.073807,5.335642,2026-07-18 11:27,10005361515
+2026-07-18 11:42,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,10.0,2000,51.898357,6.165913,2026-07-18 08:07,10005361369
+2026-07-18 11:42,A12,Stilstaand verkeer,Arnhem - Duitse grens,Tussen Zevenaar (29) en knooppunt Oud-Dijk.,,7.0,2700,51.92401,6.120095,2026-07-18 10:50,10005361456
+2026-07-18 11:42,A12,Stilstaand verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Duiven (28).,,21.0,7900,51.94749,6.068364,2026-07-18 11:04,10005361476
+2026-07-18 11:42,A12,Langzaam rijdend verkeer,Arnhem - Duitse grens,Tussen knooppunt Velperbroek en Duiven (28).,,6.0,3700,51.959255,6.028914,2026-07-18 11:15,10005361495
+2026-07-18 11:42,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Hendrik-Ido-Ambacht (23) en de Drechttunnel.,,9.0,2600,51.812115,4.640726,2026-07-18 11:39,10005361544
+2026-07-18 11:42,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen Nieuwegein (28) en Hagestein (27).,Wegwerkzaamheden,10.0,2900,51.99082,5.11083,2026-07-18 11:14,10005361493
+2026-07-18 11:42,A28,Langzaam rijdend verkeer,Utrecht - Zwolle,Tussen Amersfoort (8) en Amersfoort-Vathorst (8a).,,4.0,2200,52.185642,5.438263,2026-07-18 11:36,10005361532
+2026-07-18 11:42,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen knooppunt Hellegatsplein en de Volkerakbrug.,,8.0,2100,51.68973,4.406186,2026-07-18 11:40,10005361546
+2026-07-18 11:42,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Valburg en de Maasbrug.,,19.0,10200,51.80075,5.671202,2026-07-18 11:16,10005361497
+2026-07-18 11:42,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen Heteren (18) en knooppunt Valburg.,,5.0,2500,51.90396,5.762193,2026-07-18 11:34,10005361528
+2026-07-18 11:42,A73,Langzaam rijdend verkeer,Nijmegen - Maasbracht,Tussen knooppunt Ewijk en Nijmegen.,,5.0,2900,51.846447,5.764286,2026-07-18 11:34,10005361529
+2026-07-18 11:42,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,7.0,2100,50.818733,6.024534,2026-07-18 09:08,10005361381
+2026-07-18 11:42,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,5.0,2300,51.815773,3.981904,2026-07-18 11:17,10005361498
+2026-07-18 11:42,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,10.0,5500,51.861423,4.156718,2026-07-18 11:36,10005361536
