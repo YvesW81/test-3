@@ -1508,3 +1508,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-18 16:22,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,,8.0,2400,52.429626,4.679322,2026-07-18 12:45,10005361674
 2026-07-18 16:22,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,5.0,2400,51.997955,4.647881,2026-07-18 16:12,10005361995
 2026-07-18 16:22,A28,Stilstaand verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,,10.0,1100,52.078636,5.1592064,2026-07-18 16:13,10005361999
+2026-07-18 17:28,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen Leidschendam (8) en knooppunt Hofvliet.,,4.0,2100,52.119797,4.472913,2026-07-18 17:21,10005362014
+2026-07-18 17:28,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen knooppunt Hellegatsplein en de Haringvlietbrug.,Defect voertuig,14.0,2100,51.717537,4.401902,2026-07-18 17:20,10005362013
+2026-07-18 17:28,A50,Stilstaand verkeer,Eindhoven - Arnhem,Tussen Oss-Oost (16) en Ravenstein (17).,Ongeval(len),35.0,3600,51.75832,5.626054,2026-07-18 16:35,10005362004
