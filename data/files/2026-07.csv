@@ -1412,3 +1412,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-17 20:42,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Ridderkerk-Noord en de Van Brienenoordbrug.,,8.0,2600,51.901478,4.544741,2026-07-17 20:29,10005361326
 2026-07-17 21:50,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Beek (30) en Duitsland.,Door grenscontrole,12.0,1400,51.898357,6.165913,2026-07-17 20:45,10005361331
 2026-07-17 23:37,A10,Stilstaand verkeer,Knooppunt Amstel - Knooppunt De Nieuwe Meer,Tussen knooppunt Amstel en Amsterdam-Rivierenbuurt (9).,,7.0,2200,52.336975,4.891728,2026-07-17 23:30,10005361355
+2026-07-18 10:05,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,16.0,2800,52.31377,7.043839,2026-07-18 08:58,10005361377
+2026-07-18 10:05,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen Nieuwegein (9) en knooppunt Everdingen.,Extra verkeersdrukte door wegwerkzaamheden elders,6.0,4200,51.9856,5.087047,2026-07-18 09:47,10005361393
+2026-07-18 10:05,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,10.0,2000,51.898357,6.165913,2026-07-18 08:07,10005361369
+2026-07-18 10:05,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Cortlandt-Aquaduct.,Defecte vrachtwagen,11.0,5700,51.974854,4.607856,2026-07-18 09:54,10005361398
+2026-07-18 10:05,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,7.0,2100,50.818733,6.024534,2026-07-18 09:08,10005361381
