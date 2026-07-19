@@ -1513,3 +1513,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-18 17:28,A50,Stilstaand verkeer,Eindhoven - Arnhem,Tussen Oss-Oost (16) en Ravenstein (17).,Ongeval(len),35.0,3600,51.75832,5.626054,2026-07-18 16:35,10005362004
 2026-07-18 18:28,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht (20) en de Drechttunnel.,Defect voertuig,10.0,3900,51.803577,4.65031,2026-07-18 17:35,10005362022
 2026-07-19 09:03,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,12.0,1800,52.31377,7.043839,2026-07-19 08:57,10005362068
+2026-07-19 11:13,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,12.0,2000,52.31377,7.043839,2026-07-19 10:00,10005362078
+2026-07-19 11:13,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,13.0,1600,51.898357,6.165913,2026-07-19 09:53,10005362077
+2026-07-19 11:13,A58,Stilstaand verkeer,Tilburg - Breda,Tussen Ulvenhout (14) en knooppunt Galder.,Bermbrand,22.0,3400,51.526443,4.748713,2026-07-19 10:50,10005362090
