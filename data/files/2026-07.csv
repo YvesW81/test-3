@@ -1585,3 +1585,35 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-20 12:33,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,16.0,3100,50.818733,6.024534,2026-07-20 10:19,10005362444
 2026-07-20 12:33,A325,Stilstaand verkeer,Knooppunt Velperbroek - Nijmegen,Tussen Westervoort en Arnhem-Centrum.,,7.0,2500,51.962772,5.897216,2026-07-20 12:21,10005362631
 2026-07-20 12:33,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2200,51.702415,3.792988,2026-07-20 12:30,10005362648
+2026-07-20 14:36,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2400,52.31377,7.043839,2026-07-20 10:13,10005362434
+2026-07-20 14:36,A1,Stilstaand verkeer,Amsterdam - Amersfoort,Tussen Naarden-Vesting (6) en Blaricum (8).,,8.0,3000,52.272804,5.193229,2026-07-20 13:45,10005362848
+2026-07-20 14:36,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen Everdingen (12) en de Martinus Nijhoffbrug.,,34.0,13700,51.82852,5.255448,2026-07-20 13:31,10005362806
+2026-07-20 14:36,A2,Stilstaand verkeer,Eindhoven - Maastricht,Tussen Nederweert (39) en Kelpen-Oler (40).,,13.0,2200,51.249275,5.778918,2026-07-20 14:12,10005362927
+2026-07-20 14:36,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Maastricht,Tussen knooppunt Ekkersweijer en knooppunt De Hogt.,,5.0,2600,51.463036,5.406754,2026-07-20 14:22,10005362953
+2026-07-20 14:36,A2,Langzaam rijdend verkeer,Eindhoven - Maastricht,Tussen Kelpen-Oler (40) en de Brug Wessem.,,14.0,6700,51.16073,5.88961,2026-07-20 14:25,10005362966
+2026-07-20 14:36,A5,Stilstaand verkeer,Amsterdam - Hoofddorp,Tussen knooppunt Raasdorp en knooppunt De Hoek.,,7.0,2600,52.312534,4.732393,2026-07-20 14:30,10005362983
+2026-07-20 14:36,A7,Stilstaand verkeer,Westerbroek - Bremen,Tussen Oudeschans (48) en Duitsland.,Door grenscontrole,10.0,2000,53.18038,7.227433,2026-07-20 10:46,10005362471
+2026-07-20 14:36,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,,31.0,3800,52.4264,4.683087,2026-07-20 14:11,10005362923
+2026-07-20 14:36,A12,Langzaam rijdend verkeer,Arnhem - Duitse grens,Tussen Zevenaar (29) en knooppunt Oud-Dijk.,Door grenscontrole,4.0,2300,51.92673,6.114486,2026-07-20 09:34,10005362406
+2026-07-20 14:36,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Duiven (28).,,19.0,8500,51.9505,6.058844,2026-07-20 10:29,10005362451
+2026-07-20 14:36,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,,18.0,2400,51.898357,6.165913,2026-07-20 14:32,10005362991
+2026-07-20 14:36,A15,Stilstaand verkeer,Gorinchem - Nijmegen,Op de verbindingsweg van de A15 vanuit Gorinchem naar de A2 richting 's-Hertogenbosch.,,8.0,900,51.851105,5.2332377,2026-07-20 13:59,10005362886
+2026-07-20 14:36,A15,Langzaam rijdend verkeer,Nijmegen - Gorinchem,Tussen Wadenoijen (31) en knooppunt Deil.,,6.0,4200,51.858597,5.260212,2026-07-20 14:20,10005362949
+2026-07-20 14:36,A15,Langzaam rijdend verkeer,Nijmegen - Gorinchem,Tussen knooppunt Deil en Leerdam (29).,,5.0,2200,51.847347,5.141708,2026-07-20 14:32,10005362992
+2026-07-20 14:36,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Ridderkerk-Zuid en Hendrik-Ido-Ambacht (23).,,8.0,2700,51.838028,4.615708,2026-07-20 14:07,10005362905
+2026-07-20 14:36,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht-Centrum (21).,,23.0,2400,51.785023,4.65045,2026-07-20 14:15,10005362931
+2026-07-20 14:36,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Klaverpolder en Dordrecht (20).,,16.0,3100,51.75307,4.642739,2026-07-20 14:31,10005362987
+2026-07-20 14:36,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen Hendrik-Ido-Ambacht (23) en de Drechttunnel.,,4.0,2800,51.808937,4.64836,2026-07-20 14:31,10005362988
+2026-07-20 14:36,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,7.0,3300,51.995132,4.643389,2026-07-20 13:45,10005362849
+2026-07-20 14:36,A27,Langzaam rijdend verkeer,Utrecht - Gorinchem,Tussen Nieuwegein (28) en Hagestein (27).,,4.0,2400,51.99082,5.11083,2026-07-20 14:31,10005362989
+2026-07-20 14:36,A28,Stilstaand verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,,7.0,900,52.078636,5.1592064,2026-07-20 14:27,10005362978
+2026-07-20 14:36,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen knooppunt Hellegatsplein en de Volkerakbrug.,,9.0,2100,51.690063,4.405723,2026-07-20 14:32,10005362993
+2026-07-20 14:36,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen knooppunt Sabina en de Volkerakbrug.,,9.0,2000,51.688187,4.408544,2026-07-20 14:33,10005362995
+2026-07-20 14:36,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Valburg en de Maasbrug.,Eerder ongeval,29.0,12200,51.800404,5.670778,2026-07-20 11:35,10005362536
+2026-07-20 14:36,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,,17.0,4500,52.141838,5.993141,2026-07-20 14:17,10005362940
+2026-07-20 14:36,A58,Langzaam rijdend verkeer,Tilburg - Breda,Tussen Tilburg-Reeshof (12) en Bavel (13).,,7.0,4500,51.558437,4.869291,2026-07-20 14:25,10005362967
+2026-07-20 14:36,A58,Langzaam rijdend verkeer,Breda - Tilburg,Tussen knooppunt Galder en Ulvenhout (14).,,4.0,2100,51.529022,4.774977,2026-07-20 14:32,10005362994
+2026-07-20 14:36,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Made (32) en knooppunt Hooipolder.,,27.0,6200,51.687286,4.88514,2026-07-20 14:15,10005362933
+2026-07-20 14:36,A73,Langzaam rijdend verkeer,Maasbracht - Nijmegen,Tussen Malden (3) en Nijmegen-Dukenburg (2).,,4.0,2300,51.784878,5.82511,2026-07-20 14:31,10005362990
+2026-07-20 14:36,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,18.0,4500,50.818733,6.024534,2026-07-20 10:19,10005362444
+2026-07-20 14:36,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,7.0,4500,51.861423,4.156718,2026-07-20 14:30,10005362985
