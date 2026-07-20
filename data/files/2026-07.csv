@@ -1552,3 +1552,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-20 06:47,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,5.0,2200,51.997955,4.647881,2026-07-20 06:41,10005362283
 2026-07-20 06:47,A50,Stilstaand verkeer,Eindhoven - Arnhem,Tussen knooppunt Paalgraven en Ravenstein (17).,,14.0,3100,51.785923,5.648854,2026-07-20 06:33,10005362279
 2026-07-20 06:47,N11,Langzaam rijdend verkeer,Bodegraven - Leiden,Tussen Hazerswoude (7) en A4: Zoeterwoude-Rijndijk.,,3.0,2100,52.140472,4.506819,2026-07-20 06:43,10005362286
+2026-07-20 09:47,A12,Stilstaand verkeer,Utrecht - Den Haag,Tussen Kanaleneiland (17) en Harmelen (14a).,Bergingswerkzaamheden,16.0,6200,52.076153,5.012003,2026-07-20 07:42,10005362322
+2026-07-20 09:47,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1900,51.898357,6.165913,2026-07-20 08:30,10005362364
+2026-07-20 09:47,A15,Stilstaand verkeer,Europoort - Ridderkerk,Tussen Rotterdam-Charlois (19) en Rotterdam-Zuidplein (19a).,Er ligt rommel op de weg,30.0,4900,51.86447,4.494517,2026-07-20 08:47,10005362376
+2026-07-20 09:47,A16,Langzaam rijdend verkeer op parallelrijbaan,Breda - Rotterdam,Op de parallelbaan. Tussen knooppunt Ridderkerk-Noord en Capelle a/d IJssel (25).,,6.0,2700,51.90828,4.540079,2026-07-20 09:41,10005362410
+2026-07-20 09:47,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Valburg en knooppunt Bankhoef.,,8.0,3100,51.842827,5.69446,2026-07-20 09:25,10005362399
+2026-07-20 09:47,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,6.0,3300,51.801437,5.672049,2026-07-20 09:41,10005362412
