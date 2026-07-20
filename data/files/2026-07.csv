@@ -1547,3 +1547,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-19 21:34,A2,Stilstaand verkeer,Maastricht - Eindhoven,Tussen Urmond (48) en Born (47).,Wegwerkzaamheden,23.0,3300,51.03738,5.824861,2026-07-19 21:07,10005362259
 2026-07-19 21:34,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Beek (30) en Duitsland.,Door grenscontrole,11.0,1300,51.898357,6.165913,2026-07-19 18:10,10005362245
 2026-07-19 22:26,A2,Stilstaand verkeer,Maastricht - Eindhoven,Tussen Urmond (48) en Born (47).,Wegwerkzaamheden,10.0,2500,51.03738,5.824861,2026-07-19 21:07,10005362259
+2026-07-20 06:47,A12,Stilstaand verkeer,Arnhem - Utrecht,Op de verbindingsweg van de A12 vanuit Arnhem naar de A50 richting Nijmegen.,Incident op aansluitende weg,8.0,800,52.025124,5.818703,2026-07-20 06:40,10005362282
+2026-07-20 06:47,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen knooppunt Rozenburg en Havens 5500-5700 (11).,,9.0,3900,51.90986,4.198417,2026-07-20 06:24,10005362275
+2026-07-20 06:47,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,5.0,2200,51.997955,4.647881,2026-07-20 06:41,10005362283
+2026-07-20 06:47,A50,Stilstaand verkeer,Eindhoven - Arnhem,Tussen knooppunt Paalgraven en Ravenstein (17).,,14.0,3100,51.785923,5.648854,2026-07-20 06:33,10005362279
+2026-07-20 06:47,N11,Langzaam rijdend verkeer,Bodegraven - Leiden,Tussen Hazerswoude (7) en A4: Zoeterwoude-Rijndijk.,,3.0,2100,52.140472,4.506819,2026-07-20 06:43,10005362286
