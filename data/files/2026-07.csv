@@ -1736,3 +1736,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-21 17:00,N57,Langzaam rijdend verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,7.0,3000,51.544376,3.6051,2026-07-21 16:41,10005364347
 2026-07-21 17:00,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,4.0,2300,51.815773,3.981904,2026-07-21 16:42,10005364352
 2026-07-21 17:00,N434,Langzaam rijdend verkeer,Wassenaar - Zoeterwoude,Tussen de Corbulotunnel en knooppunt Hofvliet.,,6.0,2700,52.125263,4.472726,2026-07-21 16:25,10005364300
+2026-07-21 18:38,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2100,52.31377,7.043839,2026-07-21 14:19,10005364055
+2026-07-21 18:38,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen Beesd (14) en de Martinus Nijhoffbrug.,Eerder ongeval,16.0,7800,51.8274,5.256419,2026-07-21 17:22,10005364490
+2026-07-21 18:38,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Ridderkerk-Noord en de Drechttunnel.,Extra verkeersdrukte door wegwerkzaamheden elders,22.0,8600,51.807003,4.649768,2026-07-21 13:34,10005364024
+2026-07-21 18:38,A20,Stilstaand verkeer,Hoek van Holland - Gouda,Tussen Moordrecht (18) en knooppunt Gouwe.,Ongeval op aansluitende weg,8.0,2600,52.024246,4.66273,2026-07-21 18:04,10005364609
+2026-07-21 18:38,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Oud-Beijerland (21) en Numansdorp (22).,,20.0,4100,51.773594,4.421485,2026-07-21 18:09,10005364615
+2026-07-21 18:38,A67,Stilstaand verkeer,Eindhoven - Belgische grens,Tussen knooppunt De Hogt en Valkenswaard (31).,Eerder pechgeval,15.0,2567,51.400406,5.409652,2026-07-21 18:09,10005364617
