@@ -1663,3 +1663,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-20 18:21,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen Hendrik-Ido-Ambacht (23) en de Drechttunnel.,,6.0,3400,51.8082,4.649031,2026-07-20 14:40,10005363013
 2026-07-20 18:21,A27,Stilstaand verkeer,Utrecht - Almere,Tussen Hilversum (33) en Eemnes (34).,Wegwerkzaamheden op aansluitende weg,6.0,2300,52.238834,5.245069,2026-07-20 15:53,10005363210
 2026-07-20 18:21,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Numansdorp (22) en de Haringvlietbrug.,,8.0,2600,51.727608,4.408027,2026-07-20 18:09,10005363692
+2026-07-21 09:06,A12,Stilstaand verkeer,Arnhem - Utrecht,Tussen Maarsbergen (22) en Houten-Oost (18a).,Ongeval(len),57.0,6600,52.06099,5.201251,2026-07-21 08:23,10005363842
+2026-07-21 09:06,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Ridderkerk-Noord en Rotterdam-Feijenoord (24).,Eerder ongeval,18.0,4600,51.895996,4.554091,2026-07-21 08:23,10005363843
+2026-07-21 09:06,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen knooppunt Ridderkerk-Zuid en de Drechttunnel.,Extra verkeersdrukte door wegwerkzaamheden elders,8.0,4700,51.808937,4.64836,2026-07-21 08:23,10005363844
