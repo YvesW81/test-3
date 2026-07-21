@@ -1666,3 +1666,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-21 09:06,A12,Stilstaand verkeer,Arnhem - Utrecht,Tussen Maarsbergen (22) en Houten-Oost (18a).,Ongeval(len),57.0,6600,52.06099,5.201251,2026-07-21 08:23,10005363842
 2026-07-21 09:06,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Ridderkerk-Noord en Rotterdam-Feijenoord (24).,Eerder ongeval,18.0,4600,51.895996,4.554091,2026-07-21 08:23,10005363843
 2026-07-21 09:06,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen knooppunt Ridderkerk-Zuid en de Drechttunnel.,Extra verkeersdrukte door wegwerkzaamheden elders,8.0,4700,51.808937,4.64836,2026-07-21 08:23,10005363844
+2026-07-21 11:35,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,8.0,2000,52.31377,7.043839,2026-07-21 10:45,10005363916
+2026-07-21 11:35,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,16.0,2300,51.898357,6.165913,2026-07-21 09:21,10005363879
+2026-07-21 11:35,A15,Stilstaand verkeer,Ridderkerk - Europoort,Op de verbindingsweg van de A15 vanuit Ridderkerk naar de A4 richting Vlaardingen.,Ongeval(len),4.0,800,51.876118,4.387863,2026-07-21 11:18,10005363939
+2026-07-21 11:35,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Terbregseplein en de Rottemerentunnel.,,6.0,2200,51.96116,4.520613,2026-07-21 11:33,10005363946
+2026-07-21 11:35,A22,Langzaam rijdend verkeer,Velsen - Beverwijk,Tussen knooppunt Velsen en IJmuiden (1).,,5.0,2300,52.454292,4.657436,2026-07-21 11:31,10005363945
+2026-07-21 11:35,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1900,50.818733,6.024534,2026-07-21 10:09,10005363902
+2026-07-21 11:35,N59,Langzaam rijdend verkeer,Bruinisse - Serooskerke,Tussen Ouwerkerk en Scharendijke.,,5.0,2000,51.680256,3.861326,2026-07-21 11:28,10005363942
