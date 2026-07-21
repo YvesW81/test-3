@@ -1678,3 +1678,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-21 13:26,A12,Stilstaand verkeer,Den Haag - Utrecht,Tussen Bleiswijk (8) en Zevenhuizen (9).,,14.0,3000,52.024265,4.587703,2026-07-21 13:16,10005364004
 2026-07-21 13:26,A58,Langzaam rijdend verkeer,Tilburg - Breda,Tussen Tilburg-Reeshof (12) en Bavel (13).,,5.0,2800,51.55879,4.872712,2026-07-21 13:23,10005364012
 2026-07-21 13:26,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,7.0,2300,50.818733,6.024534,2026-07-21 10:09,10005363902
+2026-07-21 14:53,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2100,52.31377,7.043839,2026-07-21 14:19,10005364055
+2026-07-21 14:53,A5,Stilstaand verkeer,Amsterdam - Hoofddorp,Tussen knooppunt Raasdorp en knooppunt De Hoek.,Defecte vrachtwagen,16.0,4200,52.307163,4.731901,2026-07-21 14:34,10005364068
+2026-07-21 14:53,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1700,51.898357,6.165913,2026-07-21 14:01,10005364040
+2026-07-21 14:53,A15,Stilstaand verkeer,Nijmegen - Gorinchem,Tussen knooppunt Deil en Leerdam (29).,,12.0,2500,51.848583,5.170145,2026-07-21 14:30,10005364063
+2026-07-21 14:53,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen knooppunt Ridderkerk-Zuid en de Drechttunnel.,Extra verkeersdrukte door wegwerkzaamheden elders,8.0,5100,51.8082,4.649031,2026-07-21 13:34,10005364024
+2026-07-21 14:53,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,5.0,2873,51.998276,4.648383,2026-07-21 14:47,10005364079
+2026-07-21 14:53,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Rotterdam-Schiebroek (14) en de Giessenbrug.,,5.0,2100,51.92793,4.430193,2026-07-21 14:49,10005364081
+2026-07-21 14:53,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Numansdorp (22) en de Volkerakbrug.,Ongeval(len),47.0,7600,51.688732,4.407586,2026-07-21 14:09,10005364048
