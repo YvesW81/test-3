@@ -1750,3 +1750,15 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-22 09:14,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Zonzeel en de Moerdijkbrug.,Wegwerkzaamheden,21.0,6300,51.716526,4.637297,2026-07-22 06:20,10005364680
 2026-07-22 09:14,A22,Stilstaand verkeer,Beverwijk - Velsen,Tussen knooppunt Beverwijk en Beverwijk (2).,Te hoog voertuig,16.0,1600,52.482468,4.670396,2026-07-22 08:58,10005364775
 2026-07-22 09:14,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Numansdorp (22) en de Haringvlietbrug.,,9.0,2000,51.72266,4.404953,2026-07-22 09:10,10005364782
+2026-07-22 11:40,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,14.0,3600,52.31377,7.043839,2026-07-22 11:21,10005364891
+2026-07-22 11:40,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,17.0,2500,51.898357,6.165913,2026-07-22 09:39,10005364795
+2026-07-22 11:40,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,Wegwerkzaamheden,11.0,3200,51.710842,4.640826,2026-07-22 06:20,10005364680
+2026-07-22 11:40,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen knooppunt Ridderkerk-Zuid en de Drechttunnel.,,7.0,4700,51.807003,4.649768,2026-07-22 11:36,10005364912
+2026-07-22 11:40,A17,Stilstaand verkeer,Roosendaal - Dordrecht,Tussen Moerdijk (27) en knooppunt Klaverpolder.,Extra verkeersdrukte door wegwerkzaamheden elders,17.0,2600,51.706257,4.644825,2026-07-22 10:12,10005364834
+2026-07-22 11:40,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen knooppunt Vaanplein en de Heinenoordtunnel.,Door opruimwerkzaamheden,11.0,3800,51.830917,4.510179,2026-07-22 10:34,10005364854
+2026-07-22 11:40,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen Epe (27) en Apeldoorn-Noord (25).,Wegdek in slechte toestand,28.0,6800,52.258217,6.002288,2026-07-22 09:51,10005364808
+2026-07-22 11:40,A50,Stilstaand verkeer,Arnhem - Oss,Op de verbindingsweg van de A50 vanuit Arnhem naar de A73 richting Venlo.,,4.0,1000,51.855152,5.724135,2026-07-22 11:29,10005364906
+2026-07-22 11:40,A73,Langzaam rijdend verkeer,Nijmegen - Maasbracht,Tussen knooppunt Ewijk en Nijmegen.,,5.0,2600,51.848457,5.757182,2026-07-22 11:10,10005364881
+2026-07-22 11:40,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,11.0,2600,50.818733,6.024534,2026-07-22 11:09,10005364880
+2026-07-22 11:40,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,3.0,2200,51.815773,3.981904,2026-07-22 11:29,10005364907
+2026-07-22 11:40,N59,Langzaam rijdend verkeer,Bruinisse - Serooskerke,Tussen Ouwerkerk en Scharendijke.,,4.0,2000,51.680256,3.861326,2026-07-22 11:31,10005364910
