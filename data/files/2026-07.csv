@@ -1744,3 +1744,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-21 18:38,A67,Stilstaand verkeer,Eindhoven - Belgische grens,Tussen knooppunt De Hogt en Valkenswaard (31).,Eerder pechgeval,15.0,2567,51.400406,5.409652,2026-07-21 18:09,10005364617
 2026-07-21 19:57,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2100,52.31377,7.043839,2026-07-21 14:19,10005364055
 2026-07-21 21:25,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2100,52.31377,7.043839,2026-07-21 14:19,10005364055
+2026-07-22 06:29,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen Rozenburg (13) en Havens 5500-5700 (11).,,7.0,2600,51.90986,4.198417,2026-07-22 06:21,10005364681
+2026-07-22 06:29,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,,12.0,4000,51.715294,4.638046,2026-07-22 06:20,10005364680
+2026-07-22 06:29,A35,Langzaam rijdend verkeer,Enschede - Zwolle,Tussen Wierden (32) en Hulsen/Nijverdal.,Ongeval(len),6.0,3800,52.364353,6.490778,2026-07-22 06:00,10005364672
