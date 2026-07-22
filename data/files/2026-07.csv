@@ -1836,3 +1836,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-22 17:14,N57,Stilstaand verkeer,Rotterdam - Voorne-Putten,Tussen A15: Brielle en Hellevoetsluis/Oudenhoorn.,,11.0,3700,51.875294,4.188147,2026-07-22 16:40,10005365490
 2026-07-22 17:14,N57,Stilstaand verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,6.0,2200,51.815773,3.981904,2026-07-22 17:05,10005365580
 2026-07-22 17:14,N57,Langzaam rijdend verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,6.0,2900,51.544376,3.6051,2026-07-22 17:11,10005365600
+2026-07-22 18:50,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Zonzeel en de Moerdijkbrug.,Wegwerkzaamheden,19.0,5200,51.716114,4.637547,2026-07-22 06:20,10005364680
+2026-07-22 18:50,A17,Stilstaand verkeer,Roosendaal - Dordrecht,Tussen hm 0.5 = 31.0 en knooppunt Klaverpolder.,Extra verkeersdrukte door wegwerkzaamheden elders,13.0,1600,51.706257,4.644825,2026-07-22 12:23,10005364952
+2026-07-22 18:50,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen knooppunt Hellegatsplein en de Volkerakbrug.,,9.0,2000,51.68973,4.406186,2026-07-22 18:47,10005365753
+2026-07-22 18:50,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,5.0,2000,50.818733,6.024534,2026-07-22 15:03,10005365185
