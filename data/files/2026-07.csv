@@ -1840,3 +1840,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-22 18:50,A17,Stilstaand verkeer,Roosendaal - Dordrecht,Tussen hm 0.5 = 31.0 en knooppunt Klaverpolder.,Extra verkeersdrukte door wegwerkzaamheden elders,13.0,1600,51.706257,4.644825,2026-07-22 12:23,10005364952
 2026-07-22 18:50,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen knooppunt Hellegatsplein en de Volkerakbrug.,,9.0,2000,51.68973,4.406186,2026-07-22 18:47,10005365753
 2026-07-22 18:50,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,5.0,2000,50.818733,6.024534,2026-07-22 15:03,10005365185
+2026-07-23 06:38,A9,Langzaam rijdend verkeer,Alkmaar - Amstelveen,Tussen Uitgeest (10) en knooppunt Beverwijk.,,4.0,3000,52.4904,4.695734,2026-07-23 06:36,10005365809
+2026-07-23 06:38,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen knooppunt Rozenburg en Brielle (12).,,5.0,2700,51.900978,4.217998,2026-07-23 06:25,10005365804
+2026-07-23 06:38,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen Vaassen (26) en Apeldoorn-Noord (25).,,8.0,2300,52.26258,6.00149,2026-07-23 06:34,10005365808
