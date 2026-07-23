@@ -1863,3 +1863,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-23 11:40,A50,Stilstaand verkeer,Oss - Eindhoven,Tussen Zeeland (14) en Veghel-Noord (12).,,24.0,2900,51.646397,5.591228,2026-07-23 11:13,10005365982
 2026-07-23 11:40,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,16.0,2400,50.818733,6.024534,2026-07-23 11:18,10005365991
 2026-07-23 11:40,N57,Langzaam rijdend verkeer,Vrouwenpolder - Middelburg,Tussen Vrouwenpolder/Veere en Middelburg-Noord/Veere.,,5.0,2000,51.542538,3.605804,2026-07-23 11:16,10005365989
+2026-07-23 13:31,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,8.0,2100,52.31377,7.043839,2026-07-23 10:52,10005365960
+2026-07-23 13:31,A7,Langzaam rijdend verkeer,Ring-Sneek-West - Den Oever,Tussen Zurich (15) en de brug over de Lorentzsluis.,,5.0,2100,53.073486,5.330771,2026-07-23 13:26,10005366049
+2026-07-23 13:31,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,15.0,2300,51.898357,6.165913,2026-07-23 08:43,10005365891
+2026-07-23 13:31,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Zonzeel en de Moerdijkbrug.,Wegwerkzaamheden,18.0,6000,51.71488,4.638296,2026-07-23 11:39,10005366004
+2026-07-23 13:31,A17,Stilstaand verkeer,Roosendaal - Dordrecht,Tussen hm 0.5 = 31.0 en knooppunt Klaverpolder.,Wegwerkzaamheden op aansluitende weg,12.0,1600,51.706257,4.644825,2026-07-23 06:27,10005365805
+2026-07-23 13:31,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen Vaassen (26) en Apeldoorn-Noord (25).,Wegdek in slechte toestand,13.0,3600,52.26215,6.001516,2026-07-23 06:34,10005365808
