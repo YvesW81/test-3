@@ -1843,3 +1843,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-23 06:38,A9,Langzaam rijdend verkeer,Alkmaar - Amstelveen,Tussen Uitgeest (10) en knooppunt Beverwijk.,,4.0,3000,52.4904,4.695734,2026-07-23 06:36,10005365809
 2026-07-23 06:38,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen knooppunt Rozenburg en Brielle (12).,,5.0,2700,51.900978,4.217998,2026-07-23 06:25,10005365804
 2026-07-23 06:38,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen Vaassen (26) en Apeldoorn-Noord (25).,,8.0,2300,52.26258,6.00149,2026-07-23 06:34,10005365808
+2026-07-23 09:16,A9,Stilstaand verkeer,Alkmaar - Amstelveen,Tussen Heemskerk (9) en knooppunt Beverwijk.,,6.0,2400,52.48719,4.693206,2026-07-23 09:11,10005365907
+2026-07-23 09:16,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,18.0,2200,51.898357,6.165913,2026-07-23 08:43,10005365891
+2026-07-23 09:16,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,Wegwerkzaamheden,8.0,3400,51.715706,4.637796,2026-07-23 06:14,10005365798
+2026-07-23 09:16,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen Hendrik-Ido-Ambacht (23) en de Drechttunnel.,,5.0,3100,51.80782,4.649307,2026-07-23 09:11,10005365906
+2026-07-23 09:16,A17,Stilstaand verkeer,Roosendaal - Dordrecht,Tussen hm 0.5 = 31.0 en knooppunt Klaverpolder.,Wegwerkzaamheden op aansluitende weg,12.0,1600,51.706257,4.644825,2026-07-23 06:27,10005365805
+2026-07-23 09:16,A22,Stilstaand verkeer,Beverwijk - Velsen,Tussen knooppunt Beverwijk en Beverwijk (2).,,17.0,3000,52.475895,4.655533,2026-07-23 09:06,10005365902
+2026-07-23 09:16,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen knooppunt Hellegatsplein en de Haringvlietbrug.,,15.0,2300,51.713017,4.399082,2026-07-23 09:07,10005365904
+2026-07-23 09:16,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Numansdorp (22) en de Haringvlietbrug.,,15.0,2100,51.726383,4.407265,2026-07-23 09:09,10005365905
+2026-07-23 09:16,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen Epe (27) en Apeldoorn-Noord (25).,Wegdek in slechte toestand,18.0,4300,52.26127,6.001605,2026-07-23 06:34,10005365808
