@@ -1852,3 +1852,14 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-23 09:16,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen knooppunt Hellegatsplein en de Haringvlietbrug.,,15.0,2300,51.713017,4.399082,2026-07-23 09:07,10005365904
 2026-07-23 09:16,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Numansdorp (22) en de Haringvlietbrug.,,15.0,2100,51.726383,4.407265,2026-07-23 09:09,10005365905
 2026-07-23 09:16,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen Epe (27) en Apeldoorn-Noord (25).,Wegdek in slechte toestand,18.0,4300,52.26127,6.001605,2026-07-23 06:34,10005365808
+2026-07-23 11:40,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,8.0,2100,52.31377,7.043839,2026-07-23 10:52,10005365960
+2026-07-23 11:40,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,7.0,3000,52.93355,5.039739,2026-07-23 11:33,10005366001
+2026-07-23 11:40,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,15.0,2400,51.898357,6.165913,2026-07-23 08:43,10005365891
+2026-07-23 11:40,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Ridderkerk-Noord en Rotterdam-Feijenoord (24).,,14.0,2500,51.897514,4.549757,2026-07-23 11:08,10005365978
+2026-07-23 11:40,A17,Stilstaand verkeer,Roosendaal - Dordrecht,Tussen hm 0.5 = 31.0 en knooppunt Klaverpolder.,Wegwerkzaamheden op aansluitende weg,12.0,1600,51.706257,4.644825,2026-07-23 06:27,10005365805
+2026-07-23 11:40,A22,Stilstaand verkeer,Beverwijk - Velsen,Tussen knooppunt Beverwijk en Beverwijk (2).,,14.0,3000,52.475056,4.654728,2026-07-23 11:29,10005365998
+2026-07-23 11:40,A28,Stilstaand verkeer,Zwolle - Amersfoort,Tussen 't Harde (16) en Epe (15).,,10.0,3300,52.37755,5.823751,2026-07-23 11:00,10005365969
+2026-07-23 11:40,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen Epe (27) en Apeldoorn-Noord (25).,Wegdek in slechte toestand,25.0,4800,52.261707,6.001554,2026-07-23 06:34,10005365808
+2026-07-23 11:40,A50,Stilstaand verkeer,Oss - Eindhoven,Tussen Zeeland (14) en Veghel-Noord (12).,,24.0,2900,51.646397,5.591228,2026-07-23 11:13,10005365982
+2026-07-23 11:40,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,16.0,2400,50.818733,6.024534,2026-07-23 11:18,10005365991
+2026-07-23 11:40,N57,Langzaam rijdend verkeer,Vrouwenpolder - Middelburg,Tussen Vrouwenpolder/Veere en Middelburg-Noord/Veere.,,5.0,2000,51.542538,3.605804,2026-07-23 11:16,10005365989
