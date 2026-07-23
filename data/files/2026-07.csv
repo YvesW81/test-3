@@ -1917,3 +1917,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-23 17:26,N11,Langzaam rijdend verkeer,Bodegraven - Leiden,Tussen Hazerswoude (7) en A4: Zoeterwoude-Rijndijk.,,3.0,2100,52.140472,4.506819,2026-07-23 17:21,10005366494
 2026-07-23 17:26,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,9.0,5200,51.861423,4.156718,2026-07-23 17:09,10005366461
 2026-07-23 17:26,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,7.0,2500,51.544376,3.6051,2026-07-23 17:21,10005366495
+2026-07-23 18:57,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2000,52.31377,7.043839,2026-07-23 18:37,10005366594
+2026-07-23 18:57,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Ridderkerk-Noord en Hendrik-Ido-Ambacht (23).,Defect voertuig,17.0,3100,51.843292,4.610396,2026-07-23 18:35,10005366593
+2026-07-23 18:57,A16,Stilstaand verkeer op parallelrijbaan,Breda - Rotterdam,Op de parallelbaan. Tussen Capelle a/d IJssel (25) en Rotterdam-Prins Alexander (27).,,12.0,1400,51.933582,4.537196,2026-07-23 18:52,10005366600
+2026-07-23 18:57,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,,7.0,2200,51.715706,4.637796,2026-07-23 18:52,10005366599
+2026-07-23 18:57,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen Vaassen (26) en Apeldoorn-Noord (25).,,7.0,2000,52.256493,6.002931,2026-07-23 18:52,10005366602
+2026-07-23 18:57,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,17.0,2700,50.818733,6.024534,2026-07-23 18:46,10005366598
