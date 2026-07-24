@@ -2064,3 +2064,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-24 16:51,N57,Stilstaand verkeer,Rotterdam - Stellendam,Tussen Brielle-Noord en Stellendam-Havens Zuid.,Recreatie- en vakantieverkeer,34.0,9900,51.84736,4.084728,2026-07-24 10:54,10005366775
 2026-07-24 16:51,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,5.0,2200,51.815773,3.981904,2026-07-24 16:25,10005367916
 2026-07-24 16:51,N59,Langzaam rijdend verkeer,Bruinisse - Zierikzee,Tussen Bruinisse en Nieuwerkerk.,,6.0,3500,51.645763,4.000004,2026-07-24 16:46,10005367978
+2026-07-24 18:32,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2100,52.31377,7.043839,2026-07-24 17:00,10005368013
+2026-07-24 18:32,A4,Stilstaand verkeer,Belgische grens - Knooppunt Sabina,Tussen Dinteloord (24) en knooppunt Sabina.,Ongeval(len),19.0,2900,51.653732,4.411724,2026-07-24 16:54,10005368000
+2026-07-24 18:32,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1500,51.898357,6.165913,2026-07-24 17:45,10005368074
+2026-07-24 18:32,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,Wegwerkzaamheden,12.0,3500,51.71488,4.638296,2026-07-24 10:03,10005366701
+2026-07-24 18:32,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Hendrik-Ido-Ambacht (23) en de Drechttunnel.,,11.0,2300,51.808937,4.64836,2026-07-24 18:30,10005368110
+2026-07-24 18:32,N50,Langzaam rijdend verkeer,Emmeloord - Zwolle,Tussen Ens (33) en Kampen-Zuid (31).,,15.0,7800,52.543007,5.896609,2026-07-24 18:25,10005368108
