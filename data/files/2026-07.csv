@@ -2127,3 +2127,31 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-25 12:41,A73,Langzaam rijdend verkeer,Nijmegen - Maasbracht,Tussen Malden (3) en Cuijk (4).,,6.0,4300,51.73322,5.84706,2026-07-25 12:34,10005368595
 2026-07-25 12:41,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,5.0,2200,51.815773,3.981904,2026-07-25 10:57,10005368314
 2026-07-25 12:41,N57,Langzaam rijdend verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,7.0,3000,51.54527,3.604857,2026-07-25 11:37,10005368407
+2026-07-25 13:50,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2000,52.31377,7.043839,2026-07-25 08:30,10005368222
+2026-07-25 13:50,A1,Stilstaand verkeer,Apeldoorn - Amersfoort,Tussen Stroe (17) en Voorthuizen (16).,,10.0,3500,52.169685,5.61066,2026-07-25 13:21,10005368731
+2026-07-25 13:50,A2,Stilstaand verkeer,Utrecht - Amsterdam,Op de verbindingsweg van de A2 vanuit Utrecht naar de A10 richting Den Haag.,,6.0,1800,52.330402,4.904622,2026-07-25 11:51,10005368456
+2026-07-25 13:50,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen Waardenburg (16) en de Maasbrug.,,11.0,5800,51.75563,5.285653,2026-07-25 13:19,10005368722
+2026-07-25 13:50,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Deil en de Martinus Nijhoffbrug.,,4.0,2900,51.82963,5.254448,2026-07-25 13:48,10005368792
+2026-07-25 13:50,A7,Stilstaand verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,9.0,3700,52.93355,5.039739,2026-07-25 13:30,10005368755
+2026-07-25 13:50,A7,Stilstaand verkeer,Ring-Sneek-West - Den Oever,Tussen Zurich (15) en Breezanddijk.,,7.0,2600,53.072227,5.32305,2026-07-25 13:45,10005368788
+2026-07-25 13:50,A7,Langzaam rijdend verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,4.0,2100,53.073807,5.335642,2026-07-25 13:48,10005368793
+2026-07-25 13:50,A9,Langzaam rijdend verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,,6.0,3100,52.43148,4.677387,2026-07-25 13:24,10005368742
+2026-07-25 13:50,A10,Langzaam rijdend verkeer,Knooppunt Amstel - Knooppunt De Nieuwe Meer,Tussen knooppunt Amstel en Amsterdam-Oud Zuid (8).,,8.0,3400,52.33954,4.876522,2026-07-25 13:32,10005368758
+2026-07-25 13:50,A10,Langzaam rijdend verkeer,Knooppunt Amstel - Knooppunt Coenplein,Tussen knooppunt Watergraafsmeer en de Zeeburgertunnel.,,4.0,2100,52.374397,4.974215,2026-07-25 13:40,10005368776
+2026-07-25 13:50,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,2000,51.898357,6.165913,2026-07-25 10:02,10005368243
+2026-07-25 13:50,A12,Langzaam rijdend verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,,5.0,3100,52.02342,5.881589,2026-07-25 13:43,10005368781
+2026-07-25 13:50,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Gorinchem (27) en Hardinxveld-Giessendam (26).,Obstakel(s) op de weg,39.0,4700,51.830994,4.879385,2026-07-25 13:14,10005368703
+2026-07-25 13:50,A15,Stilstaand verkeer,Nijmegen - Gorinchem,Tussen Echteld (34) en Tiel (33).,,13.0,2700,51.9023,5.449191,2026-07-25 13:17,10005368714
+2026-07-25 13:50,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Zonzeel en de Moerdijkbrug.,Wegwerkzaamheden,27.0,6000,51.71488,4.638296,2026-07-25 10:46,10005368292
+2026-07-25 13:50,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,4.0,2600,51.99607,4.644883,2026-07-25 13:28,10005368746
+2026-07-25 13:50,A22,Langzaam rijdend verkeer,Beverwijk - Velsen,Tussen knooppunt Beverwijk en de Velsertunnel.,Extra verkeersdrukte door verkeer dat een omleiding volgt,7.0,2900,52.464783,4.653419,2026-07-25 13:37,10005368768
+2026-07-25 13:50,A27,Stilstaand verkeer,Utrecht - Almere,Tussen knooppunt Eemnes en Huizen (35).,Eerder ongeval,23.0,4100,52.274685,5.263474,2026-07-25 12:55,10005368654
+2026-07-25 13:50,A27,Stilstaand verkeer,Breda - Gorinchem,Tussen Hank (21) en Werkendam (23).,Ongeval(len),32.0,5600,51.799824,4.931352,2026-07-25 13:20,10005368727
+2026-07-25 13:50,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Valburg en de Maasbrug.,,17.0,7500,51.803905,5.674853,2026-07-25 12:27,10005368561
+2026-07-25 13:50,A58,Langzaam rijdend verkeer,Bergen op Zoom - Vlissingen,Tussen Yerseke (33) en de Vlaketunnel.,,5.0,2100,51.466965,4.002497,2026-07-25 13:45,10005368787
+2026-07-25 13:50,A73,Stilstaand verkeer,Nijmegen - Maasbracht,Tussen Wijchen (1a) en Cuijk (4).,,21.0,8000,51.756275,5.838795,2026-07-25 13:17,10005368718
+2026-07-25 13:50,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,14.0,2000,50.818733,6.024534,2026-07-25 13:38,10005368773
+2026-07-25 13:50,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,5.0,2300,51.815773,3.981904,2026-07-25 10:57,10005368314
+2026-07-25 13:50,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,9.0,4500,51.861423,4.156718,2026-07-25 12:39,10005368613
+2026-07-25 13:50,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,8.0,3000,51.544376,3.6051,2026-07-25 13:23,10005368739
+2026-07-25 13:50,N59,Langzaam rijdend verkeer,Knooppunt Hellegatsplein - Oude-Tonge,Tussen knooppunt Hellegatsplein en Den Bommel.,,6.0,3000,51.699833,4.293553,2026-07-25 13:37,10005368770
