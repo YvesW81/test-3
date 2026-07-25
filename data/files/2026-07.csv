@@ -2072,3 +2072,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-24 18:32,N50,Langzaam rijdend verkeer,Emmeloord - Zwolle,Tussen Ens (33) en Kampen-Zuid (31).,,15.0,7800,52.543007,5.896609,2026-07-24 18:25,10005368108
 2026-07-24 19:59,A28,Langzaam rijdend verkeer,Zwolle - Hoogeveen,Tussen Zuidwolde (25) en knooppunt Hoogeveen.,Evenement,9.0,4400,52.706875,6.444149,2026-07-24 19:43,10005368122
 2026-07-24 21:37,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Wegwerkzaamheden,68.0,11200,52.112804,5.952208,2026-07-24 20:20,10005368135
+2026-07-25 08:59,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,10.0,2200,52.31377,7.043839,2026-07-25 08:30,10005368222
+2026-07-25 08:59,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1500,51.898357,6.165913,2026-07-25 08:55,10005368224
