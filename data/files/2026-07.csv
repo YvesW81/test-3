@@ -2074,3 +2074,25 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-24 21:37,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Wegwerkzaamheden,68.0,11200,52.112804,5.952208,2026-07-24 20:20,10005368135
 2026-07-25 08:59,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,10.0,2200,52.31377,7.043839,2026-07-25 08:30,10005368222
 2026-07-25 08:59,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1500,51.898357,6.165913,2026-07-25 08:55,10005368224
+2026-07-25 11:05,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2000,52.31377,7.043839,2026-07-25 08:30,10005368222
+2026-07-25 11:05,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Barneveld (15) en Hoevelaken (14).,,5.0,2000,52.163647,5.534313,2026-07-25 10:54,10005368308
+2026-07-25 11:05,A2,Langzaam rijdend verkeer,Utrecht - Amsterdam,Tussen Abcoude (3) en knooppunt Holendrecht.,,4.0,2500,52.294525,4.941054,2026-07-25 10:15,10005368259
+2026-07-25 11:05,A2,Stilstaand verkeer,Maastricht - Eindhoven,Tussen Urmond (48) en Roosteren (46).,Bergingswerkzaamheden,14.0,3600,51.046867,5.826701,2026-07-25 10:48,10005368295
+2026-07-25 11:05,A2,Stilstaand verkeer,Eindhoven - Maastricht,Tussen Sint Joost (44) en Echt (45).,Ongeval(len),10.0,2800,51.11358,5.865987,2026-07-25 10:55,10005368310
+2026-07-25 11:05,A7,Stilstaand verkeer,Ring-Sneek-West - Den Oever,Tussen Zurich (15) en de brug over de Lorentzsluis.,,6.0,2000,53.073597,5.331465,2026-07-25 11:00,10005368318
+2026-07-25 11:05,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,14.0,2300,51.898357,6.165913,2026-07-25 10:02,10005368243
+2026-07-25 11:05,A12,Stilstaand verkeer,Arnhem - Utrecht,Tussen knooppunt Waterberg en knooppunt Grijsoord.,,10.0,3600,52.027298,5.833048,2026-07-25 10:16,10005368261
+2026-07-25 11:05,A12,Stilstaand verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Zevenaar (29).,,16.0,2000,51.926346,6.115563,2026-07-25 10:21,10005368267
+2026-07-25 11:05,A15,Stilstaand verkeer,Nijmegen - Gorinchem,Tussen Tiel (33) en Tiel-West (32).,,18.0,2600,51.89764,5.396814,2026-07-25 10:45,10005368290
+2026-07-25 11:05,A15,Langzaam rijdend verkeer,Nijmegen - Gorinchem,Tussen Geldermalsen (30) en knooppunt Deil.,,6.0,3500,51.858597,5.260212,2026-07-25 10:54,10005368307
+2026-07-25 11:05,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,Wegwerkzaamheden,11.0,3100,51.715706,4.637796,2026-07-25 10:46,10005368292
+2026-07-25 11:05,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen Heerde-Zuid (28) en Vaassen (26).,,38.0,5400,52.30993,6.007131,2026-07-25 10:34,10005368280
+2026-07-25 11:05,A50,Langzaam rijdend verkeer,Apeldoorn - Zwolle,Tussen Apeldoorn-Noord (25) en Epe (27).,,8.0,3700,52.310852,6.00728,2026-07-25 10:49,10005368297
+2026-07-25 11:05,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,8.0,3800,51.79903,5.669092,2026-07-25 10:50,10005368301
+2026-07-25 11:05,A50,Langzaam rijdend verkeer,Oss - Arnhem,Tussen Renkum (19) en knooppunt Grijsoord.,,6.0,2600,52.01947,5.818338,2026-07-25 10:54,10005368309
+2026-07-25 11:05,A50,Stilstaand verkeer,Arnhem - Oss,Tussen Heteren (18) en knooppunt Valburg.,,17.0,3500,51.89979,5.755854,2026-07-25 10:58,10005368315
+2026-07-25 11:05,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,,4.0,2700,52.055626,5.939174,2026-07-25 11:00,10005368316
+2026-07-25 11:05,A73,Langzaam rijdend verkeer,Nijmegen - Maasbracht,Tussen knooppunt Ewijk en Nijmegen.,,4.0,2000,51.84809,5.758477,2026-07-25 11:02,10005368320
+2026-07-25 11:05,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,13.0,1700,50.818733,6.024534,2026-07-25 10:03,10005368245
+2026-07-25 11:05,N57,Langzaam rijdend verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,7.0,2900,51.543472,3.605351,2026-07-25 10:53,10005368305
+2026-07-25 11:05,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,6.0,2200,51.815773,3.981904,2026-07-25 10:57,10005368314
