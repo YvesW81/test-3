@@ -2170,3 +2170,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-25 15:14,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen knooppunt Hellegatsplein en de Haringvlietbrug.,,17.0,2500,51.718353,4.402412,2026-07-25 15:09,10005368935
 2026-07-25 15:14,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,6.0,3100,51.801437,5.672049,2026-07-25 15:05,10005368930
 2026-07-25 15:14,A59,Stilstaand verkeer,'s-Hertogenbosch - Oss,Tussen Rosmalen-Oost (49) en Nuland (51).,,16.0,4600,51.71895,5.440238,2026-07-25 13:56,10005368819
+2026-07-25 16:42,A2,Langzaam rijdend verkeer,Utrecht - Amsterdam,Op de verbindingsweg van de A2 vanuit Utrecht naar de A10 richting Den Haag.,,3.0,1700,52.330402,4.904622,2026-07-25 11:51,10005368456
+2026-07-25 16:42,A8,Stilstaand verkeer,Amsterdam - Zaandam,Tussen knooppunt Zaandam en de Coenbrug.,,10.0,2300,52.46238,4.815775,2026-07-25 16:38,10005369007
+2026-07-25 16:42,A10,Langzaam rijdend verkeer,Knooppunt Amstel - Knooppunt De Nieuwe Meer,Tussen knooppunt Amstel en Amsterdam-Oud Zuid (8).,,5.0,3000,52.339462,4.874365,2026-07-25 16:39,10005369008
