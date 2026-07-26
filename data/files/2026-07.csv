@@ -2178,3 +2178,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-26 09:25,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,20.0,2200,51.898357,6.165913,2026-07-26 08:37,10005369078
 2026-07-26 11:31,A2,Stilstaand verkeer,Eindhoven - Maastricht,Tussen knooppunt De Hogt en knooppunt Leenderheide.,,13.0,3300,51.405266,5.480669,2026-07-26 11:18,10005369095
 2026-07-26 11:31,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,16.0,2000,51.898357,6.165913,2026-07-26 11:04,10005369093
+2026-07-26 13:06,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2100,52.31377,7.043839,2026-07-26 11:30,10005369099
+2026-07-26 13:06,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,,3.0,2400,52.166035,5.551901,2026-07-26 12:57,10005369160
+2026-07-26 13:06,A2,Stilstaand verkeer,Utrecht - Amsterdam,Tussen Vinkeveen (4) en knooppunt Holendrecht.,Wegwerkzaamheden op aansluitende weg,18.0,7200,52.291794,4.943393,2026-07-26 11:46,10005369109
+2026-07-26 13:06,A7,Stilstaand verkeer,Ring-Sneek-West - Den Oever,Tussen Zurich (15) en Breezanddijk.,,6.0,2100,53.07294,5.327299,2026-07-26 12:41,10005369149
+2026-07-26 13:06,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,6.0,3400,52.93355,5.039739,2026-07-26 12:57,10005369161
+2026-07-26 13:06,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,20.0,3500,51.898357,6.165913,2026-07-26 11:04,10005369093
+2026-07-26 13:06,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,Wegwerkzaamheden,19.0,3900,51.713226,4.6393,2026-07-26 12:29,10005369140
