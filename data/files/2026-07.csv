@@ -2185,3 +2185,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-26 13:06,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,6.0,3400,52.93355,5.039739,2026-07-26 12:57,10005369161
 2026-07-26 13:06,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,20.0,3500,51.898357,6.165913,2026-07-26 11:04,10005369093
 2026-07-26 13:06,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,Wegwerkzaamheden,19.0,3900,51.713226,4.6393,2026-07-26 12:29,10005369140
+2026-07-26 14:13,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2100,52.31377,7.043839,2026-07-26 11:30,10005369099
+2026-07-26 14:13,A2,Langzaam rijdend verkeer,Utrecht - Amsterdam,Tussen Vinkeveen (4) en knooppunt Holendrecht.,Wegwerkzaamheden op aansluitende weg,12.0,5300,52.29219,4.943063,2026-07-26 11:46,10005369109
+2026-07-26 14:13,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,5.0,3300,52.93355,5.039739,2026-07-26 13:37,10005369187
+2026-07-26 14:13,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,13.0,1600,51.898357,6.165913,2026-07-26 11:04,10005369093
+2026-07-26 14:13,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,Wegwerkzaamheden,16.0,4000,51.716526,4.637297,2026-07-26 12:29,10005369140
