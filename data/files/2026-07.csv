@@ -2202,3 +2202,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-26 17:15,A58,Stilstaand verkeer,Tilburg - Eindhoven,Tussen Oirschot (8) en Best (7).,Bergingswerkzaamheden,20.0,3100,51.485912,5.387848,2026-07-26 16:47,10005369303
 2026-07-26 18:15,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,5.0,3000,52.93327,5.039222,2026-07-26 18:11,10005369337
 2026-07-26 18:15,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,13.0,1600,50.818733,6.024534,2026-07-26 18:04,10005369335
+2026-07-27 06:57,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Zonzeel en de Moerdijkbrug.,Ongeval met vrachtwagen,40.0,8800,51.715294,4.638046,2026-07-27 06:02,10005369376
+2026-07-27 06:57,A17,Stilstaand verkeer,Roosendaal - Dordrecht,Tussen Moerdijk (27) en knooppunt Klaverpolder.,,16.0,1700,51.706257,4.644825,2026-07-27 06:30,10005369383
+2026-07-27 06:57,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Op de verbindingsweg van de A59 vanuit 's-Hertogenbosch naar de A16 richting Rotterdam.,,5.0,900,51.651215,4.6883864,2026-07-27 06:45,10005369392
