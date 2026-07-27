@@ -2226,3 +2226,25 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-27 13:55,A73,Stilstaand verkeer op parallelrijbaan,Nijmegen - Maasbracht,Op de parallelbaan. Tussen knooppunt Zaarderheiken en Maasbree (14).,,8.0,2200,51.37369,6.123168,2026-07-27 13:21,10005369774
 2026-07-27 13:55,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,19.0,4900,50.818733,6.024534,2026-07-27 11:36,10005369582
 2026-07-27 13:55,N59,Stilstaand verkeer,Oude-Tonge - Knooppunt Hellegatsplein,Tussen Den Bommel en knooppunt Hellegatsplein.,Incident op aansluitende weg,15.0,4900,51.69728,4.395801,2026-07-27 13:33,10005369797
+2026-07-27 16:24,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,,7.0,2200,52.31377,7.043839,2026-07-27 16:14,10005370012
+2026-07-27 16:24,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen Geldermalsen (15) en knooppunt Deil.,,9.0,3200,51.848568,5.236129,2026-07-27 14:30,10005369876
+2026-07-27 16:24,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen Everdingen (12) en Beesd (14).,Ongeval(len),14.0,4700,51.900803,5.188371,2026-07-27 15:54,10005369987
+2026-07-27 16:24,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen Zaltbommel (17) en de Martinus Nijhoffbrug.,,7.0,2500,51.823868,5.259034,2026-07-27 16:20,10005370021
+2026-07-27 16:24,A4,Stilstaand verkeer,Den Haag - Rotterdam,Tussen Schiedam-Noord (10) en knooppunt Benelux.,,12.0,4400,51.88315,4.381648,2026-07-27 15:00,10005369925
+2026-07-27 16:24,A4,Langzaam rijdend verkeer,Amsterdam - Rotterdam,Tussen knooppunt Hofvliet en knooppunt Ypenburg.,,9.0,3600,52.053104,4.364818,2026-07-27 16:14,10005370013
+2026-07-27 16:24,A4,Stilstaand verkeer,Den Haag - Rotterdam,Tussen Den Hoorn (13) en Slinksloot.,,10.0,2300,51.9693,4.3414,2026-07-27 16:16,10005370017
+2026-07-27 16:24,A9,Langzaam rijdend verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,Wegwerkzaamheden,12.0,5100,52.42852,4.680496,2026-07-27 14:36,10005369893
+2026-07-27 16:24,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,14.0,2700,51.898357,6.165913,2026-07-27 09:27,10005369472
+2026-07-27 16:24,A15,Stilstaand verkeer,Gorinchem - Nijmegen,Op de verbindingsweg van de A15 vanuit Gorinchem naar de A2 richting 's-Hertogenbosch.,,8.0,900,51.851105,5.2332377,2026-07-27 15:03,10005369929
+2026-07-27 16:24,A15,Langzaam rijdend verkeer,Nijmegen - Gorinchem,Tussen knooppunt Deil en Arkel (28).,,10.0,5100,51.83964,5.076742,2026-07-27 16:10,10005370005
+2026-07-27 16:24,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Zonzeel en de Moerdijkbrug.,Wegwerkzaamheden,32.0,8100,51.710175,4.64133,2026-07-27 11:55,10005369623
+2026-07-27 16:24,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Berkel en Rodenrijs (29) en de Rottemerentunnel.,,16.0,3600,51.97113,4.49965,2026-07-27 15:17,10005369943
+2026-07-27 16:24,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen Rotterdam-Schiebroek (14) en de Giessenbrug.,,9.0,2700,51.928165,4.430768,2026-07-27 15:27,10005369952
+2026-07-27 16:24,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,7.0,2923,51.997955,4.647881,2026-07-27 15:42,10005369968
+2026-07-27 16:24,A27,Stilstaand verkeer,Breda - Gorinchem,Tussen Hank (21) en de Merwedebrug.,,18.0,5000,51.810738,4.935866,2026-07-27 14:31,10005369881
+2026-07-27 16:24,A27,Stilstaand verkeer,Utrecht - Almere,Tussen knooppunt Eemnes en Eemnes (34).,,9.0,2200,52.247753,5.247239,2026-07-27 16:16,10005370016
+2026-07-27 16:24,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Op de verbindingsweg van de A59 vanuit 's-Hertogenbosch naar de A16 richting Rotterdam.,,6.0,900,51.651215,4.6883864,2026-07-27 15:47,10005369980
+2026-07-27 16:24,A59,Langzaam rijdend verkeer,Knooppunt Noordhoek - Knooppunt Sabina,Tussen Fijnaart (24) en knooppunt Sabina.,,5.0,2400,51.65699,4.42675,2026-07-27 16:17,10005370018
+2026-07-27 16:24,A67,Stilstaand verkeer,Eindhoven - Venlo,Tussen knooppunt Leenderheide en Geldrop (34).,,8.0,2700,51.404877,5.535664,2026-07-27 16:14,10005370014
+2026-07-27 16:24,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,8.0,2100,50.818733,6.024534,2026-07-27 11:36,10005369582
+2026-07-27 16:24,N57,Stilstaand verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,14.0,5100,51.861423,4.156718,2026-07-27 16:10,10005370006
