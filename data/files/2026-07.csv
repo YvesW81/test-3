@@ -2205,3 +2205,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-27 06:57,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Zonzeel en de Moerdijkbrug.,Ongeval met vrachtwagen,40.0,8800,51.715294,4.638046,2026-07-27 06:02,10005369376
 2026-07-27 06:57,A17,Stilstaand verkeer,Roosendaal - Dordrecht,Tussen Moerdijk (27) en knooppunt Klaverpolder.,,16.0,1700,51.706257,4.644825,2026-07-27 06:30,10005369383
 2026-07-27 06:57,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Op de verbindingsweg van de A59 vanuit 's-Hertogenbosch naar de A16 richting Rotterdam.,,5.0,900,51.651215,4.6883864,2026-07-27 06:45,10005369392
+2026-07-27 10:31,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,7.0,2000,52.31377,7.043839,2026-07-27 10:13,10005369492
+2026-07-27 10:31,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,14.0,2000,51.898357,6.165913,2026-07-27 09:27,10005369472
+2026-07-27 10:31,A12,Langzaam rijdend verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,Defecte vrachtwagen,7.0,2900,52.02852,5.855931,2026-07-27 09:54,10005369479
+2026-07-27 10:31,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,,4.0,2100,51.716526,4.637297,2026-07-27 10:28,10005369507
+2026-07-27 10:31,A50,Stilstaand verkeer,Oss - Arnhem,Tussen knooppunt Bankhoef en knooppunt Ewijk.,Eerder ongeval,6.0,2200,51.85585,5.708628,2026-07-27 10:10,10005369489
+2026-07-27 10:31,A58,Langzaam rijdend verkeer,Breda - Tilburg,Tussen knooppunt Galder en knooppunt Sint Annabosch.,,4.0,2800,51.539333,4.803772,2026-07-27 10:28,10005369509
