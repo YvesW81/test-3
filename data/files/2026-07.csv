@@ -2284,3 +2284,20 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-28 15:20,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen Willemstad (23) en de Haringvlietbrug.,,25.0,3400,51.709366,4.396812,2026-07-28 15:06,10005370607
 2026-07-28 15:20,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Numansdorp (22) en de Haringvlietbrug.,,13.0,2300,51.723488,4.405466,2026-07-28 15:13,10005370617
 2026-07-28 15:20,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,7.0,5000,51.861423,4.156718,2026-07-28 14:46,10005370573
+2026-07-28 17:41,A4,Stilstaand verkeer,Den Haag - Rotterdam,Tussen Schiedam-Noord (10) en knooppunt Benelux.,Ongeval(len),42.0,5600,51.87545,4.385094,2026-07-28 17:04,10005370740
+2026-07-28 17:41,A4,Stilstaand verkeer op parallelrijbaan,Den Haag - Rotterdam,Op de parallelbaan. Tussen Schiedam-Noord (10) en knooppunt Benelux.,Ongeval(len),11.0,3300,51.87343,4.396017,2026-07-28 17:12,10005370752
+2026-07-28 17:41,A4,Stilstaand verkeer,Den Haag - Rotterdam,Tussen Den Hoorn (13) en Slinksloot.,,31.0,3800,51.953175,4.35091,2026-07-28 17:29,10005370773
+2026-07-28 17:41,A4,Langzaam rijdend verkeer,Rotterdam - Den Haag,Tussen knooppunt Kethelplein en Delft (14).,,5.0,2600,51.98144,4.331114,2026-07-28 17:32,10005370778
+2026-07-28 17:41,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,Wegwerkzaamheden,11.0,3900,52.426064,4.683553,2026-07-28 14:37,10005370565
+2026-07-28 17:41,A9,Stilstaand verkeer,Alkmaar - Amstelveen,Tussen Heemskerk (9) en knooppunt Beverwijk.,,9.0,2300,52.48719,4.693206,2026-07-28 17:35,10005370781
+2026-07-28 17:41,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,11.0,1900,51.898357,6.165913,2026-07-28 10:20,10005370407
+2026-07-28 17:41,A13,Langzaam rijdend verkeer,Rijswijk - Rotterdam,Tussen Rotterdam-Airport (11) en knooppunt Kleinpolderplein.,Wegwerkzaamheden op aansluitende weg,5.0,3100,51.93152,4.439036,2026-07-28 16:42,10005370718
+2026-07-28 17:41,A15,Stilstaand verkeer,Europoort - Ridderkerk,Tussen Spijkenisse (16) en de Botlektunnel.,,14.0,2200,51.870693,4.331753,2026-07-28 17:33,10005370780
+2026-07-28 17:41,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Zonzeel en de Moerdijkbrug.,Wegwerkzaamheden,19.0,6400,51.716526,4.637297,2026-07-28 12:02,10005370467
+2026-07-28 17:41,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Zestienhoven en de Rottemerentunnel.,Extra verkeersdrukte door wegwerkzaamheden elders,21.0,4900,51.966892,4.508994,2026-07-28 14:57,10005370590
+2026-07-28 17:41,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen Rotterdam-Schiebroek (14) en de Giessenbrug.,,6.0,2300,51.92793,4.430193,2026-07-28 16:24,10005370694
+2026-07-28 17:41,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Op de verbindingsweg van de A20 vanuit Gouda naar de A4 richting Hoogvliet.,,11.0,1700,51.920734,4.365961,2026-07-28 17:22,10005370765
+2026-07-28 17:41,A22,Stilstaand verkeer,Beverwijk - Velsen,Tussen knooppunt Beverwijk en Beverwijk (2).,Te hoog voertuig,22.0,3000,52.475895,4.655533,2026-07-28 17:13,10005370753
+2026-07-28 17:41,A27,Stilstaand verkeer,Utrecht - Almere,Tussen Hilversum (33) en Eemnes (34).,,11.0,3400,52.244026,5.246605,2026-07-28 15:46,10005370651
+2026-07-28 17:41,A59,Langzaam rijdend verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,,7.0,3500,51.687504,4.884326,2026-07-28 17:21,10005370760
+2026-07-28 17:41,N57,Langzaam rijdend verkeer,Vrouwenpolder - Middelburg,Tussen Vrouwenpolder/Veere en Middelburg-Noord/Veere.,,4.0,2000,51.542538,3.605804,2026-07-28 17:32,10005370779
