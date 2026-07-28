@@ -2254,3 +2254,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-28 09:09,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,13.0,1700,51.898357,6.165913,2026-07-28 08:59,10005370315
 2026-07-28 09:09,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Berkel en Rodenrijs (29) en de Rottemerentunnel.,,6.0,2000,51.971684,4.497709,2026-07-28 09:04,10005370320
 2026-07-28 09:09,A58,Stilstaand verkeer,Eindhoven - Tilburg,Tussen Oirschot (8) en Moergestel (9).,Defecte vrachtwagen,20.0,4800,51.516624,5.246674,2026-07-28 08:34,10005370287
+2026-07-28 11:46,A1,Stilstaand verkeer,Amsterdam - Amersfoort,Tussen Naarden-Vesting (6) en Blaricum (8).,,8.0,2500,52.27111,5.196407,2026-07-28 11:35,10005370445
+2026-07-28 11:46,A7,Stilstaand verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,9.0,3300,52.93327,5.039222,2026-07-28 11:36,10005370448
+2026-07-28 11:46,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,11.0,1900,51.898357,6.165913,2026-07-28 10:20,10005370407
+2026-07-28 11:46,A12,Stilstaand verkeer,Utrecht - Den Haag,Tussen Woerden (14) en Nieuwerbrug (13).,Defect voertuig,6.0,2200,52.06992,4.874822,2026-07-28 11:42,10005370455
+2026-07-28 11:46,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,Wegwerkzaamheden,9.0,2900,51.715706,4.637796,2026-07-28 10:55,10005370410
+2026-07-28 11:46,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen Berkel en Rodenrijs (29) en de Rottemerentunnel.,,6.0,2300,51.97071,4.500901,2026-07-28 11:43,10005370457
+2026-07-28 11:46,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,5.0,2200,51.815773,3.981904,2026-07-28 11:38,10005370452
