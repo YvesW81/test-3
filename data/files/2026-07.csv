@@ -2261,3 +2261,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-28 11:46,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,Wegwerkzaamheden,9.0,2900,51.715706,4.637796,2026-07-28 10:55,10005370410
 2026-07-28 11:46,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen Berkel en Rodenrijs (29) en de Rottemerentunnel.,,6.0,2300,51.97071,4.500901,2026-07-28 11:43,10005370457
 2026-07-28 11:46,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,5.0,2200,51.815773,3.981904,2026-07-28 11:38,10005370452
+2026-07-28 13:47,A1,Stilstaand verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,Defecte vrachtwagen,18.0,4800,52.164566,5.54216,2026-07-28 12:53,10005370504
+2026-07-28 13:47,A2,Langzaam rijdend verkeer,Eindhoven - Maastricht,Tussen knooppunt Batadorp en knooppunt Leenderheide.,,7.0,4300,51.40559,5.467306,2026-07-28 13:37,10005370531
+2026-07-28 13:47,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Deil en de Martinus Nijhoffbrug.,,7.0,2300,51.82138,5.259467,2026-07-28 13:38,10005370532
+2026-07-28 13:47,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,6.0,2200,52.93327,5.039222,2026-07-28 13:36,10005370530
+2026-07-28 13:47,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,11.0,1900,51.898357,6.165913,2026-07-28 10:20,10005370407
+2026-07-28 13:47,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Zonzeel en de Moerdijkbrug.,Wegwerkzaamheden,16.0,5100,51.71488,4.638296,2026-07-28 12:02,10005370467
+2026-07-28 13:47,A17,Stilstaand verkeer,Roosendaal - Dordrecht,Ter hoogte van knooppunt Klaverpolder.,Wegwerkzaamheden op aansluitende weg,12.0,1400,51.705456,4.645469,2026-07-28 12:50,10005370503
+2026-07-28 13:47,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,4.0,2200,51.815773,3.981904,2026-07-28 13:40,10005370535
