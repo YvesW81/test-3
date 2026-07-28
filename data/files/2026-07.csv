@@ -2250,3 +2250,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-27 16:24,N57,Stilstaand verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,14.0,5100,51.861423,4.156718,2026-07-27 16:10,10005370006
 2026-07-27 18:38,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Berkel en Rodenrijs (29) en de Rottemerentunnel.,,7.0,2100,51.97151,4.498364,2026-07-27 18:27,10005370150
 2026-07-27 18:38,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,,5.0,2000,51.716526,4.637297,2026-07-27 18:34,10005370151
+2026-07-28 09:09,A4,Langzaam rijdend verkeer,Rotterdam - Den Haag,Tussen Den Hoorn (13) en Rijswijk-Plaspoelpolder (10).,Defecte vrachtwagen,10.0,4100,52.033493,4.332113,2026-07-28 08:33,10005370284
+2026-07-28 09:09,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,13.0,1700,51.898357,6.165913,2026-07-28 08:59,10005370315
+2026-07-28 09:09,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Berkel en Rodenrijs (29) en de Rottemerentunnel.,,6.0,2000,51.971684,4.497709,2026-07-28 09:04,10005370320
+2026-07-28 09:09,A58,Stilstaand verkeer,Eindhoven - Tilburg,Tussen Oirschot (8) en Moergestel (9).,Defecte vrachtwagen,20.0,4800,51.516624,5.246674,2026-07-28 08:34,10005370287
