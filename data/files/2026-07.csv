@@ -2321,3 +2321,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-29 12:00,N59,Stilstaand verkeer,Bruinisse - Zierikzee,Tussen Bruinisse en Ouwerkerk.,,10.0,3500,51.643963,3.983787,2026-07-29 11:03,10005371016
 2026-07-29 12:00,N59,Stilstaand verkeer,Bruinisse - Serooskerke,Tussen Ouwerkerk en Scharendijke.,,7.0,2000,51.680256,3.861326,2026-07-29 11:47,10005371060
 2026-07-29 12:00,N61,Stilstaand verkeer,Terneuzen - Schoondijke,Tussen IJzendijke/Watervliet en Breskens/Oostburg.,,7.0,2500,51.34195,3.561585,2026-07-29 11:43,10005371057
+2026-07-29 14:08,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,13.0,2700,52.31377,7.043839,2026-07-29 12:07,10005371079
+2026-07-29 14:08,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen Waardenburg (16) en Kerkdriel (19).,,8.0,2000,51.790997,5.257855,2026-07-29 14:05,10005371162
+2026-07-29 14:08,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,Wegwerkzaamheden,11.0,3700,51.71488,4.638296,2026-07-29 09:29,10005370935
+2026-07-29 14:08,A17,Stilstaand verkeer,Roosendaal - Dordrecht,Tussen Moerdijk (27) en knooppunt Klaverpolder.,Wegwerkzaamheden op aansluitende weg,13.0,1800,51.706257,4.644825,2026-07-29 12:31,10005371095
+2026-07-29 14:08,A50,Stilstaand verkeer,Oss - Arnhem,Tussen knooppunt Ewijk en de Rijnbrug.,Wegwerkzaamheden,24.0,8400,51.961212,5.766399,2026-07-29 07:07,10005370886
+2026-07-29 14:08,A50,Stilstaand verkeer,Arnhem - Oss,Tussen Heteren (18) en knooppunt Valburg.,,9.0,2400,51.92078,5.771603,2026-07-29 14:01,10005371158
+2026-07-29 14:08,A325,Stilstaand verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Kronenburg.,,14.0,1600,51.962677,5.897426,2026-07-29 13:16,10005371133
+2026-07-29 14:08,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,4.0,2500,51.861423,4.156718,2026-07-29 13:48,10005371151
+2026-07-29 14:08,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,4.0,2200,51.815773,3.981904,2026-07-29 14:03,10005371159
