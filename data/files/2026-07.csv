@@ -2303,3 +2303,21 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-28 17:41,N57,Langzaam rijdend verkeer,Vrouwenpolder - Middelburg,Tussen Vrouwenpolder/Veere en Middelburg-Noord/Veere.,,4.0,2000,51.542538,3.605804,2026-07-28 17:32,10005370779
 2026-07-28 19:12,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,11.0,1900,51.898357,6.165913,2026-07-28 10:20,10005370407
 2026-07-29 09:16,A50,Stilstaand verkeer,Oss - Arnhem,Tussen knooppunt Valburg en de Rijnbrug.,Wegwerkzaamheden,13.0,4800,51.960407,5.7659,2026-07-29 07:07,10005370886
+2026-07-29 12:00,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,12.0,2500,52.31377,7.043839,2026-07-29 11:04,10005371017
+2026-07-29 12:00,A4,Stilstaand verkeer,Knooppunt Sabina - Belgische grens,Tussen Bergen op Zoom-Noord (27) en Hoogerheide (30).,Ongeval(len),29.0,4800,51.47069,4.312144,2026-07-29 11:12,10005371027
+2026-07-29 12:00,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,,13.0,2100,51.898357,6.165913,2026-07-29 11:25,10005371041
+2026-07-29 12:00,A15,Langzaam rijdend verkeer,Europoort - Ridderkerk,Tussen knooppunt Benelux en Rotterdam-Charlois (19).,Bergingswerkzaamheden,8.0,3500,51.8673,4.443405,2026-07-29 11:16,10005371030
+2026-07-29 12:00,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen knooppunt Ridderkerk-Zuid en knooppunt Ridderkerk-Noord.,Bergingswerkzaamheden,10.0,3000,51.869205,4.579639,2026-07-29 11:47,10005371059
+2026-07-29 12:00,A15,Stilstaand verkeer op parallelrijbaan,Europoort - Ridderkerk,Op de parallelbaan. Tussen knooppunt Benelux en Rotterdam-Heijplaat (18).,,9.0,3300,51.87092,4.426728,2026-07-29 11:53,10005371064
+2026-07-29 12:00,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Zonzeel en de Moerdijkbrug.,Wegwerkzaamheden,14.0,4700,51.709846,4.641596,2026-07-29 09:29,10005370935
+2026-07-29 12:00,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Berkel en Rodenrijs (29) en de Rottemerentunnel.,Extra verkeersdrukte door wegwerkzaamheden elders,9.0,2700,51.971992,4.496378,2026-07-29 11:46,10005371058
+2026-07-29 12:00,A17,Stilstaand verkeer,Roosendaal - Dordrecht,Tussen hm 0.5 = 31.0 en knooppunt Klaverpolder.,Wegwerkzaamheden op aansluitende weg,13.0,1600,51.706257,4.644825,2026-07-29 11:39,10005371053
+2026-07-29 12:00,A28,Stilstaand verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,,4.0,1100,52.078636,5.1592064,2026-07-29 11:52,10005371067
+2026-07-29 12:00,A35,Stilstaand verkeer,Zwolle - Enschede,Tussen Rijssen en Wierden (32).,,6.0,2100,52.35016,6.586142,2026-07-29 11:54,10005371068
+2026-07-29 12:00,A50,Stilstaand verkeer,Oss - Arnhem,Tussen knooppunt Ewijk en de Rijnbrug.,Wegwerkzaamheden,20.0,7300,51.95751,5.764548,2026-07-29 07:07,10005370886
+2026-07-29 12:00,N57,Stilstaand verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,8.0,2300,51.815773,3.981904,2026-07-29 10:36,10005370992
+2026-07-29 12:00,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,8.0,4700,51.861423,4.156718,2026-07-29 11:24,10005371040
+2026-07-29 12:00,N57,Langzaam rijdend verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,6.0,3000,51.544376,3.6051,2026-07-29 11:54,10005371069
+2026-07-29 12:00,N59,Stilstaand verkeer,Bruinisse - Zierikzee,Tussen Bruinisse en Ouwerkerk.,,10.0,3500,51.643963,3.983787,2026-07-29 11:03,10005371016
+2026-07-29 12:00,N59,Stilstaand verkeer,Bruinisse - Serooskerke,Tussen Ouwerkerk en Scharendijke.,,7.0,2000,51.680256,3.861326,2026-07-29 11:47,10005371060
+2026-07-29 12:00,N61,Stilstaand verkeer,Terneuzen - Schoondijke,Tussen IJzendijke/Watervliet en Breskens/Oostburg.,,7.0,2500,51.34195,3.561585,2026-07-29 11:43,10005371057
