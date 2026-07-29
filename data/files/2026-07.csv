@@ -2350,3 +2350,13 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-29 16:29,A50,Stilstaand verkeer,Oss - Arnhem,Tussen knooppunt Ewijk en de Rijnbrug.,Wegwerkzaamheden,31.0,9200,51.961212,5.766399,2026-07-29 07:07,10005370886
 2026-07-29 16:29,A325,Stilstaand verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Kronenburg.,Wegwerkzaamheden,16.0,1500,51.962677,5.897426,2026-07-29 15:53,10005371281
 2026-07-29 16:29,N11,Stilstaand verkeer,Bodegraven - Leiden,Tussen Bodegraven-Centrum (11) en Alphen a/d Rijn-Oost (10).,,11.0,2300,52.106487,4.703448,2026-07-29 16:23,10005371317
+2026-07-29 18:03,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,8.0,2200,52.31377,7.043839,2026-07-29 15:39,10005371255
+2026-07-29 18:03,A2,Stilstaand verkeer,Eindhoven - Maastricht,Tussen Leenderheide/Randweg N2 en Valkenswaard (34).,,10.0,2100,51.35218,5.540394,2026-07-29 18:00,10005371422
+2026-07-29 18:03,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen Leidschendam (8) en knooppunt Hofvliet.,Ongeval(len),20.0,5900,52.124737,4.481065,2026-07-29 17:27,10005371393
+2026-07-29 18:03,A7,Stilstaand verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,7.0,2400,53.07359,5.334256,2026-07-29 17:54,10005371419
+2026-07-29 18:03,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Berkel en Rodenrijs (29) en de Rottemerentunnel.,Extra verkeersdrukte door wegwerkzaamheden elders,10.0,2200,51.971325,4.499011,2026-07-29 14:50,10005371211
+2026-07-29 18:03,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Breda-Noord (17) en de Markbrug.,Defecte vrachtwagen,7.0,3300,51.633713,4.700789,2026-07-29 17:11,10005371372
+2026-07-29 18:03,A17,Stilstaand verkeer,Roosendaal - Dordrecht,Tussen Moerdijk (27) en knooppunt Klaverpolder.,Wegwerkzaamheden op aansluitende weg,12.0,1800,51.706257,4.644825,2026-07-29 13:06,10005371126
+2026-07-29 18:03,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen Numansdorp (22) en Oud-Beijerland (21).,Eerder ongeval,43.0,4300,51.8036,4.465814,2026-07-29 17:23,10005371387
+2026-07-29 18:03,A50,Stilstaand verkeer,Oss - Arnhem,Tussen knooppunt Ewijk en de Rijnbrug.,Wegwerkzaamheden,23.0,7200,51.96221,5.767021,2026-07-29 07:07,10005370886
+2026-07-29 18:03,A325,Stilstaand verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Kronenburg.,Wegwerkzaamheden,17.0,1600,51.962677,5.897426,2026-07-29 16:39,10005371339
