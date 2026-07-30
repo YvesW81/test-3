@@ -2405,3 +2405,13 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-30 16:41,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Op de verbindingsweg van de A59 vanuit Waalwijk naar de A2 richting Utrecht.,,4.0,900,51.72585,5.32191,2026-07-30 16:35,10005371966
 2026-07-30 16:41,A73,Stilstaand verkeer,Maasbracht - Nijmegen,Tussen Vierlingsbeek (7) en Boxmeer (6).,Verkeer ingesloten tussen afrit en incident met volledige wegblokkade,19.0,4600,51.612556,5.940428,2026-07-30 15:56,10005371891
 2026-07-30 16:41,A73,Stilstaand verkeer,Maasbracht - Nijmegen,Tussen Horst-Noord (10) en Venray (9).,,24.0,3200,51.516727,6.005646,2026-07-30 16:24,10005371940
+2026-07-30 18:16,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,6.0,2000,52.31377,7.043839,2026-07-30 16:25,10005371942
+2026-07-30 18:16,A4,Stilstaand verkeer,Den Haag - Rotterdam,Tussen Vlaardingen-Oost (16) en knooppunt Benelux.,,6.0,2300,51.884,4.381165,2026-07-30 15:32,10005371852
+2026-07-30 18:16,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen knooppunt De Hoek en de Schipholtunnel.,,11.0,2100,52.31127,4.749706,2026-07-30 18:13,10005372103
+2026-07-30 18:16,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,Wegwerkzaamheden,15.0,4700,52.426064,4.683553,2026-07-30 14:51,10005371818
+2026-07-30 18:16,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,11.0,1700,51.898357,6.165913,2026-07-30 16:56,10005372005
+2026-07-30 18:16,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Berkel en Rodenrijs (29) en de Rottemerentunnel.,,9.0,2300,51.971844,4.497047,2026-07-30 14:40,10005371806
+2026-07-30 18:16,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,,7.0,2500,51.71488,4.638296,2026-07-30 18:05,10005372100
+2026-07-30 18:16,A27,Stilstaand verkeer,Utrecht - Almere,Tussen Hilversum (33) en Eemnes (34).,Wegwerkzaamheden op aansluitende weg,10.0,2400,52.246613,5.247003,2026-07-30 16:14,10005371923
+2026-07-30 18:16,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Numansdorp (22) en de Haringvlietbrug.,,10.0,2200,51.7202,4.403424,2026-07-30 18:12,10005372102
+2026-07-30 18:16,A73,Stilstaand verkeer,Maasbracht - Nijmegen,Tussen Horst-Noord (10) en Venray (9).,Ongevalsonderzoek,17.0,3900,51.516727,6.005646,2026-07-30 16:24,10005371940
