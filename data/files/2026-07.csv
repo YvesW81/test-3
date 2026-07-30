@@ -2378,3 +2378,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-30 12:53,A35,Stilstaand verkeer,Almelo - Enschede,Tussen Almelo-West (31) en Almelo-Zuid (30).,Demonstratie,18.0,3500,52.324127,6.645405,2026-07-30 12:38,10005371700
 2026-07-30 12:53,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,7.0,2300,50.818733,6.024534,2026-07-30 11:54,10005371670
 2026-07-30 12:53,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,4.0,2200,51.815773,3.981904,2026-07-30 12:34,10005371697
+2026-07-30 14:26,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,,13.0,2800,52.31377,7.043839,2026-07-30 14:16,10005371792
+2026-07-30 14:26,A4,Langzaam rijdend verkeer,Den Haag - Rotterdam,Tussen Schiedam-Noord (10) en knooppunt Benelux.,,6.0,3500,51.88484,4.380697,2026-07-30 14:11,10005371786
+2026-07-30 14:26,A5,Stilstaand verkeer,Hoofddorp - Amsterdam,Tussen knooppunt De Hoek en de brug over de Hoofdvaart.,,12.0,2700,52.316093,4.732927,2026-07-30 14:15,10005371791
+2026-07-30 14:26,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,,16.0,2000,51.898357,6.165913,2026-07-30 13:32,10005371754
+2026-07-30 14:26,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,Wegwerkzaamheden,10.0,3100,51.711994,4.640061,2026-07-30 09:42,10005371779
+2026-07-30 14:26,A17,Stilstaand verkeer,Roosendaal - Dordrecht,Tussen Moerdijk (27) en knooppunt Klaverpolder.,Wegwerkzaamheden op aansluitende weg,14.0,1800,51.706257,4.644825,2026-07-30 13:55,10005371778
+2026-07-30 14:26,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,,5.0,2800,52.03998,5.93244,2026-07-30 14:15,10005371790
+2026-07-30 14:26,A58,Stilstaand verkeer,Breda - Eindhoven,Tussen knooppunt De Baars en Oirschot (8).,Defecte vrachtwagen,27.0,7600,51.517033,5.244991,2026-07-30 12:55,10005371716
+2026-07-30 14:26,N57,Langzaam rijdend verkeer,Vrouwenpolder - Middelburg,Tussen Vrouwenpolder/Veere en Middelburg-Noord/Veere.,,4.0,2100,51.542538,3.605804,2026-07-30 14:14,10005371789
