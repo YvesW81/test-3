@@ -2498,3 +2498,22 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-07-31 14:20,N57,Langzaam rijdend verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,6.0,3000,51.544376,3.6051,2026-07-31 14:06,10005372813
 2026-07-31 14:20,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,10.0,4200,51.861423,4.156718,2026-07-31 14:09,10005372827
 2026-07-31 14:20,N57,Langzaam rijdend verkeer,Ellemeet - Stellendam,Tussen Port Zélande en Goedereede.,,6.0,3200,51.8156,3.983306,2026-07-31 14:10,10005372830
+2026-07-31 16:42,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,16.0,2400,52.31377,7.043839,2026-07-31 10:14,10005372500
+2026-07-31 16:42,A2,Langzaam rijdend verkeer,Maastricht - Eindhoven,Tussen knooppunt Leenderheide en knooppunt Batadorp.,,10.0,5400,51.42163,5.428632,2026-07-31 15:48,10005373152
+2026-07-31 16:42,A4,Stilstaand verkeer,Den Haag - Rotterdam,Tussen Schiedam-Noord (10) en knooppunt Benelux.,Extra verkeersdrukte door wegwerkzaamheden elders,18.0,6400,51.873512,4.400677,2026-07-31 12:16,10005372485
+2026-07-31 16:42,A4,Langzaam rijdend verkeer op parallelrijbaan,Den Haag - Rotterdam,Op de parallelbaan. Tussen Schiedam-Noord (10) en knooppunt Benelux.,,5.0,3300,51.87343,4.396017,2026-07-31 16:21,10005373230
+2026-07-31 16:42,A9,Langzaam rijdend verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,Wegwerkzaamheden,12.0,5100,52.43111,4.677774,2026-07-31 14:29,10005372890
+2026-07-31 16:42,A10,Stilstaand verkeer,Knooppunt Coenplein - Knooppunt Watergraafsmeer,Tussen Amsterdam-Tuindorp Oostzaan (18) en de Zeeburgertunnel.,Ongeval(len),68.0,7500,52.376682,4.973951,2026-07-31 13:29,10005372670
+2026-07-31 16:42,A10,Langzaam rijdend verkeer,Knooppunt Coenplein - Knooppunt Amstel,Tussen Amsterdam-De Baarsjes (5) en Amsterdam-Rivierenbuurt (9).,,11.0,4700,52.338253,4.867404,2026-07-31 14:15,10005372842
+2026-07-31 16:42,A12,Stilstaand verkeer,Arnhem - Duitse grens,Tussen Zevenaar (29) en knooppunt Oud-Dijk.,Bergingswerkzaamheden,16.0,3300,51.919228,6.129972,2026-07-31 09:22,10005373105
+2026-07-31 16:42,A15,Stilstaand verkeer,Europoort - Ridderkerk,Tussen Hoogvliet (17) en Rotterdam-Charlois (19).,,17.0,5400,51.868874,4.436919,2026-07-31 15:51,10005373160
+2026-07-31 16:42,A15,Stilstaand verkeer op parallelrijbaan,Europoort - Ridderkerk,Op de parallelbaan. Tussen Hoogvliet (17) en Rotterdam-Heijplaat (18).,,16.0,4700,51.870632,4.426617,2026-07-31 16:05,10005373190
+2026-07-31 16:42,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Zonzeel en de Moerdijkbrug.,Wegwerkzaamheden,22.0,5700,51.715294,4.638046,2026-07-31 10:26,10005372254
+2026-07-31 16:42,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Zestienhoven en de Rottemerentunnel.,Extra verkeersdrukte door wegwerkzaamheden elders,14.0,3500,51.966892,4.508994,2026-07-31 12:36,10005372534
+2026-07-31 16:42,A17,Stilstaand verkeer,Roosendaal - Dordrecht,Tussen Moerdijk (27) en knooppunt Klaverpolder.,Extra verkeersdrukte door wegwerkzaamheden elders,12.0,1700,51.706257,4.644825,2026-07-31 16:24,10005373236
+2026-07-31 16:42,A22,Langzaam rijdend verkeer,Beverwijk - Velsen,Tussen knooppunt Beverwijk en de Velsertunnel.,,9.0,4400,52.46391,4.653736,2026-07-31 16:10,10005373203
+2026-07-31 16:42,A27,Stilstaand verkeer,Utrecht - Almere,Tussen Hilversum (33) en Eemnes (34).,,8.0,2700,52.244465,5.246674,2026-07-31 16:15,10005373218
+2026-07-31 16:42,A28,Stilstaand verkeer,Amersfoort - Zwolle,Tussen Harderwijk (13) en Epe (15).,Opruimwerkzaamheden,54.0,10500,52.372814,5.819826,2026-07-31 15:19,10005373042
+2026-07-31 16:42,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,11.0,2800,50.818733,6.024534,2026-07-31 14:30,10005372894
+2026-07-31 16:42,A325,Stilstaand verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Kronenburg.,Wegwerkzaamheden,13.0,1300,51.96278,5.897284,2026-07-31 14:36,10005372906
+2026-07-31 16:42,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,4.0,2300,51.815773,3.981904,2026-07-31 16:05,10005373194
