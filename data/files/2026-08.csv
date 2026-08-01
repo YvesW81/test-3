@@ -28,3 +28,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-01 13:37,A58,Langzaam rijdend verkeer,Bergen op Zoom - Vlissingen,Tussen knooppunt De Poel en Heinkenszand (36).,Brandend voertuig,5.0,2400,51.484524,3.826347,2026-08-01 13:10,10005373667
 2026-08-01 13:37,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,13.0,1500,50.818733,6.024534,2026-08-01 11:26,10005373520
 2026-08-01 13:37,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,6.0,2300,51.815773,3.981904,2026-08-01 13:15,10005373676
+2026-08-01 14:37,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,5.0,3300,52.93327,5.039222,2026-08-01 14:32,10005373735
+2026-08-01 14:37,A9,Langzaam rijdend verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,Wegwerkzaamheden,8.0,4000,52.43629,4.672442,2026-08-01 13:56,10005373710
+2026-08-01 14:37,A10,Stilstaand verkeer,Knooppunt Coenplein - Knooppunt Amstel,Tussen knooppunt De Nieuwe Meer en Amsterdam-Rivierenbuurt (9).,Ongeval(len),23.0,3100,52.33812,4.885987,2026-08-01 14:24,10005373728
+2026-08-01 14:37,A12,Langzaam rijdend verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,,5.0,2500,52.020836,5.891451,2026-08-01 14:33,10005373737
+2026-08-01 14:37,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,Wegwerkzaamheden,10.0,2900,51.716114,4.637547,2026-08-01 13:07,10005373659
+2026-08-01 14:37,A22,Langzaam rijdend verkeer,Velsen - Beverwijk,Tussen knooppunt Velsen en de Velsertunnel.,Wegwerkzaamheden,8.0,3900,52.46742,4.652673,2026-08-01 12:11,10005373593
+2026-08-01 14:37,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,17.0,1900,50.818733,6.024534,2026-08-01 12:07,10005373587
+2026-08-01 14:37,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,8.0,2400,51.544376,3.6051,2026-08-01 13:42,10005373700
+2026-08-01 14:37,N57,Stilstaand verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,6.0,2200,51.815773,3.981904,2026-08-01 14:14,10005373722
