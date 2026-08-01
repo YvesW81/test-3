@@ -2,3 +2,18 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-01 10:35,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,13.0,2300,52.31377,7.043839,2026-08-01 09:53,10005373427
 2026-08-01 10:35,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1800,51.898357,6.165913,2026-08-01 09:47,10005373422
 2026-08-01 10:35,N57,Stilstaand verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,7.0,2300,51.815773,3.981904,2026-08-01 10:21,10005373436
+2026-08-01 12:18,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,12.0,2100,52.31377,7.043839,2026-08-01 09:53,10005373427
+2026-08-01 12:18,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Voorthuizen (16).,,21.0,9200,52.16874,5.597604,2026-08-01 11:27,10005373522
+2026-08-01 12:18,A7,Stilstaand verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,11.0,3900,53.07359,5.334256,2026-08-01 11:14,10005373498
+2026-08-01 12:18,A7,Langzaam rijdend verkeer,Ring-Sneek-West - Den Oever,Tussen Zurich (15) en Breezanddijk.,,5.0,2300,53.07294,5.327299,2026-08-01 12:07,10005373588
+2026-08-01 12:18,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,Wegwerkzaamheden,10.0,3500,52.430367,4.678548,2026-08-01 12:01,10005373579
+2026-08-01 12:18,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1800,51.898357,6.165913,2026-08-01 09:47,10005373422
+2026-08-01 12:18,A12,Stilstaand verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,Extra verkeersdrukte door wegwerkzaamheden elders,10.0,3700,52.02113,5.890106,2026-08-01 10:37,10005373445
+2026-08-01 12:18,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Duiven (28).,,15.0,8700,51.950897,6.057587,2026-08-01 11:11,10005373495
+2026-08-01 12:18,A12,Stilstaand verkeer,Utrecht - Den Haag,Tussen Woerden (14) en Bodegraven.,Brandend voertuig,20.0,5200,52.067307,4.754659,2026-08-01 11:32,10005373536
+2026-08-01 12:18,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,13.0,1500,50.818733,6.024534,2026-08-01 11:26,10005373520
+2026-08-01 12:18,N35,Langzaam rijdend verkeer,Duitse grens - Almelo,Tussen Nederland en Enschede (25).,,5.0,2600,52.200645,6.885985,2026-08-01 12:10,10005373592
+2026-08-01 12:18,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Rockanje.,,7.0,3300,51.858776,4.143179,2026-08-01 11:03,10005373483
+2026-08-01 12:18,N57,Stilstaand verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,7.0,2200,51.815773,3.981904,2026-08-01 11:16,10005373502
+2026-08-01 12:18,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,8.0,2900,51.544376,3.6051,2026-08-01 12:06,10005373584
+2026-08-01 12:18,N59,Langzaam rijdend verkeer,Oude-Tonge - Zierikzee,Tussen Steenbergen en Nieuwerkerk.,,8.0,3800,51.653263,4.026916,2026-08-01 12:08,10005373589
