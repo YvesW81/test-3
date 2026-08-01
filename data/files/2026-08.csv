@@ -17,3 +17,14 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-01 12:18,N57,Stilstaand verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,7.0,2200,51.815773,3.981904,2026-08-01 11:16,10005373502
 2026-08-01 12:18,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,8.0,2900,51.544376,3.6051,2026-08-01 12:06,10005373584
 2026-08-01 12:18,N59,Langzaam rijdend verkeer,Oude-Tonge - Zierikzee,Tussen Steenbergen en Nieuwerkerk.,,8.0,3800,51.653263,4.026916,2026-08-01 12:08,10005373589
+2026-08-01 13:37,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,12.0,2100,52.31377,7.043839,2026-08-01 09:53,10005373427
+2026-08-01 13:37,A2,Langzaam rijdend verkeer,Maastricht - Eindhoven,Tussen knooppunt Leenderheide en knooppunt Batadorp.,Ongeval(len),8.0,3500,51.417236,5.429184,2026-08-01 13:13,10005373672
+2026-08-01 13:37,A2,Langzaam rijdend verkeer,Eindhoven - Maastricht,Tussen knooppunt Batadorp en knooppunt De Hogt.,,11.0,5000,51.42671,5.42779,2026-08-01 13:28,10005373684
+2026-08-01 13:37,A6,Stilstaand verkeer,Lelystad - Emmeloord,Tussen Lelystad-Noord (11) en de Ketelbrug.,,9.0,2200,52.608994,5.639088,2026-08-01 13:28,10005373685
+2026-08-01 13:37,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1800,51.898357,6.165913,2026-08-01 09:47,10005373422
+2026-08-01 13:37,A12,Stilstaand verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,Extra verkeersdrukte door wegwerkzaamheden elders,9.0,3500,52.02378,5.88029,2026-08-01 10:37,10005373445
+2026-08-01 13:37,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,Wegwerkzaamheden,11.0,4000,51.716938,4.637047,2026-08-01 13:07,10005373659
+2026-08-01 13:37,A22,Langzaam rijdend verkeer,Velsen - Beverwijk,Tussen knooppunt Velsen en de Velsertunnel.,,7.0,3500,52.46652,4.653001,2026-08-01 12:11,10005373593
+2026-08-01 13:37,A58,Langzaam rijdend verkeer,Bergen op Zoom - Vlissingen,Tussen knooppunt De Poel en Heinkenszand (36).,Brandend voertuig,5.0,2400,51.484524,3.826347,2026-08-01 13:10,10005373667
+2026-08-01 13:37,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,13.0,1500,50.818733,6.024534,2026-08-01 11:26,10005373520
+2026-08-01 13:37,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,6.0,2300,51.815773,3.981904,2026-08-01 13:15,10005373676
