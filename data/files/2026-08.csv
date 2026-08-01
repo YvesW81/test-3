@@ -1,0 +1,4 @@
+tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,start_tijd,file_id
+2026-08-01 10:35,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,13.0,2300,52.31377,7.043839,2026-08-01 09:53,10005373427
+2026-08-01 10:35,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1800,51.898357,6.165913,2026-08-01 09:47,10005373422
+2026-08-01 10:35,N57,Stilstaand verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,7.0,2300,51.815773,3.981904,2026-08-01 10:21,10005373436
