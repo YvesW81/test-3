@@ -53,3 +53,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-02 12:57,A50,Langzaam rijdend tot stilstaand verkeer,Apeldoorn - Zwolle,Tussen Epe (27) en Heerde-Zuid (28).,Eerder ongeval,0,2000,52.365086,6.026222,2026-08-02 11:26,10005373859
 2026-08-02 14:03,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,13.0,1700,51.898357,6.165913,2026-08-02 10:38,10005373837
 2026-08-02 14:03,A16,Stilstaand verkeer op parallelrijbaan,Rotterdam - Breda,Op de parallelbaan. Tussen Capelle a/d IJssel (25) en de Van Brienenoordbrug.,,7.0,2000,51.90232,4.543663,2026-08-02 13:47,10005373919
+2026-08-02 15:48,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Beek (30) en Duitsland.,Door grenscontrole,16.0,1300,51.898357,6.165913,2026-08-02 15:10,10005373955
+2026-08-02 15:48,A22,Langzaam rijdend verkeer,Velsen - Beverwijk,Tussen knooppunt Velsen en de Velsertunnel.,Extra verkeersdrukte door wegwerkzaamheden elders,6.0,3700,52.465664,4.65331,2026-08-02 13:22,10005373906
+2026-08-02 15:48,A27,Stilstaand verkeer,Gorinchem - Utrecht,Tussen Noordeloos (25) en Lexmond (26).,,6.0,2100,51.94188,5.006379,2026-08-02 15:42,10005373969
+2026-08-02 15:48,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1900,50.818733,6.024534,2026-08-02 15:36,10005373964
