@@ -71,3 +71,16 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-03 10:15,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,2000,51.898357,6.165913,2026-08-03 09:29,10005374105
 2026-08-03 10:15,A22,Stilstaand verkeer,Beverwijk - Velsen,Tussen knooppunt Beverwijk en Beverwijk (2).,Te hoog voertuig,11.0,2100,52.472748,4.652604,2026-08-03 10:12,10005374119
 2026-08-03 10:15,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Numansdorp (22) en de Haringvlietbrug.,,12.0,2200,51.7202,4.403424,2026-08-03 10:10,10005374118
+2026-08-03 13:47,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2000,52.31377,7.043839,2026-08-03 10:56,10005374154
+2026-08-03 13:47,A2,Stilstaand verkeer,Maastricht - Eindhoven,Tussen knooppunt Kruisdonk en Elsloo (49).,Brandend voertuig,21.0,4100,50.932346,5.781131,2026-08-03 13:35,10005374368
+2026-08-03 13:47,A7,Langzaam rijdend verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,4.0,2300,53.0737,5.334949,2026-08-03 13:40,10005374377
+2026-08-03 13:47,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,4.0,3100,52.93327,5.039222,2026-08-03 13:43,10005374383
+2026-08-03 13:47,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,Wegwerkzaamheden,38.0,3900,52.43521,4.673547,2026-08-03 13:26,10005374353
+2026-08-03 13:47,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1800,51.898357,6.165913,2026-08-03 09:44,10005374112
+2026-08-03 13:47,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Duiven (28).,,16.0,7200,51.945107,6.075811,2026-08-03 12:26,10005374260
+2026-08-03 13:47,A12,Langzaam rijdend verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,,7.0,4100,52.021446,5.888774,2026-08-03 13:36,10005374370
+2026-08-03 13:47,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Sliedrecht-Oost (25) en Alblasserdam (22).,Technische storing,39.0,7000,51.846127,4.688601,2026-08-03 11:30,10005374190
+2026-08-03 13:47,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht (20) en Hendrik-Ido-Ambacht (23).,,18.0,7200,51.84036,4.613875,2026-08-03 12:30,10005374271
+2026-08-03 13:47,A58,Langzaam rijdend verkeer,Tilburg - Breda,Tussen Tilburg-Reeshof (12) en Bavel (13).,,6.0,2800,51.55769,4.862858,2026-08-03 13:14,10005374331
+2026-08-03 13:47,A73,Langzaam rijdend verkeer,Nijmegen - Maasbracht,Tussen Nijmegen-Dukenburg (2) en Cuijk (4).,,15.0,6800,51.74799,5.840729,2026-08-03 13:31,10005374362
+2026-08-03 13:47,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,8.0,2100,50.818733,6.024534,2026-08-03 11:18,10005374176
