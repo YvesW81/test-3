@@ -68,3 +68,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-02 20:08,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1800,50.818733,6.024534,2026-08-02 18:21,10005374010
 2026-08-02 21:31,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Beek (30) en Duitsland.,Door grenscontrole,12.0,1400,51.898357,6.165913,2026-08-02 16:46,10005373992
 2026-08-03 06:49,A6,Stilstaand verkeer op parallelrijbaan,Lelystad - Muiden,Op de parallelbaan. Tussen Almere-Stedenwijk (3) en de Hollandse Brug.,Opruimwerkzaamheden,13.0,2800,52.3316,5.15054,2026-08-03 06:18,10005374051
+2026-08-03 10:15,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,2000,51.898357,6.165913,2026-08-03 09:29,10005374105
+2026-08-03 10:15,A22,Stilstaand verkeer,Beverwijk - Velsen,Tussen knooppunt Beverwijk en Beverwijk (2).,Te hoog voertuig,11.0,2100,52.472748,4.652604,2026-08-03 10:12,10005374119
+2026-08-03 10:15,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Numansdorp (22) en de Haringvlietbrug.,,12.0,2200,51.7202,4.403424,2026-08-03 10:10,10005374118
