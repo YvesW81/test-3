@@ -84,3 +84,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-03 13:47,A58,Langzaam rijdend verkeer,Tilburg - Breda,Tussen Tilburg-Reeshof (12) en Bavel (13).,,6.0,2800,51.55769,4.862858,2026-08-03 13:14,10005374331
 2026-08-03 13:47,A73,Langzaam rijdend verkeer,Nijmegen - Maasbracht,Tussen Nijmegen-Dukenburg (2) en Cuijk (4).,,15.0,6800,51.74799,5.840729,2026-08-03 13:31,10005374362
 2026-08-03 13:47,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,8.0,2100,50.818733,6.024534,2026-08-03 11:18,10005374176
+2026-08-03 16:04,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2500,52.31377,7.043839,2026-08-03 14:01,10005374414
+2026-08-03 16:04,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,Wegwerkzaamheden,15.0,5100,52.427082,4.68218,2026-08-03 15:45,10005374512
+2026-08-03 16:04,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1500,51.898357,6.165913,2026-08-03 13:08,10005374324
+2026-08-03 16:04,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen knooppunt Ridderkerk-Zuid en knooppunt Ridderkerk-Noord.,Ongeval(len),11.0,3800,51.86161,4.592501,2026-08-03 15:35,10005374501
+2026-08-03 16:04,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Berkel en Rodenrijs (29) en de Rottemerentunnel.,,9.0,2600,51.971844,4.497047,2026-08-03 15:51,10005374516
+2026-08-03 16:04,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Rotterdam-Schiebroek (14) en de Giessenbrug.,,5.0,2200,51.92793,4.430193,2026-08-03 15:58,10005374521
+2026-08-03 16:04,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,8.0,2100,50.818733,6.024534,2026-08-03 11:18,10005374176
