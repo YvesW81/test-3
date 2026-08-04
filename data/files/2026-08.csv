@@ -97,3 +97,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-04 12:00,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,7.0,2200,52.31377,7.043839,2026-08-04 11:51,10005374828
 2026-08-04 12:00,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,7.0,3100,52.93327,5.039222,2026-08-04 11:55,10005374830
 2026-08-04 12:00,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1800,51.898357,6.165913,2026-08-04 09:54,10005374771
+2026-08-04 14:12,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2300,52.31377,7.043839,2026-08-04 11:51,10005374828
+2026-08-04 14:12,A2,Stilstaand verkeer,Eindhoven - 's-Hertogenbosch,Tussen Best-West (27) en Boxtel (26).,Brandend voertuig,44.0,5300,51.574802,5.356405,2026-08-04 13:30,10005374862
+2026-08-04 14:12,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1800,51.898357,6.165913,2026-08-04 12:38,10005374843
+2026-08-04 14:12,A15,Stilstaand verkeer,Europoort - Ridderkerk,Tussen Rotterdam-Charlois (19) en Rotterdam-Zuidplein (19a).,Defecte vrachtwagen,17.0,2900,51.86224,4.4782,2026-08-04 14:05,10005374878
+2026-08-04 14:12,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,,10.0,2700,50.818733,6.024534,2026-08-04 13:39,10005374869
+2026-08-04 14:12,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2200,51.702415,3.792988,2026-08-04 14:03,10005374877
