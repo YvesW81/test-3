@@ -121,3 +121,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-05 11:58,A7,Stilstaand verkeer,Westerbroek - Bremen,Tussen Bad Nieuweschans (49) en Duitsland.,Door grenscontrole,13.0,1200,53.18038,7.227433,2026-08-05 11:28,10005375227
 2026-08-05 11:58,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,Verkeerssituatie gewijzigd als gevolg van wegwerkzaamheden,4.0,3100,52.93327,5.039222,2026-08-05 11:36,10005375233
 2026-08-05 11:58,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,16.0,2100,51.898357,6.165913,2026-08-05 09:36,10005375156
+2026-08-05 14:01,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,8.0,2000,52.31377,7.043839,2026-08-05 10:58,10005375200
+2026-08-05 14:01,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen Waardenburg (16) en Kerkdriel (19).,Eerder pechgeval,10.0,3700,51.781757,5.258021,2026-08-05 13:31,10005375298
+2026-08-05 14:01,A7,Stilstaand verkeer,Westerbroek - Bremen,Tussen Oudeschans (48) en Duitsland.,Door grenscontrole,11.0,1300,53.18038,7.227433,2026-08-05 11:28,10005375227
+2026-08-05 14:01,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,Wegwerkzaamheden,17.0,2200,52.43629,4.672442,2026-08-05 13:52,10005375314
+2026-08-05 14:01,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,15.0,2200,51.898357,6.165913,2026-08-05 09:36,10005375156
+2026-08-05 14:01,A50,Stilstaand verkeer,Oss - Arnhem,Tussen Ravenstein (17) en knooppunt Bankhoef.,,8.0,3100,51.812443,5.678814,2026-08-05 13:54,10005375315
