@@ -137,3 +137,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-05 16:28,A67,Stilstaand verkeer,Venlo - Eindhoven,Tussen Asten (36) en de brug over de Zuid-Willemsvaart.,Defecte vrachtwagen,14.0,3400,51.42211,5.701109,2026-08-05 16:10,10005375422
 2026-08-05 16:28,N57,Stilstaand verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,12.0,2000,51.857433,4.123511,2026-08-05 16:12,10005375426
 2026-08-05 16:28,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,8.0,3000,51.544376,3.6051,2026-08-05 16:16,10005375434
+2026-08-05 18:15,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,6.0,2200,52.31377,7.043839,2026-08-05 13:00,10005375285
+2026-08-05 18:15,A8,Langzaam rijdend verkeer,Amsterdam - Zaandam,Tussen knooppunt Coenplein en knooppunt Zaandam.,,4.0,2400,52.441044,4.85794,2026-08-05 18:12,10005375538
+2026-08-05 18:15,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen Haarlem-Zuid en knooppunt Velsen.,Wegwerkzaamheden,32.0,6000,52.4251,4.68502,2026-08-05 14:50,10005375355
+2026-08-05 18:15,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,2000,51.898357,6.165913,2026-08-05 09:36,10005375156
+2026-08-05 18:15,A15,Stilstaand verkeer,Ridderkerk - Gorinchem,Tussen Sliedrecht-West (24) en Gorinchem (27).,Ongeval(len),19.0,4200,51.825024,4.858067,2026-08-05 17:46,10005375529
