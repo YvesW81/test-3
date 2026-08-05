@@ -116,3 +116,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-04 18:32,A28,Stilstaand verkeer,Utrecht - Amersfoort,Tussen Leusden-Zuid (6) en Leusden (7).,Opruimwerkzaamheden,8.0,3000,52.147552,5.412893,2026-08-04 17:28,10005375018
 2026-08-04 21:59,A4,Stilstaand verkeer,Knooppunt Sabina - Belgische grens,Tussen knooppunt Sabina en Dinteloord (24).,Ongeval(len),0,2000,51.636223,4.389297,2026-08-04 21:55,10005375074
 2026-08-05 09:11,A2,Stilstaand verkeer,Maastricht - Eindhoven,Tussen knooppunt De Hogt en knooppunt Batadorp.,,16.0,4600,51.456444,5.412878,2026-08-05 09:02,10005375138
+2026-08-05 11:58,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,8.0,2000,52.31377,7.043839,2026-08-05 10:58,10005375200
+2026-08-05 11:58,A1,Langzaam rijdend verkeer,Amsterdam - Amersfoort,Tussen Naarden-Vesting (6) en Hotel/Restaurant De Witte Bergen (9a).,Wegwerkzaamheden,12.0,5400,52.24681,5.215334,2026-08-05 11:21,10005375215
+2026-08-05 11:58,A7,Stilstaand verkeer,Westerbroek - Bremen,Tussen Bad Nieuweschans (49) en Duitsland.,Door grenscontrole,13.0,1200,53.18038,7.227433,2026-08-05 11:28,10005375227
+2026-08-05 11:58,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,Verkeerssituatie gewijzigd als gevolg van wegwerkzaamheden,4.0,3100,52.93327,5.039222,2026-08-05 11:36,10005375233
+2026-08-05 11:58,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,16.0,2100,51.898357,6.165913,2026-08-05 09:36,10005375156
