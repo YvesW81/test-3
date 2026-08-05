@@ -127,3 +127,13 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-05 14:01,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,Wegwerkzaamheden,17.0,2200,52.43629,4.672442,2026-08-05 13:52,10005375314
 2026-08-05 14:01,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,15.0,2200,51.898357,6.165913,2026-08-05 09:36,10005375156
 2026-08-05 14:01,A50,Stilstaand verkeer,Oss - Arnhem,Tussen Ravenstein (17) en knooppunt Bankhoef.,,8.0,3100,51.812443,5.678814,2026-08-05 13:54,10005375315
+2026-08-05 16:28,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,6.0,2200,52.31377,7.043839,2026-08-05 13:00,10005375285
+2026-08-05 16:28,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,Wegwerkzaamheden,56.0,5300,52.43629,4.672442,2026-08-05 14:50,10005375355
+2026-08-05 16:28,A10,Stilstaand verkeer,Knooppunt Amstel - Knooppunt Coenplein,Tussen Amsterdam-Rivierenbuurt (9) en Amsterdam-Slotervaart (7).,,8.0,3300,52.339912,4.841842,2026-08-05 16:13,10005375427
+2026-08-05 16:28,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,2000,51.898357,6.165913,2026-08-05 09:36,10005375156
+2026-08-05 16:28,A15,Stilstaand verkeer,Ridderkerk - Gorinchem,Tussen knooppunt Ridderkerk-Noord en Hendrik-Ido-Ambacht (21).,Te hoog voertuig,17.0,2500,51.856438,4.629513,2026-08-05 16:19,10005375438
+2026-08-05 16:28,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Berkel en Rodenrijs (29) en de Rottemerentunnel.,,8.0,2300,51.97151,4.498364,2026-08-05 16:14,10005375430
+2026-08-05 16:28,A22,Stilstaand verkeer,Velsen - Beverwijk,Tussen knooppunt Velsen en IJmuiden (1).,Ongeval(len),24.0,3000,52.460526,4.655176,2026-08-05 16:09,10005375420
+2026-08-05 16:28,A67,Stilstaand verkeer,Venlo - Eindhoven,Tussen Asten (36) en de brug over de Zuid-Willemsvaart.,Defecte vrachtwagen,14.0,3400,51.42211,5.701109,2026-08-05 16:10,10005375422
+2026-08-05 16:28,N57,Stilstaand verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,12.0,2000,51.857433,4.123511,2026-08-05 16:12,10005375426
+2026-08-05 16:28,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,8.0,3000,51.544376,3.6051,2026-08-05 16:16,10005375434
