@@ -160,3 +160,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-06 13:31,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,20.0,2500,51.898357,6.165913,2026-08-06 09:21,10005375635
 2026-08-06 13:31,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Ridderkerk-Zuid en de Drechttunnel.,Ongeval met vrachtwagen,27.0,5300,51.807003,4.649768,2026-08-06 12:06,10005375740
 2026-08-06 13:31,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,6.0,2100,50.818733,6.024534,2026-08-06 10:30,10005375670
+2026-08-06 15:13,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,11.0,2100,52.31377,7.043839,2026-08-06 09:53,10005375645
+2026-08-06 15:13,A2,Stilstaand verkeer,Maastricht - Eindhoven,Tussen Grathem (41) en Weert-Noord (38).,Brandend voertuig,49.0,12864,51.276955,5.674781,2026-08-06 13:15,10005375791
+2026-08-06 15:13,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en knooppunt Velsen.,,34.0,4600,52.43629,4.672442,2026-08-06 14:36,10005375828
+2026-08-06 15:13,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1800,51.898357,6.165913,2026-08-06 09:21,10005375635
+2026-08-06 15:13,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen Hendrik-Ido-Ambacht (23) en de Drechttunnel.,Eerder ongeval,6.0,3500,51.80658,4.649934,2026-08-06 12:06,10005375740
+2026-08-06 15:13,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Numansdorp (22) en de Haringvlietbrug.,,13.0,2400,51.7202,4.403424,2026-08-06 15:07,10005375849
+2026-08-06 15:13,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,6.0,2100,50.818733,6.024534,2026-08-06 10:30,10005375670
+2026-08-06 15:13,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,4.0,2200,51.815773,3.981904,2026-08-06 15:09,10005375851
