@@ -420,3 +420,15 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-08 10:01,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Zwijndrecht (22) en knooppunt Ridderkerk-Zuid.,Opruimwerkzaamheden,6.0,2600,51.843662,4.610583,2026-08-08 09:39,10005377324
 2026-08-08 10:01,A28,Stilstaand verkeer,Amersfoort - Zwolle,Tussen 't Harde (16) en Wezep (17).,Bergingswerkzaamheden,15.0,3900,52.451004,5.976794,2026-08-08 09:34,10005377323
 2026-08-08 10:01,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,7.0,3300,51.861423,4.156718,2026-08-08 09:55,10005377329
+2026-08-08 10:54,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Voorthuizen (16).,,15.0,8600,52.16778,5.569062,2026-08-08 10:27,10005377340
+2026-08-08 10:54,A2,Stilstaand verkeer,Eindhoven - Maastricht,Tussen knooppunt Batadorp en knooppunt De Hogt.,Ongeval(len),19.0,3000,51.452255,5.421006,2026-08-08 10:44,10005377359
+2026-08-08 10:54,A2,Langzaam rijdend verkeer,Maastricht - Eindhoven,Tussen knooppunt Leenderheide en knooppunt Batadorp.,,5.0,3000,51.418552,5.429019,2026-08-08 10:47,10005377362
+2026-08-08 10:54,A7,Langzaam rijdend verkeer,Ring-Sneek-West - Den Oever,Tussen Zurich (15) en de brug over de Lorentzsluis.,,5.0,2500,53.07327,5.329382,2026-08-08 10:48,10005377364
+2026-08-08 10:54,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,14.0,1500,51.898357,6.165913,2026-08-08 09:34,10005377322
+2026-08-08 10:54,A12,Langzaam rijdend verkeer,Duitse grens - Utrecht,Tussen knooppunt Velperbroek en Arnhem-Noord (26).,,7.0,3000,52.008602,5.94488,2026-08-08 10:11,10005377331
+2026-08-08 10:54,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen Rotterdam-Charlois (19) en knooppunt Benelux.,,6.0,2600,51.873432,4.411438,2026-08-08 10:43,10005377357
+2026-08-08 10:54,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zwijndrecht (22) en knooppunt Ridderkerk-Zuid.,Wegwerkzaamheden,8.0,2800,51.847843,4.606449,2026-08-08 10:36,10005377349
+2026-08-08 10:54,A28,Stilstaand verkeer,Amersfoort - Zwolle,Tussen 't Harde (16) en Wezep (17).,Bergingswerkzaamheden,16.0,4600,52.441765,5.967924,2026-08-08 09:34,10005377323
+2026-08-08 10:54,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,7.0,3900,51.861423,4.156718,2026-08-08 10:37,10005377350
+2026-08-08 10:54,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,5.0,2200,51.815773,3.981904,2026-08-08 10:40,10005377353
+2026-08-08 10:54,N57,Langzaam rijdend verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,7.0,3000,51.544376,3.6051,2026-08-08 10:44,10005377360
