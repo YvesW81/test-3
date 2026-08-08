@@ -548,3 +548,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-08 15:14,A29,Stilstaand verkeer,Rotterdam - Sabina,Op de verbindingsweg van de A29 vanuit Rotterdam naar de N59 richting Zierikzee.,,5.0,600,51.70126,4.390069,2026-08-08 14:23,10005377718
 2026-08-08 15:14,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,24.0,2300,50.818733,6.024534,2026-08-08 12:23,10005377522
 2026-08-08 15:14,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,5.0,2100,51.861423,4.156718,2026-08-08 14:05,10005377693
+2026-08-08 15:59,A4,Langzaam rijdend verkeer,Rotterdam - Den Haag,Tussen knooppunt Benelux en de Beneluxtunnel.,Extra verkeersdrukte door wegwerkzaamheden elders,6.0,2800,51.90406,4.370762,2026-08-08 12:43,10005377558
+2026-08-08 15:59,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,5.0,3200,52.93355,5.039739,2026-08-08 15:52,10005377791
+2026-08-08 15:59,A15,Langzaam rijdend verkeer op parallelrijbaan,Ridderkerk - Europoort,Op de parallelbaan. Tussen knooppunt Vaanplein en Rotterdam-Charlois (19).,,5.0,2400,51.86851,4.43993,2026-08-08 15:52,10005377790
+2026-08-08 15:59,A15,Stilstaand verkeer,Ridderkerk - Europoort,Op de verbindingsweg van de A15 vanuit Ridderkerk naar de A4 richting Vlaardingen.,,3.0,300,51.876118,4.387863,2026-08-08 15:56,10005377794
+2026-08-08 15:59,A27,Stilstaand verkeer,Breda - Utrecht,Tussen knooppunt Gorinchem en Noordeloos (25).,Ongeval(len),13.0,2100,51.895065,4.977659,2026-08-08 15:36,10005377782
+2026-08-08 15:59,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,17.0,1700,50.818733,6.024534,2026-08-08 12:23,10005377522
