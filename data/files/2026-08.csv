@@ -621,3 +621,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-09 16:01,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Hendrik-Ido-Ambacht (23) en knooppunt Ridderkerk-Zuid.,,4.0,2000,51.84624,4.608021,2026-08-09 15:58,10005378111
 2026-08-09 16:01,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen Numansdorp (22) en Oud-Beijerland (21).,,8.0,3100,51.787277,4.426991,2026-08-09 15:48,10005378105
 2026-08-09 16:01,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1800,50.818733,6.024534,2026-08-09 13:36,10005378013
+2026-08-09 16:47,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,12.0,1800,52.31377,7.043839,2026-08-09 11:25,10005377936
+2026-08-09 16:47,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1700,51.898357,6.165913,2026-08-09 10:56,10005377925
+2026-08-09 16:47,A16,Langzaam rijdend verkeer,Belgische grens - Breda,Tussen Nederland en knooppunt Galder.,,3.0,2000,51.506477,4.744103,2026-08-09 16:44,10005378138
+2026-08-09 16:47,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,12.0,1300,50.818733,6.024534,2026-08-09 16:44,10005378139
+2026-08-09 16:47,N57,Stilstaand verkeer,Ellemeet - Stellendam,Tussen Port Zélande en Goedereede.,,13.0,4100,51.8156,3.983306,2026-08-09 16:02,10005378113
