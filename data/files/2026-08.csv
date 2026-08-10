@@ -661,3 +661,24 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-10 12:02,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Terheijden (31) en knooppunt Zonzeel.,,8.0,2400,51.64646,4.697371,2026-08-10 11:55,10005378420
 2026-08-10 12:02,A73,Langzaam rijdend verkeer,Nijmegen - Maasbracht,Tussen knooppunt Ewijk en Nijmegen.,,4.0,2600,51.84754,5.760417,2026-08-10 11:52,10005378417
 2026-08-10 12:02,A73,Langzaam rijdend verkeer,Maasbracht - Nijmegen,Tussen Cuijk (4) en Nijmegen-Dukenburg (2).,,5.0,3300,51.784367,5.826267,2026-08-10 11:56,10005378422
+2026-08-10 13:17,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2400,52.31377,7.043839,2026-08-10 11:12,10005378368
+2026-08-10 13:17,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen Nieuwegein-Zuid (10) en knooppunt Oudenrijn.,Ongeval(len),14.0,3200,52.047874,5.064625,2026-08-10 12:03,10005378433
+2026-08-10 13:17,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen Waardenburg (16) en Kerkdriel (19).,Eerder ongeval,20.0,5500,51.787037,5.257639,2026-08-10 12:18,10005378453
+2026-08-10 13:17,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen Zaltbommel (17) en de Maasbrug.,,5.0,2700,51.75563,5.285653,2026-08-10 13:14,10005378525
+2026-08-10 13:17,A7,Stilstaand verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,20.0,3400,53.069874,5.308757,2026-08-10 11:57,10005378425
+2026-08-10 13:17,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,11.0,1600,51.898357,6.165913,2026-08-10 09:48,10005378305
+2026-08-10 13:17,A12,Stilstaand verkeer,Utrecht - Arnhem,Op de verbindingsweg van de A12 vanuit Utrecht naar de A50 richting Apeldoorn.,Incident op aansluitende weg,5.0,1100,52.016438,5.919876,2026-08-10 11:18,10005378379
+2026-08-10 13:17,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Duiven (28).,,16.0,7100,51.945316,6.075196,2026-08-10 11:56,10005378421
+2026-08-10 13:17,A12,Stilstaand verkeer,Arnhem - Utrecht,Op de verbindingsweg van de A12 vanuit Zevenaar naar de A50 richting Apeldoorn.,Incident op aansluitende weg,5.0,900,52.02223,5.9239607,2026-08-10 11:57,10005378423
+2026-08-10 13:17,A12,Stilstaand verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,Incident op aansluitende weg,13.0,5400,52.01868,5.904545,2026-08-10 11:57,10005378424
+2026-08-10 13:17,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Numansdorp (22) en knooppunt Hellegatsplein.,Defecte vrachtwagen,15.0,3900,51.710327,4.397258,2026-08-10 13:04,10005378510
+2026-08-10 13:17,A35,Stilstaand verkeer,Enschede - Almelo,Tussen Enschede-West (26) en Hengelo-Zuid (27).,Bermbrand,20.0,3200,52.230904,6.778257,2026-08-10 13:05,10005378514
+2026-08-10 13:17,A35,Stilstaand verkeer,Almelo - Enschede,Tussen Hengelo-Zuid (27) en Enschede-West (26).,,12.0,1700,52.23082,6.777928,2026-08-10 13:14,10005378526
+2026-08-10 13:17,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,12.0,4300,52.052143,5.937731,2026-08-10 10:38,10005378335
+2026-08-10 13:17,A58,Langzaam rijdend verkeer,Tilburg - Breda,Tussen Tilburg-Reeshof (12) en Bavel (13).,,5.0,2700,51.55851,4.869974,2026-08-10 13:15,10005378528
+2026-08-10 13:17,A58,Langzaam rijdend verkeer,Breda - Tilburg,Tussen knooppunt Galder en Ulvenhout (14).,,6.0,2500,51.531075,4.781408,2026-08-10 13:15,10005378527
+2026-08-10 13:17,A73,Langzaam rijdend verkeer,Maasbracht - Nijmegen,Tussen Haps (5) en de Maasbrug.,,9.0,4500,51.737602,5.844095,2026-08-10 12:49,10005378492
+2026-08-10 13:17,A73,Langzaam rijdend verkeer,Maasbracht - Nijmegen,Tussen Cuijk (4) en Nijmegen-Dukenburg (2).,,5.0,2900,51.784622,5.825689,2026-08-10 13:08,10005378519
+2026-08-10 13:17,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,15.0,2700,50.818733,6.024534,2026-08-10 11:48,10005378410
+2026-08-10 13:17,N36,Stilstaand verkeer,Dedemsvaart - Almelo,Tussen Marienberg en Westerhaar.,Verkeer ingesloten tussen afrit en incident met volledige wegblokkade,10.0,2000,52.478584,6.614428,2026-08-10 12:47,10005378489
+2026-08-10 13:17,N36,Stilstaand verkeer,Almelo - Dedemsvaart,Tussen Vriezenveen en de brug over het Overijssels Kanaal.,Verkeer ingesloten tussen afrit en incident met volledige wegblokkade,10.0,3500,52.48178,6.610475,2026-08-10 12:51,10005378493
