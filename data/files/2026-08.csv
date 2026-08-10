@@ -642,3 +642,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-09 19:32,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,1600,50.818733,6.024534,2026-08-09 17:33,10005378160
 2026-08-09 20:02,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,1600,50.818733,6.024534,2026-08-09 17:33,10005378160
 2026-08-10 07:46,A35,Stilstaand verkeer,Almelo - Enschede,Tussen Hengelo-Zuid (27) en Enschede-West (26).,Defect voertuig,10.0,2300,52.22776,6.785811,2026-08-10 07:40,10005378259
+2026-08-10 08:58,A1,Langzaam rijdend verkeer,Amsterdam - Amersfoort,Tussen Naarden-Vesting (6) en Blaricum (8).,Wegwerkzaamheden,7.0,3100,52.27111,5.196407,2026-08-10 08:13,10005378270
+2026-08-10 08:58,A58,Stilstaand verkeer,Bergen op Zoom - Breda,Op de verbindingsweg van de A58 vanuit Roosendaal naar de A16 richting Antwerpen.,,14.0,1300,51.576885,4.7264004,2026-08-10 07:29,10005378255
