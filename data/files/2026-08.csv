@@ -715,3 +715,19 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-10 15:37,A73,Stilstaand verkeer,Maasbracht - Nijmegen,Tussen knooppunt Zaarderheiken en Horst (11).,,34.0,5900,51.43931,6.086664,2026-08-10 14:05,10005378603
 2026-08-10 15:37,A73,Langzaam rijdend verkeer,Maasbracht - Nijmegen,Tussen Belfeld (17) en Venlo-West (13).,,8.0,4600,51.3769,6.123213,2026-08-10 15:32,10005378719
 2026-08-10 15:37,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,7.0,2100,50.818733,6.024534,2026-08-10 11:48,10005378410
+2026-08-10 16:41,A2,Langzaam rijdend verkeer,Maastricht - Eindhoven,Tussen knooppunt Leenderheide en knooppunt Batadorp.,,6.0,3100,51.411545,5.430142,2026-08-10 16:24,10005378789
+2026-08-10 16:41,A2,Stilstaand verkeer,Utrecht - Amsterdam,Tussen Abcoude (3) en knooppunt Holendrecht.,,7.0,2000,52.294525,4.941054,2026-08-10 16:37,10005378799
+2026-08-10 16:41,A6,Stilstaand verkeer,Emmeloord - Joure,Tussen Bant (16) en Lemmer (17).,Er ligt rommel op de weg,21.0,4700,52.84068,5.725593,2026-08-10 15:52,10005378752
+2026-08-10 16:41,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen Uitgeest (10) en Heerhugowaard.,,12.0,4700,52.585556,4.720603,2026-08-10 16:11,10005378774
+2026-08-10 16:41,A12,Stilstaand verkeer,Utrecht - Arnhem,Op de verbindingsweg van de A12 vanuit Utrecht naar de A50 richting Apeldoorn.,Incident op aansluitende weg,6.0,1100,52.016438,5.919876,2026-08-10 11:18,10005378379
+2026-08-10 16:41,A12,Stilstaand verkeer,Arnhem - Utrecht,Op de verbindingsweg van de A12 vanuit Zevenaar naar de A50 richting Apeldoorn.,Incident op aansluitende weg,10.0,1100,52.02223,5.9239607,2026-08-10 11:57,10005378423
+2026-08-10 16:41,A12,Stilstaand verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,Defecte vrachtwagen,17.0,5800,52.01868,5.904545,2026-08-10 11:57,10005378424
+2026-08-10 16:41,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Beek (30) en Duitsland.,Door grenscontrole,12.0,1300,51.898357,6.165913,2026-08-10 15:52,10005378750
+2026-08-10 16:41,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen Hendrik-Ido-Ambacht (23) en de Drechttunnel.,Eerder pechgeval,5.0,3300,51.808575,4.648714,2026-08-10 16:10,10005378771
+2026-08-10 16:41,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen knooppunt Ridderkerk-Zuid en Hendrik-Ido-Ambacht (23).,,4.0,2300,51.83952,4.614219,2026-08-10 16:37,10005378798
+2026-08-10 16:41,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Rotterdam-Schiebroek (14) en de Giessenbrug.,,5.0,2500,51.928165,4.430768,2026-08-10 15:55,10005378756
+2026-08-10 16:41,A27,Stilstaand verkeer,Utrecht - Almere,Tussen Hilversum (33) en Eemnes (34).,Extra verkeersdrukte door wegwerkzaamheden elders,9.0,3000,52.240543,5.245755,2026-08-10 15:29,10005378714
+2026-08-10 16:41,A28,Stilstaand verkeer,Amersfoort - Zwolle,Tussen Ermelo (12) en Elspeet (14).,Eerder pechgeval,43.0,8600,52.35787,5.753398,2026-08-10 15:44,10005378739
+2026-08-10 16:41,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,9.0,2900,52.03998,5.93244,2026-08-10 10:38,10005378335
+2026-08-10 16:41,A73,Langzaam rijdend verkeer,Maasbracht - Nijmegen,Tussen Haps (5) en de Maasbrug.,,4.0,2000,51.74088,5.842779,2026-08-10 16:37,10005378800
+2026-08-10 16:41,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,7.0,2100,50.818733,6.024534,2026-08-10 11:48,10005378410
