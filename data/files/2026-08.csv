@@ -731,3 +731,16 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-10 16:41,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,9.0,2900,52.03998,5.93244,2026-08-10 10:38,10005378335
 2026-08-10 16:41,A73,Langzaam rijdend verkeer,Maasbracht - Nijmegen,Tussen Haps (5) en de Maasbrug.,,4.0,2000,51.74088,5.842779,2026-08-10 16:37,10005378800
 2026-08-10 16:41,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,7.0,2100,50.818733,6.024534,2026-08-10 11:48,10005378410
+2026-08-10 17:41,A2,Stilstaand verkeer,Maastricht - Eindhoven,Tussen knooppunt Leenderheide en knooppunt De Hogt.,,9.0,2900,51.410233,5.430387,2026-08-10 17:30,10005378869
+2026-08-10 17:41,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,7.0,2900,52.93355,5.039739,2026-08-10 17:27,10005378865
+2026-08-10 17:41,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen Akersloot (11) en Heerhugowaard.,Wegdek in slechte toestand,8.0,3000,52.583454,4.719821,2026-08-10 16:11,10005378774
+2026-08-10 17:41,A9,Langzaam rijdend verkeer,Amstelveen - Alkmaar,Tussen knooppunt Badhoevedorp en Haarlem-Zuid.,,9.0,6500,52.376442,4.708819,2026-08-10 16:46,10005378813
+2026-08-10 17:41,A12,Stilstaand verkeer,Utrecht - Arnhem,Op de verbindingsweg van de A12 vanuit Utrecht naar de A50 richting Apeldoorn.,Incident op aansluitende weg,8.0,1100,52.016438,5.919876,2026-08-10 11:18,10005378379
+2026-08-10 17:41,A12,Stilstaand verkeer,Arnhem - Utrecht,Op de verbindingsweg van de A12 vanuit Zevenaar naar de A50 richting Apeldoorn.,Incident op aansluitende weg,6.0,700,52.02223,5.9239607,2026-08-10 11:57,10005378423
+2026-08-10 17:41,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Beek (30) en Duitsland.,Door grenscontrole,12.0,1300,51.898357,6.165913,2026-08-10 15:52,10005378750
+2026-08-10 17:41,A12,Stilstaand verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,Incident op aansluitende weg,18.0,5800,52.01868,5.904545,2026-08-10 16:59,10005378836
+2026-08-10 17:41,A27,Stilstaand verkeer,Utrecht - Almere,Tussen Hilversum (33) en Eemnes (34).,Extra verkeersdrukte door wegwerkzaamheden elders,9.0,3000,52.240543,5.245755,2026-08-10 15:29,10005378714
+2026-08-10 17:41,A28,Langzaam rijdend verkeer,Amersfoort - Zwolle,Tussen Wezep (17) en knooppunt Hattemerbroek.,,4.0,2400,52.489326,6.029652,2026-08-10 17:37,10005378873
+2026-08-10 17:41,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,13.0,2800,52.03998,5.93244,2026-08-10 10:38,10005378335
+2026-08-10 17:41,N50,Stilstaand verkeer,Emmeloord - Zwolle,Tussen Ens (33) en Kampen-Zuid (31).,,10.0,2300,52.543324,5.89613,2026-08-10 16:56,10005378827
+2026-08-10 17:41,N57,Langzaam rijdend verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,6.0,3000,51.544376,3.6051,2026-08-10 17:20,10005378858
