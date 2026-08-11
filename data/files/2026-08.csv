@@ -757,3 +757,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-11 08:38,A27,Langzaam rijdend verkeer,Utrecht - Almere,Tussen Hilversum (33) en Huizen (35).,,8.0,4400,52.2642,5.254606,2026-08-11 08:34,10005378982
 2026-08-11 08:38,A28,Stilstaand verkeer,Zwolle - Amersfoort,Tussen Nijkerk (9) en Amersfoort-Vathorst (8a).,,10.0,2400,52.232666,5.459825,2026-08-11 08:31,10005378980
 2026-08-11 08:38,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Sprang-Capelle-West (36) en knooppunt Hooipolder.,Bergingswerkzaamheden,15.0,3400,51.693893,4.913536,2026-08-11 06:02,10005378940
+2026-08-11 09:52,A8,Stilstaand verkeer,Zaandam - Amsterdam,Tussen Zaanstad-Assendelft (4) en knooppunt Zaandam.,Ongeval(len),11.0,3300,52.461956,4.819354,2026-08-11 07:20,10005378952
+2026-08-11 09:52,A27,Stilstaand verkeer,Gorinchem - Breda,Tussen Nieuwendijk (22) en de Keizersveerbrug.,,12.0,2300,51.732304,4.902205,2026-08-11 09:48,10005378999
+2026-08-11 09:52,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,2000,50.818733,6.024534,2026-08-11 09:21,10005378993
