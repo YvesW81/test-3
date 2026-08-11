@@ -766,3 +766,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-11 10:48,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen knooppunt Vaanplein en de Heinenoordtunnel.,Te hoog voertuig,6.0,2100,51.842155,4.515183,2026-08-11 10:41,10005379015
 2026-08-11 10:48,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,6.0,2100,50.818733,6.024534,2026-08-11 09:28,10005378997
 2026-08-11 10:48,N59,Langzaam rijdend verkeer,Oude-Tonge - Zierikzee,Tussen Steenbergen en Nieuwerkerk.,,5.0,3700,51.65347,4.027965,2026-08-11 10:44,10005379019
+2026-08-11 11:44,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2200,52.31377,7.043839,2026-08-11 11:36,10005379055
+2026-08-11 11:44,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,5.0,2600,52.93327,5.039222,2026-08-11 11:36,10005379056
+2026-08-11 11:44,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,16.0,2300,51.898357,6.165913,2026-08-11 10:01,10005379002
+2026-08-11 11:44,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht (20) en de Drechttunnel.,,15.0,2900,51.799644,4.649805,2026-08-11 11:39,10005379058
+2026-08-11 11:44,A27,Stilstaand verkeer,Gorinchem - Breda,Tussen Nieuwendijk (22) en Hank (21).,Bergingswerkzaamheden,35.0,3900,51.737896,4.911577,2026-08-11 09:48,10005378999
