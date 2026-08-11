@@ -792,3 +792,19 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-11 15:38,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,9.0,2100,50.818733,6.024534,2026-08-11 14:30,10005379135
 2026-08-11 15:38,A325,Stilstaand verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Huissen.,Defecte vrachtwagen,8.0,2000,51.95633,5.929384,2026-08-11 15:19,10005379167
 2026-08-11 15:38,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,5.0,2500,51.857315,4.122977,2026-08-11 15:34,10005379180
+2026-08-11 16:42,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,7.0,2100,52.31377,7.043839,2026-08-11 13:35,10005379108
+2026-08-11 16:42,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,Defecte vrachtwagen,27.0,4800,52.162827,5.514341,2026-08-11 16:18,10005379245
+2026-08-11 16:42,A2,Stilstaand verkeer,Eindhoven - Maastricht,Tussen knooppunt Batadorp en knooppunt De Hogt.,Voorwerpen op de weg,19.0,5700,51.43066,5.42725,2026-08-11 15:30,10005379177
+2026-08-11 16:42,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen Leidschendam (8) en knooppunt Hofvliet.,,3.0,2100,52.12074,4.474368,2026-08-11 16:38,10005379269
+2026-08-11 16:42,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen Akersloot (11) en Heerhugowaard.,,11.0,4300,52.584293,4.720134,2026-08-11 16:00,10005379217
+2026-08-11 16:42,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1800,51.898357,6.165913,2026-08-11 13:56,10005379115
+2026-08-11 16:42,A12,Stilstaand verkeer,Den Haag - Utrecht,Tussen knooppunt Oudenrijn en Houten (18).,Incident op aansluitende weg,9.0,2100,52.059372,5.108545,2026-08-11 15:23,10005379169
+2026-08-11 16:42,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Papendrecht (23) en knooppunt Ridderkerk-Zuid.,Ongeval(len),31.0,6000,51.85659,4.612783,2026-08-11 16:11,10005379231
+2026-08-11 16:42,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen Hendrik-Ido-Ambacht (23) en de Drechttunnel.,,4.0,3300,51.809284,4.647973,2026-08-11 16:39,10005379270
+2026-08-11 16:42,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen Rotterdam-Schiebroek (14) en de Giessenbrug.,,7.0,2400,51.92793,4.430193,2026-08-11 15:46,10005379199
+2026-08-11 16:42,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,7.0,2972,51.997643,4.647383,2026-08-11 16:34,10005379265
+2026-08-11 16:42,A27,Stilstaand verkeer,Utrecht - Almere,Tussen Hilversum (33) en Eemnes (34).,Wegwerkzaamheden op aansluitende weg,18.0,4700,52.248177,5.247341,2026-08-11 15:46,10005379200
+2026-08-11 16:42,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,12.0,3200,52.042545,5.933749,2026-08-11 15:13,10005379160
+2026-08-11 16:42,A50,Stilstaand verkeer,Oss - Arnhem,Tussen knooppunt Bankhoef en knooppunt Ewijk.,Eerder ongeval,7.0,2500,51.83573,5.687334,2026-08-11 15:52,10005379206
+2026-08-11 16:42,A50,Langzaam rijdend verkeer,Oss - Arnhem,Tussen knooppunt Ewijk en knooppunt Valburg.,,4.0,2500,51.906517,5.766168,2026-08-11 16:39,10005379271
+2026-08-11 16:42,A325,Stilstaand verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Huissen.,Defecte vrachtwagen,14.0,2000,51.95633,5.929384,2026-08-11 15:19,10005379167
