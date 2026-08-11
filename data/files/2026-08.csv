@@ -760,3 +760,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-11 09:52,A8,Stilstaand verkeer,Zaandam - Amsterdam,Tussen Zaanstad-Assendelft (4) en knooppunt Zaandam.,Ongeval(len),11.0,3300,52.461956,4.819354,2026-08-11 07:20,10005378952
 2026-08-11 09:52,A27,Stilstaand verkeer,Gorinchem - Breda,Tussen Nieuwendijk (22) en de Keizersveerbrug.,,12.0,2300,51.732304,4.902205,2026-08-11 09:48,10005378999
 2026-08-11 09:52,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,2000,50.818733,6.024534,2026-08-11 09:21,10005378993
+2026-08-11 10:48,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen knooppunt De Hoek en de Schipholtunnel.,Te hoog voertuig,6.0,2300,52.3105,4.74929,2026-08-11 10:45,10005379022
+2026-08-11 10:48,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,19.0,2400,51.898357,6.165913,2026-08-11 10:01,10005379002
+2026-08-11 10:48,A27,Stilstaand verkeer,Gorinchem - Breda,Tussen Nieuwendijk (22) en Hank (21).,Brandend voertuig,23.0,3600,51.737896,4.911577,2026-08-11 09:48,10005378999
+2026-08-11 10:48,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen knooppunt Vaanplein en de Heinenoordtunnel.,Te hoog voertuig,6.0,2100,51.842155,4.515183,2026-08-11 10:41,10005379015
+2026-08-11 10:48,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,6.0,2100,50.818733,6.024534,2026-08-11 09:28,10005378997
+2026-08-11 10:48,N59,Langzaam rijdend verkeer,Oude-Tonge - Zierikzee,Tussen Steenbergen en Nieuwerkerk.,,5.0,3700,51.65347,4.027965,2026-08-11 10:44,10005379019
