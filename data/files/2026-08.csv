@@ -859,3 +859,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-12 12:33,A58,Stilstaand verkeer,Breda - Bergen op Zoom,Tussen knooppunt De Stok en Heerle (26).,,19.0,4400,51.507545,4.374942,2026-08-12 11:20,10005379660
 2026-08-12 12:33,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,9.0,2300,50.818733,6.024534,2026-08-12 11:11,10005379648
 2026-08-12 12:33,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,6.0,3200,51.861423,4.156718,2026-08-12 11:31,10005379663
+2026-08-12 13:25,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,13.0,2700,52.31377,7.043839,2026-08-12 11:51,10005379674
+2026-08-12 13:25,A2,Stilstaand verkeer,Maastricht - Eindhoven,Tussen Born (47) en Echt (45).,Eerder pechgeval,12.0,3600,51.079952,5.827629,2026-08-12 12:51,10005379709
+2026-08-12 13:25,A4,Stilstaand verkeer,Belgische grens - Knooppunt Sabina,Op de verbindingsweg van de A4 vanuit Antwerpen naar de A58 richting Roosendaal.,Incident op aansluitende weg,8.0,700,51.499798,4.3211346,2026-08-12 11:42,10005379668
+2026-08-12 13:25,A4,Stilstaand verkeer,Knooppunt Sabina - Belgische grens,Tussen Tholen (26) en knooppunt Zoomland.,Incident op aansluitende weg,7.0,2700,51.49972,4.314862,2026-08-12 12:50,10005379708
+2026-08-12 13:25,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen Roelofarendsveen (5) en knooppunt Burgerveen.,,6.0,2700,52.2284,4.641852,2026-08-12 13:20,10005379727
+2026-08-12 13:25,A58,Stilstaand verkeer,Bergen op Zoom - Breda,Tussen knooppunt Zoomland en Wouwse Plantage (25).,Bergingswerkzaamheden,30.0,3400,51.50747,4.375678,2026-08-12 11:15,10005379654
+2026-08-12 13:25,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,12.0,3000,50.818733,6.024534,2026-08-12 12:52,10005379711
+2026-08-12 13:25,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,5.0,2200,51.815773,3.981904,2026-08-12 13:11,10005379722
+2026-08-12 13:25,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,6.0,3100,51.861423,4.156718,2026-08-12 13:18,10005379726
