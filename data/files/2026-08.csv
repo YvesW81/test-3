@@ -935,3 +935,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-12 17:41,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,6.0,2000,50.818733,6.024534,2026-08-12 12:52,10005379711
 2026-08-12 17:41,A200,Stilstaand verkeer,Amsterdam - Haarlem,Tussen IJmuiden en Zwanenburg.,,8.0,2000,52.386765,4.729485,2026-08-12 17:27,10005380053
 2026-08-12 17:41,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,4.0,2200,51.815773,3.981904,2026-08-12 17:25,10005380046
+2026-08-12 18:39,A5,Stilstaand verkeer,Hoofddorp - Amsterdam,Op de verbindingsweg van de A5 vanuit Hoofddorp naar de A9 richting Alkmaar.,,6.0,900,52.363388,4.728195,2026-08-12 18:17,10005380098
+2026-08-12 18:39,A6,Stilstaand verkeer,Muiden - Lelystad,Tussen knooppunt Almere en Lelystad (10).,Ongeval(len),52.0,4700,52.40474,5.361534,2026-08-12 17:33,10005380064
+2026-08-12 18:39,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen knooppunt Badhoevedorp en Haarlem-Zuid.,Ongeval(len),21.0,5200,52.372105,4.71187,2026-08-12 17:27,10005380052
+2026-08-12 18:39,A10,Langzaam rijdend verkeer,Knooppunt Amstel - Knooppunt De Nieuwe Meer,Tussen knooppunt Amstel en Amsterdam-Oud Zuid (8).,,5.0,2800,52.33956,4.877236,2026-08-12 17:56,10005380092
+2026-08-12 18:39,A44,Stilstaand verkeer,Amsterdam - Wassenaar,Tussen knooppunt Burgerveen en Kaag-Dorp (2).,Ongeval(len),59.0,4500,52.227722,4.573946,2026-08-12 17:46,10005380083
+2026-08-12 18:39,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,6.0,2000,52.03834,5.931332,2026-08-12 15:18,10005379815
+2026-08-12 18:39,N57,Stilstaand verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,7.0,2200,51.815773,3.981904,2026-08-12 18:31,10005380100
