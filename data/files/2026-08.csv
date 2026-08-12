@@ -845,3 +845,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-12 10:05,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen Heerde (29) en Heerde-Zuid (28).,,10.0,2300,52.38499,6.016387,2026-08-12 10:02,10005379601
 2026-08-12 10:05,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,4.0,2200,51.815773,3.981904,2026-08-12 09:50,10005379600
 2026-08-12 10:05,N59,Langzaam rijdend verkeer,Oude-Tonge - Zierikzee,Tussen Steenbergen en Nieuwerkerk.,,9.0,3700,51.653366,4.027447,2026-08-12 09:47,10005379599
+2026-08-12 11:21,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen knooppunt Rottepolderplein en de Wijkertunnel.,,6.0,2100,52.446377,4.667032,2026-08-12 11:14,10005379652
+2026-08-12 11:21,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,18.0,2400,51.898357,6.165913,2026-08-12 10:17,10005379610
+2026-08-12 11:21,A58,Langzaam rijdend verkeer,Tilburg - Eindhoven,Tussen Moergestel (9) en Best (7).,Eerder pechgeval,5.0,2100,51.49284,5.325482,2026-08-12 10:52,10005379637
+2026-08-12 11:21,A58,Stilstaand verkeer,Bergen op Zoom - Breda,Tussen knooppunt Zoomland en Wouwse Plantage (25).,,13.0,2900,51.50738,4.372796,2026-08-12 11:15,10005379654
+2026-08-12 11:21,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,10.0,2000,50.818733,6.024534,2026-08-12 11:08,10005379646
+2026-08-12 11:21,N57,Stilstaand verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,6.0,2200,51.815773,3.981904,2026-08-12 10:40,10005379626
+2026-08-12 11:21,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,8.0,3000,51.544376,3.6051,2026-08-12 11:02,10005379642
+2026-08-12 11:21,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,7.0,3600,51.861423,4.156718,2026-08-12 11:15,10005379655
