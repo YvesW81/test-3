@@ -877,3 +877,19 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-12 14:08,A15,Langzaam rijdend verkeer,Gorinchem - Ridderkerk,Tussen Sliedrecht-Oost (25) en Papendrecht (23).,Eerder ongeval,9.0,4400,51.838493,4.715727,2026-08-12 13:43,10005379741
 2026-08-12 14:08,A58,Stilstaand verkeer,Bergen op Zoom - Breda,Tussen knooppunt Zoomland en Wouwse Plantage (25).,Bergingswerkzaamheden,25.0,2900,51.50751,4.377119,2026-08-12 11:15,10005379654
 2026-08-12 14:08,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,8.0,3200,50.818733,6.024534,2026-08-12 12:52,10005379711
+2026-08-12 15:42,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,6.0,2000,52.31377,7.043839,2026-08-12 11:51,10005379674
+2026-08-12 15:42,A1,Stilstaand verkeer,Amsterdam - Amersfoort,Tussen Soest (10) en Amersfoort-West (12).,Bergingswerkzaamheden,27.0,4400,52.211086,5.347857,2026-08-12 14:21,10005379766
+2026-08-12 15:42,A2,Stilstaand verkeer,Belgische grens - Eindhoven,Tussen Maastricht-Centrum Noord (53) en Meerssen (51).,Defecte vrachtwagen,21.0,3400,50.890484,5.742895,2026-08-12 14:26,10005379772
+2026-08-12 15:42,A2,Stilstaand verkeer,Belgische grens - Maastricht,Tussen Gronsveld (56) en de Koning Willem-Alexandertunnel.,,13.0,2700,50.837914,5.718369,2026-08-12 15:34,10005379836
+2026-08-12 15:42,A4,Stilstaand verkeer,Belgische grens - Knooppunt Sabina,Op de verbindingsweg van de A4 vanuit Antwerpen naar de A58 richting Roosendaal.,Incident op aansluitende weg,3.0,400,51.499798,4.3211346,2026-08-12 11:42,10005379668
+2026-08-12 15:42,A6,Stilstaand verkeer op parallelrijbaan,Lelystad - Muiden,Op de parallelbaan. Tussen Almere Haven (4) en de Hollandse Brug.,Eerder ongeval,34.0,4600,52.330532,5.148538,2026-08-12 14:04,10005379754
+2026-08-12 15:42,A6,Stilstaand verkeer,Lelystad - Muiden,Tussen Almere-Poort (2) en Muiderberg (1).,Ongeval(len),11.0,2200,52.320145,5.126824,2026-08-12 15:30,10005379832
+2026-08-12 15:42,A7,Stilstaand verkeer,Zaanstad - Hoorn,Tussen Purmerend-Noord (6) en Avenhorn (7).,,23.0,5700,52.578674,4.977163,2026-08-12 15:28,10005379828
+2026-08-12 15:42,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen Vlaardingen (9) en knooppunt Vlaardingen.,Ongeval(len),6.0,2500,51.919903,4.304874,2026-08-12 15:29,10005379830
+2026-08-12 15:42,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Rotterdam-Schiebroek (14) en de Giessenbrug.,,5.0,2100,51.928165,4.430768,2026-08-12 15:36,10005379839
+2026-08-12 15:42,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,12.0,3500,52.045166,5.934839,2026-08-12 15:18,10005379815
+2026-08-12 15:42,A73,Stilstaand verkeer,Maasbracht - Nijmegen,Tussen Belfeld (17) en Maasbree (14).,Eerder ongeval,21.0,4600,51.35873,6.140364,2026-08-12 14:44,10005379785
+2026-08-12 15:42,A74,Stilstaand verkeer,Mönchengladbach - Venlo,Tussen Nettetal-West (1) en knooppunt Tiglia.,,11.0,1700,51.34697,6.157652,2026-08-12 14:59,10005379798
+2026-08-12 15:42,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,6.0,2000,50.818733,6.024534,2026-08-12 12:52,10005379711
+2026-08-12 15:42,N2,Langzaam rijdend verkeer,Europaplein - Kruisdonk,Tussen A2: Maastricht-Centrum Zuid (54) en knooppunt Kruisdonk.,,6.0,3400,50.86919,5.729129,2026-08-12 15:27,10005379840
+2026-08-12 15:42,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,5.0,2000,51.857784,4.130409,2026-08-12 15:39,10005379842
