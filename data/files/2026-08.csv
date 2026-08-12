@@ -841,3 +841,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-12 08:46,A7,Langzaam rijdend verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,Technische storing,5.0,2300,53.07257,5.325867,2026-08-12 08:43,10005379583
 2026-08-12 08:46,A9,Stilstaand verkeer,Diemen - Alkmaar,Tussen knooppunt Holendrecht en Amstelveen-Stadshart (5).,,10.0,3700,52.298023,4.871547,2026-08-12 08:38,10005379581
 2026-08-12 08:46,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht-Centrum (21).,,14.0,4100,51.79748,4.649443,2026-08-12 08:24,10005379567
+2026-08-12 10:05,A7,Langzaam rijdend verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en Kornwerderzand (14a).,Technische storing,8.0,3300,53.074047,5.337158,2026-08-12 09:20,10005379596
+2026-08-12 10:05,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen Heerde (29) en Heerde-Zuid (28).,,10.0,2300,52.38499,6.016387,2026-08-12 10:02,10005379601
+2026-08-12 10:05,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,4.0,2200,51.815773,3.981904,2026-08-12 09:50,10005379600
+2026-08-12 10:05,N59,Langzaam rijdend verkeer,Oude-Tonge - Zierikzee,Tussen Steenbergen en Nieuwerkerk.,,9.0,3700,51.653366,4.027447,2026-08-12 09:47,10005379599
