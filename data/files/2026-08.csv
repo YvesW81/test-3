@@ -962,3 +962,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-13 13:24,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,10.0,2300,50.818733,6.024534,2026-08-13 11:59,10005380368
 2026-08-13 13:24,N57,Stilstaand verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,Afremmend verkeer als gevolg van kijkers naar ongeval(len),7.0,2400,51.861423,4.156718,2026-08-13 12:37,10005380407
 2026-08-13 13:24,N57,Stilstaand verkeer,Rotterdam - Stellendam,Tussen Hellevoetsluis en Stellendam-Havens Zuid.,Ongeval(len),11.0,2200,51.824757,4.038834,2026-08-13 13:05,10005380409
+2026-08-13 14:07,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2200,52.31377,7.043839,2026-08-13 12:16,10005380375
+2026-08-13 14:07,A2,Langzaam rijdend verkeer,Maastricht - Eindhoven,Tussen knooppunt Leenderheide en knooppunt Batadorp.,,5.0,2800,51.411545,5.430142,2026-08-13 13:55,10005380437
+2026-08-13 14:07,A17,Stilstaand verkeer,Dordrecht - Roosendaal,Tussen Industriegebied Oud Gastel-Borchwerf (21) en Roosendaal-West (19).,,14.0,3000,51.550056,4.448334,2026-08-13 13:58,10005380440
+2026-08-13 14:07,A22,Langzaam rijdend verkeer,Beverwijk - Velsen,Tussen knooppunt Beverwijk en de Velsertunnel.,,5.0,3000,52.456913,4.656326,2026-08-13 14:02,10005380447
+2026-08-13 14:07,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,,14.0,3100,51.693558,4.909319,2026-08-13 13:39,10005380428
+2026-08-13 14:07,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,5.0,2200,51.815773,3.981904,2026-08-13 14:01,10005380445
