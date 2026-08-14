@@ -1282,3 +1282,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-14 17:22,A50,Stilstaand verkeer,Eindhoven - Arnhem,Tussen knooppunt Paalgraven en de Maasbrug.,,14.0,5200,51.79266,5.661474,2026-08-14 17:08,10005382182
 2026-08-14 17:22,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Op de verbindingsweg van de A59 vanuit 's-Hertogenbosch naar de A16 richting Rotterdam.,,4.0,900,51.651215,4.6883864,2026-08-14 15:23,10005381915
 2026-08-14 17:22,N11,Langzaam rijdend verkeer,Bodegraven - Leiden,Tussen Hazerswoude (7) en A4: Zoeterwoude-Rijndijk.,,4.0,2000,52.140472,4.506819,2026-08-14 17:16,10005382194
+2026-08-14 18:13,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen knooppunt Burgerveen en knooppunt De Hoek.,Door opruimwerkzaamheden,6.0,2300,52.286312,4.72427,2026-08-14 12:45,10005381317
+2026-08-14 18:13,A4,Stilstaand verkeer op parallelrijbaan,Den Haag - Amsterdam,Op de parallelbaan. Tussen knooppunt Burgerveen en knooppunt De Hoek.,Door opruimwerkzaamheden,12.0,2900,52.288174,4.727581,2026-08-14 15:07,10005381850
+2026-08-14 18:13,A12,Stilstaand verkeer,Utrecht - Arnhem,Op de verbindingsweg van de A12 vanuit Utrecht naar de A50 richting Apeldoorn.,Incident op aansluitende weg,3.0,1000,52.016438,5.919876,2026-08-14 12:14,10005381200
+2026-08-14 18:13,A12,Langzaam rijdend verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,Incident op aansluitende weg,4.0,2600,52.01868,5.904545,2026-08-14 13:18,10005381440
+2026-08-14 18:13,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,11.0,1500,51.898357,6.165913,2026-08-14 13:45,10005381524
+2026-08-14 18:13,A27,Stilstaand verkeer,Utrecht - Almere,Tussen Hilversum (33) en Eemnes (34).,Wegwerkzaamheden op aansluitende weg,10.0,3700,52.244026,5.246605,2026-08-14 14:21,10005381662
+2026-08-14 18:13,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen knooppunt Hellegatsplein en de Haringvlietbrug.,,10.0,2100,51.719177,4.402928,2026-08-14 18:11,10005382258
+2026-08-14 18:13,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,7.0,3800,52.05389,5.938455,2026-08-14 12:15,10005381206
