@@ -1306,3 +1306,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-15 09:57,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1800,51.898357,6.165913,2026-08-15 09:54,10005382379
 2026-08-15 09:57,A67,Stilstaand verkeer,Venlo - Eindhoven,Tussen Someren (35) en Leenderheide/Randweg N2.,Ongeval met vrachtwagen,17.0,2800,51.40498,5.536489,2026-08-15 08:42,10005382357
 2026-08-15 09:57,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,2100,50.818733,6.024534,2026-08-15 08:37,10005382354
+2026-08-15 10:28,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,,8.0,5100,52.16532,5.547632,2026-08-15 09:39,10005382369
+2026-08-15 10:28,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Op de verbindingsweg van de A2 vanuit Utrecht naar de A15 richting Nijmegen.,,5.0,1800,51.858135,5.2438483,2026-08-15 10:17,10005382396
+2026-08-15 10:28,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1800,51.898357,6.165913,2026-08-15 09:54,10005382379
+2026-08-15 10:28,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,,5.0,3600,51.945522,6.074578,2026-08-15 09:58,10005382384
+2026-08-15 10:28,A28,Langzaam rijdend verkeer,Utrecht - Zwolle,Tussen Leusden-Zuid (6) en knooppunt Hoevelaken.,,7.0,4000,52.163162,5.420578,2026-08-15 10:06,10005382389
+2026-08-15 10:28,A67,Stilstaand verkeer,Venlo - Eindhoven,Tussen Asten (36) en Someren (35).,Bergingswerkzaamheden,16.0,2000,51.42254,5.695809,2026-08-15 09:55,10005382382
+2026-08-15 10:28,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,2100,50.818733,6.024534,2026-08-15 08:37,10005382354
