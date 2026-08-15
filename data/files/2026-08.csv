@@ -1328,3 +1328,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-15 10:56,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,2200,50.818733,6.024534,2026-08-15 10:03,10005382388
 2026-08-15 10:56,N9,Langzaam rijdend verkeer,Den Helder - Alkmaar,Tussen Warmenhuizen en Koedijk.,,12.0,5000,52.6609,4.742934,2026-08-15 10:36,10005382406
 2026-08-15 10:56,N57,Langzaam rijdend verkeer,Vrouwenpolder - Middelburg,Tussen Vrouwenpolder/Veere en Middelburg-Noord/Veere.,,4.0,2000,51.542538,3.605804,2026-08-15 10:39,10005382410
+2026-08-15 11:24,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,,6.0,3500,52.164627,5.487172,2026-08-15 11:21,10005382469
+2026-08-15 11:24,A1,Stilstaand verkeer,Apeldoorn - Amersfoort,Tussen Apeldoorn-Zuid (20) en Hoenderloo (19).,,9.0,2700,52.179195,5.935884,2026-08-15 11:22,10005382470
+2026-08-15 11:24,A2,Stilstaand verkeer,Maastricht - Eindhoven,Tussen Nederweert (39) en Budel (37).,,9.0,3400,51.293304,5.636799,2026-08-15 10:42,10005382413
+2026-08-15 11:24,A7,Stilstaand verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,Verkeerssituatie gewijzigd als gevolg van wegwerkzaamheden,14.0,4000,52.93327,5.039222,2026-08-15 11:03,10005382437
+2026-08-15 11:24,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,2200,50.818733,6.024534,2026-08-15 10:03,10005382388
+2026-08-15 11:24,N9,Stilstaand verkeer,Den Helder - Alkmaar,Tussen Warmenhuizen en Koedijk.,,10.0,3600,52.6609,4.742934,2026-08-15 11:13,10005382454
