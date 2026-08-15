@@ -1432,3 +1432,28 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-15 12:54,N35,Langzaam rijdend verkeer,Duitse grens - Almelo,Tussen Nederland en Enschede (25).,,6.0,2600,52.200645,6.885985,2026-08-15 12:44,10005382629
 2026-08-15 12:54,N57,Stilstaand verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,6.0,2200,51.815773,3.981904,2026-08-15 11:28,10005382478
 2026-08-15 12:54,N57,Langzaam rijdend verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,7.0,3000,51.54527,3.604857,2026-08-15 12:36,10005382613
+2026-08-15 13:15,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2000,52.31377,7.043839,2026-08-15 12:49,10005382643
+2026-08-15 13:15,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,,8.0,4100,52.16695,5.558916,2026-08-15 12:50,10005382646
+2026-08-15 13:15,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,Extra verkeersdrukte door wegwerkzaamheden elders,4.0,2000,52.164757,5.543528,2026-08-15 13:03,10005382674
+2026-08-15 13:15,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen Waardenburg (16) en Kerkdriel (19).,,5.0,2200,51.791435,5.257882,2026-08-15 13:07,10005382680
+2026-08-15 13:15,A7,Langzaam rijdend verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,Verkeerssituatie gewijzigd als gevolg van wegwerkzaamheden,4.0,2100,53.0735,5.332837,2026-08-15 13:00,10005382669
+2026-08-15 13:15,A12,Stilstaand verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Duiven (28).,Recreatie- en vakantieverkeer,16.0,6500,51.948475,6.065255,2026-08-15 09:58,10005382384
+2026-08-15 13:15,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,13.0,1700,51.898357,6.165913,2026-08-15 10:08,10005382390
+2026-08-15 13:15,A12,Stilstaand verkeer,Utrecht - Arnhem,Op de verbindingsweg van de A12 vanuit Utrecht naar de A50 richting Apeldoorn.,Incident op aansluitende weg,4.0,1100,52.016438,5.919876,2026-08-15 11:24,10005382472
+2026-08-15 13:15,A12,Langzaam rijdend verkeer,Duitse grens - Utrecht,Tussen knooppunt Velperbroek en knooppunt Grijsoord.,Incident op aansluitende weg,12.0,6200,52.019295,5.901577,2026-08-15 12:09,10005382561
+2026-08-15 13:15,A12,Langzaam rijdend verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,Incident op aansluitende weg,3.0,2200,52.01868,5.904545,2026-08-15 12:10,10005382564
+2026-08-15 13:15,A15,Langzaam rijdend verkeer,Gorinchem - Nijmegen,Tussen Meteren (30a) en Wadenoijen (31).,,7.0,3500,51.86651,5.331428,2026-08-15 13:06,10005382677
+2026-08-15 13:15,A28,Langzaam rijdend verkeer,Utrecht - Zwolle,Tussen Amersfoort (8) en Amersfoort-Vathorst (8a).,,6.0,2700,52.187637,5.439141,2026-08-15 12:58,10005382659
+2026-08-15 13:15,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen knooppunt Hellegatsplein en de Haringvlietbrug.,,9.0,2100,51.717945,4.402157,2026-08-15 13:11,10005382687
+2026-08-15 13:15,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,13.0,3900,52.04953,5.936648,2026-08-15 10:52,10005382424
+2026-08-15 13:15,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Veiligheidsmaatregelen,5.0,2000,52.162865,6.022185,2026-08-15 12:09,10005382614
+2026-08-15 13:15,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen Hoenderloo (22) en knooppunt Waterberg.,Veiligheidsmaatregelen,4.0,2400,52.09969,5.952838,2026-08-15 12:49,10005382644
+2026-08-15 13:15,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen Hoenderloo (22) en knooppunt Waterberg.,Veiligheidsmaatregelen,7.0,2700,52.07408,5.945294,2026-08-15 12:57,10005382658
+2026-08-15 13:15,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Hoenderloo (22).,Veiligheidsmaatregelen,6.0,3200,52.128506,5.96649,2026-08-15 13:08,10005382683
+2026-08-15 13:15,A67,Stilstaand verkeer,Venlo - Eindhoven,Tussen Geldrop (34) en Leenderheide/Randweg N2.,Spoedreparatie,14.0,2300,51.40498,5.537195,2026-08-15 12:17,10005382583
+2026-08-15 13:15,A73,Langzaam rijdend verkeer,Nijmegen - Maasbracht,Tussen knooppunt Ewijk en Nijmegen.,,5.0,2600,51.847908,5.759124,2026-08-15 12:58,10005382663
+2026-08-15 13:15,A73,Langzaam rijdend verkeer,Maasbracht - Nijmegen,Tussen Cuijk (4) en Nijmegen-Dukenburg (2).,,7.0,3500,51.784367,5.826267,2026-08-15 13:07,10005382681
+2026-08-15 13:15,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,13.0,2100,50.818733,6.024534,2026-08-15 11:54,10005382529
+2026-08-15 13:15,N35,Langzaam rijdend verkeer,Duitse grens - Almelo,Tussen Nederland en Enschede (25).,,6.0,2400,52.200645,6.885985,2026-08-15 12:44,10005382629
+2026-08-15 13:15,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,5.0,2200,51.815773,3.981904,2026-08-15 11:28,10005382478
+2026-08-15 13:15,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,8.0,3000,51.544376,3.6051,2026-08-15 12:36,10005382613
