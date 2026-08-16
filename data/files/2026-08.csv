@@ -1580,3 +1580,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-16 11:50,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1500,51.898357,6.165913,2026-08-16 10:36,10005382965
 2026-08-16 11:50,A27,Stilstaand verkeer,Gorinchem - Utrecht,Tussen Noordeloos (25) en Lexmond (26).,Ongeval(len),24.0,3200,51.92331,4.991174,2026-08-16 11:30,10005382981
 2026-08-16 11:50,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1800,50.818733,6.024534,2026-08-16 10:47,10005382969
+2026-08-16 12:17,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen Zaltbommel (17) en knooppunt Deil.,Defect voertuig,10.0,3700,51.853947,5.231138,2026-08-16 12:05,10005383008
+2026-08-16 12:17,A7,Langzaam rijdend verkeer,Ring-Sneek-West - Den Oever,Tussen Zurich (15) en Breezanddijk.,,6.0,2400,53.07283,5.32662,2026-08-16 11:55,10005383002
+2026-08-16 12:17,A8,Stilstaand verkeer,Zaandam - Amsterdam,Op de verbindingsweg van de A8 vanuit Zaandam naar de A10 richting Rotterdam.,Ongeval op aansluitende weg,7.0,700,52.422264,4.872673,2026-08-16 12:13,10005383016
+2026-08-16 12:17,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1500,51.898357,6.165913,2026-08-16 10:36,10005382965
+2026-08-16 12:17,A27,Stilstaand verkeer,Breda - Utrecht,Tussen knooppunt Gorinchem en Lexmond (26).,Ongeval(len),15.0,3700,51.922897,4.990929,2026-08-16 11:30,10005382981
+2026-08-16 12:17,A28,Langzaam rijdend verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,,3.0,1100,52.078636,5.1592064,2026-08-16 12:09,10005383015
+2026-08-16 12:17,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1800,50.818733,6.024534,2026-08-16 10:47,10005382969
