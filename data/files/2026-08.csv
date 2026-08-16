@@ -1636,3 +1636,13 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-16 15:10,A7,Stilstaand verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,16.0,4000,52.93327,5.039222,2026-08-16 14:43,10005383133
 2026-08-16 15:10,A10,Stilstaand verkeer,Knooppunt De Nieuwe Meer - Knooppunt Watergraafsmeer,Tussen Amsterdam-Hemhavens (1) en knooppunt Coenplein.,,7.0,2000,52.420437,4.871376,2026-08-16 15:08,10005383160
 2026-08-16 15:10,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,13.0,2000,50.818733,6.024534,2026-08-16 14:44,10005383134
+2026-08-16 15:46,A2,Stilstaand verkeer,Utrecht - Amsterdam,Tussen Abcoude (3) en Ouderkerk aan de Amstel (1).,,10.0,4100,52.307835,4.928421,2026-08-16 15:24,10005383186
+2026-08-16 15:46,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen Roelofarendsveen (5) en knooppunt Burgerveen.,Politieactie,4.0,2000,52.23071,4.645184,2026-08-16 14:59,10005383147
+2026-08-16 15:46,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen knooppunt Badhoevedorp en knooppunt De Nieuwe Meer.,,6.0,3300,52.337193,4.846571,2026-08-16 15:07,10005383158
+2026-08-16 15:46,A6,Stilstaand verkeer op parallelrijbaan,Lelystad - Muiden,Op de parallelbaan. Tussen knooppunt Gooimeer en Almere-Poort (2).,,6.0,2200,52.333874,5.155015,2026-08-16 15:40,10005383196
+2026-08-16 15:46,A6,Langzaam rijdend verkeer,Lelystad - Muiden,Tussen knooppunt Gooimeer en de Hollandse Brug.,,4.0,2800,52.326405,5.140397,2026-08-16 15:41,10005383198
+2026-08-16 15:46,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,8.0,3500,52.93355,5.039739,2026-08-16 15:29,10005383190
+2026-08-16 15:46,A10,Langzaam rijdend verkeer,Knooppunt Coenplein - Knooppunt Amstel,Tussen Amsterdam-West (6) en Amsterdam-Rivierenbuurt (9).,,8.0,3700,52.33819,4.865958,2026-08-16 15:10,10005383163
+2026-08-16 15:46,A73,Stilstaand verkeer,Maasbracht - Nijmegen,Tussen knooppunt Het Vonderen en de Roertunnel.,Defect voertuig,18.0,4400,51.175823,6.010185,2026-08-16 15:33,10005383193
+2026-08-16 15:46,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,21.0,2000,50.818733,6.024534,2026-08-16 14:44,10005383134
+2026-08-16 15:46,N57,Langzaam rijdend verkeer,Ellemeet - Stellendam,Tussen Port Zélande en Goedereede.,,6.0,3100,51.8156,3.983306,2026-08-16 15:43,10005383199
