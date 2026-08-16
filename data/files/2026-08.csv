@@ -1646,3 +1646,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-16 15:46,A73,Stilstaand verkeer,Maasbracht - Nijmegen,Tussen knooppunt Het Vonderen en de Roertunnel.,Defect voertuig,18.0,4400,51.175823,6.010185,2026-08-16 15:33,10005383193
 2026-08-16 15:46,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,21.0,2000,50.818733,6.024534,2026-08-16 14:44,10005383134
 2026-08-16 15:46,N57,Langzaam rijdend verkeer,Ellemeet - Stellendam,Tussen Port Zélande en Goedereede.,,6.0,3100,51.8156,3.983306,2026-08-16 15:43,10005383199
+2026-08-16 16:02,A2,Stilstaand verkeer,Utrecht - Amsterdam,Tussen knooppunt Holendrecht en Ouderkerk aan de Amstel (1).,,8.0,3100,52.306023,4.930319,2026-08-16 15:24,10005383186
+2026-08-16 16:02,A2,Langzaam rijdend verkeer op parallelrijbaan,Utrecht - Amsterdam,Op de parallelbaan. Tussen knooppunt Holendrecht en Ouderkerk aan de Amstel (1).,,4.0,2000,52.30384,4.932601,2026-08-16 15:58,10005383209
+2026-08-16 16:02,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen Roelofarendsveen (5) en knooppunt Burgerveen.,Politieactie,4.0,2000,52.23071,4.645184,2026-08-16 14:59,10005383147
+2026-08-16 16:02,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen Amsterdam-Sloten (1) en knooppunt De Nieuwe Meer.,,7.0,2600,52.337193,4.846571,2026-08-16 15:07,10005383158
+2026-08-16 16:02,A10,Langzaam rijdend verkeer,Knooppunt Coenplein - Knooppunt Amstel,Tussen Amsterdam-West (6) en Amsterdam-Rivierenbuurt (9).,,8.0,3800,52.33853,4.873126,2026-08-16 15:10,10005383163
+2026-08-16 16:02,A73,Stilstaand verkeer,Maasbracht - Nijmegen,Tussen knooppunt Het Vonderen en Linne (21).,Eerder pechgeval,17.0,2400,51.16325,5.963723,2026-08-16 15:33,10005383193
+2026-08-16 16:02,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,19.0,1800,50.818733,6.024534,2026-08-16 14:44,10005383134
+2026-08-16 16:02,N9,Stilstaand verkeer,Den Helder - Alkmaar,Tussen Warmenhuizen en Koedijk.,,6.0,2200,52.661255,4.743193,2026-08-16 15:51,10005383205
