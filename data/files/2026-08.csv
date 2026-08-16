@@ -1594,3 +1594,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-16 12:43,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1500,51.898357,6.165913,2026-08-16 10:36,10005382965
 2026-08-16 12:43,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,Recreatie- en vakantieverkeer,8.0,5500,51.947292,6.068988,2026-08-16 12:30,10005383028
 2026-08-16 12:43,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1800,50.818733,6.024534,2026-08-16 10:47,10005382969
+2026-08-16 13:01,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,,12.0,5100,52.166714,5.55792,2026-08-16 12:38,10005383033
+2026-08-16 13:01,A7,Stilstaand verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,Verkeerssituatie gewijzigd als gevolg van wegwerkzaamheden,10.0,3600,52.93327,5.039222,2026-08-16 12:43,10005383035
+2026-08-16 13:01,A8,Stilstaand verkeer,Zaandam - Amsterdam,Op de verbindingsweg van de A8 vanuit Zaandam naar de A10 richting Rotterdam.,Ongeval op aansluitende weg,10.0,700,52.422264,4.872673,2026-08-16 12:13,10005383016
+2026-08-16 13:01,A8,Langzaam rijdend verkeer,Zaandam - Amsterdam,Tussen knooppunt Zaandam en Zaanstad-Zuid (1).,,3.0,2100,52.430946,4.868784,2026-08-16 12:57,10005383043
+2026-08-16 13:01,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1500,51.898357,6.165913,2026-08-16 10:36,10005382965
+2026-08-16 13:01,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,Recreatie- en vakantieverkeer,6.0,3300,51.946705,6.070849,2026-08-16 12:54,10005383040
+2026-08-16 13:01,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1800,50.818733,6.024534,2026-08-16 10:47,10005382969
