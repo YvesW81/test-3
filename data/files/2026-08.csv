@@ -1612,3 +1612,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-16 13:35,A16,Stilstaand verkeer op parallelrijbaan,Rotterdam - Breda,Op de parallelbaan. Tussen Rotterdam-Kralingen (26) en Rotterdam-Feijenoord (24).,,17.0,3000,51.896633,4.546853,2026-08-16 12:50,10005383039
 2026-08-16 13:35,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,17.0,1900,50.818733,6.024534,2026-08-16 13:22,10005383068
 2026-08-16 13:35,N9,Stilstaand verkeer,Den Helder - Alkmaar,Tussen Warmenhuizen en Koedijk.,,9.0,3000,52.661255,4.743193,2026-08-16 13:13,10005383059
+2026-08-16 13:52,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,12.0,1800,52.31377,7.043839,2026-08-16 13:26,10005383071
+2026-08-16 13:52,A7,Stilstaand verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,18.0,3700,52.93355,5.039739,2026-08-16 13:33,10005383076
+2026-08-16 13:52,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1500,51.898357,6.165913,2026-08-16 10:36,10005382965
+2026-08-16 13:52,A12,Stilstaand verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Duiven (28).,Recreatie- en vakantieverkeer,17.0,6700,51.9501,6.060115,2026-08-16 13:20,10005383066
+2026-08-16 13:52,A16,Stilstaand verkeer op parallelrijbaan,Rotterdam - Breda,Op de parallelbaan. Tussen Capelle a/d IJssel (25) en Rotterdam-Feijenoord (24).,,14.0,2500,51.895,4.557004,2026-08-16 12:50,10005383039
+2026-08-16 13:52,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Ridderkerk-Noord en Rotterdam-Feijenoord (24).,,7.0,2700,51.88538,4.563959,2026-08-16 13:36,10005383078
+2026-08-16 13:52,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,21.0,2000,50.818733,6.024534,2026-08-16 13:22,10005383068
+2026-08-16 13:52,N9,Langzaam rijdend verkeer,Den Helder - Alkmaar,Tussen Warmenhuizen en Koedijk.,,5.0,2200,52.6609,4.742934,2026-08-16 13:13,10005383059
+2026-08-16 13:52,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,6.0,2400,51.815777,3.980431,2026-08-16 13:44,10005383085
