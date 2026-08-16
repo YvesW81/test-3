@@ -1664,3 +1664,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-16 17:16,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,5.0,3500,52.93355,5.039739,2026-08-16 17:13,10005383240
 2026-08-16 17:16,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,,11.0,1600,51.898357,6.165913,2026-08-16 17:05,10005383237
 2026-08-16 17:16,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,13.0,1800,50.818733,6.024534,2026-08-16 17:07,10005383238
+2026-08-16 17:40,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,,4.0,2000,52.16561,5.549699,2026-08-16 17:37,10005383247
+2026-08-16 17:40,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,14.0,1700,50.818733,6.024534,2026-08-16 17:07,10005383238
