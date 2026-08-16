@@ -1569,3 +1569,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-15 22:16,A12,Stilstaand verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Zevenaar (29).,Wegwerkzaamheden,9.0,2400,51.92743,6.113321,2026-08-15 21:56,10005382935
 2026-08-15 22:42,A12,Stilstaand verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Zevenaar (29).,Wegwerkzaamheden,10.0,2400,51.92607,6.116124,2026-08-15 21:56,10005382935
 2026-08-16 10:22,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,Verkeerssituatie gewijzigd als gevolg van wegwerkzaamheden,5.0,2300,52.93355,5.039739,2026-08-16 10:09,10005382961
+2026-08-16 10:55,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,Extra verkeersdrukte door wegwerkzaamheden elders,12.0,6600,52.166817,5.558795,2026-08-16 10:37,10005382966
+2026-08-16 10:55,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1500,51.898357,6.165913,2026-08-16 10:36,10005382965
+2026-08-16 10:55,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,13.0,1800,50.818733,6.024534,2026-08-16 10:47,10005382969
