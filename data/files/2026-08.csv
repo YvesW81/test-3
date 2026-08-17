@@ -1765,3 +1765,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-17 13:49,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Schaarsbergen (21).,Veiligheidsmaatregelen,7.0,2200,52.034115,5.928909,2026-08-17 13:09,10005383656
 2026-08-17 13:49,A50,Stilstaand verkeer,Oss - Arnhem,Tussen Heteren (18) en knooppunt Grijsoord.,Wegwerkzaamheden,18.0,4100,51.979347,5.762792,2026-08-17 13:36,10005383680
 2026-08-17 13:49,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,23.0,5400,50.818733,6.024534,2026-08-17 10:57,10005383537
+2026-08-17 14:13,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,7.0,2100,52.31377,7.043839,2026-08-17 13:16,10005383661
+2026-08-17 14:13,A12,Langzaam rijdend verkeer,Arnhem - Duitse grens,Tussen Duiven (28) en knooppunt Oud-Dijk.,Door grenscontrole,4.0,2500,51.9346,6.098225,2026-08-17 09:59,10005383508
+2026-08-17 14:13,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Beek (30) en Duitsland.,Door grenscontrole,12.0,1400,51.898357,6.165913,2026-08-17 12:04,10005383587
+2026-08-17 14:13,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Duiven (28).,,14.0,7400,51.945107,6.075811,2026-08-17 13:34,10005383678
+2026-08-17 14:13,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen knooppunt Everdingen en Lexmond (26).,Defecte vrachtwagen,8.0,2300,51.955715,5.04127,2026-08-17 13:58,10005383701
+2026-08-17 14:13,A50,Stilstaand verkeer,Oss - Arnhem,Tussen knooppunt Valburg en knooppunt Grijsoord.,Wegwerkzaamheden,16.0,6200,51.979347,5.762792,2026-08-17 13:36,10005383680
+2026-08-17 14:13,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,3.0,2200,52.04168,5.933365,2026-08-17 14:06,10005383710
+2026-08-17 14:13,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,16.0,4800,50.818733,6.024534,2026-08-17 10:57,10005383537
