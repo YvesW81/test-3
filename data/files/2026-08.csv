@@ -1757,3 +1757,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-17 13:24,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,17.0,4800,50.818733,6.024534,2026-08-17 10:57,10005383537
 2026-08-17 13:24,N57,Stilstaand verkeer,Westenschouwen - Ellemeet,Tussen Burgh-Haamstede en Zierikzee.,,7.0,2300,51.70018,3.808698,2026-08-17 12:36,10005383624
 2026-08-17 13:24,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,4.0,2200,51.70227,3.791649,2026-08-17 13:17,10005383662
+2026-08-17 13:49,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,9.0,2400,52.31377,7.043839,2026-08-17 13:16,10005383661
+2026-08-17 13:49,A12,Langzaam rijdend verkeer,Arnhem - Duitse grens,Tussen Duiven (28) en knooppunt Oud-Dijk.,Door grenscontrole,4.0,2500,51.9346,6.098225,2026-08-17 09:59,10005383508
+2026-08-17 13:49,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,13.0,2000,51.898357,6.165913,2026-08-17 12:04,10005383587
+2026-08-17 13:49,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,Door grenscontrole,6.0,4500,51.94572,6.073955,2026-08-17 13:04,10005383652
+2026-08-17 13:49,A27,Stilstaand verkeer,Gorinchem - Breda,Tussen Nieuwendijk (22) en de Keizersveerbrug.,Defecte vrachtwagen,7.0,2800,51.718513,4.890069,2026-08-17 13:45,10005383687
+2026-08-17 13:49,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Schaarsbergen (21).,Veiligheidsmaatregelen,7.0,2200,52.034115,5.928909,2026-08-17 13:09,10005383656
+2026-08-17 13:49,A50,Stilstaand verkeer,Oss - Arnhem,Tussen Heteren (18) en knooppunt Grijsoord.,Wegwerkzaamheden,18.0,4100,51.979347,5.762792,2026-08-17 13:36,10005383680
+2026-08-17 13:49,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,23.0,5400,50.818733,6.024534,2026-08-17 10:57,10005383537
