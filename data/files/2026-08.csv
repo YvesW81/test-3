@@ -1773,3 +1773,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-17 14:13,A50,Stilstaand verkeer,Oss - Arnhem,Tussen knooppunt Valburg en knooppunt Grijsoord.,Wegwerkzaamheden,16.0,6200,51.979347,5.762792,2026-08-17 13:36,10005383680
 2026-08-17 14:13,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,3.0,2200,52.04168,5.933365,2026-08-17 14:06,10005383710
 2026-08-17 14:13,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,16.0,4800,50.818733,6.024534,2026-08-17 10:57,10005383537
+2026-08-17 15:08,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,7.0,2100,52.31377,7.043839,2026-08-17 13:16,10005383661
+2026-08-17 15:08,A1,Stilstaand verkeer,Apeldoorn - Hengelo,Tussen Twello (22) en de IJsselbrug.,Opruimwerkzaamheden,10.0,3600,52.231083,6.165559,2026-08-17 14:46,10005383755
+2026-08-17 15:08,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Beek (30) en Duitsland.,Door grenscontrole,12.0,1400,51.898357,6.165913,2026-08-17 12:04,10005383587
+2026-08-17 15:08,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,6.0,2600,51.995754,4.644386,2026-08-17 14:51,10005383759
+2026-08-17 15:08,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen knooppunt Everdingen en Lexmond (26).,Defecte vrachtwagen,13.0,2900,51.955692,5.0369,2026-08-17 13:58,10005383701
+2026-08-17 15:08,A27,Stilstaand verkeer,Gorinchem - Breda,Tussen Nieuwendijk (22) en de Keizersveerbrug.,Bergingswerkzaamheden,25.0,4100,51.72585,4.893797,2026-08-17 14:26,10005383727
+2026-08-17 15:08,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,10.0,2900,52.03998,5.93244,2026-08-17 14:38,10005383736
+2026-08-17 15:08,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,17.0,3400,50.818733,6.024534,2026-08-17 10:57,10005383537
