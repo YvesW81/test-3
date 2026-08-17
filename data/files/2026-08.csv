@@ -1736,3 +1736,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-17 12:26,A28,Stilstaand verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,,6.0,1700,52.078636,5.1592064,2026-08-17 12:22,10005383605
 2026-08-17 12:26,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,16.0,4500,50.818733,6.024534,2026-08-17 10:57,10005383537
 2026-08-17 12:26,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,5.0,2200,51.702347,3.792325,2026-08-17 12:24,10005383607
+2026-08-17 12:56,A2,Langzaam rijdend verkeer,Eindhoven - Maastricht,Tussen Leenderheide/Randweg N2 en Leende (35).,,6.0,2900,51.344505,5.551547,2026-08-17 12:41,10005383633
+2026-08-17 12:56,A12,Langzaam rijdend verkeer,Arnhem - Duitse grens,Tussen Duiven (28) en knooppunt Oud-Dijk.,Door grenscontrole,4.0,2500,51.9346,6.098225,2026-08-17 09:59,10005383508
+2026-08-17 12:56,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,18.0,2600,51.898357,6.165913,2026-08-17 12:04,10005383587
+2026-08-17 12:56,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Klaverpolder en Dordrecht (20).,Dier(en) op de weg,9.0,2400,51.74846,4.640364,2026-08-17 12:24,10005383604
+2026-08-17 12:56,A28,Langzaam rijdend verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,Eerder incident op aansluitende weg,4.0,1200,52.078636,5.1592064,2026-08-17 12:22,10005383605
+2026-08-17 12:56,A28,Stilstaand verkeer,Amersfoort - Utrecht,Tussen Den Dolder (3) en Utrecht-Centrum.,,9.0,3100,52.089073,5.149194,2026-08-17 12:35,10005383619
+2026-08-17 12:56,A58,Stilstaand verkeer,Breda - Tilburg,Tussen knooppunt Galder en Ulvenhout (14).,,7.0,2100,51.531918,4.783969,2026-08-17 12:47,10005383641
+2026-08-17 12:56,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,17.0,5400,50.818733,6.024534,2026-08-17 10:57,10005383537
+2026-08-17 12:56,N57,Stilstaand verkeer,Westenschouwen - Ellemeet,Tussen Burgh-Haamstede en Zierikzee.,,10.0,2300,51.70018,3.808698,2026-08-17 12:36,10005383624
