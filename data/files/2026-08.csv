@@ -1721,3 +1721,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-17 09:30,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen Hoenderloo (22) en knooppunt Waterberg.,,6.0,2600,52.09969,5.952838,2026-08-17 09:25,10005383499
 2026-08-17 10:20,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,2200,51.898357,6.165913,2026-08-17 09:59,10005383508
 2026-08-17 10:20,A73,Stilstaand verkeer,Nijmegen - Maasbracht,Tussen Cuijk (4) en Haps (5).,Defect voertuig,10.0,3000,51.712467,5.871501,2026-08-17 10:13,10005383514
+2026-08-17 11:07,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,28.0,4800,51.898357,6.165913,2026-08-17 09:59,10005383508
+2026-08-17 11:07,A73,Stilstaand verkeer,Nijmegen - Maasbracht,Tussen Nijmegen-Dukenburg (2) en Cuijk (4).,Eerder pechgeval,17.0,5600,51.734303,5.846105,2026-08-17 10:13,10005383514
+2026-08-17 11:07,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,13.0,2400,50.818733,6.024534,2026-08-17 10:57,10005383537
