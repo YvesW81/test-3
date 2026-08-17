@@ -1724,3 +1724,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-17 11:07,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,28.0,4800,51.898357,6.165913,2026-08-17 09:59,10005383508
 2026-08-17 11:07,A73,Stilstaand verkeer,Nijmegen - Maasbracht,Tussen Nijmegen-Dukenburg (2) en Cuijk (4).,Eerder pechgeval,17.0,5600,51.734303,5.846105,2026-08-17 10:13,10005383514
 2026-08-17 11:07,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,13.0,2400,50.818733,6.024534,2026-08-17 10:57,10005383537
+2026-08-17 11:54,A7,Stilstaand verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,9.0,3100,53.073498,5.33212,2026-08-17 11:34,10005383563
+2026-08-17 11:54,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,21.0,4800,51.898357,6.165913,2026-08-17 09:59,10005383508
+2026-08-17 11:54,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,20.0,2700,50.818733,6.024534,2026-08-17 10:57,10005383537
+2026-08-17 11:54,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,4.0,3000,51.700657,3.781012,2026-08-17 11:50,10005383573
