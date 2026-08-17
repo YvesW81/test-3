@@ -1684,3 +1684,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-16 21:38,A28,Stilstaand verkeer,Assen - Hoogeveen,Tussen Assen-Zuid (31a) en de brug over het Oranjekanaal.,Brandend voertuig,12.0,3000,52.904552,6.531435,2026-08-16 21:13,10005383280
 2026-08-16 21:52,A28,Stilstaand verkeer,Assen - Hoogeveen,Tussen Assen-Zuid (31a) en de brug over het Oranjekanaal.,Brandend voertuig,12.0,3000,52.904552,6.531435,2026-08-16 21:13,10005383280
 2026-08-16 22:16,A28,Stilstaand verkeer,Assen - Hoogeveen,Tussen Assen-Zuid (31a) en de brug over het Oranjekanaal.,Brandend voertuig,12.0,3000,52.904552,6.531435,2026-08-16 21:13,10005383280
+2026-08-17 07:00,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Barneveld (15) en Hoevelaken (14).,,13.0,2100,52.163902,5.536422,2026-08-17 06:52,10005383315
+2026-08-17 07:00,A8,Langzaam rijdend verkeer,Zaandam - Amsterdam,Tussen Zaanstad-Assendelft (4) en Zaanstad-Zuid (1).,Uitgelopen werkzaamheden,15.0,6800,52.43653,4.862576,2026-08-17 06:24,10005383303
+2026-08-17 07:00,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Alblasserdam (22) en knooppunt Ridderkerk-Zuid.,,10.0,4000,51.85656,4.617059,2026-08-17 06:43,10005383312
+2026-08-17 07:00,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen Rozenburg (13) en Havens 5500-5700 (11).,,4.0,2000,51.908566,4.201298,2026-08-17 06:57,10005383316
+2026-08-17 07:00,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen Numansdorp (22) en Oud-Beijerland (21).,Defect voertuig,49.0,4300,51.78963,4.430208,2026-08-17 06:13,10005383307
