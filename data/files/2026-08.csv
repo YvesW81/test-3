@@ -1728,3 +1728,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-17 11:54,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,21.0,4800,51.898357,6.165913,2026-08-17 09:59,10005383508
 2026-08-17 11:54,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,20.0,2700,50.818733,6.024534,2026-08-17 10:57,10005383537
 2026-08-17 11:54,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,4.0,3000,51.700657,3.781012,2026-08-17 11:50,10005383573
+2026-08-17 12:26,A2,Langzaam rijdend verkeer,Eindhoven - Maastricht,Tussen Leenderheide/Randweg N2 en Leende (35).,,5.0,2900,51.33955,5.564023,2026-08-17 12:21,10005383601
+2026-08-17 12:26,A2,Stilstaand verkeer,Eindhoven - Maastricht,Tussen knooppunt Batadorp en knooppunt De Hogt.,,6.0,2100,51.463226,5.406659,2026-08-17 12:24,10005383606
+2026-08-17 12:26,A12,Langzaam rijdend verkeer,Arnhem - Duitse grens,Tussen Duiven (28) en knooppunt Oud-Dijk.,Door grenscontrole,4.0,2500,51.9346,6.098225,2026-08-17 09:59,10005383508
+2026-08-17 12:26,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,22.0,4600,51.898357,6.165913,2026-08-17 12:04,10005383587
+2026-08-17 12:26,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht-Centrum (21).,,3.0,2200,51.77407,4.649471,2026-08-17 12:24,10005383604
+2026-08-17 12:26,A28,Stilstaand verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,,6.0,1700,52.078636,5.1592064,2026-08-17 12:22,10005383605
+2026-08-17 12:26,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,16.0,4500,50.818733,6.024534,2026-08-17 10:57,10005383537
+2026-08-17 12:26,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,5.0,2200,51.702347,3.792325,2026-08-17 12:24,10005383607
