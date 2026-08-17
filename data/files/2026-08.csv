@@ -1745,3 +1745,15 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-17 12:56,A58,Stilstaand verkeer,Breda - Tilburg,Tussen knooppunt Galder en Ulvenhout (14).,,7.0,2100,51.531918,4.783969,2026-08-17 12:47,10005383641
 2026-08-17 12:56,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,17.0,5400,50.818733,6.024534,2026-08-17 10:57,10005383537
 2026-08-17 12:56,N57,Stilstaand verkeer,Westenschouwen - Ellemeet,Tussen Burgh-Haamstede en Zierikzee.,,10.0,2300,51.70018,3.808698,2026-08-17 12:36,10005383624
+2026-08-17 13:24,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,10.0,2100,52.31377,7.043839,2026-08-17 13:16,10005383661
+2026-08-17 13:24,A2,Langzaam rijdend verkeer,Maastricht - Eindhoven,Tussen knooppunt Leenderheide en knooppunt Batadorp.,,5.0,2800,51.41198,5.430045,2026-08-17 13:19,10005383667
+2026-08-17 13:24,A12,Langzaam rijdend verkeer,Arnhem - Duitse grens,Tussen Duiven (28) en knooppunt Oud-Dijk.,Door grenscontrole,4.0,2500,51.9346,6.098225,2026-08-17 09:59,10005383508
+2026-08-17 13:24,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,20.0,4800,51.898357,6.165913,2026-08-17 12:04,10005383587
+2026-08-17 13:24,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,Door grenscontrole,6.0,4500,51.94572,6.073955,2026-08-17 13:04,10005383652
+2026-08-17 13:24,A12,Langzaam rijdend verkeer,Utrecht - Den Haag,Tussen Harmelen (14a) en Nieuwerbrug (13).,Onwelwording,7.0,3600,52.06992,4.890532,2026-08-17 13:08,10005383654
+2026-08-17 13:24,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Klaverpolder en Dordrecht (20).,Dier(en) op de weg,9.0,2400,51.74846,4.640364,2026-08-17 12:24,10005383604
+2026-08-17 13:24,A27,Stilstaand verkeer,Gorinchem - Breda,Tussen knooppunt Gorinchem en Nieuwendijk (22).,Defecte vrachtwagen,32.0,4900,51.79552,4.930338,2026-08-17 13:02,10005383649
+2026-08-17 13:24,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Schaarsbergen (21).,Veiligheidsmaatregelen,7.0,2200,52.034115,5.928909,2026-08-17 13:09,10005383656
+2026-08-17 13:24,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,17.0,4800,50.818733,6.024534,2026-08-17 10:57,10005383537
+2026-08-17 13:24,N57,Stilstaand verkeer,Westenschouwen - Ellemeet,Tussen Burgh-Haamstede en Zierikzee.,,7.0,2300,51.70018,3.808698,2026-08-17 12:36,10005383624
+2026-08-17 13:24,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,4.0,2200,51.70227,3.791649,2026-08-17 13:17,10005383662
