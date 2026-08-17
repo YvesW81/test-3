@@ -1705,3 +1705,16 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-17 07:46,A58,Stilstaand verkeer,Breda - Bergen op Zoom,Tussen Roosendaal (24) en knooppunt De Stok.,Ongeval(len),17.0,3200,51.52926,4.426901,2026-08-17 07:30,10005383347
 2026-08-17 07:46,A58,Langzaam rijdend verkeer,Bergen op Zoom - Breda,Tussen Etten-Leur-West (19) en Breda-West (16).,,6.0,2400,51.57143,4.668023,2026-08-17 07:36,10005383359
 2026-08-17 07:46,N36,Stilstaand verkeer,Dedemsvaart - Almelo,Tussen Aadorp en Almelo-West.,,8.0,2900,52.35839,6.615219,2026-08-17 07:29,10005383346
+2026-08-17 08:21,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,,18.0,5100,52.165157,5.545569,2026-08-17 07:15,10005383329
+2026-08-17 08:21,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,Technische storing,6.0,3700,52.93355,5.039739,2026-08-17 07:44,10005383370
+2026-08-17 08:21,A15,Langzaam rijdend verkeer,Gorinchem - Ridderkerk,Tussen Alblasserdam (22) en knooppunt Ridderkerk-Zuid.,,5.0,3100,51.856567,4.615634,2026-08-17 08:18,10005383440
+2026-08-17 08:21,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Dordrecht-Centrum (21) en Hendrik-Ido-Ambacht (23).,,5.0,3100,51.838802,4.615395,2026-08-17 08:11,10005383427
+2026-08-17 08:21,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht-Centrum (21).,,6.0,2600,51.772762,4.649172,2026-08-17 08:19,10005383441
+2026-08-17 08:21,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,5.0,3070,51.997017,4.646387,2026-08-17 07:53,10005383388
+2026-08-17 08:21,A29,Langzaam rijdend verkeer,Sabina - Rotterdam,Tussen Oud-Beijerland (21) en knooppunt Vaanplein.,Defect voertuig,11.0,5000,51.862965,4.517046,2026-08-17 07:41,10005383367
+2026-08-17 08:21,A35,Stilstaand verkeer,Zwolle - Enschede,Tussen Hulsen/Nijverdal en Wierden (32).,,15.0,5400,52.35016,6.586142,2026-08-17 07:17,10005383333
+2026-08-17 08:21,A35,Langzaam rijdend verkeer,Almelo - Enschede,Tussen Borne-West (29) en de Loofrietbrug.,,9.0,4500,52.258446,6.752014,2026-08-17 07:56,10005383392
+2026-08-17 08:21,A50,Stilstaand verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,20.0,4600,52.49406,6.013067,2026-08-17 07:11,10005383326
+2026-08-17 08:21,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,,16.0,2900,52.03998,5.93244,2026-08-17 07:40,10005383366
+2026-08-17 08:21,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,,20.0,5700,52.139557,5.988933,2026-08-17 08:07,10005383417
+2026-08-17 08:21,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,,6.0,2200,51.687195,4.882505,2026-08-17 08:02,10005383408
