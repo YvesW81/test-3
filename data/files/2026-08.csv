@@ -1719,3 +1719,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-17 08:21,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,,20.0,5700,52.139557,5.988933,2026-08-17 08:07,10005383417
 2026-08-17 08:21,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,,6.0,2200,51.687195,4.882505,2026-08-17 08:02,10005383408
 2026-08-17 09:30,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen Hoenderloo (22) en knooppunt Waterberg.,,6.0,2600,52.09969,5.952838,2026-08-17 09:25,10005383499
+2026-08-17 10:20,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,2200,51.898357,6.165913,2026-08-17 09:59,10005383508
+2026-08-17 10:20,A73,Stilstaand verkeer,Nijmegen - Maasbracht,Tussen Cuijk (4) en Haps (5).,Defect voertuig,10.0,3000,51.712467,5.871501,2026-08-17 10:13,10005383514
