@@ -2013,3 +2013,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-18 10:30,A50,Langzaam rijdend verkeer,Oss - Arnhem,Tussen Renkum (19) en knooppunt Grijsoord.,Wegdek in slechte toestand,11.0,4700,52.01947,5.818338,2026-08-18 06:34,10005384240
 2026-08-18 10:30,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,,7.0,2600,52.039143,5.931889,2026-08-18 09:50,10005384616
 2026-08-18 10:30,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Renesse en Burgh-Haamstede.,,3.0,2000,51.70212,3.790268,2026-08-18 10:26,10005384631
+2026-08-18 11:06,A4,Stilstaand verkeer,Knooppunt Sabina - Belgische grens,Tussen Tholen (26) en Hoogerheide (30).,,38.0,6300,51.47495,4.313965,2026-08-18 10:24,10005384630
+2026-08-18 11:06,A7,Langzaam rijdend verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,4.0,2500,53.073807,5.335642,2026-08-18 11:00,10005384651
+2026-08-18 11:06,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,17.0,2300,51.898357,6.165913,2026-08-18 10:11,10005384623
+2026-08-18 11:06,A50,Stilstaand verkeer,Oss - Arnhem,Tussen Renkum (19) en knooppunt Grijsoord.,Wegdek in slechte toestand,8.0,3300,52.01947,5.818338,2026-08-18 06:34,10005384240
+2026-08-18 11:06,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,,4.0,3200,52.055626,5.939174,2026-08-18 11:00,10005384650
+2026-08-18 11:06,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,6.0,2100,50.818733,6.024534,2026-08-18 11:01,10005384653
+2026-08-18 11:06,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,4.0,2600,51.70177,3.786989,2026-08-18 10:35,10005384636
+2026-08-18 11:06,N57,Langzaam rijdend verkeer,Westenschouwen - Ellemeet,Tussen Burgh-Haamstede en Zierikzee.,,5.0,2100,51.70018,3.808698,2026-08-18 10:59,10005384649
