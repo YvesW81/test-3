@@ -1983,3 +1983,23 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-18 08:17,A73,Langzaam rijdend verkeer,Maasbracht - Nijmegen,Tussen knooppunt Tiglia en Venlo-West (13).,,8.0,4000,51.374256,6.123402,2026-08-18 08:01,10005384382
 2026-08-18 08:17,A325,Stilstaand verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Velperbroek.,,16.0,5800,51.98133,5.978122,2026-08-18 07:20,10005384289
 2026-08-18 08:17,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,4.0,2500,51.70177,3.786989,2026-08-18 08:01,10005384385
+2026-08-18 09:08,A1,Langzaam rijdend verkeer,Amsterdam - Amersfoort,Tussen Naarden-Vesting (6) en Hotel/Restaurant De Witte Bergen (9a).,,10.0,5100,52.24681,5.215334,2026-08-18 08:29,10005384470
+2026-08-18 09:08,A1,Langzaam rijdend verkeer,Amersfoort - Amsterdam,Tussen knooppunt Diemen en Diemen-Noord (1).,,3.0,2200,52.345547,4.977684,2026-08-18 09:04,10005384572
+2026-08-18 09:08,A2,Stilstaand verkeer,Utrecht - Amsterdam,Op de verbindingsweg van de A2 vanuit Utrecht naar de A10 richting Den Haag.,,6.0,1800,52.330402,4.904622,2026-08-18 08:28,10005384481
+2026-08-18 09:08,A2,Langzaam rijdend verkeer,Utrecht - Amsterdam,Tussen knooppunt Holendrecht en knooppunt Amstel.,,7.0,3500,52.316322,4.91942,2026-08-18 09:00,10005384563
+2026-08-18 09:08,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen Schiphol (2) en knooppunt De Nieuwe Meer.,,12.0,6400,52.337193,4.846571,2026-08-18 08:29,10005384471
+2026-08-18 09:08,A4,Langzaam rijdend verkeer,Rotterdam - Amsterdam,Tussen Rijswijk-Plaspoelpolder (10) en knooppunt Prins Clausplein.,Eerder ongeval,4.0,2300,52.052013,4.363764,2026-08-18 08:33,10005384489
+2026-08-18 09:08,A7,Stilstaand verkeer,Hoorn - Zaanstad,Tussen Wijdewormer (3) en knooppunt Zaandam.,,9.0,3000,52.458874,4.846649,2026-08-18 09:01,10005384565
+2026-08-18 09:08,A9,Langzaam rijdend verkeer,Diemen - Amstelveen,Tussen knooppunt Holendrecht en Amstelveen (4).,,7.0,3600,52.292248,4.899178,2026-08-18 08:02,10005384387
+2026-08-18 09:08,A9,Langzaam rijdend verkeer,Diemen - Amstelveen,Ter hoogte van knooppunt Diemen.,,5.0,2100,52.32332,5.003992,2026-08-18 08:48,10005384575
+2026-08-18 09:08,A9,Langzaam rijdend verkeer,Alkmaar - Amstelveen,Tussen knooppunt Badhoevedorp en Schiphol-Oost.,,8.0,3500,52.308346,4.824584,2026-08-18 08:48,10005384532
+2026-08-18 09:08,A10,Stilstaand verkeer,Knooppunt Coenplein - Knooppunt Amstel,Tussen Amsterdam-Bos en Lommer (4) en knooppunt Amstel.,,24.0,9100,52.328484,4.910471,2026-08-18 08:13,10005384421
+2026-08-18 09:08,A10,Langzaam rijdend verkeer,Knooppunt Watergraafsmeer - Knooppunt De Nieuwe Meer,Tussen knooppunt Watergraafsmeer en knooppunt Amstel.,,6.0,2900,52.32988,4.921296,2026-08-18 08:31,10005384478
+2026-08-18 09:08,A10,Langzaam rijdend verkeer,Knooppunt Watergraafsmeer - Knooppunt De Nieuwe Meer,Tussen knooppunt Coenplein en de Coentunnel.,,4.0,2400,52.41109,4.861067,2026-08-18 08:51,10005384543
+2026-08-18 09:08,A10,Langzaam rijdend verkeer,Knooppunt Amstel - Knooppunt De Nieuwe Meer,Tussen knooppunt Amstel en Amsterdam-Oud Zuid (8).,,7.0,3500,52.339516,4.875793,2026-08-18 09:05,10005384573
+2026-08-18 09:08,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen Duiven (28) en de IJsselbrug.,,4.0,2200,51.97661,5.987336,2026-08-18 09:05,10005384574
+2026-08-18 09:08,A50,Stilstaand verkeer,Oss - Arnhem,Tussen Renkum (19) en knooppunt Grijsoord.,Wegdek in slechte toestand,18.0,5800,52.01947,5.818338,2026-08-18 06:34,10005384240
+2026-08-18 09:08,A50,Stilstaand verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,11.0,4100,52.49406,6.013067,2026-08-18 07:11,10005384277
+2026-08-18 09:08,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,,28.0,3300,52.15394,6.013052,2026-08-18 07:22,10005384293
+2026-08-18 09:08,A325,Stilstaand verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Velperbroek.,,19.0,5800,51.98133,5.978122,2026-08-18 07:20,10005384289
+2026-08-18 09:08,N35,Langzaam rijdend verkeer,Zwolle - Almelo,Tussen Hulsen/Nijverdal en Wierden-West.,,5.0,2300,52.359997,6.544438,2026-08-18 07:08,10005384274
