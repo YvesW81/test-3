@@ -1920,3 +1920,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-18 06:49,A15,Langzaam rijdend verkeer,Gorinchem - Ridderkerk,Tussen Alblasserdam (22) en Hendrik-Ido-Ambacht (21).,,8.0,3700,51.856544,4.623547,2026-08-18 06:43,10005384249
 2026-08-18 06:49,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Zwijndrecht (22) en Hendrik-Ido-Ambacht (23).,,3.0,2200,51.83807,4.616124,2026-08-18 06:47,10005384254
 2026-08-18 06:49,A50,Langzaam rijdend verkeer,Oss - Arnhem,Tussen Renkum (19) en knooppunt Grijsoord.,Wegwerkzaamheden,9.0,4600,52.01947,5.818338,2026-08-18 06:34,10005384240
+2026-08-18 07:16,A7,Stilstaand verkeer,Hoorn - Zaanstad,Tussen Wijdewormer (3) en knooppunt Zaandam.,,18.0,4200,52.458874,4.846649,2026-08-18 06:47,10005384255
+2026-08-18 07:16,A10,Stilstaand verkeer,Knooppunt Watergraafsmeer - Knooppunt De Nieuwe Meer,Tussen knooppunt Coenplein en Amsterdam-Hemhavens (1).,Defecte vrachtwagen,13.0,3000,52.407906,4.857592,2026-08-18 06:48,10005384256
+2026-08-18 07:16,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Alblasserdam (22) en knooppunt Ridderkerk-Zuid.,,11.0,4500,51.85658,4.614209,2026-08-18 06:58,10005384264
+2026-08-18 07:16,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Zwijndrecht (22) en Hendrik-Ido-Ambacht (23).,,4.0,2400,51.8377,4.616492,2026-08-18 07:13,10005384278
+2026-08-18 07:16,A50,Stilstaand verkeer,Oss - Arnhem,Tussen Renkum (19) en knooppunt Grijsoord.,Wegwerkzaamheden,24.0,6400,52.01947,5.818338,2026-08-18 06:34,10005384240
+2026-08-18 07:16,A50,Stilstaand verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,8.0,2900,52.49406,6.013067,2026-08-18 07:11,10005384277
+2026-08-18 07:16,A58,Langzaam rijdend verkeer,Breda - Eindhoven,Tussen knooppunt De Baars en Oirschot (8).,,7.0,3900,51.52362,5.222194,2026-08-18 07:10,10005384276
+2026-08-18 07:16,N35,Langzaam rijdend verkeer,Zwolle - Almelo,Tussen Hulsen/Nijverdal en Wierden-West.,,9.0,5300,52.358765,6.565803,2026-08-18 07:08,10005384274
