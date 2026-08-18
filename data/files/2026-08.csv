@@ -2299,3 +2299,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-18 18:05,A325,Stilstaand verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Velperbroek.,,25.0,6600,51.98133,5.978122,2026-08-18 12:44,10005384736
 2026-08-18 18:05,N35,Langzaam rijdend verkeer,Almelo - Duitse grens,Tussen Enschede (25) en Enschede-Oost.,,4.0,2200,52.201702,6.927993,2026-08-18 17:59,10005385514
 2026-08-18 18:05,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,7.0,4000,51.861423,4.156718,2026-08-18 17:57,10005385510
+2026-08-18 18:45,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,7.0,2000,52.31377,7.043839,2026-08-18 14:00,10005384775
+2026-08-18 18:45,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Barneveld (15) en Hoevelaken (14).,,4.0,2200,52.165485,5.476972,2026-08-18 18:39,10005385555
+2026-08-18 18:45,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen Culemborg (13) en knooppunt Deil.,Eerder pechgeval,16.0,3800,51.871765,5.215451,2026-08-18 17:24,10005385369
+2026-08-18 18:45,A9,Stilstaand verkeer,Diemen - Amstelveen,Tussen knooppunt Holendrecht en Amstelveen (4).,Ongeval(len),13.0,3600,52.29309,4.896654,2026-08-18 17:51,10005385501
+2026-08-18 18:45,A50,Langzaam rijdend verkeer,Oss - Arnhem,Tussen Renkum (19) en knooppunt Grijsoord.,Wegdek in slechte toestand,6.0,2500,52.01947,5.818338,2026-08-18 06:34,10005384240
