@@ -2087,3 +2087,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-18 14:03,A325,Langzaam rijdend verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Velperbroek.,,12.0,5800,51.98133,5.978122,2026-08-18 12:44,10005384736
 2026-08-18 14:03,N57,Stilstaand verkeer,Westenschouwen - Ellemeet,Tussen Burgh-Haamstede en Zierikzee.,,14.0,2400,51.70018,3.808698,2026-08-18 10:59,10005384649
 2026-08-18 14:03,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,5.0,2400,51.701916,3.788346,2026-08-18 14:00,10005384776
+2026-08-18 15:03,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,7.0,2000,52.31377,7.043839,2026-08-18 14:00,10005384775
+2026-08-18 15:03,A1,Stilstaand verkeer,Amersfoort - Apeldoorn,Tussen Voorthuizen (16) en Kootwijk (18).,Ongeval met vrachtwagen,30.0,6400,52.19317,5.722461,2026-08-18 14:21,10005384788
+2026-08-18 15:03,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Oudenrijn en Everdingen (12).,Ongeval(len),99.0,10800,51.964382,5.114642,2026-08-18 12:18,10005384709
+2026-08-18 15:03,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen knooppunt Rijnsweerd en knooppunt Everdingen.,Ongeval op aansluitende weg,25.0,9700,51.983784,5.108158,2026-08-18 13:40,10005384761
+2026-08-18 15:03,A50,Langzaam rijdend verkeer,Oss - Arnhem,Tussen Renkum (19) en knooppunt Grijsoord.,Wegdek in slechte toestand,13.0,5600,52.01947,5.818338,2026-08-18 06:34,10005384240
+2026-08-18 15:03,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,,13.0,3500,52.148487,6.00472,2026-08-18 14:52,10005384817
+2026-08-18 15:03,A59,Langzaam rijdend verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Engelen (46) en 's-Hertogenbosch-Maaspoort (47).,,4.0,2100,51.718166,5.298994,2026-08-18 15:01,10005384828
+2026-08-18 15:03,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,14.0,2700,50.818733,6.024534,2026-08-18 12:25,10005384717
+2026-08-18 15:03,N57,Stilstaand verkeer,Westenschouwen - Ellemeet,Tussen Burgh-Haamstede en Zierikzee.,,12.0,2500,51.70018,3.808698,2026-08-18 10:59,10005384649
