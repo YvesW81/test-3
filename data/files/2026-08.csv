@@ -2065,3 +2065,14 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-18 13:10,N57,Stilstaand verkeer,Westenschouwen - Ellemeet,Tussen Burgh-Haamstede en Zierikzee.,,12.0,2300,51.70018,3.808698,2026-08-18 10:59,10005384649
 2026-08-18 13:10,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,5.0,2100,51.702488,3.793657,2026-08-18 12:36,10005384727
 2026-08-18 13:10,N57,Langzaam rijdend verkeer,Vrouwenpolder - Middelburg,Tussen Vrouwenpolder/Veere en Middelburg-Noord/Veere.,,4.0,2000,51.542538,3.605804,2026-08-18 12:58,10005384748
+2026-08-18 13:43,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,,10.0,2200,52.31377,7.043839,2026-08-18 13:24,10005384754
+2026-08-18 13:43,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Oudenrijn en Everdingen (12).,Ongeval(len),70.0,8100,51.964382,5.114642,2026-08-18 12:18,10005384709
+2026-08-18 13:43,A27,Langzaam rijdend verkeer,Utrecht - Gorinchem,Tussen Houten (29) en knooppunt Everdingen.,Ongeval op aansluitende weg,9.0,4800,51.98341,5.108015,2026-08-18 12:41,10005384730
+2026-08-18 13:43,A50,Stilstaand verkeer,Oss - Arnhem,Tussen Renkum (19) en knooppunt Grijsoord.,Wegdek in slechte toestand,13.0,5200,52.01947,5.818338,2026-08-18 06:34,10005384240
+2026-08-18 13:43,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen Loenen (23) en knooppunt Waterberg.,,14.0,3800,52.117233,5.95194,2026-08-18 13:25,10005384755
+2026-08-18 13:43,A58,Stilstaand verkeer,Vlissingen - Bergen op Zoom,Tussen Yerseke (33) en Rilland (31).,,9.0,2200,51.422173,4.096871,2026-08-18 13:38,10005384759
+2026-08-18 13:43,A73,Langzaam rijdend verkeer,Maasbracht - Nijmegen,Tussen knooppunt Tiglia en Venlo-West (13).,,4.0,3100,51.370743,6.122966,2026-08-18 13:41,10005384763
+2026-08-18 13:43,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,,16.0,3400,50.818733,6.024534,2026-08-18 12:25,10005384717
+2026-08-18 13:43,A325,Stilstaand verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Velperbroek.,,14.0,5800,51.98133,5.978122,2026-08-18 12:44,10005384736
+2026-08-18 13:43,N57,Stilstaand verkeer,Westenschouwen - Ellemeet,Tussen Burgh-Haamstede en Zierikzee.,,13.0,2500,51.70018,3.808698,2026-08-18 10:59,10005384649
+2026-08-18 13:43,N57,Stilstaand verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,6.0,2100,51.702415,3.792988,2026-08-18 13:40,10005384762
