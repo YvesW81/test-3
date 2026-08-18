@@ -2003,3 +2003,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-18 09:08,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,,28.0,3300,52.15394,6.013052,2026-08-18 07:22,10005384293
 2026-08-18 09:08,A325,Stilstaand verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Velperbroek.,,19.0,5800,51.98133,5.978122,2026-08-18 07:20,10005384289
 2026-08-18 09:08,N35,Langzaam rijdend verkeer,Zwolle - Almelo,Tussen Hulsen/Nijverdal en Wierden-West.,,5.0,2300,52.359997,6.544438,2026-08-18 07:08,10005384274
+2026-08-18 09:50,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,,4.0,2300,52.16703,5.559619,2026-08-18 09:43,10005384612
+2026-08-18 09:50,A50,Stilstaand verkeer,Oss - Arnhem,Tussen Renkum (19) en knooppunt Grijsoord.,Wegdek in slechte toestand,14.0,5100,52.01947,5.818338,2026-08-18 06:34,10005384240
+2026-08-18 09:50,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Hoenderloo (22).,,15.0,5700,52.136936,5.983925,2026-08-18 09:21,10005384596
+2026-08-18 09:50,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2200,51.702347,3.792325,2026-08-18 09:45,10005384613
