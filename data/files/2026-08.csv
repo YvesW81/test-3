@@ -1913,3 +1913,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-17 18:09,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,6.0,2800,51.997955,4.647881,2026-08-17 17:04,10005383997
 2026-08-17 18:09,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,7.0,3000,52.04082,5.932931,2026-08-17 14:38,10005383736
 2026-08-17 18:09,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Hoenderloo (22).,Veiligheidsmaatregelen,6.0,4500,52.128506,5.96649,2026-08-17 16:41,10005383925
+2026-08-18 06:49,A7,Stilstaand verkeer,Hoorn - Zaanstad,Tussen Zaanstad-'t Kalf (2) en knooppunt Zaandam.,,10.0,2200,52.458874,4.846649,2026-08-18 06:47,10005384255
+2026-08-18 06:49,A9,Stilstaand verkeer,Alkmaar - Amstelveen,Tussen Beverwijk-Oost (8) en de brug over het Zijkanaal C.,,10.0,3300,52.43065,4.678068,2026-08-18 06:30,10005384236
+2026-08-18 06:49,A9,Langzaam rijdend verkeer,Alkmaar - Amstelveen,Tussen knooppunt Velsen en knooppunt Rottepolderplein.,,5.0,2400,52.396538,4.705448,2026-08-18 06:46,10005384253
+2026-08-18 06:49,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen Rozenburg (13) en Havens 5500-5700 (11).,,6.0,2700,51.91124,4.195641,2026-08-18 06:34,10005384238
+2026-08-18 06:49,A15,Langzaam rijdend verkeer,Gorinchem - Ridderkerk,Tussen Alblasserdam (22) en Hendrik-Ido-Ambacht (21).,,8.0,3700,51.856544,4.623547,2026-08-18 06:43,10005384249
+2026-08-18 06:49,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Zwijndrecht (22) en Hendrik-Ido-Ambacht (23).,,3.0,2200,51.83807,4.616124,2026-08-18 06:47,10005384254
+2026-08-18 06:49,A50,Langzaam rijdend verkeer,Oss - Arnhem,Tussen Renkum (19) en knooppunt Grijsoord.,Wegwerkzaamheden,9.0,4600,52.01947,5.818338,2026-08-18 06:34,10005384240
