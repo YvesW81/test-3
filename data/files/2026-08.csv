@@ -2319,3 +2319,13 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-19 07:48,A50,Stilstaand verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,15.0,4200,52.49406,6.013067,2026-08-19 07:16,10005385634
 2026-08-19 07:48,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,13.0,3800,52.048656,5.936286,2026-08-19 07:40,10005385657
 2026-08-19 07:48,A76,Stilstaand verkeer,Geleen - Aken,Tussen Spaubeek (3) en Nuth (5).,Schade aan wegmeubilair,14.0,3000,50.937668,5.874221,2026-08-19 07:39,10005385656
+2026-08-19 08:17,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,,11.0,3100,52.16703,5.559619,2026-08-19 07:52,10005385675
+2026-08-19 08:17,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen Leidschendam (8) en knooppunt Hofvliet.,Eerder ongeval,14.0,3300,52.097065,4.437957,2026-08-19 07:38,10005385655
+2026-08-19 08:17,A12,Stilstaand verkeer,Arnhem - Utrecht,Op de verbindingsweg van de A12 vanuit Zevenaar naar de A50 richting Apeldoorn.,Incident op aansluitende weg,6.0,1000,52.02223,5.9239607,2026-08-19 07:48,10005385666
+2026-08-19 08:17,A12,Stilstaand verkeer,Utrecht - Arnhem,Op de verbindingsweg van de A12 vanuit Utrecht naar de A50 richting Apeldoorn.,Incident op aansluitende weg,3.0,1100,52.016438,5.919876,2026-08-19 08:03,10005385688
+2026-08-19 08:17,A35,Langzaam rijdend verkeer,Zwolle - Enschede,Tussen Hulsen/Nijverdal en Wierden (32).,,8.0,4100,52.35016,6.586142,2026-08-19 07:27,10005385640
+2026-08-19 08:17,A50,Stilstaand verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,14.0,4700,52.49406,6.013067,2026-08-19 07:16,10005385634
+2026-08-19 08:17,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,9.0,3100,52.04168,5.933365,2026-08-19 07:40,10005385657
+2026-08-19 08:17,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Hoenderloo (22).,Veiligheidsmaatregelen,20.0,6600,52.132233,5.974466,2026-08-19 07:52,10005385691
+2026-08-19 08:17,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Valburg en knooppunt Ewijk.,Eerder ongeval,6.0,2500,51.86442,5.718745,2026-08-19 08:09,10005385696
+2026-08-19 08:17,A76,Stilstaand verkeer,Belgische grens - Aken,Tussen knooppunt Kerensheide en Nuth (5).,Ongeval(len),39.0,5600,50.937668,5.874221,2026-08-19 07:39,10005385656
