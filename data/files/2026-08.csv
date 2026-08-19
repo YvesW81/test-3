@@ -2348,3 +2348,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-19 10:30,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen Hoenderloo (22) en knooppunt Waterberg.,,6.0,2400,52.09443,5.950299,2026-08-19 10:24,10005385829
 2026-08-19 10:30,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,9.0,2700,50.818733,6.024534,2026-08-19 08:53,10005385765
 2026-08-19 10:30,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,4.0,2200,51.702347,3.792325,2026-08-19 10:20,10005385827
+2026-08-19 11:07,A2,Stilstaand verkeer,Eindhoven - Maastricht,Tussen Grathem (41) en Sint Joost (44).,Eerder pechgeval,11.0,3100,51.158394,5.892672,2026-08-19 10:12,10005385822
+2026-08-19 11:07,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Tussen knooppunt Empel en Zaltbommel (17).,Defecte vrachtwagen,16.0,6700,51.780464,5.258453,2026-08-19 10:30,10005385833
+2026-08-19 11:07,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,16.0,2400,51.898357,6.165913,2026-08-19 10:24,10005385828
+2026-08-19 11:07,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Op de verbindingsweg van de A20 vanuit Gouda naar de A16 richting Breda.,Ongeval met vrachtwagen,9.0,1100,51.941357,4.5335994,2026-08-19 10:34,10005385838
+2026-08-19 11:07,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Nieuwerkerk aan den IJssel (17) en knooppunt Terbregseplein.,Ongeval met vrachtwagen,8.0,4300,51.95045,4.527725,2026-08-19 10:44,10005385844
+2026-08-19 11:07,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen Loenen (23) en knooppunt Waterberg.,Veiligheidsmaatregelen,4.0,2400,52.110176,5.953122,2026-08-19 10:52,10005385853
+2026-08-19 11:07,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,,4.0,2300,52.138996,5.987876,2026-08-19 11:04,10005385860
+2026-08-19 11:07,N44,Langzaam rijdend verkeer,Amsterdam - Den Haag,Tussen Wassenaar en Wassenaar-Zuid.,Voorwerpen op de weg,6.0,3800,52.115208,4.373743,2026-08-19 10:45,10005385847
+2026-08-19 11:07,N57,Langzaam rijdend verkeer,Westenschouwen - Ellemeet,Tussen Burgh-Haamstede en Zierikzee.,,5.0,2300,51.70018,3.808698,2026-08-19 10:59,10005385857
