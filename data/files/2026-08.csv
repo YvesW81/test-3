@@ -2329,3 +2329,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-19 08:17,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Hoenderloo (22).,Veiligheidsmaatregelen,20.0,6600,52.132233,5.974466,2026-08-19 07:52,10005385691
 2026-08-19 08:17,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Valburg en knooppunt Ewijk.,Eerder ongeval,6.0,2500,51.86442,5.718745,2026-08-19 08:09,10005385696
 2026-08-19 08:17,A76,Stilstaand verkeer,Belgische grens - Aken,Tussen knooppunt Kerensheide en Nuth (5).,Ongeval(len),39.0,5600,50.937668,5.874221,2026-08-19 07:39,10005385656
+2026-08-19 09:09,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,,11.0,4700,52.162827,5.519354,2026-08-19 09:06,10005385777
+2026-08-19 09:09,A2,Langzaam rijdend verkeer,Maastricht - Eindhoven,Tussen Roosteren (46) en knooppunt Het Vonderen.,Defecte vrachtwagen,7.0,3000,51.109184,5.859676,2026-08-19 08:41,10005385748
+2026-08-19 09:09,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen Amsterdam-Sloten (1) en knooppunt De Nieuwe Meer.,,5.0,2400,52.337193,4.846571,2026-08-19 09:00,10005385772
+2026-08-19 09:09,A6,Stilstaand verkeer,Emmeloord - Lelystad,Tussen Emmeloord-West (14) en Urk (13).,Defecte vrachtwagen,13.0,2100,52.64938,5.677788,2026-08-19 08:27,10005385723
+2026-08-19 09:09,A10,Langzaam rijdend verkeer,Knooppunt Coenplein - Knooppunt De Nieuwe Meer,Tussen Amsterdam-West (6) en knooppunt De Nieuwe Meer.,,6.0,2800,52.337254,4.847801,2026-08-19 08:42,10005385750
+2026-08-19 09:09,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,10.0,4600,52.055626,5.939174,2026-08-19 07:40,10005385657
+2026-08-19 09:09,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Hoenderloo (22).,Veiligheidsmaatregelen,13.0,6300,52.13387,5.977833,2026-08-19 08:31,10005385775
+2026-08-19 09:09,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,14.0,3400,50.818733,6.024534,2026-08-19 08:53,10005385765
