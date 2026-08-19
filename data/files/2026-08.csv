@@ -2380,3 +2380,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-19 12:47,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Schaarsbergen (21).,Veiligheidsmaatregelen,4.0,2100,52.034115,5.928909,2026-08-19 12:39,10005385935
 2026-08-19 12:47,A67,Langzaam rijdend verkeer,Eindhoven - Duitse grens,Tussen Venlo-Noordwest (39) en de Noorderbrug.,Eerder ongeval,6.0,2500,51.395084,6.150462,2026-08-19 11:49,10005385890
 2026-08-19 12:47,N57,Stilstaand verkeer,Westenschouwen - Ellemeet,Tussen Burgh-Haamstede en Zierikzee.,,10.0,2500,51.70018,3.808698,2026-08-19 12:23,10005385922
+2026-08-19 13:10,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,6.0,2000,52.31377,7.043839,2026-08-19 12:38,10005385932
+2026-08-19 13:10,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Tussen Kerkdriel (19) en de Martinus Nijhoffbrug.,,5.0,2500,51.795086,5.258371,2026-08-19 13:00,10005385954
+2026-08-19 13:10,A2,Stilstaand verkeer,Eindhoven - 's-Hertogenbosch,Tussen Boxtel (26) en Vught (24).,,7.0,2500,51.634098,5.311647,2026-08-19 13:04,10005385960
+2026-08-19 13:10,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1500,51.898357,6.165913,2026-08-19 10:24,10005385828
+2026-08-19 13:10,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Schaarsbergen (21).,Veiligheidsmaatregelen,4.0,2100,52.034115,5.928909,2026-08-19 12:39,10005385935
+2026-08-19 13:10,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Veiligheidsmaatregelen,5.0,2200,52.162865,6.022185,2026-08-19 12:47,10005385940
+2026-08-19 13:10,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,10.0,2000,50.818733,6.024534,2026-08-19 13:05,10005385962
+2026-08-19 13:10,N57,Stilstaand verkeer,Westenschouwen - Ellemeet,Tussen Burgh-Haamstede en Zierikzee.,,7.0,2200,51.70018,3.808698,2026-08-19 12:23,10005385922
+2026-08-19 13:10,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,4.0,2200,51.70212,3.790268,2026-08-19 13:02,10005385958
