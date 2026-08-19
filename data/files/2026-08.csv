@@ -2660,3 +2660,23 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-19 17:41,N9,Stilstaand verkeer,Den Helder - Alkmaar,Tussen Warmenhuizen en Koedijk.,,7.0,2600,52.6609,4.742934,2026-08-19 16:12,10005386346
 2026-08-19 17:41,N35,Langzaam rijdend verkeer,Almelo - Duitse grens,Tussen Enschede (25) en Enschede-Oost.,,6.0,2800,52.201694,6.92802,2026-08-19 17:36,10005386798
 2026-08-19 17:41,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,8.0,3000,51.544376,3.6051,2026-08-19 16:21,10005386390
+2026-08-19 18:11,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen Culemborg (13) en de Martinus Nijhoffbrug.,,24.0,9300,51.830364,5.25379,2026-08-19 14:36,10005386075
+2026-08-19 18:11,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Tussen knooppunt Hintham en de Maasbrug.,,6.0,3400,51.73261,5.31164,2026-08-19 18:05,10005386884
+2026-08-19 18:11,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Tussen Kerkdriel (19) en Zaltbommel (17).,,4.0,2400,51.775433,5.259366,2026-08-19 18:06,10005386887
+2026-08-19 18:11,A4,Langzaam rijdend verkeer,Belgische grens - Knooppunt Sabina,Tussen Nederland en knooppunt Markiezaat.,,6.0,2600,51.42757,4.276581,2026-08-19 15:44,10005386246
+2026-08-19 18:11,A9,Langzaam rijdend verkeer,Amstelveen - Alkmaar,Tussen knooppunt Raasdorp en knooppunt Rottepolderplein.,,4.0,2300,52.37688,4.70875,2026-08-19 18:08,10005386892
+2026-08-19 18:11,A12,Langzaam rijdend verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,,6.0,3300,52.019207,5.901082,2026-08-19 17:29,10005386762
+2026-08-19 18:11,A12,Langzaam rijdend verkeer,Arnhem - Duitse grens,Tussen Westervoort (27) en Zevenaar (29).,,4.0,2000,51.95586,6.041382,2026-08-19 18:08,10005386891
+2026-08-19 18:11,A15,Stilstaand verkeer,Gorinchem - Nijmegen,Op de verbindingsweg van de A15 vanuit Gorinchem naar de A2 richting 's-Hertogenbosch.,,7.0,900,51.851105,5.2332377,2026-08-19 14:55,10005386125
+2026-08-19 18:11,A15,Stilstaand verkeer,Ridderkerk - Gorinchem,Op de verbindingsweg van de A15 vanuit Rotterdam naar de A27 richting Breda.,,6.0,400,51.84229,4.948431,2026-08-19 15:28,10005386191
+2026-08-19 18:11,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Op de verbindingsweg van de A15 vanuit Nijmegen naar de A27 richting Breda.,,6.0,400,51.846325,4.950328,2026-08-19 15:36,10005386225
+2026-08-19 18:11,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,6.0,3200,51.99607,4.644883,2026-08-19 17:50,10005386856
+2026-08-19 18:11,A27,Stilstaand verkeer,Utrecht - Breda,Tussen Noordeloos (25) en de Merwedebrug.,,16.0,4700,51.830536,4.943572,2026-08-19 15:46,10005386251
+2026-08-19 18:11,A28,Stilstaand verkeer,Amersfoort - Zwolle,Tussen 't Harde (16) en knooppunt Hattemerbroek.,Ongeval(len),24.0,5700,52.479042,6.009445,2026-08-19 17:47,10005386845
+2026-08-19 18:11,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,11.0,4000,52.04953,5.936648,2026-08-19 14:28,10005386068
+2026-08-19 18:11,A50,Stilstaand verkeer,Eindhoven - Arnhem,Tussen knooppunt Paalgraven en Ravenstein (17).,,9.0,3200,51.77151,5.631676,2026-08-19 17:45,10005386840
+2026-08-19 18:11,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,4.0,2300,51.80075,5.671202,2026-08-19 18:07,10005386890
+2026-08-19 18:11,A50,Langzaam rijdend verkeer,Emmeloord - Apeldoorn,Tussen Kampen-Zuid (31) en Hattemerbroek.,,4.0,2000,52.49406,6.013067,2026-08-19 18:08,10005386893
+2026-08-19 18:11,A58,Stilstaand verkeer,Tilburg - Eindhoven,Tussen Oirschot (8) en de brug over het Beatrixkanaal.,,12.0,3600,51.485218,5.391047,2026-08-19 16:27,10005386417
+2026-08-19 18:11,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Op de verbindingsweg van de A59 vanuit Waalwijk naar de A2 richting Utrecht.,,4.0,1100,51.72585,5.32191,2026-08-19 15:22,10005386179
+2026-08-19 18:11,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,2300,50.818733,6.024534,2026-08-19 13:55,10005386026
