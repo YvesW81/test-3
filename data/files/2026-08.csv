@@ -2304,3 +2304,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-18 18:45,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen Culemborg (13) en knooppunt Deil.,Eerder pechgeval,16.0,3800,51.871765,5.215451,2026-08-18 17:24,10005385369
 2026-08-18 18:45,A9,Stilstaand verkeer,Diemen - Amstelveen,Tussen knooppunt Holendrecht en Amstelveen (4).,Ongeval(len),13.0,3600,52.29309,4.896654,2026-08-18 17:51,10005385501
 2026-08-18 18:45,A50,Langzaam rijdend verkeer,Oss - Arnhem,Tussen Renkum (19) en knooppunt Grijsoord.,Wegdek in slechte toestand,6.0,2500,52.01947,5.818338,2026-08-18 06:34,10005384240
+2026-08-19 06:47,A8,Stilstaand verkeer,Zaandam - Amsterdam,Tussen Zaanstad-Assendelft (4) en knooppunt Zaandam.,,22.0,3100,52.46172,4.822218,2026-08-19 06:39,10005385619
+2026-08-19 06:47,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen knooppunt Rozenburg en Havens 5500-5700 (11).,,7.0,2800,51.90908,4.20014,2026-08-19 06:26,10005385616
+2026-08-19 06:47,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Veiligheidsmaatregelen,6.0,2100,52.142704,5.994708,2026-08-19 06:42,10005385620
