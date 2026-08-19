@@ -2337,3 +2337,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-19 09:09,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,10.0,4600,52.055626,5.939174,2026-08-19 07:40,10005385657
 2026-08-19 09:09,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Hoenderloo (22).,Veiligheidsmaatregelen,13.0,6300,52.13387,5.977833,2026-08-19 08:31,10005385775
 2026-08-19 09:09,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,14.0,3400,50.818733,6.024534,2026-08-19 08:53,10005385765
+2026-08-19 09:52,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,,9.0,3300,52.166782,5.5575,2026-08-19 09:06,10005385777
+2026-08-19 09:52,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,10.0,4600,52.055626,5.939174,2026-08-19 07:40,10005385657
+2026-08-19 09:52,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Veiligheidsmaatregelen,18.0,3600,52.139557,5.988933,2026-08-19 09:26,10005385807
+2026-08-19 09:52,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,20.0,3900,50.818733,6.024534,2026-08-19 08:53,10005385765
