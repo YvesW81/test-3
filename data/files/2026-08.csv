@@ -2309,3 +2309,13 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-19 06:47,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Veiligheidsmaatregelen,6.0,2100,52.142704,5.994708,2026-08-19 06:42,10005385620
 2026-08-19 07:15,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Veiligheidsmaatregelen,6.0,2100,52.142704,5.994708,2026-08-19 06:42,10005385620
 2026-08-19 07:15,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen Loenen (23) en knooppunt Waterberg.,Veiligheidsmaatregelen,7.0,3000,52.10671,5.954515,2026-08-19 07:12,10005385630
+2026-08-19 07:48,A1,Langzaam rijdend verkeer,Apeldoorn - Amersfoort,Tussen Apeldoorn-Zuid (20) en Hoenderloo (19).,,6.0,2800,52.181942,5.917054,2026-08-19 07:43,10005385660
+2026-08-19 07:48,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,,5.0,2600,52.165836,5.550465,2026-08-19 07:43,10005385661
+2026-08-19 07:48,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen Leidschendam (8) en Zoeterwoude-Dorp (7).,Ongeval(len),16.0,5000,52.12729,4.485973,2026-08-19 07:38,10005385655
+2026-08-19 07:48,A15,Langzaam rijdend verkeer,Gorinchem - Ridderkerk,Tussen Alblasserdam (22) en knooppunt Ridderkerk-Zuid.,,6.0,2900,51.856552,4.618484,2026-08-19 07:37,10005385654
+2026-08-19 07:48,A35,Langzaam rijdend verkeer,Zwolle - Enschede,Tussen Hulsen/Nijverdal en Wierden (32).,,12.0,5400,52.35016,6.586142,2026-08-19 07:27,10005385640
+2026-08-19 07:48,A35,Langzaam rijdend verkeer,Enschede - Zwolle,Tussen Wierden (32) en Rijssen.,,5.0,2000,52.35912,6.559906,2026-08-19 07:40,10005385659
+2026-08-19 07:48,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Veiligheidsmaatregelen,12.0,2100,52.170364,6.026705,2026-08-19 07:12,10005385630
+2026-08-19 07:48,A50,Stilstaand verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,15.0,4200,52.49406,6.013067,2026-08-19 07:16,10005385634
+2026-08-19 07:48,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,13.0,3800,52.048656,5.936286,2026-08-19 07:40,10005385657
+2026-08-19 07:48,A76,Stilstaand verkeer,Geleen - Aken,Tussen Spaubeek (3) en Nuth (5).,Schade aan wegmeubilair,14.0,3000,50.937668,5.874221,2026-08-19 07:39,10005385656
