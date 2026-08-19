@@ -2366,3 +2366,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-19 11:46,A50,Stilstaand verkeer,Zwolle - Arnhem,Tussen Apeldoorn-Noord (25) en Apeldoorn (24).,,18.0,3700,52.221016,6.020697,2026-08-19 11:38,10005385880
 2026-08-19 11:46,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,8.0,2000,50.818733,6.024534,2026-08-19 11:15,10005385870
 2026-08-19 11:46,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,4.0,2400,51.702106,3.790141,2026-08-19 11:40,10005385882
+2026-08-19 12:11,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen knooppunt Empel en Zaltbommel (17).,Bergingswerkzaamheden,21.0,8100,51.78004,5.258499,2026-08-19 10:30,10005385833
+2026-08-19 12:11,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,15.0,2000,51.898357,6.165913,2026-08-19 10:24,10005385828
+2026-08-19 12:11,A50,Stilstaand verkeer,Zwolle - Arnhem,Tussen Vaassen (26) en Apeldoorn (24).,Defecte vrachtwagen,25.0,5400,52.221016,6.020697,2026-08-19 11:38,10005385880
+2026-08-19 12:11,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,4.0,2000,52.04168,5.933365,2026-08-19 11:57,10005385898
+2026-08-19 12:11,A67,Stilstaand verkeer,Eindhoven - Duitse grens,Tussen Venlo-Noordwest (39) en de Noorderbrug.,Ongeval(len),26.0,4300,51.395435,6.155959,2026-08-19 11:49,10005385890
+2026-08-19 12:11,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,8.0,2000,50.818733,6.024534,2026-08-19 11:15,10005385870
+2026-08-19 12:11,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,4.0,2200,51.702347,3.792325,2026-08-19 11:56,10005385897
