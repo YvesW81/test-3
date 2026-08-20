@@ -2735,3 +2735,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-20 13:23,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,16.0,3700,51.898357,6.165913,2026-08-20 09:43,10005387157
 2026-08-20 13:23,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen Numansdorp (22) en Oud-Beijerland (21).,,14.0,2000,51.796806,4.447724,2026-08-20 12:48,10005387237
 2026-08-20 13:23,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,2200,50.818733,6.024534,2026-08-20 08:36,10005387109
+2026-08-20 13:51,A1,Stilstaand verkeer,Amersfoort - Apeldoorn,Tussen Stroe (17) en Hoenderloo (19).,Eerder ongeval,41.0,4400,52.200226,5.828061,2026-08-20 12:30,10005387224
+2026-08-20 13:51,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,,7.0,2000,52.31377,7.043839,2026-08-20 12:51,10005387242
+2026-08-20 13:51,A1,Langzaam rijdend verkeer,Amersfoort - Apeldoorn,Tussen Kootwijk (18) en Hoenderloo (19).,,5.0,2800,52.184025,5.899323,2026-08-20 13:47,10005387295
+2026-08-20 13:51,A1,Langzaam rijdend verkeer,Apeldoorn - Amersfoort,Tussen Apeldoorn-Zuid (20) en Kootwijk (18).,,5.0,2900,52.186245,5.87824,2026-08-20 13:47,10005387294
+2026-08-20 13:51,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,15.0,3600,51.898357,6.165913,2026-08-20 09:43,10005387157
+2026-08-20 13:51,A15,Stilstaand verkeer,Europoort - Ridderkerk,Tussen Spijkenisse (16) en de Botlektunnel.,,11.0,2100,51.871014,4.333047,2026-08-20 13:49,10005387296
+2026-08-20 13:51,A16,Stilstaand verkeer op parallelrijbaan,Rotterdam - Breda,Op de parallelbaan. Tussen Rotterdam-Kralingen (26) en Rotterdam-Feijenoord (24).,Defecte vrachtwagen,18.0,3500,51.893684,4.558517,2026-08-20 13:23,10005387263
+2026-08-20 13:51,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen knooppunt Terbregseplein en knooppunt Ridderkerk-Noord.,Defecte vrachtwagen,12.0,5500,51.889263,4.562111,2026-08-20 13:26,10005387267
+2026-08-20 13:51,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,2200,50.818733,6.024534,2026-08-20 08:36,10005387109
