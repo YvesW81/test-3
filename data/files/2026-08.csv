@@ -2687,3 +2687,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-20 07:17,A2,Stilstaand verkeer,Maastricht - Eindhoven,Tussen knooppunt Leenderheide en knooppunt Batadorp.,,17.0,3600,51.41198,5.430045,2026-08-20 07:01,10005387014
 2026-08-20 07:17,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen Leidschendam (8) en knooppunt Hofvliet.,Defect voertuig,9.0,2800,52.12074,4.474368,2026-08-20 07:11,10005387017
 2026-08-20 07:17,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen knooppunt Terbregseplein en de Rottemerentunnel.,,4.0,2300,51.962566,4.517832,2026-08-20 07:14,10005387020
+2026-08-20 07:50,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen Leidschendam (8) en knooppunt Hofvliet.,,4.0,2900,52.124737,4.481065,2026-08-20 07:43,10005387051
+2026-08-20 07:50,A12,Stilstaand verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Zevenaar (29).,,9.0,2300,51.92716,6.113882,2026-08-20 07:31,10005387039
+2026-08-20 07:50,A12,Stilstaand verkeer,Arnhem - Utrecht,Tussen Oosterbeek (25) en Ede (24).,Defecte vrachtwagen,11.0,2500,52.01992,5.713835,2026-08-20 07:40,10005387050
+2026-08-20 07:50,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen knooppunt Gorinchem en Hardinxveld-Giessendam (26).,Eerder pechgeval,12.0,2900,51.838272,4.908586,2026-08-20 07:25,10005387031
+2026-08-20 07:50,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Klaverpolder en Dordrecht (20).,,43.0,4000,51.764683,4.647267,2026-08-20 07:23,10005387030
+2026-08-20 07:50,A35,Langzaam rijdend verkeer,Zwolle - Enschede,Tussen Hulsen/Nijverdal en Wierden (32).,,11.0,5200,52.35016,6.586142,2026-08-20 07:14,10005387021
+2026-08-20 07:50,A50,Stilstaand verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,16.0,4100,52.49406,6.013067,2026-08-20 07:16,10005387023
