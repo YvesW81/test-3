@@ -3023,3 +3023,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-20 18:03,A325,Stilstaand verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Velperbroek.,,24.0,6600,51.98133,5.978122,2026-08-20 14:50,10005387381
 2026-08-20 18:03,N44,Stilstaand verkeer,Amsterdam - Den Haag,Tussen knooppunt Ommedijk en Voorschoten.,,16.0,2400,52.141827,4.414984,2026-08-20 17:26,10005388113
 2026-08-20 18:03,N50,Langzaam rijdend verkeer,Emmeloord - Zwolle,Tussen Kampen (32) en Kampen-Zuid (31).,,8.0,3800,52.53153,5.912763,2026-08-20 17:59,10005388299
+2026-08-20 18:47,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1700,51.898357,6.165913,2026-08-20 09:43,10005387157
+2026-08-20 18:47,A12,Langzaam rijdend verkeer,Arnhem - Duitse grens,Tussen knooppunt Velperbroek en Duiven (28).,,7.0,2800,51.96349,6.012893,2026-08-20 18:32,10005388360
+2026-08-20 18:47,A28,Stilstaand verkeer,Amersfoort - Zwolle,Tussen Harderwijk-Zuid (11) en Ermelo (12).,,9.0,2700,52.330578,5.613058,2026-08-20 18:23,10005388348
+2026-08-20 18:47,A28,Stilstaand verkeer,Zwolle - Amersfoort,Tussen Wezep (17) en Epe (15).,,15.0,1600,52.404232,5.879573,2026-08-20 18:34,10005388361
+2026-08-20 18:47,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,6.0,2600,52.03834,5.931332,2026-08-20 13:55,10005387307
