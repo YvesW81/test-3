@@ -2694,3 +2694,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-20 07:50,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Klaverpolder en Dordrecht (20).,,43.0,4000,51.764683,4.647267,2026-08-20 07:23,10005387030
 2026-08-20 07:50,A35,Langzaam rijdend verkeer,Zwolle - Enschede,Tussen Hulsen/Nijverdal en Wierden (32).,,11.0,5200,52.35016,6.586142,2026-08-20 07:14,10005387021
 2026-08-20 07:50,A50,Stilstaand verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,16.0,4100,52.49406,6.013067,2026-08-20 07:16,10005387023
+2026-08-20 08:19,A1,Stilstaand verkeer,Amsterdam - Apeldoorn,Tussen Amersfoort-Noord (13) en Barneveld (15).,Technische storing,10.0,3000,52.16693,5.455725,2026-08-20 08:08,10005387081
+2026-08-20 08:19,A44,Stilstaand verkeer,Wassenaar - Amsterdam,Tussen Warmond (4) en Kaag-Dorp (2).,Ongeval(len),31.0,3800,52.227764,4.576679,2026-08-20 07:50,10005387058
+2026-08-20 08:19,A50,Stilstaand verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,14.0,4300,52.49406,6.013067,2026-08-20 07:16,10005387023
+2026-08-20 08:19,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen Hoenderloo (22) en knooppunt Waterberg.,Veiligheidsmaatregelen,7.0,2900,52.100544,5.953347,2026-08-20 08:13,10005387087
