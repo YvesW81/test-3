@@ -2698,3 +2698,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-20 08:19,A44,Stilstaand verkeer,Wassenaar - Amsterdam,Tussen Warmond (4) en Kaag-Dorp (2).,Ongeval(len),31.0,3800,52.227764,4.576679,2026-08-20 07:50,10005387058
 2026-08-20 08:19,A50,Stilstaand verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,14.0,4300,52.49406,6.013067,2026-08-20 07:16,10005387023
 2026-08-20 08:19,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen Hoenderloo (22) en knooppunt Waterberg.,Veiligheidsmaatregelen,7.0,2900,52.100544,5.953347,2026-08-20 08:13,10005387087
+2026-08-20 09:12,A1,Stilstaand verkeer,Amsterdam - Amersfoort,Tussen Amersfoort-Noord (13) en knooppunt Hoevelaken.,,8.0,2200,52.16819,5.444127,2026-08-20 08:08,10005387081
+2026-08-20 09:12,A10,Langzaam rijdend verkeer,Knooppunt Coenplein - Knooppunt De Nieuwe Meer,Tussen Amsterdam-West (6) en knooppunt De Nieuwe Meer.,,6.0,2700,52.337254,4.847801,2026-08-20 08:40,10005387114
+2026-08-20 09:12,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Veiligheidsmaatregelen,12.0,1600,52.167416,6.025222,2026-08-20 08:13,10005387087
+2026-08-20 09:12,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Schaarsbergen (21).,Veiligheidsmaatregelen,5.0,2100,52.035824,5.929703,2026-08-20 08:34,10005387106
+2026-08-20 09:12,A73,Stilstaand verkeer,Nijmegen - Maasbracht,Tussen Haps (5) en Boxmeer (6).,,11.0,3000,51.6534,5.910927,2026-08-20 08:39,10005387113
+2026-08-20 09:12,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,2200,50.818733,6.024534,2026-08-20 08:36,10005387109
