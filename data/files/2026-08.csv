@@ -2704,3 +2704,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-20 09:12,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Schaarsbergen (21).,Veiligheidsmaatregelen,5.0,2100,52.035824,5.929703,2026-08-20 08:34,10005387106
 2026-08-20 09:12,A73,Stilstaand verkeer,Nijmegen - Maasbracht,Tussen Haps (5) en Boxmeer (6).,,11.0,3000,51.6534,5.910927,2026-08-20 08:39,10005387113
 2026-08-20 09:12,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,2200,50.818733,6.024534,2026-08-20 08:36,10005387109
+2026-08-20 09:58,A1,Stilstaand verkeer,Amsterdam - Amersfoort,Tussen Naarden-Vesting (6) en Blaricum (8).,Defect voertuig,10.0,3400,52.276585,5.186511,2026-08-20 09:34,10005387153
+2026-08-20 09:58,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Veiligheidsmaatregelen,12.0,1600,52.167416,6.025222,2026-08-20 08:13,10005387087
+2026-08-20 09:58,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Schaarsbergen (21).,Veiligheidsmaatregelen,5.0,2100,52.035824,5.929703,2026-08-20 08:34,10005387106
+2026-08-20 09:58,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Oosterhout (33) en knooppunt Hooipolder.,,7.0,2400,51.687374,4.88553,2026-08-20 09:55,10005387162
+2026-08-20 09:58,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,2200,50.818733,6.024534,2026-08-20 08:36,10005387109
