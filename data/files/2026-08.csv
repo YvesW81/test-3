@@ -2744,3 +2744,13 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-20 13:51,A16,Stilstaand verkeer op parallelrijbaan,Rotterdam - Breda,Op de parallelbaan. Tussen Rotterdam-Kralingen (26) en Rotterdam-Feijenoord (24).,Defecte vrachtwagen,18.0,3500,51.893684,4.558517,2026-08-20 13:23,10005387263
 2026-08-20 13:51,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen knooppunt Terbregseplein en knooppunt Ridderkerk-Noord.,Defecte vrachtwagen,12.0,5500,51.889263,4.562111,2026-08-20 13:26,10005387267
 2026-08-20 13:51,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,2200,50.818733,6.024534,2026-08-20 08:36,10005387109
+2026-08-20 14:37,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,,10.0,4100,52.165836,5.550465,2026-08-20 13:52,10005387302
+2026-08-20 14:37,A1,Langzaam rijdend verkeer,Amersfoort - Apeldoorn,Tussen Kootwijk (18) en Hoenderloo (19).,,7.0,3600,52.182217,5.914077,2026-08-20 14:02,10005387316
+2026-08-20 14:37,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,14.0,1700,51.898357,6.165913,2026-08-20 09:43,10005387157
+2026-08-20 14:37,A12,Langzaam rijdend verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,,5.0,3500,52.01868,5.904545,2026-08-20 14:27,10005387346
+2026-08-20 14:37,A16,Stilstaand verkeer op parallelrijbaan,Rotterdam - Breda,Op de parallelbaan. Tussen Capelle a/d IJssel (25) en Rotterdam-Feijenoord (24).,Eerder pechgeval,11.0,3300,51.893684,4.558517,2026-08-20 13:23,10005387263
+2026-08-20 14:37,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen Rotterdam-Kralingen (26) en knooppunt Ridderkerk-Noord.,,6.0,3800,51.893368,4.558966,2026-08-20 14:01,10005387314
+2026-08-20 14:37,A29,Langzaam rijdend verkeer,Rotterdam - Sabina,Tussen Numansdorp (22) en de Haringvlietbrug.,,4.0,2000,51.717323,4.401628,2026-08-20 14:32,10005387352
+2026-08-20 14:37,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,,7.0,3100,52.04168,5.933365,2026-08-20 13:55,10005387307
+2026-08-20 14:37,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,2200,50.818733,6.024534,2026-08-20 08:36,10005387109
+2026-08-20 14:37,N11,Langzaam rijdend verkeer,Bodegraven - Leiden,Tussen Hazerswoude (7) en A4: Zoeterwoude-Rijndijk.,,3.0,2000,52.140472,4.506819,2026-08-20 14:34,10005387356
