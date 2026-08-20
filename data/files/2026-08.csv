@@ -2754,3 +2754,26 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-20 14:37,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,,7.0,3100,52.04168,5.933365,2026-08-20 13:55,10005387307
 2026-08-20 14:37,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,2200,50.818733,6.024534,2026-08-20 08:36,10005387109
 2026-08-20 14:37,N11,Langzaam rijdend verkeer,Bodegraven - Leiden,Tussen Hazerswoude (7) en A4: Zoeterwoude-Rijndijk.,,3.0,2000,52.140472,4.506819,2026-08-20 14:34,10005387356
+2026-08-20 15:31,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,,14.0,3500,52.31377,7.043839,2026-08-20 14:55,10005387394
+2026-08-20 15:31,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,,5.0,2100,52.16613,5.552598,2026-08-20 15:18,10005387421
+2026-08-20 15:31,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Voorthuizen (16).,,7.0,4300,52.16801,5.572616,2026-08-20 15:24,10005387436
+2026-08-20 15:31,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Deil en Waardenburg (16).,,5.0,2800,51.837086,5.247734,2026-08-20 15:28,10005387453
+2026-08-20 15:31,A6,Stilstaand verkeer,Emmeloord - Lelystad,Tussen Urk (13) en de Ketelbrug.,,7.0,2200,52.611523,5.643599,2026-08-20 15:26,10005387447
+2026-08-20 15:31,A8,Stilstaand verkeer,Amsterdam - Zaandam,Tussen Zaanstad-Zuid (1) en de Coenbrug.,Defect voertuig,19.0,4900,52.462723,4.813741,2026-08-20 15:20,10005387426
+2026-08-20 15:31,A9,Langzaam rijdend verkeer,Amstelveen - Alkmaar,Tussen knooppunt Beverwijk en Akersloot (11).,,5.0,2300,52.52337,4.719589,2026-08-20 15:28,10005387455
+2026-08-20 15:31,A10,Langzaam rijdend verkeer,Knooppunt Coenplein - Knooppunt Amstel,Tussen knooppunt De Nieuwe Meer en knooppunt Amstel.,,7.0,3600,52.330654,4.90206,2026-08-20 15:28,10005387451
+2026-08-20 15:31,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1700,51.898357,6.165913,2026-08-20 09:43,10005387157
+2026-08-20 15:31,A12,Stilstaand verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,,15.0,5600,52.019524,5.899003,2026-08-20 14:53,10005387391
+2026-08-20 15:31,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Ridderkerk-Zuid en Hendrik-Ido-Ambacht (23).,,10.0,2300,51.83765,4.616083,2026-08-20 15:03,10005387401
+2026-08-20 15:31,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Capelle a/d IJssel (25) en knooppunt Ridderkerk-Noord.,Ongeval(len),15.0,3600,51.886536,4.563286,2026-08-20 15:23,10005387431
+2026-08-20 15:31,A16,Stilstaand verkeer op parallelrijbaan,Rotterdam - Breda,Op de parallelbaan. Tussen Capelle a/d IJssel (25) en Rotterdam-Feijenoord (24).,Ongeval(len),11.0,2000,51.893684,4.558517,2026-08-20 15:28,10005387452
+2026-08-20 15:31,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,6.0,2600,51.997643,4.647383,2026-08-20 15:26,10005387444
+2026-08-20 15:31,A27,Langzaam rijdend verkeer,Almere - Gorinchem,Tussen Utrecht-Noord (31) en knooppunt Lunetten.,,6.0,3500,52.078255,5.158884,2026-08-20 15:23,10005387432
+2026-08-20 15:31,A27,Langzaam rijdend verkeer,Utrecht - Gorinchem,Tussen knooppunt Everdingen en Noordeloos (25).,,8.0,3600,51.952633,5.018933,2026-08-20 15:24,10005387437
+2026-08-20 15:31,A28,Langzaam rijdend verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,,6.0,1900,52.078636,5.1592064,2026-08-20 14:39,10005387365
+2026-08-20 15:31,A28,Langzaam rijdend verkeer,Utrecht - Zwolle,Tussen Amersfoort (8) en Amersfoort-Vathorst (8a).,,5.0,2300,52.185642,5.438263,2026-08-20 15:27,10005387449
+2026-08-20 15:31,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,12.0,2900,52.04082,5.932931,2026-08-20 13:55,10005387307
+2026-08-20 15:31,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Veiligheidsmaatregelen,9.0,2800,52.16994,6.026514,2026-08-20 14:44,10005387369
+2026-08-20 15:31,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen Loenen (23) en knooppunt Waterberg.,,4.0,2700,52.11813,5.952232,2026-08-20 15:24,10005387438
+2026-08-20 15:31,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,4.0,2500,51.800068,5.670363,2026-08-20 15:28,10005387454
+2026-08-20 15:31,A325,Stilstaand verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Velperbroek.,,15.0,5800,51.98133,5.978122,2026-08-20 14:50,10005387381
