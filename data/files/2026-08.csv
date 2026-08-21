@@ -3049,3 +3049,23 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-21 10:50,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,17.0,2500,50.818733,6.024534,2026-08-21 10:08,10005388464
 2026-08-21 10:50,N9,Stilstaand verkeer,Den Helder - Alkmaar,Tussen Warmenhuizen en Koedijk.,,13.0,5300,52.6609,4.742934,2026-08-21 10:24,10005388487
 2026-08-21 10:50,N57,Langzaam rijdend verkeer,Ellemeet - Stellendam,Tussen Port Zélande en Goedereede.,,6.0,3200,51.8156,3.983306,2026-08-21 10:37,10005388502
+2026-08-21 11:21,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,,20.0,4600,52.16316,5.528638,2026-08-21 10:59,10005388540
+2026-08-21 11:21,A1,Langzaam rijdend verkeer,Amersfoort - Apeldoorn,Tussen Kootwijk (18) en Hoenderloo (19).,,9.0,4100,52.18195,5.916082,2026-08-21 11:00,10005388542
+2026-08-21 11:21,A1,Langzaam rijdend verkeer,Apeldoorn - Amersfoort,Tussen Apeldoorn-Zuid (20) en Kootwijk (18).,,5.0,3600,52.186714,5.872551,2026-08-21 11:14,10005388567
+2026-08-21 11:21,A2,Langzaam rijdend verkeer,Eindhoven - Maastricht,Tussen Roosteren (46) en Born (47).,,4.0,2000,51.05294,5.826973,2026-08-21 11:16,10005388570
+2026-08-21 11:21,A7,Langzaam rijdend verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,6.0,3100,53.0737,5.334949,2026-08-21 10:52,10005388529
+2026-08-21 11:21,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,,19.0,2600,51.898357,6.165913,2026-08-21 09:29,10005388452
+2026-08-21 11:21,A12,Stilstaand verkeer,Den Haag - Utrecht,Tussen Nieuwerbrug (13) en Harmelen (14a).,,14.0,5100,52.08027,4.938623,2026-08-21 10:18,10005388474
+2026-08-21 11:21,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,,7.0,3700,51.945107,6.075811,2026-08-21 11:12,10005388562
+2026-08-21 11:21,A12,Stilstaand verkeer,Den Haag - Utrecht,Tussen Woerden (14) en De Meern (15).,Spoedreparatie,7.0,2800,52.079403,4.995583,2026-08-21 11:18,10005388573
+2026-08-21 11:21,A28,Stilstaand verkeer,Hoogeveen - Zwolle,Tussen Zuidwolde (25) en De Wijk (24).,,52.0,6600,52.676937,6.340317,2026-08-21 10:46,10005388517
+2026-08-21 11:21,A30,Stilstaand verkeer,Barneveld - Ede,Tussen Scherpenzeel (4) en Lunteren (3).,,10.0,3300,52.089375,5.595748,2026-08-21 10:35,10005388500
+2026-08-21 11:21,A35,Stilstaand verkeer,Almelo - Enschede,Tussen Almelo-West (31) en Almelo-Zuid (30).,,14.0,2100,52.32601,6.628086,2026-08-21 10:47,10005388519
+2026-08-21 11:21,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,,17.0,2600,52.172073,6.027376,2026-08-21 10:23,10005388482
+2026-08-21 11:21,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Schaarsbergen (21).,,6.0,2500,52.037525,5.930767,2026-08-21 11:15,10005388569
+2026-08-21 11:21,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen Hoenderloo (22) en knooppunt Waterberg.,,4.0,2700,52.103153,5.954435,2026-08-21 11:17,10005388571
+2026-08-21 11:21,A58,Stilstaand verkeer,Vlissingen - Bergen op Zoom,Tussen Kapelle (35) en Kruiningen (32).,Ongeval(len),26.0,4800,51.442783,4.056985,2026-08-21 11:03,10005388546
+2026-08-21 11:21,A58,Langzaam rijdend verkeer,Eindhoven - Tilburg,Tussen Best (7) en Oirschot (8).,,4.0,3000,51.493294,5.313559,2026-08-21 11:12,10005388565
+2026-08-21 11:21,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,22.0,4300,50.818733,6.024534,2026-08-21 10:08,10005388464
+2026-08-21 11:21,N9,Langzaam rijdend verkeer,Den Helder - Alkmaar,Tussen Warmenhuizen en Koedijk.,,6.0,3100,52.661255,4.743193,2026-08-21 10:24,10005388487
+2026-08-21 11:21,N57,Langzaam rijdend verkeer,Vrouwenpolder - Middelburg,Tussen Vrouwenpolder/Veere en Middelburg-Noord/Veere.,,4.0,2100,51.541695,3.606292,2026-08-21 11:08,10005388556
