@@ -3446,3 +3446,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-21 18:01,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1900,51.898357,6.165913,2026-08-21 13:50,10005388967
 2026-08-21 18:01,A12,Langzaam rijdend verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,,9.0,4600,52.01868,5.904545,2026-08-21 13:57,10005389001
 2026-08-21 18:01,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,16.0,4500,52.05389,5.938455,2026-08-21 11:45,10005388633
+2026-08-21 18:47,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Schaarsbergen (21).,Veiligheidsmaatregelen,5.0,2000,52.033226,5.928534,2026-08-21 11:45,10005388633
+2026-08-21 18:47,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,19.0,2700,50.818733,6.024534,2026-08-21 18:10,10005389899
