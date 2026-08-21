@@ -3041,3 +3041,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-21 07:03,N9,Stilstaand verkeer,Den Helder - Alkmaar,Tussen Warmenhuizen en Bergen.,,7.0,2400,52.661835,4.74369,2026-08-21 07:00,10005388426
 2026-08-21 07:44,N9,Langzaam rijdend verkeer,Den Helder - Alkmaar,Tussen Warmenhuizen en Koedijk.,Ongeval(len),5.0,2100,52.6609,4.742934,2026-08-21 07:00,10005388426
 2026-08-21 09:59,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,9.0,2400,50.818733,6.024534,2026-08-21 09:43,10005388459
+2026-08-21 10:50,A2,Langzaam rijdend verkeer,Eindhoven - Maastricht,Tussen Born (47) en Urmond (48).,Defecte vrachtwagen,10.0,4800,50.989826,5.784285,2026-08-21 10:32,10005388498
+2026-08-21 10:50,A2,Langzaam rijdend verkeer,Eindhoven - Maastricht,Tussen knooppunt Batadorp en knooppunt De Hogt.,,3.0,2100,51.432404,5.426829,2026-08-21 10:46,10005388518
+2026-08-21 10:50,A12,Langzaam rijdend verkeer,Den Haag - Utrecht,Tussen Nieuwerbrug (13) en De Meern (15).,Spoedreparatie,16.0,8100,52.07966,4.994249,2026-08-21 10:18,10005388474
+2026-08-21 10:50,A58,Stilstaand verkeer,Eindhoven - Tilburg,Tussen Best (7) en Oirschot (8).,Onwelwording,11.0,2700,51.494564,5.307127,2026-08-21 10:39,10005388507
+2026-08-21 10:50,A58,Langzaam rijdend verkeer,Breda - Tilburg,Tussen knooppunt Galder en Ulvenhout (14).,,5.0,2100,51.529835,4.777566,2026-08-21 10:42,10005388510
+2026-08-21 10:50,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,17.0,2500,50.818733,6.024534,2026-08-21 10:08,10005388464
+2026-08-21 10:50,N9,Stilstaand verkeer,Den Helder - Alkmaar,Tussen Warmenhuizen en Koedijk.,,13.0,5300,52.6609,4.742934,2026-08-21 10:24,10005388487
+2026-08-21 10:50,N57,Langzaam rijdend verkeer,Ellemeet - Stellendam,Tussen Port Zélande en Goedereede.,,6.0,3200,51.8156,3.983306,2026-08-21 10:37,10005388502
