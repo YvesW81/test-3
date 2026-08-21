@@ -3441,3 +3441,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-21 17:35,N35,Langzaam rijdend verkeer,Zwolle - Almelo,Tussen Heino en Deventer.,,9.0,3800,52.400047,6.268511,2026-08-21 16:44,10005389863
 2026-08-21 17:35,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,4.0,2200,51.815773,3.981904,2026-08-21 17:30,10005389861
 2026-08-21 17:35,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,6.0,3600,51.858067,4.137153,2026-08-21 17:30,10005389860
+2026-08-21 18:01,A1,Langzaam rijdend verkeer,Amersfoort - Apeldoorn,Tussen Kootwijk (18) en Hoenderloo (19).,,4.0,2500,52.18195,5.916082,2026-08-21 17:18,10005389833
+2026-08-21 18:01,A7,Stilstaand verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,8.0,2000,53.073498,5.33212,2026-08-21 17:50,10005389886
+2026-08-21 18:01,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1900,51.898357,6.165913,2026-08-21 13:50,10005388967
+2026-08-21 18:01,A12,Langzaam rijdend verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,,9.0,4600,52.01868,5.904545,2026-08-21 13:57,10005389001
+2026-08-21 18:01,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,16.0,4500,52.05389,5.938455,2026-08-21 11:45,10005388633
