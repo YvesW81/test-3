@@ -3578,3 +3578,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-22 14:36,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,,9.0,3700,52.046932,5.935571,2026-08-22 14:33,10005390283
 2026-08-22 14:36,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,16.0,1900,50.818733,6.024534,2026-08-22 11:05,10005390048
 2026-08-22 14:36,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,4.0,2200,51.815773,3.981904,2026-08-22 13:43,10005390231
+2026-08-22 15:16,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,,6.0,3600,52.166817,5.558795,2026-08-22 13:29,10005390210
+2026-08-22 15:16,A1,Langzaam rijdend verkeer,Amersfoort - Apeldoorn,Tussen Kootwijk (18) en Hoenderloo (19).,Wegwerkzaamheden,10.0,4700,52.185078,5.88945,2026-08-22 13:38,10005390224
+2026-08-22 15:16,A10,Stilstaand verkeer,Knooppunt Amstel - Knooppunt Coenplein,Tussen knooppunt Watergraafsmeer en Durgerdam (15).,,11.0,3000,52.37654,4.974169,2026-08-22 15:03,10005390322
+2026-08-22 15:16,A20,Stilstaand verkeer,Hoek van Holland - Gouda,Tussen Prins Alexander (16) en Nieuwerkerk aan den IJssel (17).,Ongeval(len),36.0,3300,51.98073,4.620203,2026-08-22 15:02,10005390320
+2026-08-22 15:16,A27,Stilstaand verkeer,Gorinchem - Utrecht,Tussen Noordeloos (25) en Lexmond (26).,Bergingswerkzaamheden,15.0,2700,51.920002,4.989211,2026-08-22 12:10,10005390127
+2026-08-22 15:16,A50,Stilstaand verkeer,Eindhoven - Arnhem,Tussen knooppunt Paalgraven en Ravenstein (17).,Ongeval(len),35.0,6200,51.78901,5.655656,2026-08-22 14:23,10005390274
+2026-08-22 15:16,A58,Stilstaand verkeer,Breda - Tilburg,Tussen Tilburg-Reeshof (12) en Tilburg-Centrum Oost (10).,Defecte vrachtwagen,22.0,6100,51.53511,5.094868,2026-08-22 14:42,10005390296
+2026-08-22 15:16,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,12.0,2000,50.818733,6.024534,2026-08-22 15:09,10005390326
+2026-08-22 15:16,N57,Langzaam rijdend verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,6.0,3000,51.544376,3.6051,2026-08-22 15:09,10005390327
