@@ -3514,3 +3514,14 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-22 12:35,A58,Langzaam rijdend verkeer,Breda - Tilburg,Tussen Bavel (13) en Tilburg-Centrum West (11).,,6.0,2300,51.549698,4.967203,2026-08-22 12:33,10005390152
 2026-08-22 12:35,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,21.0,1900,50.818733,6.024534,2026-08-22 11:05,10005390048
 2026-08-22 12:35,N57,Langzaam rijdend verkeer,Vrouwenpolder - Middelburg,Tussen Vrouwenpolder/Veere en Middelburg-Noord/Veere.,,4.0,2500,51.538296,3.608157,2026-08-22 12:32,10005390151
+2026-08-22 12:55,A1,Stilstaand verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,Ongeval(len),58.0,8600,52.164944,5.544896,2026-08-22 11:42,10005390084
+2026-08-22 12:55,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,,18.0,5000,52.164963,5.544166,2026-08-22 11:51,10005390100
+2026-08-22 12:55,A2,Langzaam rijdend verkeer,Eindhoven - Maastricht,Tussen knooppunt Batadorp en knooppunt De Hogt.,,5.0,3100,51.44683,5.42742,2026-08-22 12:22,10005390137
+2026-08-22 12:55,A7,Stilstaand verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,7.0,2400,53.0737,5.334949,2026-08-22 12:48,10005390164
+2026-08-22 12:55,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,,6.0,3400,51.94631,6.072096,2026-08-22 12:00,10005390110
+2026-08-22 12:55,A27,Stilstaand verkeer,Breda - Utrecht,Tussen knooppunt Gorinchem en Lexmond (26).,Defect voertuig,19.0,3500,51.917934,4.987981,2026-08-22 12:10,10005390127
+2026-08-22 12:55,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,,3.0,2200,52.055626,5.939174,2026-08-22 12:51,10005390166
+2026-08-22 12:55,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Hoenderloo (22).,,4.0,2100,52.13332,5.976719,2026-08-22 12:52,10005390167
+2026-08-22 12:55,A58,Stilstaand verkeer,Breda - Tilburg,Tussen Bavel (13) en Tilburg-Reeshof (12).,,11.0,2600,51.55724,4.896187,2026-08-22 12:33,10005390152
+2026-08-22 12:55,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,17.0,2100,50.818733,6.024534,2026-08-22 11:05,10005390048
+2026-08-22 12:55,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,5.0,2300,51.815773,3.981904,2026-08-22 12:47,10005390163
