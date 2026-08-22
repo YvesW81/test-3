@@ -3567,3 +3567,14 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-22 13:56,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,Ongeval(len),8.0,3000,51.544376,3.6051,2026-08-22 12:57,10005390171
 2026-08-22 13:56,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,8.0,4400,51.861423,4.156718,2026-08-22 13:30,10005390216
 2026-08-22 13:56,N57,Stilstaand verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,6.0,2200,51.815773,3.981904,2026-08-22 13:43,10005390231
+2026-08-22 14:36,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,,10.0,4200,52.16466,5.542844,2026-08-22 13:29,10005390210
+2026-08-22 14:36,A1,Stilstaand verkeer,Amersfoort - Apeldoorn,Tussen Kootwijk (18) en Hoenderloo (19).,Wegwerkzaamheden,41.0,5800,52.182217,5.914077,2026-08-22 13:38,10005390224
+2026-08-22 14:36,A2,Langzaam rijdend verkeer,Eindhoven - Maastricht,Tussen knooppunt Batadorp en knooppunt De Hogt.,,6.0,2500,51.44333,5.427053,2026-08-22 13:48,10005390237
+2026-08-22 14:36,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen Waardenburg (16) en Zaltbommel (17).,,3.0,2300,51.80232,5.25855,2026-08-22 14:31,10005390281
+2026-08-22 14:36,A5,Stilstaand verkeer,Hoofddorp - Amsterdam,Tussen Amsterdam-Westpoort (3) en knooppunt Westrandweg.,Ongeval op aansluitende weg,10.0,2200,52.402786,4.85201,2026-08-22 14:16,10005390267
+2026-08-22 14:36,A10,Langzaam rijdend verkeer,Knooppunt Coenplein - Knooppunt De Nieuwe Meer,Tussen Amsterdam-West (6) en knooppunt De Nieuwe Meer.,Extra verkeersdrukte door wegwerkzaamheden elders,5.0,2400,52.34048,4.841048,2026-08-22 14:27,10005390279
+2026-08-22 14:36,A27,Stilstaand verkeer,Breda - Utrecht,Tussen knooppunt Gorinchem en Lexmond (26).,Defecte vrachtwagen,20.0,3100,51.920002,4.989211,2026-08-22 12:10,10005390127
+2026-08-22 14:36,A50,Stilstaand verkeer,Eindhoven - Arnhem,Tussen knooppunt Paalgraven en de Maasbrug.,,25.0,4600,51.79475,5.664037,2026-08-22 14:23,10005390274
+2026-08-22 14:36,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,,9.0,3700,52.046932,5.935571,2026-08-22 14:33,10005390283
+2026-08-22 14:36,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,16.0,1900,50.818733,6.024534,2026-08-22 11:05,10005390048
+2026-08-22 14:36,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,4.0,2200,51.815773,3.981904,2026-08-22 13:43,10005390231
