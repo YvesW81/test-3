@@ -3525,3 +3525,15 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-22 12:55,A58,Stilstaand verkeer,Breda - Tilburg,Tussen Bavel (13) en Tilburg-Reeshof (12).,,11.0,2600,51.55724,4.896187,2026-08-22 12:33,10005390152
 2026-08-22 12:55,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,17.0,2100,50.818733,6.024534,2026-08-22 11:05,10005390048
 2026-08-22 12:55,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,5.0,2300,51.815773,3.981904,2026-08-22 12:47,10005390163
+2026-08-22 13:17,A1,Stilstaand verkeer,Amsterdam - Apeldoorn,Tussen Amersfoort-Noord (13) en Barneveld (15).,Ongeval(len),26.0,9300,52.16504,5.54558,2026-08-22 11:42,10005390084
+2026-08-22 13:17,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,,16.0,5300,52.165253,5.546271,2026-08-22 11:51,10005390100
+2026-08-22 13:17,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Op de verbindingsweg van de A2 vanuit Utrecht naar de A15 richting Nijmegen.,,5.0,1900,51.858135,5.2438483,2026-08-22 12:41,10005390161
+2026-08-22 13:17,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,,8.0,5400,51.94591,6.073343,2026-08-22 13:12,10005390187
+2026-08-22 13:17,A27,Stilstaand verkeer,Breda - Utrecht,Tussen knooppunt Gorinchem en Lexmond (26).,Defecte vrachtwagen,20.0,3500,51.917934,4.987981,2026-08-22 12:10,10005390127
+2026-08-22 13:17,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,,14.0,4300,52.052143,5.937731,2026-08-22 12:54,10005390168
+2026-08-22 13:17,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen Loenen (23) en Hoenderloo (22).,,7.0,2100,52.128506,5.96649,2026-08-22 13:13,10005390189
+2026-08-22 13:17,A58,Stilstaand verkeer,Tilburg - Breda,Tussen Bavel (13) en Ulvenhout (14).,,20.0,2200,51.545135,4.81641,2026-08-22 13:11,10005390185
+2026-08-22 13:17,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,15.0,2300,50.818733,6.024534,2026-08-22 11:05,10005390048
+2026-08-22 13:17,N35,Langzaam rijdend verkeer,Duitse grens - Almelo,Tussen Nederland en Enschede (25).,,5.0,2500,52.200645,6.885985,2026-08-22 13:08,10005390181
+2026-08-22 13:17,N57,Stilstaand verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,7.0,2200,51.815773,3.981904,2026-08-22 12:47,10005390163
+2026-08-22 13:17,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,Ongeval(len),12.0,2900,51.543472,3.605351,2026-08-22 12:57,10005390171
