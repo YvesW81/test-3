@@ -3502,3 +3502,15 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-22 12:01,N50,Stilstaand verkeer,Emmeloord - Zwolle,Tussen Kampen (32) en Kampen-Zuid (31).,,10.0,2100,52.54079,5.899982,2026-08-22 11:10,10005390052
 2026-08-22 12:01,N57,Stilstaand verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,6.0,2200,51.815773,3.981904,2026-08-22 11:26,10005390065
 2026-08-22 12:01,N57,Langzaam rijdend verkeer,Vrouwenpolder - Middelburg,Tussen Vrouwenpolder/Veere en Middelburg-Noord/Veere.,,5.0,2000,51.542538,3.605804,2026-08-22 11:46,10005390095
+2026-08-22 12:35,A1,Stilstaand verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,Ongeval(len),52.0,8400,52.16504,5.54558,2026-08-22 11:42,10005390084
+2026-08-22 12:35,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,,16.0,3900,52.164963,5.544166,2026-08-22 11:51,10005390100
+2026-08-22 12:35,A2,Langzaam rijdend verkeer,Eindhoven - Maastricht,Tussen knooppunt Batadorp en knooppunt De Hogt.,,7.0,3800,51.435005,5.426159,2026-08-22 12:22,10005390137
+2026-08-22 12:35,A7,Langzaam rijdend verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,7.0,2900,53.073807,5.335642,2026-08-22 11:49,10005390098
+2026-08-22 12:35,A7,Stilstaand verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,12.0,3500,52.93327,5.039222,2026-08-22 12:16,10005390133
+2026-08-22 12:35,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Duiven (28).,,9.0,5900,51.94572,6.073955,2026-08-22 12:00,10005390110
+2026-08-22 12:35,A27,Stilstaand verkeer,Breda - Utrecht,Tussen knooppunt Gorinchem en Lexmond (26).,Defect voertuig,22.0,3600,51.918766,4.988476,2026-08-22 12:10,10005390127
+2026-08-22 12:35,A58,Stilstaand verkeer,Tilburg - Breda,Tussen Bavel (13) en Ulvenhout (14).,,6.0,2100,51.543907,4.813554,2026-08-22 11:29,10005390067
+2026-08-22 12:35,A58,Langzaam rijdend verkeer,Breda - Tilburg,Tussen Tilburg-Reeshof (12) en Tilburg-Centrum West (11).,,3.0,2000,51.538654,5.012335,2026-08-22 12:33,10005390153
+2026-08-22 12:35,A58,Langzaam rijdend verkeer,Breda - Tilburg,Tussen Bavel (13) en Tilburg-Centrum West (11).,,6.0,2300,51.549698,4.967203,2026-08-22 12:33,10005390152
+2026-08-22 12:35,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,21.0,1900,50.818733,6.024534,2026-08-22 11:05,10005390048
+2026-08-22 12:35,N57,Langzaam rijdend verkeer,Vrouwenpolder - Middelburg,Tussen Vrouwenpolder/Veere en Middelburg-Noord/Veere.,,4.0,2500,51.538296,3.608157,2026-08-22 12:32,10005390151
