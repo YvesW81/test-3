@@ -3461,3 +3461,14 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-22 10:50,A2,Stilstaand verkeer,Maastricht - Eindhoven,Tussen Born (47) en Roosteren (46).,,9.0,2800,51.074448,5.824943,2026-08-22 10:31,10005390014
 2026-08-22 10:50,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,12.0,2000,50.818733,6.024534,2026-08-22 10:46,10005390029
 2026-08-22 10:50,N9,Stilstaand verkeer,Den Helder - Alkmaar,Tussen Warmenhuizen en Koedijk.,,6.0,2300,52.661255,4.743193,2026-08-22 10:39,10005390025
+2026-08-22 11:13,A1,Langzaam rijdend verkeer,Amersfoort - Apeldoorn,Tussen Kootwijk (18) en Hoenderloo (19).,Wegwerkzaamheden,5.0,2700,52.18195,5.916082,2026-08-22 10:46,10005390028
+2026-08-22 11:13,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,,7.0,4500,52.16532,5.547632,2026-08-22 10:56,10005390043
+2026-08-22 11:13,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Op de verbindingsweg van de A2 vanuit Utrecht naar de A15 richting Nijmegen.,,5.0,1700,51.858135,5.2438483,2026-08-22 10:31,10005390015
+2026-08-22 11:13,A12,Langzaam rijdend verkeer,Den Haag - Utrecht,Tussen knooppunt Oudenrijn en Houten (18).,,5.0,2100,52.058094,5.114624,2026-08-22 10:50,10005390037
+2026-08-22 11:13,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,,13.0,2000,51.898357,6.165913,2026-08-22 11:07,10005390050
+2026-08-22 11:13,A15,Stilstaand verkeer,Gorinchem - Nijmegen,Tussen Echteld (34) en Ochten (35).,,11.0,4000,51.919518,5.560306,2026-08-22 10:56,10005390042
+2026-08-22 11:13,A50,Langzaam rijdend verkeer,Apeldoorn - Emmeloord,Tussen knooppunt Hattemerbroek en Kampen-Zuid (31).,,5.0,2500,52.50425,5.982441,2026-08-22 11:06,10005390049
+2026-08-22 11:13,A50,Langzaam rijdend verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,5.0,2100,52.49406,6.013067,2026-08-22 11:10,10005390052
+2026-08-22 11:13,A73,Langzaam rijdend verkeer,Nijmegen - Maasbracht,Tussen knooppunt Ewijk en Nijmegen.,,6.0,2800,51.845898,5.766226,2026-08-22 10:48,10005390033
+2026-08-22 11:13,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,15.0,1900,50.818733,6.024534,2026-08-22 11:05,10005390048
+2026-08-22 11:13,N57,Langzaam rijdend verkeer,Vrouwenpolder - Middelburg,Tussen Vrouwenpolder/Veere en Middelburg-Noord/Veere.,,4.0,2000,51.542538,3.605804,2026-08-22 11:08,10005390051
