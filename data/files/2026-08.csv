@@ -3593,3 +3593,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-22 15:46,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,,11.0,1500,51.898357,6.165913,2026-08-22 15:40,10005390346
 2026-08-22 15:46,A20,Stilstaand verkeer,Hoek van Holland - Gouda,Tussen Prins Alexander (16) en Nieuwerkerk aan den IJssel (17).,Ongeval(len),38.0,4700,51.980473,4.619691,2026-08-22 15:02,10005390320
 2026-08-22 15:46,A58,Stilstaand verkeer,Breda - Tilburg,Tussen Tilburg-Reeshof (12) en Tilburg-Centrum Oost (10).,Defecte vrachtwagen,14.0,3800,51.535137,5.095574,2026-08-22 14:42,10005390296
+2026-08-22 16:01,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,,6.0,3300,52.16561,5.549699,2026-08-22 15:52,10005390355
+2026-08-22 16:01,A10,Langzaam rijdend verkeer,Knooppunt De Nieuwe Meer - Knooppunt Watergraafsmeer,Tussen Amsterdam-Hemhavens (1) en Landsmeer (17).,Wegwerkzaamheden,7.0,3400,52.42465,4.894832,2026-08-22 15:46,10005390350
+2026-08-22 16:01,A20,Stilstaand verkeer,Hoek van Holland - Gouda,Tussen Prins Alexander (16) en Nieuwerkerk aan den IJssel (17).,Ongeval(len),35.0,4500,51.97963,4.617986,2026-08-22 15:02,10005390320
+2026-08-22 16:01,A58,Stilstaand verkeer,Breda - Tilburg,Tussen Tilburg-Centrum West (11) en Tilburg-Centrum Oost (10).,Defecte vrachtwagen,15.0,2900,51.53511,5.094868,2026-08-22 14:42,10005390296
+2026-08-22 16:01,N57,Langzaam rijdend verkeer,Stellendam - Ellemeet,Tussen Goedereede en Port Zélande.,,4.0,2900,51.79742,3.920535,2026-08-22 15:57,10005390359
