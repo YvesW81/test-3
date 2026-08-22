@@ -3587,3 +3587,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-22 15:16,A58,Stilstaand verkeer,Breda - Tilburg,Tussen Tilburg-Reeshof (12) en Tilburg-Centrum Oost (10).,Defecte vrachtwagen,22.0,6100,51.53511,5.094868,2026-08-22 14:42,10005390296
 2026-08-22 15:16,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,12.0,2000,50.818733,6.024534,2026-08-22 15:09,10005390326
 2026-08-22 15:16,N57,Langzaam rijdend verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,6.0,3000,51.544376,3.6051,2026-08-22 15:09,10005390327
+2026-08-22 15:46,A1,Stilstaand verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,Eerder ongeval,8.0,2500,52.163425,5.503533,2026-08-22 13:29,10005390210
+2026-08-22 15:46,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,,5.0,2400,52.166782,5.5575,2026-08-22 15:39,10005390344
+2026-08-22 15:46,A10,Stilstaand verkeer,Knooppunt De Nieuwe Meer - Knooppunt Watergraafsmeer,Tussen Amsterdam-Hemhavens (1) en Landsmeer (17).,Wegwerkzaamheden,6.0,2200,52.42465,4.894832,2026-08-22 15:41,10005390347
+2026-08-22 15:46,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,,11.0,1500,51.898357,6.165913,2026-08-22 15:40,10005390346
+2026-08-22 15:46,A20,Stilstaand verkeer,Hoek van Holland - Gouda,Tussen Prins Alexander (16) en Nieuwerkerk aan den IJssel (17).,Ongeval(len),38.0,4700,51.980473,4.619691,2026-08-22 15:02,10005390320
+2026-08-22 15:46,A58,Stilstaand verkeer,Breda - Tilburg,Tussen Tilburg-Reeshof (12) en Tilburg-Centrum Oost (10).,Defecte vrachtwagen,14.0,3800,51.535137,5.095574,2026-08-22 14:42,10005390296
