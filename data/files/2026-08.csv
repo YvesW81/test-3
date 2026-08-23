@@ -3651,3 +3651,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-23 16:04,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,Extra verkeersdrukte door wegwerkzaamheden elders,4.0,2600,52.16561,5.549699,2026-08-23 14:38,10005390551
 2026-08-23 16:04,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,5.0,3000,52.93355,5.039739,2026-08-23 15:59,10005390585
 2026-08-23 16:04,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,13.0,1700,50.818733,6.024534,2026-08-23 15:43,10005390577
+2026-08-23 16:34,A7,Langzaam rijdend verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,4.0,2000,53.0735,5.332837,2026-08-23 16:23,10005390597
+2026-08-23 16:34,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,15.0,1700,50.818733,6.024534,2026-08-23 16:23,10005390596
