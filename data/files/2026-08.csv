@@ -3621,3 +3621,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-23 13:01,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Duiven (28).,,12.0,5900,51.945522,6.074578,2026-08-23 12:13,10005390461
 2026-08-23 13:01,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1600,50.818733,6.024534,2026-08-23 12:45,10005390483
 2026-08-23 13:01,N35,Langzaam rijdend verkeer,Duitse grens - Almelo,Tussen Nederland en Enschede (25).,,5.0,2600,52.200645,6.885985,2026-08-23 12:19,10005390469
+2026-08-23 13:31,A1,Stilstaand verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,Ongeval(len),25.0,7700,52.166084,5.55312,2026-08-23 13:20,10005390500
+2026-08-23 13:31,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Duiven (28).,,12.0,5900,51.94591,6.073343,2026-08-23 12:13,10005390461
+2026-08-23 13:31,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Beek (30) en Duitsland.,Door grenscontrole,12.0,1400,51.898357,6.165913,2026-08-23 13:00,10005390492
+2026-08-23 13:31,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,14.0,1600,50.818733,6.024534,2026-08-23 12:57,10005390489
