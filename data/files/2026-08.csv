@@ -3609,3 +3609,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-22 22:30,A2,Stilstaand verkeer,'s-Hertogenbosch - Eindhoven,Tussen Vught (24) en Boxtel-Noord (25).,Ongeval(len),23.0,2800,51.62629,5.313902,2026-08-22 21:28,10005390407
 2026-08-22 22:55,A2,Stilstaand verkeer,'s-Hertogenbosch - Eindhoven,Tussen Vught (24) en Boxtel-Noord (25).,Ongeval(len),15.0,2500,51.62629,5.313902,2026-08-22 21:28,10005390407
 2026-08-23 10:56,A15,Stilstaand verkeer op parallelrijbaan,Europoort - Ridderkerk,Op de parallelbaan. Tussen knooppunt Benelux en Rotterdam-Heijplaat (18).,Extra verkeersdrukte door wegwerkzaamheden elders,9.0,3600,51.868935,4.434519,2026-08-23 10:38,10005390436
+2026-08-23 12:18,A6,Stilstaand verkeer,Emmeloord - Lelystad,Tussen Urk (13) en de Ketelbrug.,Defect voertuig,8.0,2300,52.62304,5.66222,2026-08-23 11:52,10005390457
+2026-08-23 12:18,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,,5.0,2900,51.945316,6.075196,2026-08-23 12:13,10005390461
+2026-08-23 12:18,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1500,50.818733,6.024534,2026-08-23 12:13,10005390463
