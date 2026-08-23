@@ -3612,3 +3612,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-23 12:18,A6,Stilstaand verkeer,Emmeloord - Lelystad,Tussen Urk (13) en de Ketelbrug.,Defect voertuig,8.0,2300,52.62304,5.66222,2026-08-23 11:52,10005390457
 2026-08-23 12:18,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,,5.0,2900,51.945316,6.075196,2026-08-23 12:13,10005390461
 2026-08-23 12:18,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1500,50.818733,6.024534,2026-08-23 12:13,10005390463
+2026-08-23 12:44,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Duiven (28).,,12.0,6300,51.945522,6.074578,2026-08-23 12:13,10005390461
+2026-08-23 12:44,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1600,51.898357,6.165913,2026-08-23 12:23,10005390471
+2026-08-23 12:44,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,13.0,1600,50.818733,6.024534,2026-08-23 12:13,10005390463
+2026-08-23 12:44,N35,Langzaam rijdend verkeer,Duitse grens - Almelo,Tussen Nederland en Enschede (25).,,5.0,2600,52.200645,6.885985,2026-08-23 12:19,10005390469
