@@ -3639,3 +3639,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-23 14:30,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen Hoenderloo (22) en knooppunt Waterberg.,,4.0,2300,52.05481,5.938407,2026-08-23 14:25,10005390541
 2026-08-23 14:30,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,1700,50.818733,6.024534,2026-08-23 14:20,10005390539
 2026-08-23 14:30,N35,Stilstaand verkeer,Duitse grens - Almelo,Tussen Nederland en Enschede (25).,,8.0,2600,52.200645,6.885985,2026-08-23 14:00,10005390527
+2026-08-23 15:11,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,,8.0,4400,52.165253,5.546271,2026-08-23 13:27,10005390506
+2026-08-23 15:11,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,Extra verkeersdrukte door wegwerkzaamheden elders,5.0,3100,52.165703,5.550383,2026-08-23 14:38,10005390551
+2026-08-23 15:11,A4,Stilstaand verkeer,Den Haag - Rotterdam,Tussen Vlaardingen-Oost (16) en knooppunt Benelux.,,7.0,2200,51.8772,4.384764,2026-08-23 15:03,10005390568
+2026-08-23 15:11,A10,Langzaam rijdend verkeer,Knooppunt De Nieuwe Meer - Knooppunt Watergraafsmeer,Tussen Amsterdam-Hemhavens (1) en knooppunt Coenplein.,,8.0,3100,52.424053,4.880567,2026-08-23 14:57,10005390564
+2026-08-23 15:11,N35,Langzaam rijdend verkeer,Duitse grens - Almelo,Tussen Nederland en Enschede (25).,,4.0,2300,52.200645,6.885985,2026-08-23 14:48,10005390558
