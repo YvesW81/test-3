@@ -3631,3 +3631,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-23 13:53,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Hoenderloo (22).,Defect voertuig,30.0,5200,52.13305,5.976154,2026-08-23 13:35,10005390509
 2026-08-23 13:53,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1800,50.818733,6.024534,2026-08-23 12:57,10005390489
 2026-08-23 13:53,N35,Langzaam rijdend verkeer,Duitse grens - Almelo,Tussen Nederland en Enschede (25).,,4.0,2600,52.200645,6.885985,2026-08-23 13:36,10005390511
+2026-08-23 14:30,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,,7.0,2800,52.16695,5.558916,2026-08-23 13:27,10005390506
+2026-08-23 14:30,A7,Langzaam rijdend verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,5.0,2400,53.073807,5.335642,2026-08-23 14:16,10005390536
+2026-08-23 14:30,A7,Langzaam rijdend verkeer,Ring-Sneek-West - Den Oever,Tussen Zurich (15) en Breezanddijk.,,5.0,2100,53.07294,5.327299,2026-08-23 14:25,10005390542
+2026-08-23 14:30,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,,6.0,3400,51.94572,6.073955,2026-08-23 12:13,10005390461
+2026-08-23 14:30,A50,Langzaam rijdend verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,5.0,2500,52.49406,6.013067,2026-08-23 14:19,10005390538
+2026-08-23 14:30,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen Hoenderloo (22) en knooppunt Waterberg.,,4.0,2300,52.05481,5.938407,2026-08-23 14:25,10005390541
+2026-08-23 14:30,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,1700,50.818733,6.024534,2026-08-23 14:20,10005390539
+2026-08-23 14:30,N35,Stilstaand verkeer,Duitse grens - Almelo,Tussen Nederland en Enschede (25).,,8.0,2600,52.200645,6.885985,2026-08-23 14:00,10005390527
