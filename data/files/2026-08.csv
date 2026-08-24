@@ -3737,3 +3737,14 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-24 10:29,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1700,51.898357,6.165913,2026-08-24 09:43,10005390990
 2026-08-24 10:29,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Veiligheidsmaatregelen,8.0,2200,52.16129,6.020905,2026-08-24 09:50,10005390994
 2026-08-24 10:29,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen Loenen (23) en knooppunt Waterberg.,Veiligheidsmaatregelen,13.0,5900,52.097973,5.951788,2026-08-24 10:15,10005391011
+2026-08-24 11:25,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,Ongeval(len),34.0,5200,52.163815,5.53572,2026-08-24 11:05,10005391042
+2026-08-24 11:25,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,11.0,2700,52.31377,7.043839,2026-08-24 11:12,10005391056
+2026-08-24 11:25,A1,Langzaam rijdend verkeer,Amersfoort - Apeldoorn,Tussen Kootwijk (18) en Hoenderloo (19).,,4.0,2500,52.1837,5.902146,2026-08-24 11:21,10005391070
+2026-08-24 11:25,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,4.0,2300,52.93327,5.039222,2026-08-24 11:13,10005391061
+2026-08-24 11:25,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,20.0,2600,51.898357,6.165913,2026-08-24 09:57,10005390999
+2026-08-24 11:25,A12,Stilstaand verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Zevenaar (29).,,6.0,2200,51.939674,6.088017,2026-08-24 11:13,10005391060
+2026-08-24 11:25,A28,Langzaam rijdend verkeer,Zwolle - Amersfoort,Tussen Zwolle-Zuid (18) en knooppunt Hattemerbroek.,Bergingswerkzaamheden,5.0,2800,52.4932,6.03702,2026-08-24 11:18,10005391067
+2026-08-24 11:25,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen Loenen (23) en Hoenderloo (22).,Veiligheidsmaatregelen,9.0,2800,52.1269,5.962963,2026-08-24 11:19,10005391069
+2026-08-24 11:25,A58,Stilstaand verkeer,Tilburg - Breda,Tussen Bavel (13) en knooppunt Galder.,,13.0,5000,51.53146,4.78196,2026-08-24 11:05,10005391043
+2026-08-24 11:25,A58,Stilstaand verkeer,Breda - Tilburg,Tussen knooppunt Galder en Ulvenhout (14).,,8.0,2900,51.53234,4.785239,2026-08-24 11:11,10005391054
+2026-08-24 11:25,N9,Stilstaand verkeer,Den Helder - Alkmaar,Tussen Warmenhuizen en Koedijk.,,6.0,2200,52.6609,4.742934,2026-08-24 11:10,10005391053
