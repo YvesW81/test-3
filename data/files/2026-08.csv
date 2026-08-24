@@ -3997,3 +3997,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-24 18:30,A27,Stilstaand verkeer,Gorinchem - Breda,Tussen knooppunt Gorinchem en de Merwedebrug.,,9.0,2500,51.830944,4.943718,2026-08-24 16:26,10005391632
 2026-08-24 18:30,A28,Stilstaand verkeer,Amersfoort - Zwolle,Tussen 't Harde (16) en Wezep (17).,Opruimwerkzaamheden,17.0,3300,52.470024,5.992882,2026-08-24 16:15,10005391569
 2026-08-24 18:30,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,10.0,3200,52.042545,5.933749,2026-08-24 13:42,10005391251
+2026-08-24 19:08,A12,Stilstaand verkeer,Utrecht - Den Haag,Tussen knooppunt Oudenrijn en Harmelen (14a).,Defect voertuig,6.0,2100,52.075047,5.017312,2026-08-24 18:31,10005392177
+2026-08-24 19:08,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,11.0,1500,51.898357,6.165913,2026-08-24 18:49,10005392186
+2026-08-24 19:08,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Hardinxveld-Giessendam (26) en Sliedrecht-West (24).,Eerder ongeval,15.0,4200,51.829315,4.760799,2026-08-24 16:33,10005391666
+2026-08-24 19:08,A15,Langzaam rijdend verkeer,Gorinchem - Ridderkerk,Tussen Alblasserdam (22) en de Noordtunnel.,,4.0,2200,51.857704,4.658226,2026-08-24 19:03,10005392196
