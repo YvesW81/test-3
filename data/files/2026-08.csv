@@ -3758,3 +3758,17 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-24 12:09,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Veiligheidsmaatregelen,3.0,2100,52.172943,6.02762,2026-08-24 11:19,10005391069
 2026-08-24 12:09,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Hoenderloo (22).,Veiligheidsmaatregelen,11.0,4400,52.1347,5.979515,2026-08-24 12:00,10005391107
 2026-08-24 12:09,A50,Langzaam rijdend verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,7.0,4000,52.49406,6.013067,2026-08-24 12:04,10005391113
+2026-08-24 12:51,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,7.0,2800,52.31377,7.043839,2026-08-24 11:12,10005391056
+2026-08-24 12:51,A1,Stilstaand verkeer,Amersfoort - Apeldoorn,Tussen Stroe (17) en Hoenderloo (19).,Ongeval met vrachtwagen,51.0,7900,52.186775,5.870296,2026-08-24 11:52,10005391103
+2026-08-24 12:51,A1,Stilstaand verkeer,Apeldoorn - Amersfoort,Tussen Apeldoorn-Zuid (20) en Kootwijk (18).,,42.0,5800,52.18666,5.873262,2026-08-24 11:59,10005391104
+2026-08-24 12:51,A2,Stilstaand verkeer,Maastricht - Eindhoven,Tussen Maarheeze (36) en Leenderheide/Randweg N2.,,29.0,6000,51.35467,5.538468,2026-08-24 12:34,10005391151
+2026-08-24 12:51,A7,Stilstaand verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,7.0,2700,53.073807,5.335642,2026-08-24 12:42,10005391164
+2026-08-24 12:51,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,4.0,2300,52.93355,5.039739,2026-08-24 12:48,10005391170
+2026-08-24 12:51,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,17.0,4200,51.898357,6.165913,2026-08-24 09:57,10005390999
+2026-08-24 12:51,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Duiven (28).,,16.0,7300,51.94611,6.072719,2026-08-24 12:03,10005391110
+2026-08-24 12:51,A12,Stilstaand verkeer,Arnhem - Den Haag,Tussen Bunnik (19) en knooppunt Oudenrijn.,Ongeval(len),43.0,6900,52.06711,5.064246,2026-08-24 12:17,10005391126
+2026-08-24 12:51,A12,Stilstaand verkeer op parallelrijbaan,Utrecht - Den Haag,Op de parallelbaan. Tussen knooppunt Lunetten en knooppunt Oudenrijn.,,25.0,6600,52.066948,5.064877,2026-08-24 12:34,10005391150
+2026-08-24 12:51,A28,Stilstaand verkeer,Zwolle - Amersfoort,Op de verbindingsweg van de A28 vanuit Zwolle naar de A50 richting Apeldoorn.,,7.0,1700,52.481396,6.0302725,2026-08-24 12:36,10005391153
+2026-08-24 12:51,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen knooppunt Hattemerbroek en Heerde (29).,Incident op aansluitende weg,23.0,6100,52.43042,6.018141,2026-08-24 12:05,10005391114
+2026-08-24 12:51,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Oosterhout (33) en knooppunt Hooipolder.,,7.0,2200,51.687374,4.88553,2026-08-24 12:48,10005391169
+2026-08-24 12:51,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,,20.0,2900,50.818733,6.024534,2026-08-24 12:21,10005391134
