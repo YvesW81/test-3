@@ -3772,3 +3772,17 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-24 12:51,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen knooppunt Hattemerbroek en Heerde (29).,Incident op aansluitende weg,23.0,6100,52.43042,6.018141,2026-08-24 12:05,10005391114
 2026-08-24 12:51,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Oosterhout (33) en knooppunt Hooipolder.,,7.0,2200,51.687374,4.88553,2026-08-24 12:48,10005391169
 2026-08-24 12:51,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,,20.0,2900,50.818733,6.024534,2026-08-24 12:21,10005391134
+2026-08-24 13:22,A1,Stilstaand verkeer,Amersfoort - Apeldoorn,Tussen Stroe (17) en Hoenderloo (19).,Ongeval met vrachtwagen,56.0,7900,52.18626,5.876687,2026-08-24 11:52,10005391103
+2026-08-24 13:22,A1,Stilstaand verkeer,Apeldoorn - Amersfoort,Tussen Apeldoorn-Zuid (20) en Kootwijk (18).,Afremmend verkeer als gevolg van kijkers naar ongeval(len),16.0,5500,52.1866,5.873974,2026-08-24 11:59,10005391104
+2026-08-24 13:22,A2,Stilstaand verkeer,Maastricht - Eindhoven,Tussen Weert-Noord (38) en Maarheeze (36).,Eerder ongeval,12.0,2300,51.306137,5.612506,2026-08-24 12:34,10005391151
+2026-08-24 13:22,A2,Langzaam rijdend verkeer,Maastricht - Eindhoven,Tussen knooppunt Leenderheide en knooppunt De Hogt.,,4.0,2500,51.40552,5.452606,2026-08-24 13:09,10005391205
+2026-08-24 13:22,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,13.0,1600,51.898357,6.165913,2026-08-24 09:57,10005390999
+2026-08-24 13:22,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Duiven (28).,,13.0,6500,51.94572,6.073955,2026-08-24 12:03,10005391110
+2026-08-24 13:22,A12,Stilstaand verkeer,Arnhem - Den Haag,Tussen Bunnik (19) en knooppunt Oudenrijn.,Eerder ongeval,60.0,5500,52.062363,5.083626,2026-08-24 12:17,10005391126
+2026-08-24 13:22,A12,Stilstaand verkeer op parallelrijbaan,Utrecht - Den Haag,Op de parallelbaan. Tussen Houten (18) en knooppunt Oudenrijn.,,12.0,4200,52.066547,5.066891,2026-08-24 12:34,10005391150
+2026-08-24 13:22,A28,Langzaam rijdend verkeer,Zwolle - Amersfoort,Tussen Zwolle-Zuid (18) en 't Harde (16).,,5.0,3800,52.47103,5.994456,2026-08-24 13:18,10005391221
+2026-08-24 13:22,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Veiligheidsmaatregelen,29.0,4400,52.142124,5.99366,2026-08-24 12:54,10005391180
+2026-08-24 13:22,A50,Stilstaand verkeer,Apeldoorn - Emmeloord,Tussen Hattemerbroek en Kampen-Zuid (31).,,8.0,2400,52.52996,5.915207,2026-08-24 13:12,10005391210
+2026-08-24 13:22,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,7.0,2800,52.03998,5.93244,2026-08-24 13:16,10005391217
+2026-08-24 13:22,A73,Langzaam rijdend verkeer,Nijmegen - Maasbracht,Tussen knooppunt Ewijk en Nijmegen.,,6.0,3000,51.84663,5.763638,2026-08-24 13:10,10005391207
+2026-08-24 13:22,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,21.0,4700,50.818733,6.024534,2026-08-24 12:21,10005391134
