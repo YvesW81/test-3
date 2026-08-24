@@ -3748,3 +3748,13 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-24 11:25,A58,Stilstaand verkeer,Tilburg - Breda,Tussen Bavel (13) en knooppunt Galder.,,13.0,5000,51.53146,4.78196,2026-08-24 11:05,10005391043
 2026-08-24 11:25,A58,Stilstaand verkeer,Breda - Tilburg,Tussen knooppunt Galder en Ulvenhout (14).,,8.0,2900,51.53234,4.785239,2026-08-24 11:11,10005391054
 2026-08-24 11:25,N9,Stilstaand verkeer,Den Helder - Alkmaar,Tussen Warmenhuizen en Koedijk.,,6.0,2200,52.6609,4.742934,2026-08-24 11:10,10005391053
+2026-08-24 12:09,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,14.0,4100,52.31377,7.043839,2026-08-24 11:12,10005391056
+2026-08-24 12:09,A1,Stilstaand verkeer,Amersfoort - Apeldoorn,Tussen Kootwijk (18) en Hoenderloo (19).,Ongeval(len),31.0,6300,52.18249,5.911986,2026-08-24 11:52,10005391103
+2026-08-24 12:09,A1,Stilstaand verkeer,Apeldoorn - Amersfoort,Tussen Apeldoorn-Zuid (20) en Kootwijk (18).,,13.0,4400,52.1866,5.873974,2026-08-24 11:59,10005391104
+2026-08-24 12:09,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,,5.0,2800,52.166695,5.5568,2026-08-24 12:00,10005391106
+2026-08-24 12:09,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,18.0,3100,51.898357,6.165913,2026-08-24 09:57,10005390999
+2026-08-24 12:09,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Zevenaar (29).,,9.0,4400,51.929066,6.109946,2026-08-24 12:03,10005391110
+2026-08-24 12:09,A28,Langzaam rijdend verkeer,Zwolle - Amersfoort,Tussen Zwolle-Centrum (19) en knooppunt Hattemerbroek.,,4.0,2600,52.495804,6.045356,2026-08-24 12:04,10005391112
+2026-08-24 12:09,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Veiligheidsmaatregelen,3.0,2100,52.172943,6.02762,2026-08-24 11:19,10005391069
+2026-08-24 12:09,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Hoenderloo (22).,Veiligheidsmaatregelen,11.0,4400,52.1347,5.979515,2026-08-24 12:00,10005391107
+2026-08-24 12:09,A50,Langzaam rijdend verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,7.0,4000,52.49406,6.013067,2026-08-24 12:04,10005391113
