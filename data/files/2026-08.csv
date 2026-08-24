@@ -3672,3 +3672,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-23 21:00,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,,11.0,5200,52.166817,5.558795,2026-08-23 19:32,10005390633
 2026-08-23 21:30,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,,6.0,2500,52.16523,5.546948,2026-08-23 19:32,10005390633
 2026-08-24 06:25,A28,Langzaam rijdend verkeer,Zwolle - Amersfoort,Tussen Zwolle-Centrum (19) en knooppunt Hattemerbroek.,Ongeval met bus,6.0,3200,52.49543,6.044041,2026-08-24 06:19,10005390662
+2026-08-24 07:10,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,,8.0,3100,52.16642,5.554704,2026-08-24 06:59,10005390700
+2026-08-24 07:10,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Sliedrecht-Oost (25) en Alblasserdam (22).,,44.0,5700,51.84305,4.697442,2026-08-24 06:32,10005390669
+2026-08-24 07:10,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,8.0,2627,51.99997,4.650658,2026-08-24 06:47,10005390686
+2026-08-24 07:10,A28,Langzaam rijdend verkeer,Hoogeveen - Amersfoort,Tussen Nieuwleusen (22) en knooppunt Hattemerbroek.,,26.0,10900,52.49414,6.039454,2026-08-24 06:19,10005390708
+2026-08-24 07:10,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en knooppunt Waterberg.,,28.0,7000,52.113686,5.951778,2026-08-24 06:53,10005390693
+2026-08-24 07:10,A50,Stilstaand verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,Incident op aansluitende weg,10.0,3600,52.49406,6.013067,2026-08-24 07:01,10005390703
+2026-08-24 07:10,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Valburg en de Maasbrug.,,14.0,7700,51.80585,5.676351,2026-08-24 07:03,10005390706
