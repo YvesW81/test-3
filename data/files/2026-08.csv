@@ -3987,3 +3987,13 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-24 17:53,A325,Stilstaand verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Velperbroek.,,33.0,6600,51.98133,5.978122,2026-08-24 16:27,10005391653
 2026-08-24 17:53,N35,Stilstaand verkeer,Almelo - Duitse grens,Tussen Enschede-West (26) en A35: Enschede (25).,,11.0,3400,52.200832,6.882154,2026-08-24 17:22,10005391966
 2026-08-24 17:53,N44,Stilstaand verkeer,Amsterdam - Den Haag,Tussen knooppunt Ommedijk en Voorschoten.,,14.0,2000,52.141827,4.414984,2026-08-24 17:49,10005392103
+2026-08-24 18:30,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Op de verbindingsweg van de A2 vanuit 's-Hertogenbosch naar de A12 richting Den Haag.,,3.0,2200,52.06929,5.054532,2026-08-24 17:54,10005392136
+2026-08-24 18:30,A12,Langzaam rijdend verkeer,Arnhem - Duitse grens,Tussen knooppunt Velperbroek en Duiven (28).,,8.0,3400,51.95958,6.027694,2026-08-24 18:11,10005392156
+2026-08-24 18:30,A12,Stilstaand verkeer,Utrecht - Den Haag,Op de verbindingsweg van de A12 vanuit Utrecht naar de A20 richting Hoek van Holland.,,4.0,800,52.02232,4.654686,2026-08-24 18:22,10005392171
+2026-08-24 18:30,A12,Langzaam rijdend verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,Incident op aansluitende weg,3.0,2200,52.02056,5.892806,2026-08-24 18:24,10005392172
+2026-08-24 18:30,A15,Stilstaand verkeer,Ridderkerk - Gorinchem,Op de verbindingsweg van de A15 vanuit Rotterdam naar de A27 richting Breda.,,5.0,400,51.84229,4.948431,2026-08-24 16:11,10005391559
+2026-08-24 18:30,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Sliedrecht-Oost (25) en de Noordtunnel.,Ongeval met vrachtwagen,84.0,10800,51.856995,4.665195,2026-08-24 16:33,10005391666
+2026-08-24 18:30,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,6.0,2300,51.9967,4.645889,2026-08-24 18:28,10005392176
+2026-08-24 18:30,A27,Stilstaand verkeer,Gorinchem - Breda,Tussen knooppunt Gorinchem en de Merwedebrug.,,9.0,2500,51.830944,4.943718,2026-08-24 16:26,10005391632
+2026-08-24 18:30,A28,Stilstaand verkeer,Amersfoort - Zwolle,Tussen 't Harde (16) en Wezep (17).,Opruimwerkzaamheden,17.0,3300,52.470024,5.992882,2026-08-24 16:15,10005391569
+2026-08-24 18:30,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,10.0,3200,52.042545,5.933749,2026-08-24 13:42,10005391251
