@@ -3734,3 +3734,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-24 08:49,A59,Langzaam rijdend verkeer,Oss - 's-Hertogenbosch,Tussen Oss (52) en Nuland (51).,,13.0,5700,51.718857,5.438346,2026-08-24 08:38,10005390934
 2026-08-24 08:49,N50,Stilstaand verkeer,Zwolle - Emmeloord,Tussen Kampen-Zuid (31) en Kampen (32).,,6.0,2400,52.54553,5.892863,2026-08-24 08:36,10005390928
 2026-08-24 09:45,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,,9.0,4700,52.16613,5.552598,2026-08-24 08:47,10005390951
+2026-08-24 10:29,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1700,51.898357,6.165913,2026-08-24 09:43,10005390990
+2026-08-24 10:29,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Veiligheidsmaatregelen,8.0,2200,52.16129,6.020905,2026-08-24 09:50,10005390994
+2026-08-24 10:29,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen Loenen (23) en knooppunt Waterberg.,Veiligheidsmaatregelen,13.0,5900,52.097973,5.951788,2026-08-24 10:15,10005391011
