@@ -4095,3 +4095,17 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-25 08:17,A67,Langzaam rijdend verkeer,Belgische grens - Eindhoven,Tussen Eersel (30) en knooppunt De Hogt.,,5.0,2300,51.39638,5.388899,2026-08-25 08:13,10005392548
 2026-08-25 08:17,N35,Langzaam rijdend verkeer,Almelo - Zwolle,Tussen Deventer en Hoonhorst.,,6.0,3200,52.477283,6.1905,2026-08-25 07:37,10005392402
 2026-08-25 08:17,N57,Langzaam rijdend verkeer,Voorne-Putten - Rotterdam,Tussen Hellevoetsluis/Oudenhoorn en A15: Brielle.,,5.0,2100,51.90292,4.212707,2026-08-25 08:12,10005392541
+2026-08-25 09:11,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,Bergingswerkzaamheden,72.0,9000,52.16506,5.544868,2026-08-25 07:56,10005392477
+2026-08-25 09:11,A2,Stilstaand verkeer,Utrecht - Amsterdam,Op de verbindingsweg van de A2 vanuit Utrecht naar de A10 richting Den Haag.,,4.0,800,52.330402,4.904622,2026-08-25 08:53,10005392691
+2026-08-25 09:11,A9,Langzaam rijdend verkeer,Diemen - Amstelveen,Tussen knooppunt Holendrecht en Amstelveen (4).,,5.0,2300,52.292248,4.899178,2026-08-25 09:09,10005392715
+2026-08-25 09:11,A10,Stilstaand verkeer,Knooppunt Watergraafsmeer - Knooppunt De Nieuwe Meer,Tussen Amsterdam-Centrum (12) en de Schinkelbrug.,,23.0,6700,52.338318,4.850678,2026-08-25 08:41,10005392657
+2026-08-25 09:11,A10,Stilstaand verkeer,Knooppunt Watergraafsmeer - Knooppunt Coenplein,Tussen Zeeburg (14) en Amsterdam-Tuindorp Oostzaan (18).,,34.0,6100,52.421585,4.90585,2026-08-25 08:43,10005392663
+2026-08-25 09:11,A12,Stilstaand verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Duiven (28).,Eerder ongeval,34.0,5400,51.945107,6.075811,2026-08-25 07:33,10005392383
+2026-08-25 09:11,A28,Stilstaand verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,,4.0,1000,52.078636,5.1592064,2026-08-25 09:04,10005392710
+2026-08-25 09:11,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Veiligheidsmaatregelen,11.0,2200,52.167,6.024982,2026-08-25 05:45,10005392245
+2026-08-25 09:11,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Op de verbindingsweg van de A50 vanuit Zwolle naar de A1 richting Amersfoort.,,5.0,800,52.185635,6.014742,2026-08-25 07:00,10005392296
+2026-08-25 09:11,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,6.0,3100,52.04168,5.933365,2026-08-25 07:08,10005392309
+2026-08-25 09:11,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en knooppunt Waterberg.,,20.0,6600,52.11813,5.952232,2026-08-25 08:52,10005392683
+2026-08-25 09:11,A58,Langzaam rijdend verkeer,Breda - Tilburg,Tussen knooppunt Galder en Ulvenhout (14).,,4.0,2200,51.53683,4.797765,2026-08-25 09:09,10005392713
+2026-08-25 09:11,A58,Langzaam rijdend verkeer,Tilburg - Eindhoven,Tussen Moergestel (9) en Oirschot (8).,,4.0,2000,51.51449,5.253204,2026-08-25 09:09,10005392714
+2026-08-25 09:11,A59,Langzaam rijdend verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,,10.0,4600,51.687504,4.884326,2026-08-25 07:19,10005392341
