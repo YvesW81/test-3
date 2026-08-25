@@ -4115,3 +4115,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-25 10:00,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,,10.0,5200,51.94572,6.073955,2026-08-25 09:22,10005392738
 2026-08-25 10:00,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,,11.0,5800,52.138367,5.986651,2026-08-25 09:36,10005392753
 2026-08-25 10:00,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Made (32) en knooppunt Hooipolder.,,10.0,3500,51.687374,4.88553,2026-08-25 09:47,10005392760
+2026-08-25 10:54,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,,6.0,3200,52.16623,5.553309,2026-08-25 09:27,10005392745
+2026-08-25 10:54,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,22.0,3900,51.898357,6.165913,2026-08-25 10:13,10005392780
+2026-08-25 10:54,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen Epe (27) en Apeldoorn-Noord (25).,,17.0,3800,52.269142,6.002471,2026-08-25 10:31,10005392793
