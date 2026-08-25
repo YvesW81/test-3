@@ -4006,3 +4006,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-24 21:02,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Terheijden (31) en Made (32).,,12.0,2300,51.66729,4.791008,2026-08-24 20:35,10005392208
 2026-08-25 05:55,A4,Stilstaand verkeer,Rotterdam - Amsterdam,Tussen Rijswijk-Plaspoelpolder (10) en knooppunt Prins Clausplein.,Onwelwording,17.0,4400,52.06754,4.382252,2026-08-25 05:30,10005392243
 2026-08-25 05:55,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen Hoenderloo (22) en knooppunt Waterberg.,Bergingswerkzaamheden,13.0,3400,52.074974,5.945513,2026-08-25 05:45,10005392245
+2026-08-25 07:08,A1,Langzaam rijdend verkeer,Hengelo - Amersfoort,Tussen knooppunt Beekbergen en Hoenderloo (19).,,15.0,6300,52.182034,5.916355,2026-08-25 06:40,10005392266
+2026-08-25 07:08,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Gorinchem (27) en Hardinxveld-Giessendam (26).,,14.0,2300,51.836884,4.90036,2026-08-25 06:34,10005392261
+2026-08-25 07:08,A15,Langzaam rijdend verkeer,Gorinchem - Ridderkerk,Tussen Alblasserdam (22) en knooppunt Ridderkerk-Zuid.,Eerder pechgeval,8.0,4700,51.85659,4.612783,2026-08-25 06:50,10005392281
+2026-08-25 07:08,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en knooppunt Waterberg.,Bergingswerkzaamheden,82.0,13400,52.07853,5.94639,2026-08-25 05:45,10005392245
+2026-08-25 07:08,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Op de verbindingsweg van de A50 vanuit Zwolle naar de A1 richting Amersfoort.,,5.0,700,52.185635,6.014742,2026-08-25 07:00,10005392296
+2026-08-25 07:08,A50,Langzaam rijdend verkeer,Oss - Arnhem,Tussen Ravenstein (17) en knooppunt Bankhoef.,Veiligheidsmaatregelen,4.0,2100,51.811264,5.678483,2026-08-25 07:05,10005392299
+2026-08-25 07:08,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Terheijden (31) en knooppunt Zonzeel.,,25.0,3900,51.64773,4.703561,2026-08-25 06:41,10005392271
+2026-08-25 07:08,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Op de verbindingsweg van de A59 vanuit Waalwijk naar de A2 richting Utrecht.,,3.0,1200,51.72585,5.32191,2026-08-25 06:49,10005392286
