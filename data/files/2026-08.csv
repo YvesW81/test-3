@@ -4125,3 +4125,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-25 11:30,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,5.0,2200,51.815773,3.981904,2026-08-25 11:26,10005392805
 2026-08-25 12:02,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,24.0,5100,51.898357,6.165913,2026-08-25 10:13,10005392780
 2026-08-25 12:02,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,9.0,2100,50.818733,6.024534,2026-08-25 11:31,10005392807
+2026-08-25 12:45,A7,Stilstaand verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,8.0,2500,52.93355,5.039739,2026-08-25 12:37,10005392832
+2026-08-25 12:45,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,2100,51.898357,6.165913,2026-08-25 10:13,10005392780
