@@ -4374,3 +4374,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-25 18:30,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen Nieuwerkerk aan den IJssel (17) en knooppunt Terbregseplein.,,15.0,5100,51.953392,4.547877,2026-08-25 17:35,10005393834
 2026-08-25 18:30,A27,Stilstaand verkeer,Utrecht - Breda,Tussen Noordeloos (25) en de Merwedebrug.,,22.0,7500,51.82893,4.942995,2026-08-25 16:11,10005393154
 2026-08-25 18:30,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,10.0,4300,52.055626,5.939174,2026-08-25 15:24,10005392954
+2026-08-25 19:08,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,2000,51.898357,6.165913,2026-08-25 18:45,10005394040
+2026-08-25 19:08,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Capelle a/d IJssel (25) en Rotterdam-Prins Alexander (27).,Technische storing,6.0,2100,51.93442,4.536838,2026-08-25 16:50,10005393415
+2026-08-25 19:08,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Zestienhoven en Bergschenhoek (28).,Technische storing,10.0,2500,51.97293,4.483119,2026-08-25 17:02,10005393524
+2026-08-25 19:08,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Nieuwerkerk aan den IJssel (17) en knooppunt Terbregseplein.,Ongeval(len),7.0,3300,51.952637,4.542314,2026-08-25 17:35,10005393834
