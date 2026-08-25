@@ -4356,3 +4356,21 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-25 17:51,N2,Langzaam rijdend verkeer,Batadorp - Leenderheide,Tussen A2: Batadorp/Randweg N2 en Veldhoven-Zuid (32).,,18.0,8000,51.414852,5.429298,2026-08-25 17:25,10005393730
 2026-08-25 17:51,N31,Stilstaand verkeer,Drachten - Leeuwarden,Tussen Drachten-Noord (29) en Nijega (28).,Ongeval(len),23.0,2900,53.14328,6.048292,2026-08-25 17:24,10005393726
 2026-08-25 17:51,N35,Langzaam rijdend verkeer,Almelo - Duitse grens,Tussen Enschede (25) en Enschede-Oost.,,5.0,2100,52.201702,6.927993,2026-08-25 17:45,10005393897
+2026-08-25 18:30,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen Geldermalsen (15) en knooppunt Deil.,,4.0,2900,51.852303,5.232351,2026-08-25 18:06,10005393991
+2026-08-25 18:30,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Empel en Veghel (21).,Voorwerpen op de weg,11.0,3500,51.6944,5.351197,2026-08-25 18:23,10005394020
+2026-08-25 18:30,A4,Langzaam rijdend verkeer,Amsterdam - Den Haag,Tussen knooppunt De Hoek en Nieuw-Vennep (4).,Eerder ongeval,13.0,7500,52.23677,4.652992,2026-08-25 16:52,10005393441
+2026-08-25 18:30,A4,Langzaam rijdend verkeer,Den Haag - Rotterdam,Tussen knooppunt Ypenburg en Rijswijk-Plaspoelpolder (10).,,3.0,2100,52.036232,4.335985,2026-08-25 18:27,10005394028
+2026-08-25 18:30,A5,Stilstaand verkeer,Hoofddorp - Amsterdam,Tussen Amsterdam-Westpoort (3) en knooppunt Westrandweg.,,9.0,3200,52.402786,4.85201,2026-08-25 18:02,10005393979
+2026-08-25 18:30,A7,Stilstaand verkeer,Zaanstad - Hoorn,Tussen knooppunt Zaandam en Wijdewormer (3).,Defect voertuig,12.0,3300,52.48368,4.869663,2026-08-25 18:13,10005394005
+2026-08-25 18:30,A7,Langzaam rijdend verkeer,Zaanstad - Hoorn,Tussen Purmerend-Noord (6) en Avenhorn (7).,,7.0,4400,52.593464,4.987832,2026-08-25 18:27,10005394029
+2026-08-25 18:30,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen knooppunt Velsen en Akersloot (11).,Eerder ongeval,40.0,7300,52.523804,4.719695,2026-08-25 15:36,10005392991
+2026-08-25 18:30,A10,Langzaam rijdend verkeer,Knooppunt Amstel - Knooppunt De Nieuwe Meer,Tussen Amsterdam-Rivierenbuurt (9) en Amsterdam-Oud Zuid (8).,,4.0,2200,52.338726,4.857848,2026-08-25 16:57,10005393480
+2026-08-25 18:30,A10,Langzaam rijdend verkeer,Knooppunt Watergraafsmeer - Knooppunt Coenplein,Tussen Volendam (16) en Amsterdam-Tuindorp Oostzaan (18).,,5.0,2500,52.42349,4.900994,2026-08-25 18:26,10005394026
+2026-08-25 18:30,A12,Stilstaand verkeer,Utrecht - Den Haag,Tussen knooppunt Lunetten en knooppunt Oudenrijn.,,13.0,4500,52.062984,5.080946,2026-08-25 16:54,10005393452
+2026-08-25 18:30,A12,Langzaam rijdend verkeer op parallelrijbaan,Utrecht - Den Haag,Op de parallelbaan. Tussen knooppunt Lunetten en knooppunt Oudenrijn.,,9.0,5000,52.066547,5.066891,2026-08-25 17:15,10005393640
+2026-08-25 18:30,A15,Stilstaand verkeer,Ridderkerk - Gorinchem,Op de verbindingsweg van de A15 vanuit Rotterdam naar de A27 richting Breda.,,3.0,400,51.84229,4.948431,2026-08-25 15:40,10005393015
+2026-08-25 18:30,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Rotterdam-Feijenoord (24) en de Rottemerentunnel.,Technische storing,21.0,6200,51.959328,4.523804,2026-08-25 16:50,10005393415
+2026-08-25 18:30,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Zestienhoven en Bergschenhoek (28).,Technische storing,10.0,2500,51.97293,4.483119,2026-08-25 17:02,10005393524
+2026-08-25 18:30,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen Nieuwerkerk aan den IJssel (17) en knooppunt Terbregseplein.,,15.0,5100,51.953392,4.547877,2026-08-25 17:35,10005393834
+2026-08-25 18:30,A27,Stilstaand verkeer,Utrecht - Breda,Tussen Noordeloos (25) en de Merwedebrug.,,22.0,7500,51.82893,4.942995,2026-08-25 16:11,10005393154
+2026-08-25 18:30,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,10.0,4300,52.055626,5.939174,2026-08-25 15:24,10005392954
