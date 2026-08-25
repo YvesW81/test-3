@@ -4118,3 +4118,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-25 10:54,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,,6.0,3200,52.16623,5.553309,2026-08-25 09:27,10005392745
 2026-08-25 10:54,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,22.0,3900,51.898357,6.165913,2026-08-25 10:13,10005392780
 2026-08-25 10:54,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen Epe (27) en Apeldoorn-Noord (25).,,17.0,3800,52.269142,6.002471,2026-08-25 10:31,10005392793
+2026-08-25 11:30,A2,Stilstaand verkeer,Maastricht - Eindhoven,Tussen knooppunt De Hogt en knooppunt Batadorp.,Defecte vrachtwagen,17.0,5100,51.449493,5.426318,2026-08-25 11:13,10005392800
+2026-08-25 11:30,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,5.0,3200,52.93327,5.039222,2026-08-25 11:13,10005392801
+2026-08-25 11:30,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,22.0,5400,51.898357,6.165913,2026-08-25 10:13,10005392780
+2026-08-25 11:30,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen Epe (27) en Apeldoorn-Noord (25).,,11.0,3900,52.274185,6.005037,2026-08-25 10:31,10005392793
+2026-08-25 11:30,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,5.0,2200,51.815773,3.981904,2026-08-25 11:26,10005392805
