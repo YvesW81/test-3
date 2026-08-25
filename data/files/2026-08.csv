@@ -4109,3 +4109,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-25 09:11,A58,Langzaam rijdend verkeer,Breda - Tilburg,Tussen knooppunt Galder en Ulvenhout (14).,,4.0,2200,51.53683,4.797765,2026-08-25 09:09,10005392713
 2026-08-25 09:11,A58,Langzaam rijdend verkeer,Tilburg - Eindhoven,Tussen Moergestel (9) en Oirschot (8).,,4.0,2000,51.51449,5.253204,2026-08-25 09:09,10005392714
 2026-08-25 09:11,A59,Langzaam rijdend verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,,10.0,4600,51.687504,4.884326,2026-08-25 07:19,10005392341
+2026-08-25 10:00,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,,39.0,8900,52.164665,5.542018,2026-08-25 09:27,10005392745
+2026-08-25 10:00,A9,Langzaam rijdend verkeer,Diemen - Amstelveen,Tussen knooppunt Holendrecht en Amstelveen (4).,,7.0,3400,52.291847,4.900483,2026-08-25 09:09,10005392715
+2026-08-25 10:00,A10,Langzaam rijdend verkeer,Knooppunt Amstel - Knooppunt De Nieuwe Meer,Tussen Amsterdam-Rivierenbuurt (9) en Amsterdam-Oud Zuid (8).,,4.0,2100,52.33904,4.865001,2026-08-25 09:57,10005392767
+2026-08-25 10:00,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,,10.0,5200,51.94572,6.073955,2026-08-25 09:22,10005392738
+2026-08-25 10:00,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,,11.0,5800,52.138367,5.986651,2026-08-25 09:36,10005392753
+2026-08-25 10:00,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Made (32) en knooppunt Hooipolder.,,10.0,3500,51.687374,4.88553,2026-08-25 09:47,10005392760
