@@ -4442,3 +4442,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-26 13:38,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Ridderkerk-Zuid en de Drechttunnel.,,33.0,3900,51.812115,4.640726,2026-08-26 13:26,10005394428
 2026-08-26 13:38,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,7.0,2300,50.818733,6.024534,2026-08-26 11:54,10005394377
 2026-08-26 13:38,N15,Langzaam rijdend verkeer,Europoort - Rotterdam Maasvlakte,Tussen Distripark Maasvlakte/Havens 9000-9900 en Havens 8100-8120.,,3.0,2300,51.948025,4.024417,2026-08-26 13:34,10005394435
+2026-08-26 14:01,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,15.0,4300,52.31377,7.043839,2026-08-26 12:49,10005394410
+2026-08-26 14:01,A4,Langzaam rijdend verkeer,Rotterdam - Den Haag,Tussen Rijswijk (11) en Den Haag-Ypenburg (9).,,5.0,2600,52.04239,4.346975,2026-08-26 13:46,10005394449
+2026-08-26 14:01,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,10.0,2000,51.898357,6.165913,2026-08-26 13:57,10005394458
+2026-08-26 14:01,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Sliedrecht-Oost (25) en Sliedrecht-West (24).,Politieactie,8.0,3200,51.830936,4.747441,2026-08-26 13:27,10005394430
+2026-08-26 14:01,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Sliedrecht-West (24) en Alblasserdam (22).,Politieactie,26.0,4200,51.853096,4.673788,2026-08-26 13:44,10005394444
+2026-08-26 14:01,A15,Stilstaand verkeer,Ridderkerk - Gorinchem,Tussen knooppunt Ridderkerk-Noord en de Noordtunnel.,Bergingswerkzaamheden,21.0,3300,51.857376,4.64586,2026-08-26 13:48,10005394453
+2026-08-26 14:01,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Ridderkerk-Zuid en Hendrik-Ido-Ambacht (23).,,21.0,3600,51.828327,4.62364,2026-08-26 13:26,10005394428
+2026-08-26 14:01,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,7.0,2300,50.818733,6.024534,2026-08-26 11:54,10005394377
+2026-08-26 14:01,N35,Langzaam rijdend verkeer,Zwolle - Almelo,Tussen Heino-Zuid en Deventer.,,4.0,2200,52.400047,6.268511,2026-08-26 13:57,10005394460
