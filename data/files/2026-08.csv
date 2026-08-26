@@ -4416,3 +4416,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-26 11:10,A2,Stilstaand verkeer,Belgische grens - Maastricht,Tussen Gronsveld (56) en de Koning Willem-Alexandertunnel.,Defecte vrachtwagen,19.0,2800,50.83876,5.718191,2026-08-26 10:41,10005394326
 2026-08-26 11:10,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,18.0,2500,51.898357,6.165913,2026-08-26 10:09,10005394308
 2026-08-26 11:10,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht-Centrum (21).,,24.0,2400,51.785023,4.65045,2026-08-26 11:00,10005394341
+2026-08-26 11:56,A1,Stilstaand verkeer,Amersfoort - Apeldoorn,Tussen Kootwijk (18) en Hoenderloo (19).,Spoedreparatie,24.0,4800,52.18231,5.913375,2026-08-26 11:17,10005394352
+2026-08-26 11:56,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,,6.0,2600,52.166782,5.5575,2026-08-26 11:47,10005394371
+2026-08-26 11:56,A2,Stilstaand verkeer,Maastricht - Eindhoven,Tussen knooppunt De Hogt en knooppunt Batadorp.,,7.0,2600,51.434757,5.426428,2026-08-26 11:51,10005394376
+2026-08-26 11:56,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,18.0,4000,51.898357,6.165913,2026-08-26 10:09,10005394308
+2026-08-26 11:56,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht-Centrum (21).,,6.0,3800,51.78677,4.650093,2026-08-26 11:43,10005394369
+2026-08-26 11:56,A28,Stilstaand verkeer op parallelrijbaan,Amersfoort - Utrecht,Op de parallelbaan. Tussen Den Dolder (3) en knooppunt Rijnsweerd.,,6.0,2000,52.09164,5.161372,2026-08-26 11:48,10005394373
+2026-08-26 11:56,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,9.0,2600,50.818733,6.024534,2026-08-26 11:19,10005394353
