@@ -4413,3 +4413,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-26 10:21,A29,Langzaam rijdend verkeer,Sabina - Rotterdam,Tussen Willemstad (23) en de Haringvlietbrug.,,6.0,2800,51.708153,4.396085,2026-08-26 10:17,10005394316
 2026-08-26 10:21,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Made (32) en Waspik (35).,,9.0,3400,51.687515,4.886206,2026-08-26 09:29,10005394293
 2026-08-26 10:21,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,3.0,2200,51.815773,3.981904,2026-08-26 10:12,10005394311
+2026-08-26 11:10,A2,Stilstaand verkeer,Belgische grens - Maastricht,Tussen Gronsveld (56) en de Koning Willem-Alexandertunnel.,Defecte vrachtwagen,19.0,2800,50.83876,5.718191,2026-08-26 10:41,10005394326
+2026-08-26 11:10,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,18.0,2500,51.898357,6.165913,2026-08-26 10:09,10005394308
+2026-08-26 11:10,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht-Centrum (21).,,24.0,2400,51.785023,4.65045,2026-08-26 11:00,10005394341
