@@ -4409,3 +4409,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-26 09:30,A12,Stilstaand verkeer,Den Haag - Utrecht,Tussen Nieuwerbrug (13) en Harmelen (14a).,Ongeval(len),12.0,4100,52.080288,4.942188,2026-08-26 08:49,10005394273
 2026-08-26 09:30,A12,Stilstaand verkeer,Den Haag - Utrecht,Tussen knooppunt Gouwe en Reeuwijk (12).,,47.0,5600,52.055832,4.725443,2026-08-26 09:07,10005394281
 2026-08-26 09:30,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht-Centrum (21).,,39.0,4900,51.798344,4.649572,2026-08-26 09:18,10005394290
+2026-08-26 10:21,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,,14.0,2200,51.898357,6.165913,2026-08-26 10:09,10005394308
+2026-08-26 10:21,A29,Langzaam rijdend verkeer,Sabina - Rotterdam,Tussen Willemstad (23) en de Haringvlietbrug.,,6.0,2800,51.708153,4.396085,2026-08-26 10:17,10005394316
+2026-08-26 10:21,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Made (32) en Waspik (35).,,9.0,3400,51.687515,4.886206,2026-08-26 09:29,10005394293
+2026-08-26 10:21,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,3.0,2200,51.815773,3.981904,2026-08-26 10:12,10005394311
