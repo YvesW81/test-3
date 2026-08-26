@@ -4394,3 +4394,13 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-26 07:53,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,6.0,2900,51.800068,5.670363,2026-08-26 07:50,10005394172
 2026-08-26 07:53,A58,Stilstaand verkeer,Bergen op Zoom - Breda,Tussen Etten-Leur-West (19) en Breda-West (16).,,9.0,3200,51.57355,4.68061,2026-08-26 07:47,10005394167
 2026-08-26 07:53,A59,Langzaam rijdend verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,,7.0,3300,51.68749,4.88423,2026-08-26 07:43,10005394159
+2026-08-26 08:39,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,,11.0,3700,52.165447,5.547674,2026-08-26 08:05,10005394207
+2026-08-26 08:39,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen Schiphol (2) en knooppunt De Nieuwe Meer.,,13.0,6000,52.337193,4.846571,2026-08-26 07:54,10005394182
+2026-08-26 08:39,A7,Stilstaand verkeer,Hoorn - Zaanstad,Tussen Wijdewormer (3) en knooppunt Zaandam.,,9.0,2100,52.46218,4.848423,2026-08-26 08:36,10005394250
+2026-08-26 08:39,A9,Langzaam rijdend verkeer,Alkmaar - Amstelveen,Tussen knooppunt Badhoevedorp en Schiphol-Oost.,,5.0,2300,52.3088,4.823344,2026-08-26 08:34,10005394248
+2026-08-26 08:39,A12,Stilstaand verkeer,Utrecht - Arnhem,Op de verbindingsweg van de A12 vanuit Utrecht naar de A50 richting Apeldoorn.,Incident op aansluitende weg,3.0,900,52.016438,5.919876,2026-08-26 08:19,10005394228
+2026-08-26 08:39,A12,Stilstaand verkeer,Arnhem - Utrecht,Op de verbindingsweg van de A12 vanuit Zevenaar naar de A50 richting Apeldoorn.,Incident op aansluitende weg,3.0,700,52.02223,5.9239607,2026-08-26 08:20,10005394230
+2026-08-26 08:39,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zwijndrecht (22) en knooppunt Ridderkerk-Zuid.,Ongeval(len),16.0,4900,51.859367,4.594926,2026-08-26 08:25,10005394236
+2026-08-26 08:39,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,6.0,2200,52.04082,5.932931,2026-08-26 07:23,10005394121
+2026-08-26 08:39,A50,Langzaam rijdend verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,9.0,3700,52.49406,6.013067,2026-08-26 08:18,10005394227
+2026-08-26 08:39,N2,Stilstaand verkeer,Batadorp - Leenderheide,Tussen A2: Batadorp/Randweg N2 en Meerhoven-Zuid (30a).,,7.0,2400,51.43884,5.426191,2026-08-26 08:35,10005394249
