@@ -4423,3 +4423,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-26 11:56,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht-Centrum (21).,,6.0,3800,51.78677,4.650093,2026-08-26 11:43,10005394369
 2026-08-26 11:56,A28,Stilstaand verkeer op parallelrijbaan,Amersfoort - Utrecht,Op de parallelbaan. Tussen Den Dolder (3) en knooppunt Rijnsweerd.,,6.0,2000,52.09164,5.161372,2026-08-26 11:48,10005394373
 2026-08-26 11:56,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,9.0,2600,50.818733,6.024534,2026-08-26 11:19,10005394353
+2026-08-26 12:32,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,,6.0,2400,52.31377,7.043839,2026-08-26 12:14,10005394387
+2026-08-26 12:32,A1,Langzaam rijdend verkeer,Amersfoort - Apeldoorn,Tussen Kootwijk (18) en Hoenderloo (19).,,5.0,3500,52.18276,5.909877,2026-08-26 12:21,10005394391
+2026-08-26 12:32,A2,Langzaam rijdend verkeer,Eindhoven - Maastricht,Tussen Born (47) en Urmond (48).,Defecte vrachtwagen,5.0,2800,50.999176,5.78891,2026-08-26 12:21,10005394392
+2026-08-26 12:32,A7,Langzaam rijdend verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,5.0,2700,53.0737,5.334949,2026-08-26 12:12,10005394385
+2026-08-26 12:32,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,20.0,5000,51.898357,6.165913,2026-08-26 10:09,10005394308
+2026-08-26 12:32,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,9.0,2600,50.818733,6.024534,2026-08-26 11:54,10005394377
