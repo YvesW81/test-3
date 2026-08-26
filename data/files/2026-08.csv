@@ -4436,3 +4436,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-26 13:04,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,16.0,3900,51.898357,6.165913,2026-08-26 10:09,10005394308
 2026-08-26 13:04,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,10.0,2900,50.818733,6.024534,2026-08-26 11:54,10005394377
 2026-08-26 13:04,N15,Langzaam rijdend verkeer,Europoort - Rotterdam Maasvlakte,Tussen Distripark Maasvlakte/Havens 9000-9900 en Havens 8100-8120.,,4.0,2700,51.948025,4.024417,2026-08-26 12:43,10005394406
+2026-08-26 13:38,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,12.0,4400,52.31377,7.043839,2026-08-26 12:49,10005394410
+2026-08-26 13:38,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1800,51.898357,6.165913,2026-08-26 10:09,10005394308
+2026-08-26 13:38,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Sliedrecht-West (24) en de Noordtunnel.,Politieactie,30.0,5300,51.853752,4.67272,2026-08-26 13:27,10005394430
+2026-08-26 13:38,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Ridderkerk-Zuid en de Drechttunnel.,,33.0,3900,51.812115,4.640726,2026-08-26 13:26,10005394428
+2026-08-26 13:38,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,7.0,2300,50.818733,6.024534,2026-08-26 11:54,10005394377
+2026-08-26 13:38,N15,Langzaam rijdend verkeer,Europoort - Rotterdam Maasvlakte,Tussen Distripark Maasvlakte/Havens 9000-9900 en Havens 8100-8120.,,3.0,2300,51.948025,4.024417,2026-08-26 13:34,10005394435
