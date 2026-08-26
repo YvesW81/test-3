@@ -4404,3 +4404,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-26 08:39,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,6.0,2200,52.04082,5.932931,2026-08-26 07:23,10005394121
 2026-08-26 08:39,A50,Langzaam rijdend verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,9.0,3700,52.49406,6.013067,2026-08-26 08:18,10005394227
 2026-08-26 08:39,N2,Stilstaand verkeer,Batadorp - Leenderheide,Tussen A2: Batadorp/Randweg N2 en Meerhoven-Zuid (30a).,,7.0,2400,51.43884,5.426191,2026-08-26 08:35,10005394249
+2026-08-26 09:30,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,,4.0,2200,52.166866,5.5582,2026-08-26 09:11,10005394287
+2026-08-26 09:30,A7,Langzaam rijdend verkeer,Hoorn - Zaanstad,Tussen Zaanstad-'t Kalf (2) en knooppunt Zaandam.,,5.0,2100,52.458874,4.846649,2026-08-26 09:13,10005394289
+2026-08-26 09:30,A12,Stilstaand verkeer,Den Haag - Utrecht,Tussen Nieuwerbrug (13) en Harmelen (14a).,Ongeval(len),12.0,4100,52.080288,4.942188,2026-08-26 08:49,10005394273
+2026-08-26 09:30,A12,Stilstaand verkeer,Den Haag - Utrecht,Tussen knooppunt Gouwe en Reeuwijk (12).,,47.0,5600,52.055832,4.725443,2026-08-26 09:07,10005394281
+2026-08-26 09:30,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht-Centrum (21).,,39.0,4900,51.798344,4.649572,2026-08-26 09:18,10005394290
