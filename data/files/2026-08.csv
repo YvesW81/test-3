@@ -4382,3 +4382,15 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-25 21:37,A12,Stilstaand verkeer,Duitse grens - Arnhem,Tussen Zevenaar (29) en Duiven (28).,Wegwerkzaamheden,10.0,2600,51.952705,6.05187,2026-08-25 21:02,10005394058
 2026-08-25 21:59,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen Zevenaar (29) en Duiven (28).,Wegwerkzaamheden,5.0,2400,51.952908,6.051235,2026-08-25 21:02,10005394058
 2026-08-26 07:17,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,,11.0,2900,52.166782,5.5575,2026-08-26 06:59,10005394113
+2026-08-26 07:53,A1,Langzaam rijdend verkeer,Apeldoorn - Amersfoort,Tussen Voorthuizen (16) en Barneveld (15).,,4.0,2200,52.167255,5.561671,2026-08-26 07:48,10005394170
+2026-08-26 07:53,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen Hoofddorp-Zuid (3a) en Schiphol (2).,,25.0,3500,52.300926,4.743389,2026-08-26 07:35,10005394143
+2026-08-26 07:53,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,5.0,2400,52.93355,5.039739,2026-08-26 07:46,10005394166
+2026-08-26 07:53,A12,Stilstaand verkeer,Arnhem - Utrecht,Op de verbindingsweg van de A12 vanuit Zevenaar naar de A50 richting Apeldoorn.,Incident op aansluitende weg,3.0,600,52.02223,5.9239607,2026-08-26 07:34,10005394142
+2026-08-26 07:53,A12,Stilstaand verkeer,Utrecht - Arnhem,Op de verbindingsweg van de A12 vanuit Utrecht naar de A50 richting Apeldoorn.,Incident op aansluitende weg,3.0,900,52.016438,5.919876,2026-08-26 07:36,10005394146
+2026-08-26 07:53,A35,Stilstaand verkeer,Enschede - Zwolle,Tussen Wierden (32) en Rijssen.,,8.0,3000,52.359863,6.546509,2026-08-26 07:45,10005394164
+2026-08-26 07:53,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Veiligheidsmaatregelen,5.0,2600,52.164467,6.023366,2026-08-26 07:19,10005394115
+2026-08-26 07:53,A50,Stilstaand verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,11.0,3900,52.49406,6.013067,2026-08-26 07:20,10005394117
+2026-08-26 07:53,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Veiligheidsmaatregelen,6.0,2200,52.04082,5.932931,2026-08-26 07:23,10005394121
+2026-08-26 07:53,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,6.0,2900,51.800068,5.670363,2026-08-26 07:50,10005394172
+2026-08-26 07:53,A58,Stilstaand verkeer,Bergen op Zoom - Breda,Tussen Etten-Leur-West (19) en Breda-West (16).,,9.0,3200,51.57355,4.68061,2026-08-26 07:47,10005394167
+2026-08-26 07:53,A59,Langzaam rijdend verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,,7.0,3300,51.68749,4.88423,2026-08-26 07:43,10005394159
