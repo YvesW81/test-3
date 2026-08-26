@@ -4429,3 +4429,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-26 12:32,A7,Langzaam rijdend verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,5.0,2700,53.0737,5.334949,2026-08-26 12:12,10005394385
 2026-08-26 12:32,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,20.0,5000,51.898357,6.165913,2026-08-26 10:09,10005394308
 2026-08-26 12:32,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,9.0,2600,50.818733,6.024534,2026-08-26 11:54,10005394377
+2026-08-26 13:04,A1,Stilstaand verkeer,Apeldoorn - Amersfoort,Tussen Apeldoorn-Zuid (20) en Kootwijk (18).,,13.0,2400,52.185127,5.89014,2026-08-26 12:48,10005394408
+2026-08-26 13:04,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,8.0,3400,52.31377,7.043839,2026-08-26 12:49,10005394410
+2026-08-26 13:04,A4,Stilstaand verkeer,Den Haag - Rotterdam,Tussen Vlaardingen-Oost (16) en knooppunt Benelux.,,9.0,2800,51.886543,4.379775,2026-08-26 12:27,10005394395
+2026-08-26 13:04,A4,Langzaam rijdend verkeer op parallelrijbaan,Den Haag - Rotterdam,Op de parallelbaan. Tussen Schiedam-Noord (10) en knooppunt Benelux.,,6.0,3200,51.87343,4.396017,2026-08-26 12:48,10005394409
+2026-08-26 13:04,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,16.0,3900,51.898357,6.165913,2026-08-26 10:09,10005394308
+2026-08-26 13:04,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,10.0,2900,50.818733,6.024534,2026-08-26 11:54,10005394377
+2026-08-26 13:04,N15,Langzaam rijdend verkeer,Europoort - Rotterdam Maasvlakte,Tussen Distripark Maasvlakte/Havens 9000-9900 en Havens 8100-8120.,,4.0,2700,51.948025,4.024417,2026-08-26 12:43,10005394406
