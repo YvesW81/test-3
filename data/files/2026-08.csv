@@ -4756,3 +4756,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-28 13:38,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,,18.0,3500,50.818733,6.024534,2026-08-28 12:12,10005397909
 2026-08-28 13:38,N50,Stilstaand verkeer,Emmeloord - Zwolle,Tussen Ens (33) en de Eilandbrug.,,7.0,2200,52.583164,5.859045,2026-08-28 13:33,10005398209
 2026-08-28 13:38,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2000,51.702633,3.794994,2026-08-28 13:35,10005398214
+2026-08-29 12:17,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,9.0,3900,52.31377,7.043839,2026-08-29 11:33,10005400377
+2026-08-29 12:17,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,Extra verkeersdrukte door wegwerkzaamheden elders,3.0,2200,52.162743,5.513494,2026-08-29 12:10,10005400436
+2026-08-29 12:17,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Op de verbindingsweg van de A2 vanuit Utrecht naar de A15 richting Nijmegen.,Extra verkeersdrukte door wegwerkzaamheden elders,3.0,1400,51.858135,5.2438483,2026-08-29 09:52,10005400334
+2026-08-29 12:17,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Deil en de Martinus Nijhoffbrug.,Extra verkeersdrukte door wegwerkzaamheden elders,9.0,3700,51.81886,5.259926,2026-08-29 12:11,10005400439
+2026-08-29 12:17,A8,Langzaam rijdend verkeer,Zaandam - Amsterdam,Tussen knooppunt Zaandam en knooppunt Coenplein.,Wegwerkzaamheden,9.0,4400,52.424717,4.884658,2026-08-29 10:33,10005400314
+2026-08-29 12:17,A15,Stilstaand verkeer,Gorinchem - Nijmegen,Tussen Meteren (30a) en Wadenoijen (31).,Extra verkeersdrukte door wegwerkzaamheden elders,15.0,4200,51.87218,5.342817,2026-08-29 11:59,10005400422
