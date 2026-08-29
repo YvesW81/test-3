@@ -4762,3 +4762,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-29 12:17,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Deil en de Martinus Nijhoffbrug.,Extra verkeersdrukte door wegwerkzaamheden elders,9.0,3700,51.81886,5.259926,2026-08-29 12:11,10005400439
 2026-08-29 12:17,A8,Langzaam rijdend verkeer,Zaandam - Amsterdam,Tussen knooppunt Zaandam en knooppunt Coenplein.,Wegwerkzaamheden,9.0,4400,52.424717,4.884658,2026-08-29 10:33,10005400314
 2026-08-29 12:17,A15,Stilstaand verkeer,Gorinchem - Nijmegen,Tussen Meteren (30a) en Wadenoijen (31).,Extra verkeersdrukte door wegwerkzaamheden elders,15.0,4200,51.87218,5.342817,2026-08-29 11:59,10005400422
+2026-08-29 17:06,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,,16.0,6500,52.16627,5.554488,2026-08-29 16:37,10005400901
+2026-08-29 17:06,A8,Langzaam rijdend verkeer,Zaandam - Amsterdam,Tussen knooppunt Zaandam en Zaanstad-Zuid (1).,Wegwerkzaamheden op aansluitende weg,6.0,2400,52.42957,4.870355,2026-08-29 16:44,10005400903
+2026-08-29 17:06,A10,Stilstaand verkeer,Knooppunt De Nieuwe Meer - Knooppunt Watergraafsmeer,Tussen Amsterdam-Hemhavens (1) en knooppunt Coenplein.,Wegwerkzaamheden,9.0,3200,52.4239,4.879921,2026-08-29 16:29,10005400896
+2026-08-29 17:06,A28,Langzaam rijdend verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,,4.0,1200,52.078636,5.1592064,2026-08-29 16:08,10005400880
