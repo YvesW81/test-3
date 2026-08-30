@@ -4781,3 +4781,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-30 14:17,A58,Langzaam rijdend verkeer,Breda - Tilburg,Tussen Bavel (13) en Tilburg-Reeshof (12).,,5.0,2700,51.551342,4.952231,2026-08-30 14:10,10005401212
 2026-08-30 14:17,N11,Langzaam rijdend verkeer,Leiden - Bodegraven,Tussen Hazerswoude (7) en Alphen a/d Rijn-West (8).,Defecte vrachtwagen,6.0,2300,52.123394,4.625305,2026-08-30 14:03,10005401204
 2026-08-30 14:17,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2000,51.702633,3.794994,2026-08-30 14:11,10005401215
+2026-08-30 18:46,A67,Stilstaand verkeer,Venlo - Eindhoven,Tussen Panningen (38) en Liessel (37).,Spoedreparatie,13.0,2700,51.38881,5.873674,2026-08-30 18:03,10005401327
+2026-08-30 18:46,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,1600,50.818733,6.024534,2026-08-30 15:55,10005401282
