@@ -4835,3 +4835,13 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-08-31 07:52,N35,Langzaam rijdend verkeer,Almelo - Zwolle,Tussen Deventer en Hoonhorst.,,8.0,3700,52.477283,6.1905,2026-08-31 07:37,10005401590
 2026-08-31 07:52,N36,Langzaam rijdend verkeer,Dedemsvaart - Almelo,Tussen Aadorp en Almelo-West.,,5.0,2300,52.35839,6.615219,2026-08-31 07:48,10005401646
 2026-08-31 07:52,N434,Stilstaand verkeer,Wassenaar - Zoeterwoude,Tussen knooppunt Ommedijk en knooppunt Hofvliet.,Ongeval(len),12.0,4600,52.126034,4.471975,2026-08-31 07:46,10005401637
+2026-08-31 14:31,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,9.0,3200,52.31377,7.043839,2026-08-31 11:57,10005402047
+2026-08-31 14:31,A1,Langzaam rijdend verkeer,Apeldoorn - Amersfoort,Tussen Apeldoorn-Zuid (20) en Kootwijk (18).,Verkeerssituatie gewijzigd als gevolg van wegwerkzaamheden,5.0,3000,52.186367,5.876818,2026-08-31 14:24,10005402170
+2026-08-31 14:31,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Deil en Waardenburg (16).,,5.0,2300,51.840027,5.244805,2026-08-31 14:20,10005402165
+2026-08-31 14:31,A2,Langzaam rijdend verkeer,Eindhoven - Maastricht,Tussen knooppunt Batadorp en knooppunt De Hogt.,,4.0,2300,51.444633,5.427304,2026-08-31 14:28,10005402179
+2026-08-31 14:31,A2,Langzaam rijdend verkeer,Maastricht - Eindhoven,Tussen knooppunt Leenderheide en knooppunt Batadorp.,,3.0,2100,51.411545,5.430142,2026-08-31 14:28,10005402178
+2026-08-31 14:31,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Beek (30) en Duitsland.,Door grenscontrole,13.0,1400,51.898357,6.165913,2026-08-31 14:25,10005402172
+2026-08-31 14:31,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,3.0,2200,51.80282,5.673722,2026-08-31 14:26,10005402175
+2026-08-31 14:31,A58,Stilstaand verkeer,Breda - Tilburg,Tussen Bavel (13) en Tilburg-Reeshof (12).,,6.0,2400,51.553463,4.918728,2026-08-31 14:22,10005402168
+2026-08-31 14:31,A73,Langzaam rijdend verkeer op parallelrijbaan,Nijmegen - Maasbracht,Op de parallelbaan. Tussen knooppunt Zaarderheiken en Maasbree (14).,,5.0,2000,51.37369,6.123168,2026-08-31 13:22,10005402127
+2026-08-31 14:31,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,7.0,2100,50.818733,6.024534,2026-08-31 12:54,10005402097
