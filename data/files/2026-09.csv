@@ -36,3 +36,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-01 09:08,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Vlijmen (44) en Drunen-West (40).,Eerder ongeval,32.0,5700,51.692783,5.122942,2026-09-01 08:38,10005403559
 2026-09-01 09:08,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Waalwijk (37) en Nieuwkuijk (43).,Ongeval(len),32.0,6900,51.69529,5.190835,2026-09-01 08:53,10005403678
 2026-09-01 09:08,N434,Stilstaand verkeer,Wassenaar - Zoeterwoude,Tussen knooppunt Ommedijk en knooppunt Hofvliet.,,13.0,4384,52.128345,4.469724,2026-09-01 08:53,10005403679
+2026-09-01 14:32,A10,Stilstaand verkeer,Knooppunt Watergraafsmeer - Knooppunt De Nieuwe Meer,Tussen Landsmeer (17) en de Coentunnel.,,10.0,2100,52.417812,4.867411,2026-09-01 14:28,10005403998
+2026-09-01 14:32,A12,Stilstaand verkeer,Den Haag - Utrecht,Tussen Reeuwijk (12) en Woerden (14).,Ongeval(len),29.0,6800,52.069313,4.867355,2026-09-01 13:53,10005403976
+2026-09-01 14:32,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,12.0,1700,51.898357,6.165913,2026-09-01 14:18,10005403990
+2026-09-01 14:32,A15,Stilstaand verkeer op parallelrijbaan,Ridderkerk - Europoort,Op de parallelbaan. Tussen Rotterdam-IJsselmonde (20) en Rotterdam-Charlois (19).,Gekantelde aanhangwagen,28.0,3800,51.86311,4.483784,2026-09-01 12:44,10005403920
+2026-09-01 14:32,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen knooppunt Vaanplein en Rotterdam-Charlois (19).,Gekantelde vrachtwagen,4.0,2900,51.86772,4.442318,2026-09-01 14:22,10005403993
+2026-09-01 14:32,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen knooppunt Terbregseplein en de Rottemerentunnel.,,6.0,2300,51.96116,4.520613,2026-09-01 14:21,10005403991
+2026-09-01 14:32,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen knooppunt Terbregseplein en de Giessenbrug.,,12.0,4700,51.927696,4.42963,2026-09-01 14:02,10005403984
+2026-09-01 14:32,A28,Stilstaand verkeer,Assen - Hoogeveen,Tussen Assen-Zuid (31a) en de brug over het Oranjekanaal.,,7.0,2100,52.911972,6.530899,2026-09-01 14:29,10005404001
+2026-09-01 14:32,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,7.0,2000,50.818733,6.024534,2026-09-01 12:42,10005403919
