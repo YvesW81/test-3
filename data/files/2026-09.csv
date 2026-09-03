@@ -68,3 +68,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-02 15:10,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,4.0,3000,51.7008,3.781669,2026-09-02 15:00,10005405675
 2026-09-02 19:11,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,8.0,4000,52.31377,7.043839,2026-09-02 18:25,10005406530
 2026-09-02 19:11,A27,Langzaam rijdend verkeer,Gorinchem - Breda,Tussen knooppunt Gorinchem en de Merwedebrug.,Schade aan wegmeubilair,4.0,2500,51.830944,4.943718,2026-09-02 16:19,10005405990
+2026-09-03 10:59,A1,Langzaam rijdend verkeer,Apeldoorn - Amersfoort,Tussen Hoenderloo (19) en Kootwijk (18).,Wegwerkzaamheden,5.0,2800,52.186714,5.872551,2026-09-03 09:34,10005407525
+2026-09-03 10:59,A2,Langzaam rijdend verkeer,Maastricht - Eindhoven,Tussen knooppunt Leenderheide en knooppunt Batadorp.,,4.0,2600,51.411106,5.430232,2026-09-03 10:53,10005407605
+2026-09-03 10:59,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,16.0,3100,51.898357,6.165913,2026-09-03 10:24,10005407585
+2026-09-03 10:59,A50,Stilstaand verkeer,Arnhem - Eindhoven,Tussen knooppunt Ewijk en knooppunt Paalgraven.,Brandend voertuig,41.0,8600,51.751244,5.618223,2026-09-03 10:04,10005407572
