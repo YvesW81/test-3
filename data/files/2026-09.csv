@@ -92,3 +92,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-03 15:29,A58,Langzaam rijdend verkeer,Eindhoven - Tilburg,Tussen Oirschot (8) en Moergestel (9).,,8.0,4000,51.513485,5.256794,2026-09-03 15:20,10005407811
 2026-09-03 15:29,A58,Langzaam rijdend verkeer,Breda - Tilburg,Tussen knooppunt Galder en Ulvenhout (14).,,6.0,2700,51.53683,4.797765,2026-09-03 15:22,10005407816
 2026-09-03 15:29,A59,Langzaam rijdend verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,,5.0,3000,51.68749,4.88423,2026-09-03 15:22,10005407817
+2026-09-03 19:07,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Zestienhoven en Bergschenhoek (28).,Ongeval(len),8.0,2000,51.971657,4.475449,2026-09-03 17:59,10005408700
+2026-09-03 19:07,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Dordrecht-Centrum (21) en Dordrecht-Willemsdorp (19).,,51.0,3800,51.749485,4.64042,2026-09-03 18:47,10005408765
