@@ -72,3 +72,23 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-03 10:59,A2,Langzaam rijdend verkeer,Maastricht - Eindhoven,Tussen knooppunt Leenderheide en knooppunt Batadorp.,,4.0,2600,51.411106,5.430232,2026-09-03 10:53,10005407605
 2026-09-03 10:59,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Zevenaar (29) en Duitsland.,Door grenscontrole,16.0,3100,51.898357,6.165913,2026-09-03 10:24,10005407585
 2026-09-03 10:59,A50,Stilstaand verkeer,Arnhem - Eindhoven,Tussen knooppunt Ewijk en knooppunt Paalgraven.,Brandend voertuig,41.0,8600,51.751244,5.618223,2026-09-03 10:04,10005407572
+2026-09-03 15:29,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,6.0,2500,52.31377,7.043839,2026-09-03 11:54,10005407662
+2026-09-03 15:29,A1,Langzaam rijdend verkeer,Amersfoort - Apeldoorn,Tussen Kootwijk (18) en Hoenderloo (19).,,7.0,3000,52.188766,5.851279,2026-09-03 15:21,10005407813
+2026-09-03 15:29,A4,Langzaam rijdend verkeer,Amsterdam - Rotterdam,Tussen Leidschendam (8) en knooppunt Ypenburg.,,4.0,2200,52.053783,4.365632,2026-09-03 15:27,10005407825
+2026-09-03 15:29,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,7.0,3000,52.93355,5.039739,2026-09-03 15:19,10005407807
+2026-09-03 15:29,A12,Stilstaand verkeer,Arnhem - Utrecht,Tussen Driebergen (20) en Houten-Oost (18a).,Voorwerpen op de weg,19.0,3700,52.062275,5.190005,2026-09-03 15:08,10005407793
+2026-09-03 15:29,A15,Langzaam rijdend verkeer,Gorinchem - Ridderkerk,Tussen Sliedrecht-West (24) en Papendrecht (23).,,4.0,2100,51.837723,4.718984,2026-09-03 15:26,10005407823
+2026-09-03 15:29,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Dordrecht (20) en Hendrik-Ido-Ambacht (23).,,9.0,5000,51.823887,4.626419,2026-09-03 15:10,10005407797
+2026-09-03 15:29,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen Hendrik-Ido-Ambacht (23) en de Drechttunnel.,,8.0,4100,51.809284,4.647973,2026-09-03 15:21,10005407812
+2026-09-03 15:29,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Terbregseplein en de Rottemerentunnel.,,6.0,2000,51.961727,4.519486,2026-09-03 15:23,10005407819
+2026-09-03 15:29,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen Rotterdam-Schiebroek (14) en de Giessenbrug.,,7.0,2800,51.92793,4.430193,2026-09-03 14:45,10005407768
+2026-09-03 15:29,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,7.0,3070,51.997017,4.646387,2026-09-03 15:05,10005407787
+2026-09-03 15:29,A20,Langzaam rijdend verkeer,Hoek van Holland - Gouda,Tussen Prins Alexander (16) en Moordrecht (18).,,7.0,4300,51.986385,4.629698,2026-09-03 15:15,10005407803
+2026-09-03 15:29,A27,Stilstaand verkeer,Almere - Gorinchem,Tussen Utrecht-Noord (31) en knooppunt Lunetten.,Ongeval(len),38.0,5400,52.078255,5.158884,2026-09-03 14:52,10005407774
+2026-09-03 15:29,A28,Stilstaand verkeer,Zwolle - Hoogeveen,Tussen Ommen (21) en Nieuwleusen (22).,Defect voertuig,11.0,3600,52.574104,6.187421,2026-09-03 14:35,10005407762
+2026-09-03 15:29,A28,Stilstaand verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,Ongeval op aansluitende weg,13.0,1900,52.078636,5.1592064,2026-09-03 14:49,10005407775
+2026-09-03 15:29,A28,Stilstaand verkeer,Amersfoort - Utrecht,Tussen Den Dolder (3) en Utrecht-Centrum.,Ongeval op aansluitende weg,20.0,4700,52.089073,5.149194,2026-09-03 14:57,10005407780
+2026-09-03 15:29,A28,Stilstaand verkeer op parallelrijbaan,Amersfoort - Utrecht,Op de parallelbaan. Tussen Den Dolder (3) en knooppunt Rijnsweerd.,,15.0,2200,52.09164,5.161372,2026-09-03 15:16,10005407804
+2026-09-03 15:29,A58,Langzaam rijdend verkeer,Eindhoven - Tilburg,Tussen Oirschot (8) en Moergestel (9).,,8.0,4000,51.513485,5.256794,2026-09-03 15:20,10005407811
+2026-09-03 15:29,A58,Langzaam rijdend verkeer,Breda - Tilburg,Tussen knooppunt Galder en Ulvenhout (14).,,6.0,2700,51.53683,4.797765,2026-09-03 15:22,10005407816
+2026-09-03 15:29,A59,Langzaam rijdend verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,,5.0,3000,51.68749,4.88423,2026-09-03 15:22,10005407817
