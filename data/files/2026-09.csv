@@ -95,3 +95,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-03 19:07,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Zestienhoven en Bergschenhoek (28).,Ongeval(len),8.0,2000,51.971657,4.475449,2026-09-03 17:59,10005408700
 2026-09-03 19:07,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Dordrecht-Centrum (21) en Dordrecht-Willemsdorp (19).,,51.0,3800,51.749485,4.64042,2026-09-03 18:47,10005408765
 2026-09-03 21:47,A2,Langzaam rijdend verkeer,Eindhoven - Maastricht,Tussen Roosteren (46) en Urmond (48).,Wegwerkzaamheden,6.0,3000,51.03351,5.823541,2026-09-03 21:44,10005408805
+2026-09-04 08:13,A15,Langzaam rijdend verkeer,Gorinchem - Ridderkerk,Tussen Alblasserdam (22) en knooppunt Ridderkerk-Zuid.,,5.0,2900,51.856567,4.615634,2026-09-04 08:11,10005408892
+2026-09-04 08:13,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Berkel en Rodenrijs (29) en knooppunt Terbregseplein.,Voorwerpen op de weg,12.0,3700,51.954662,4.527726,2026-09-04 08:03,10005408885
+2026-09-04 08:13,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Defecte vrachtwagen,9.0,3500,52.04953,5.936648,2026-09-04 07:36,10005408863
+2026-09-04 08:13,A50,Langzaam rijdend verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,10.0,4100,52.49406,6.013067,2026-09-04 08:08,10005408890
+2026-09-04 08:13,A58,Stilstaand verkeer,Breda - Tilburg,Tussen Bavel (13) en Tilburg-Centrum West (11).,Ongeval(len),43.0,6900,51.546036,4.97674,2026-09-04 07:53,10005408874
