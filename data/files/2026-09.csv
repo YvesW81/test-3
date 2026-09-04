@@ -213,3 +213,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-04 17:01,A325,Langzaam rijdend verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Velperbroek.,,15.0,6500,51.98133,5.978122,2026-09-04 12:35,10005409168
 2026-09-04 17:01,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,10.0,3000,51.544376,3.6051,2026-09-04 16:12,10005410340
 2026-09-04 17:01,N57,Stilstaand verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,10.0,3300,51.857094,4.120876,2026-09-04 16:41,10005410561
+2026-09-04 20:19,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,6.0,2200,52.31377,7.043839,2026-09-04 17:18,10005410761
+2026-09-04 20:19,N3,Stilstaand verkeer,Dordrecht - Papendrecht,Tussen Dordrecht-Stadspolders (3) en Dordrecht-Staart (2).,Evenement,13.0,1700,51.81515,4.707987,2026-09-04 18:47,10005410935
