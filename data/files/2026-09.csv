@@ -215,3 +215,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-04 17:01,N57,Stilstaand verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,10.0,3300,51.857094,4.120876,2026-09-04 16:41,10005410561
 2026-09-04 20:19,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,6.0,2200,52.31377,7.043839,2026-09-04 17:18,10005410761
 2026-09-04 20:19,N3,Stilstaand verkeer,Dordrecht - Papendrecht,Tussen Dordrecht-Stadspolders (3) en Dordrecht-Staart (2).,Evenement,13.0,1700,51.81515,4.707987,2026-09-04 18:47,10005410935
+2026-09-05 10:38,A1,Langzaam rijdend verkeer,Apeldoorn - Amersfoort,Tussen Hoenderloo (19) en Kootwijk (18).,,4.0,2500,52.18666,5.873262,2026-09-05 10:35,10005411110
+2026-09-05 10:38,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen Nieuwegein (9) en knooppunt Everdingen.,Wegwerkzaamheden,6.0,3800,51.98447,5.089164,2026-09-05 10:22,10005411102
+2026-09-05 10:38,A12,Stilstaand verkeer,Arnhem - Duitse grens,Tussen Zevenaar (29) en knooppunt Oud-Dijk.,,6.0,2100,51.918694,6.131077,2026-09-05 10:18,10005411096
+2026-09-05 10:38,A15,Langzaam rijdend verkeer op parallelrijbaan,Europoort - Ridderkerk,Op de parallelbaan. Tussen Hoogvliet (17) en Rotterdam-Heijplaat (18).,Wegwerkzaamheden,11.0,4700,51.870632,4.426617,2026-09-05 10:04,10005411085
+2026-09-05 10:38,A20,Stilstaand verkeer,Hoek van Holland - Gouda,Tussen knooppunt Kethelplein en de Giessenbrug.,,8.0,2900,51.92785,4.430341,2026-09-05 09:50,10005411078
+2026-09-05 10:38,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen Nieuwegein (28) en knooppunt Everdingen.,Wegwerkzaamheden,9.0,2400,51.990334,5.110691,2026-09-05 10:21,10005411099
+2026-09-05 10:38,A27,Stilstaand verkeer,Breda - Gorinchem,Tussen Werkendam (23) en de Merwedebrug.,Wegwerkzaamheden,10.0,2900,51.82847,4.942941,2026-09-05 10:22,10005411101
+2026-09-05 10:38,A28,Stilstaand verkeer,Hoogeveen - Zwolle,Tussen Zuidwolde (25) en De Wijk (24).,Ongeval(len),52.0,5700,52.682632,6.28355,2026-09-05 09:55,10005411080
