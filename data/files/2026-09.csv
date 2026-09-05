@@ -254,3 +254,4 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-05 17:06,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen Leidschendam (8) en knooppunt Hofvliet.,,5.0,2400,52.11878,4.471389,2026-09-05 17:00,10005411706
 2026-09-05 17:06,A20,Langzaam rijdend verkeer,Hoek van Holland - Gouda,Tussen Prins Alexander (16) en Moordrecht (18).,,5.0,2200,51.985443,4.628198,2026-09-05 16:56,10005411705
 2026-09-05 17:06,A27,Stilstaand verkeer,Breda - Gorinchem,Tussen Werkendam (23) en de Merwedebrug.,Wegwerkzaamheden,11.0,2800,51.825626,4.941919,2026-09-05 16:21,10005411681
+2026-09-05 23:10,A15,Stilstaand verkeer,Gorinchem - Nijmegen,Tussen Meteren (30a) en Wadenoijen (31).,Ongeval(len),15.0,1600,51.864624,5.325001,2026-09-05 22:59,10005411791
