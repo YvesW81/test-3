@@ -249,3 +249,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-05 14:03,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen Nieuwegein (28) en Hagestein (27).,Wegwerkzaamheden,11.0,3300,51.99082,5.11083,2026-09-05 11:55,10005411236
 2026-09-05 14:03,A28,Stilstaand verkeer,Hoogeveen - Zwolle,Tussen Zuidwolde (25) en knooppunt Lankhorst.,,12.0,2700,52.6853,6.257952,2026-09-05 13:44,10005411446
 2026-09-05 14:03,A58,Stilstaand verkeer,Eindhoven - Tilburg,Tussen Oirschot (8) en Moergestel (9).,,12.0,2400,51.50686,5.279095,2026-09-05 13:48,10005411458
+2026-09-05 17:06,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen Beesd (14) en Everdingen (12).,Wegwerkzaamheden,7.0,2700,51.940117,5.150248,2026-09-05 16:37,10005411689
+2026-09-05 17:06,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen knooppunt Burgerveen en Hoofddorp-Zuid (3a).,Ongeval(len),27.0,3600,52.26912,4.699617,2026-09-05 16:52,10005411702
+2026-09-05 17:06,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen Leidschendam (8) en knooppunt Hofvliet.,,5.0,2400,52.11878,4.471389,2026-09-05 17:00,10005411706
+2026-09-05 17:06,A20,Langzaam rijdend verkeer,Hoek van Holland - Gouda,Tussen Prins Alexander (16) en Moordrecht (18).,,5.0,2200,51.985443,4.628198,2026-09-05 16:56,10005411705
+2026-09-05 17:06,A27,Stilstaand verkeer,Breda - Gorinchem,Tussen Werkendam (23) en de Merwedebrug.,Wegwerkzaamheden,11.0,2800,51.825626,4.941919,2026-09-05 16:21,10005411681
