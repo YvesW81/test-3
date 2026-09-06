@@ -262,3 +262,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-06 15:01,A20,Stilstaand verkeer,Hoek van Holland - Gouda,Tussen Vlaardingen (9) en de Giessenbrug.,Extra verkeersdrukte door verkeer dat een omleiding volgt,17.0,6000,51.92785,4.430341,2026-09-06 14:31,10005411959
 2026-09-06 15:01,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,5.0,2000,51.998276,4.648383,2026-09-06 14:41,10005411967
 2026-09-06 15:01,A27,Stilstaand verkeer,Breda - Gorinchem,Tussen Werkendam (23) en de Merwedebrug.,Wegwerkzaamheden,8.0,2100,51.82482,4.941628,2026-09-06 14:54,10005411977
+2026-09-06 18:11,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Op de verbindingsweg van de A2 vanuit Utrecht naar de A15 richting Nijmegen.,,4.0,1100,51.858135,5.2438483,2026-09-06 18:00,10005412093
+2026-09-06 18:11,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen Hoogmade (6) en Zoeterwoude-Dorp (7).,,28.0,2000,52.130196,4.491706,2026-09-06 18:02,10005412095
+2026-09-06 18:11,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1800,50.818733,6.024534,2026-09-06 17:11,10005412078
