@@ -267,3 +267,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-06 18:11,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1800,50.818733,6.024534,2026-09-06 17:11,10005412078
 2026-09-06 20:21,A27,Stilstaand verkeer,Breda - Gorinchem,Tussen Werkendam (23) en de Merwedebrug.,Wegwerkzaamheden,8.0,2000,51.82225,4.940711,2026-09-06 19:47,10005412124
 2026-09-06 22:36,A1,Stilstaand verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,Wegwerkzaamheden,11.0,2100,52.16277,5.521376,2026-09-06 22:25,10005412144
+2026-09-07 06:28,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen knooppunt Empel en Kerkdriel (19).,,11.0,2900,51.75266,5.289368,2026-09-07 06:21,10005412167
+2026-09-07 06:28,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen Leidschendam (8) en knooppunt Hofvliet.,,10.0,3700,52.119106,4.471871,2026-09-07 06:20,10005412164
+2026-09-07 06:28,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen knooppunt Prins Clausplein en Leidschendam (8).,,5.0,2200,52.075584,4.40095,2026-09-07 06:25,10005412172
+2026-09-07 06:28,A7,Stilstaand verkeer,Den Oever - Zaanstad,Tussen Wognum (10) en Avenhorn (7).,Ongeval(len),40.0,4100,52.641037,5.023308,2026-09-07 06:07,10005412157
+2026-09-07 06:28,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen knooppunt Vaanplein en Rotterdam-Charlois (19).,,8.0,2000,51.866055,4.448903,2026-09-07 05:59,10005412155
+2026-09-07 06:28,A15,Langzaam rijdend verkeer op parallelrijbaan,Ridderkerk - Europoort,Op de parallelbaan. Tussen knooppunt Vaanplein en Rotterdam-Charlois (19).,,5.0,2200,51.868042,4.44194,2026-09-07 06:21,10005412166
+2026-09-07 06:28,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen Rozenburg (13) en Havens 5500-5700 (11).,,6.0,2000,51.90908,4.20014,2026-09-07 06:25,10005412171
+2026-09-07 06:28,A27,Stilstaand verkeer,Breda - Utrecht,Tussen knooppunt Gorinchem en Lexmond (26).,Ongeval(len),26.0,4400,51.929623,4.994929,2026-09-07 06:19,10005412163
+2026-09-07 06:28,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen Loenen (23) en knooppunt Waterberg.,,6.0,3100,52.119846,5.9531,2026-09-07 06:25,10005412173
