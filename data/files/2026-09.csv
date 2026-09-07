@@ -276,3 +276,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-07 06:28,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen Rozenburg (13) en Havens 5500-5700 (11).,,6.0,2000,51.90908,4.20014,2026-09-07 06:25,10005412171
 2026-09-07 06:28,A27,Stilstaand verkeer,Breda - Utrecht,Tussen knooppunt Gorinchem en Lexmond (26).,Ongeval(len),26.0,4400,51.929623,4.994929,2026-09-07 06:19,10005412163
 2026-09-07 06:28,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen Loenen (23) en knooppunt Waterberg.,,6.0,3100,52.119846,5.9531,2026-09-07 06:25,10005412173
+2026-09-07 11:36,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,Verkeerssituatie gewijzigd als gevolg van wegwerkzaamheden,6.0,2900,52.93327,5.039222,2026-09-07 11:31,10005412840
+2026-09-07 11:36,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,19.0,2100,51.898357,6.165913,2026-09-07 10:13,10005412801
+2026-09-07 11:36,A67,Stilstaand verkeer,Venlo - Eindhoven,Tussen Asten (36) en de brug over de Zuid-Willemsvaart.,Defecte vrachtwagen,20.0,4600,51.422,5.702506,2026-09-07 10:44,10005412817
+2026-09-07 11:36,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,21.0,3400,50.818733,6.024534,2026-09-07 11:07,10005412827
