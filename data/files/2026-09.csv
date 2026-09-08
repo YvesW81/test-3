@@ -401,3 +401,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-08 15:35,A58,Langzaam rijdend verkeer,Tilburg - Breda,Tussen Tilburg-Reeshof (12) en Bavel (13).,,5.0,2100,51.555122,4.909047,2026-09-08 15:30,10005415231
 2026-09-08 15:35,A58,Stilstaand verkeer,Eindhoven - Tilburg,Tussen Best (7) en Oirschot (8).,,11.0,2500,51.493362,5.312892,2026-09-08 15:30,10005415230
 2026-09-08 15:35,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Made (32) en knooppunt Hooipolder.,,8.0,2800,51.68697,4.883298,2026-09-08 15:24,10005415215
+2026-09-08 19:27,A4,Langzaam rijdend verkeer,Amsterdam - Den Haag,Tussen Hoogmade (6) en Zoeterwoude-Dorp (7).,,4.0,2000,52.129944,4.491123,2026-09-08 19:20,10005416419
+2026-09-08 19:27,A4,Langzaam rijdend verkeer,Amsterdam - Den Haag,Tussen Roelofarendsveen (5) en Limesaquaduct.,,4.0,3200,52.15396,4.53981,2026-09-08 19:21,10005416421
+2026-09-08 19:27,A12,Stilstaand verkeer,Utrecht - Arnhem,Tussen knooppunt Grijsoord en knooppunt Waterberg.,Defecte vrachtwagen,20.0,4400,52.021786,5.887456,2026-09-08 18:10,10005416277
+2026-09-08 19:27,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Gorinchem (27) en Papendrecht (23).,Opruimwerkzaamheden,71.0,10000,51.837723,4.718984,2026-09-08 15:10,10005415181
+2026-09-08 19:27,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Moordrecht (18).,,4.0,2200,52.00118,4.651887,2026-09-08 19:23,10005416424
+2026-09-08 19:27,A325,Stilstaand verkeer,Arnhem - Nijmegen,Ter hoogte van knooppunt Ressen.,,20.0,1400,51.888447,5.86039,2026-09-08 16:46,10005415669
+2026-09-08 19:27,A325,Stilstaand verkeer op parallelrijbaan,Kleve - Arnhem,Op de parallelbaan. Tussen Beuningen en knooppunt Ressen.,,17.0,1700,51.896942,5.867308,2026-09-08 18:58,10005416396
