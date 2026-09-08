@@ -371,3 +371,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-08 06:48,A50,Langzaam rijdend verkeer,Apeldoorn - Emmeloord,Tussen Hattemerbroek en Kampen-Zuid (31).,,7.0,3800,52.52996,5.915207,2026-09-08 06:36,10005414087
 2026-09-08 06:48,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Op de verbindingsweg van de A59 vanuit Waalwijk naar de A2 richting Utrecht.,Defecte vrachtwagen,10.0,1200,51.72585,5.32191,2026-09-08 06:29,10005414074
 2026-09-08 06:48,N57,Stilstaand verkeer,Voorne-Putten - Rotterdam,Tussen Hellevoetsluis/Oudenhoorn en A15: Brielle.,,7.0,2300,51.90292,4.212706,2026-09-08 06:45,10005414106
+2026-09-08 11:09,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,14.0,2400,51.898357,6.165913,2026-09-08 10:23,10005415009
+2026-09-08 11:09,A28,Stilstaand verkeer,Zwolle - Amersfoort,Tussen Strand Nulde (10) en Amersfoort-Vathorst (8a).,Veiligheidsmaatregelen,8.0,2400,52.24136,5.472516,2026-09-08 10:51,10005415029
+2026-09-08 11:09,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,4.0,2400,51.70212,3.790268,2026-09-08 11:05,10005415034
