@@ -426,3 +426,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-09 07:10,A58,Langzaam rijdend verkeer,Tilburg - Eindhoven,Tussen Moergestel (9) en Best (7).,,3.0,2100,51.492916,5.319826,2026-09-09 07:07,10005416652
 2026-09-09 07:10,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Op de verbindingsweg van de A59 vanuit 's-Hertogenbosch naar de A16 richting Rotterdam.,,3.0,900,51.651215,4.6883864,2026-09-09 06:55,10005416623
 2026-09-09 07:10,A59,Langzaam rijdend verkeer,Oss - 's-Hertogenbosch,Tussen Oss (52) en Nuland (51).,,6.0,2700,51.723007,5.451445,2026-09-09 07:06,10005416650
+2026-09-09 11:49,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen knooppunt De Hoek en de Schipholtunnel.,Te hoog voertuig,23.0,3000,52.3105,4.74929,2026-09-09 11:25,10005417313
+2026-09-09 11:49,A4,Stilstaand verkeer op parallelrijbaan,Amsterdam - Den Haag,Op de parallelbaan. Tussen knooppunt Badhoevedorp en de Schipholtunnel.,Te hoog voertuig,12.0,1900,52.319534,4.755746,2026-09-09 11:38,10005417318
+2026-09-09 11:49,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Door grenscontrole,11.0,2000,51.898357,6.165913,2026-09-09 10:19,10005417280
+2026-09-09 11:49,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2100,51.70256,3.794326,2026-09-09 11:46,10005417321
