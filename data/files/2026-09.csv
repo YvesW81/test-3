@@ -497,3 +497,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-09 15:58,N44,Stilstaand verkeer,Amsterdam - Den Haag,Tussen knooppunt Ommedijk en Voorschoten.,,11.0,2000,52.141827,4.414984,2026-09-09 15:53,10005417793
 2026-09-09 15:58,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,5.0,2500,51.857315,4.122977,2026-09-09 15:51,10005417786
 2026-09-09 15:58,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,4.0,2100,51.702415,3.792988,2026-09-09 15:53,10005417796
+2026-09-09 19:42,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,5.0,2200,52.31377,7.043839,2026-09-09 18:33,10005418723
+2026-09-09 19:42,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Op de verbindingsweg van de A2 vanuit 's-Hertogenbosch naar de A12 richting Den Haag.,Ongeval op aansluitende weg,24.0,2200,52.06929,5.054532,2026-09-09 17:50,10005418616
+2026-09-09 19:42,A12,Stilstaand verkeer,Utrecht - Den Haag,Tussen Houten (18) en De Meern (15).,Ongeval(len),51.0,5700,52.072384,5.03414,2026-09-09 18:47,10005418742
