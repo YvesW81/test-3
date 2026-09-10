@@ -510,3 +510,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-10 07:06,A50,Stilstaand verkeer,Eindhoven - Arnhem,Tussen Oss-Oost (16) en Ravenstein (17).,,13.0,2000,51.74704,5.607786,2026-09-10 06:47,10005418900
 2026-09-10 07:06,A58,Stilstaand verkeer,Tilburg - Eindhoven,Tussen Moergestel (9) en Oirschot (8).,,8.0,2600,51.526222,5.212455,2026-09-10 07:03,10005418922
 2026-09-10 07:06,A59,Langzaam rijdend verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Op de verbindingsweg van de A59 vanuit Waalwijk naar de A2 richting Utrecht.,,3.0,1200,51.72585,5.32191,2026-09-10 06:51,10005418910
+2026-09-10 11:38,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,4.0,2100,52.31377,7.043839,2026-09-10 06:40,10005418888
+2026-09-10 11:38,A1,Langzaam rijdend verkeer,Apeldoorn - Amersfoort,Tussen Hoenderloo (19) en Kootwijk (18).,,3.0,2300,52.185993,5.881067,2026-09-10 11:33,10005419741
+2026-09-10 11:38,A4,Stilstaand verkeer,Den Haag - Rotterdam,Tussen Den Haag-Zuid (12) en Slinksloot.,,15.0,4100,51.964745,4.3441,2026-09-10 10:37,10005419705
+2026-09-10 11:38,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,,17.0,2400,51.898357,6.165913,2026-09-10 10:40,10005419707
+2026-09-10 11:38,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht-Centrum (21).,,16.0,2400,51.785458,4.650365,2026-09-10 11:29,10005419739
+2026-09-10 11:38,A59,Langzaam rijdend verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,Defecte vrachtwagen,5.0,2300,51.687298,4.883118,2026-09-10 11:27,10005419738
