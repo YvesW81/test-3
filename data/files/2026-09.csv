@@ -500,3 +500,13 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-09 19:42,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,5.0,2200,52.31377,7.043839,2026-09-09 18:33,10005418723
 2026-09-09 19:42,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Op de verbindingsweg van de A2 vanuit 's-Hertogenbosch naar de A12 richting Den Haag.,Ongeval op aansluitende weg,24.0,2200,52.06929,5.054532,2026-09-09 17:50,10005418616
 2026-09-09 19:42,A12,Stilstaand verkeer,Utrecht - Den Haag,Tussen Houten (18) en De Meern (15).,Ongeval(len),51.0,5700,52.072384,5.03414,2026-09-09 18:47,10005418742
+2026-09-10 07:06,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen Kerkdriel (19) en Geldermalsen (15).,Bergingswerkzaamheden,66.0,12600,51.868908,5.218534,2026-09-10 06:28,10005418869
+2026-09-10 07:06,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen knooppunt Empel en Kerkdriel (19).,,8.0,2600,51.747196,5.295367,2026-09-10 06:56,10005418913
+2026-09-10 07:06,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen knooppunt Hofvliet en Zoeterwoude-Rijndijk (6A).,,7.0,2200,52.13149,4.495182,2026-09-10 06:56,10005418914
+2026-09-10 07:06,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen Roelofarendsveen (5) en knooppunt Burgerveen.,,5.0,2900,52.23718,4.653891,2026-09-10 07:01,10005418919
+2026-09-10 07:06,A15,Langzaam rijdend verkeer,Gorinchem - Ridderkerk,Tussen Papendrecht (23) en Alblasserdam (22).,,4.0,2100,51.847473,4.685342,2026-09-10 07:03,10005418921
+2026-09-10 07:06,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht-Centrum (21) en knooppunt Ridderkerk-Zuid.,,12.0,4500,51.84146,4.612777,2026-09-10 06:48,10005418904
+2026-09-10 07:06,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,,11.0,2200,51.710842,4.640826,2026-09-10 06:55,10005418911
+2026-09-10 07:06,A50,Stilstaand verkeer,Eindhoven - Arnhem,Tussen Oss-Oost (16) en Ravenstein (17).,,13.0,2000,51.74704,5.607786,2026-09-10 06:47,10005418900
+2026-09-10 07:06,A58,Stilstaand verkeer,Tilburg - Eindhoven,Tussen Moergestel (9) en Oirschot (8).,,8.0,2600,51.526222,5.212455,2026-09-10 07:03,10005418922
+2026-09-10 07:06,A59,Langzaam rijdend verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Op de verbindingsweg van de A59 vanuit Waalwijk naar de A2 richting Utrecht.,,3.0,1200,51.72585,5.32191,2026-09-10 06:51,10005418910
