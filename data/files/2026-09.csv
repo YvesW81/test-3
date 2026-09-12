@@ -622,3 +622,16 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-11 18:35,A50,Langzaam rijdend verkeer,Eindhoven - Arnhem,Tussen knooppunt Paalgraven en de Maasbrug.,,11.0,5900,51.791348,5.65976,2026-09-11 18:18,10005423375
 2026-09-11 18:35,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,6.0,4000,51.861423,4.156718,2026-09-11 17:33,10005423229
 2026-09-11 21:15,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Barneveld (15) en Hoevelaken (14).,Door opruimwerkzaamheden,23.0,3100,52.16306,5.510059,2026-09-11 19:56,10005423419
+2026-09-12 13:06,A2,Langzaam rijdend verkeer,Utrecht - Amsterdam,Tussen Abcoude (3) en knooppunt Holendrecht.,Extra verkeersdrukte door wegwerkzaamheden elders,7.0,3100,52.294144,4.941401,2026-09-12 11:04,10005423641
+2026-09-12 13:06,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Everdingen en Beesd (14).,Verkeerssituatie gewijzigd als gevolg van wegwerkzaamheden,7.0,3400,51.923515,5.169833,2026-09-12 12:35,10005423736
+2026-09-12 13:06,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen knooppunt Badhoevedorp en knooppunt De Nieuwe Meer.,Extra verkeersdrukte door wegwerkzaamheden elders,7.0,4300,52.338043,4.836232,2026-09-12 11:46,10005423680
+2026-09-12 13:06,A5,Stilstaand verkeer,Hoofddorp - Amsterdam,Op de verbindingsweg van de A5 vanuit Hoofddorp naar de A9 richting Alkmaar.,,5.0,1500,52.363388,4.728195,2026-09-12 12:24,10005423728
+2026-09-12 13:06,A9,Langzaam rijdend verkeer,Amstelveen - Alkmaar,Tussen knooppunt Raasdorp en Haarlem-Zuid.,Wegwerkzaamheden,5.0,2100,52.376442,4.708819,2026-09-12 12:45,10005423747
+2026-09-12 13:06,A10,Langzaam rijdend verkeer,Knooppunt De Nieuwe Meer - Knooppunt Amstel,Tussen Amsterdam-Oud Zuid (8) en Amsterdam-Rivierenbuurt (9).,,4.0,2600,52.333508,4.896287,2026-09-12 13:02,10005423766
+2026-09-12 13:06,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Beek (30) en Duitsland.,Door grenscontrole,11.0,1400,51.898357,6.165913,2026-09-12 10:25,10005423606
+2026-09-12 13:06,A15,Stilstaand verkeer,Ridderkerk - Europoort,Op de verbindingsweg van de A15 vanuit Ridderkerk naar de A29 richting Zierikzee.,,12.0,800,51.86313,4.514619,2026-09-12 09:53,10005423584
+2026-09-12 13:06,A20,Langzaam rijdend verkeer,Hoek van Holland - Gouda,Tussen knooppunt Kethelplein en de Giessenbrug.,,8.0,3300,51.92785,4.430341,2026-09-12 12:37,10005423738
+2026-09-12 13:06,A20,Stilstaand verkeer,Hoek van Holland - Gouda,Tussen Rotterdam-Crooswijk (15) en knooppunt Terbregseplein.,,6.0,2400,51.94779,4.516449,2026-09-12 12:58,10005423764
+2026-09-12 13:06,A58,Stilstaand verkeer,Bergen op Zoom - Vlissingen,Tussen knooppunt Markiezaat en Rilland (31).,,22.0,6000,51.424187,4.196379,2026-09-12 11:48,10005423683
+2026-09-12 13:06,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,13.0,1900,50.81876,6.024742,2026-09-12 12:42,10005423743
+2026-09-12 13:06,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,10.0,5000,51.861423,4.156718,2026-09-12 12:51,10005423754
