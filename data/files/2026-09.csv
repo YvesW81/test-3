@@ -669,3 +669,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-13 13:42,A58,Langzaam rijdend verkeer,Tilburg - Breda,Tussen Tilburg-Reeshof (12) en Bavel (13).,,4.0,2600,51.557976,4.865211,2026-09-13 13:39,10005424343
 2026-09-13 13:42,A73,Stilstaand verkeer,Maasbracht - Nijmegen,Tussen Horst-Noord (10) en Venray-Noord (8).,Spoedreparatie,16.0,3400,51.527473,6.00007,2026-09-13 13:11,10005424307
 2026-09-13 13:42,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,13.0,2000,50.81876,6.024742,2026-09-13 13:32,10005424334
+2026-09-13 17:05,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Barneveld (15) en Hoevelaken (14).,,4.0,2800,52.16293,5.522933,2026-09-13 16:54,10005424506
+2026-09-13 17:05,A2,Stilstaand verkeer,Utrecht - Amsterdam,Tussen Abcoude (3) en knooppunt Holendrecht.,Extra verkeersdrukte door wegwerkzaamheden elders,6.0,2400,52.29337,4.94208,2026-09-13 11:37,10005424194
+2026-09-13 17:05,A10,Langzaam rijdend verkeer,Knooppunt Watergraafsmeer - Knooppunt De Nieuwe Meer,Tussen Amsterdam-Overamstel (11) en Amsterdam-Oud Zuid (8).,,7.0,4100,52.339397,4.872923,2026-09-13 16:57,10005424509
+2026-09-13 17:05,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,11.0,1300,50.81876,6.024742,2026-09-13 16:59,10005424512
