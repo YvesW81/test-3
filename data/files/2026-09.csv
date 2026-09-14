@@ -710,3 +710,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-14 12:45,A28,Stilstaand verkeer,Zwolle - Amersfoort,Tussen Elspeet (14) en Harderwijk (13).,Defecte vrachtwagen,30.0,5000,52.348164,5.721904,2026-09-14 12:21,10005425506
 2026-09-14 12:45,A50,Stilstaand verkeer,Arnhem - Eindhoven,Tussen knooppunt Ewijk en knooppunt Paalgraven.,Eerder pechgeval,28.0,7800,51.78142,5.639247,2026-09-14 12:06,10005425494
 2026-09-14 12:45,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,9.0,2100,50.81876,6.024742,2026-09-14 12:24,10005425509
+2026-09-14 18:37,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,8.0,4100,52.31377,7.043839,2026-09-14 12:29,10005425518
+2026-09-14 18:37,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Everdingen en Everdingen (12).,,4.0,2500,51.9384,5.152614,2026-09-14 18:31,10005426486
