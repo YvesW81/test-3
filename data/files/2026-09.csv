@@ -807,3 +807,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-15 08:41,N11,Langzaam rijdend verkeer,Bodegraven - Leiden,Tussen Hazerswoude (7) en A4: Zoeterwoude-Rijndijk.,,7.0,3400,52.140472,4.50682,2026-09-15 08:38,10005427370
 2026-09-15 08:41,N35,Stilstaand verkeer,Almelo - Zwolle,Tussen Deventer en Hoonhorst.,,14.0,5500,52.477245,6.190413,2026-09-15 07:42,10005426866
 2026-09-15 08:41,N35,Stilstaand verkeer,Zwolle - Almelo,Tussen Rijssen en Wierden-West.,,7.0,2300,52.358894,6.564795,2026-09-15 08:38,10005427371
+2026-09-15 14:12,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Stroe (17) en Hoevelaken (14).,Defecte vrachtwagen,40.0,5200,52.16651,5.555402,2026-09-15 12:43,10005427875
+2026-09-15 14:12,A10,Stilstaand verkeer,Knooppunt Amstel - Knooppunt De Nieuwe Meer,Tussen knooppunt Amstel en Amsterdam-Oud Zuid (8).,Defecte vrachtwagen,9.0,2500,52.339684,4.882255,2026-09-15 13:26,10005427905
+2026-09-15 14:12,A15,Stilstaand verkeer,Rotterdam Maasvlakte - Ridderkerk,Tussen Havens 7201-8100/Missouriweg en Oostvoorne (8).,Defecte vrachtwagen,11.0,3000,51.932438,4.102721,2026-09-15 13:29,10005427908
+2026-09-15 14:12,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen Dordrecht (20) en de Moerdijkbrug.,Defecte vrachtwagen,9.0,2600,51.734833,4.633314,2026-09-15 14:02,10005427929
+2026-09-15 14:12,A27,Langzaam rijdend verkeer,Utrecht - Gorinchem,Tussen knooppunt Rijnsweerd en knooppunt Lunetten.,Ongeval(len),7.0,3100,52.06864,5.148128,2026-09-15 13:59,10005427927
+2026-09-15 14:12,A28,Stilstaand verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,Ongeval op aansluitende weg,10.0,1900,52.078636,5.1592064,2026-09-15 13:18,10005427902
+2026-09-15 14:12,A28,Stilstaand verkeer,Amersfoort - Utrecht,Tussen Utrecht-Science Park (2) en Utrecht-Centrum.,Ongeval op aansluitende weg,6.0,2300,52.089073,5.149193,2026-09-15 13:51,10005427923
