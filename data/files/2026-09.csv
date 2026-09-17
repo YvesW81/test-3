@@ -933,3 +933,14 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-16 17:18,N2,Stilstaand verkeer,Leenderheide - Batadorp,Tussen High Tech Campus (32a) en Veldhoven-Zuid (32).,Ongeval(len),13.0,2100,51.41486,5.429389,2026-09-16 17:04,10005430598
 2026-09-16 17:18,N57,Langzaam rijdend verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,7.0,3000,51.544376,3.6051,2026-09-16 16:00,10005430100
 2026-09-16 17:18,N65,Stilstaand verkeer,'s-Hertogenbosch - Oisterwijk,Tussen knooppunt Vught en A65: Vught.,,7.0,2100,51.65662,5.287062,2026-09-16 17:10,10005430637
+2026-09-17 06:45,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen Rosmalen-West (20) en de Maasbrug.,,8.0,2000,51.73023,5.314794,2026-09-17 06:14,10005431150
+2026-09-17 06:45,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen Hoogmade (6) en Roelofarendsveen (5).,,8.0,2200,52.179043,4.587002,2026-09-17 06:32,10005431168
+2026-09-17 06:45,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen knooppunt Prins Clausplein en knooppunt Hofvliet.,,7.0,4100,52.07835,4.405901,2026-09-17 06:39,10005431182
+2026-09-17 06:45,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen knooppunt Rozenburg en Havens 6200-7000 (9).,Veiligheidsmaatregelen,51.0,11000,51.936947,4.123255,2026-09-17 05:56,10005431145
+2026-09-17 06:45,A15,Stilstaand verkeer,Gorinchem - Nijmegen,Tussen knooppunt Deil en Wadenoijen (31).,,16.0,5100,51.869156,5.336921,2026-09-17 06:29,10005431164
+2026-09-17 06:45,A15,Langzaam rijdend verkeer,Gorinchem - Ridderkerk,Tussen Alblasserdam (22) en knooppunt Ridderkerk-Zuid.,,9.0,5200,51.85662,4.60988,2026-09-17 06:31,10005431167
+2026-09-17 06:45,A15,Stilstaand verkeer op parallelrijbaan,Ridderkerk - Europoort,Op de parallelbaan. Tussen knooppunt Rozenburg en Havens 5500-5700 (11).,,11.0,3100,51.922382,4.175691,2026-09-17 06:34,10005431170
+2026-09-17 06:45,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Hardinxveld-Giessendam (26) en Sliedrecht-West (24).,,9.0,3200,51.825893,4.793015,2026-09-17 06:35,10005431171
+2026-09-17 06:45,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Zwijndrecht (22) en Hendrik-Ido-Ambacht (23).,,3.0,2000,51.835117,4.619002,2026-09-17 06:43,10005431191
+2026-09-17 06:45,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen knooppunt Terbregseplein en de Rottemerentunnel.,,4.0,2100,51.960873,4.521176,2026-09-17 06:43,10005431190
+2026-09-17 06:45,A28,Stilstaand verkeer,Zwolle - Utrecht,Tussen Amersfoort-Vathorst (8a) en Amersfoort (8).,Ongeval(len),13.0,3000,52.15972,5.419055,2026-09-17 06:39,10005431181
