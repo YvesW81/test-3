@@ -1137,3 +1137,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-18 17:08,N44,Stilstaand verkeer,Amsterdam - Den Haag,Tussen knooppunt Ommedijk en Voorschoten.,,15.0,2600,52.141827,4.414984,2026-09-18 16:51,10005435281
 2026-09-18 17:08,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,5.0,2200,51.815773,3.981904,2026-09-18 16:09,10005435003
 2026-09-18 17:08,N57,Langzaam rijdend verkeer,Rotterdam - Stellendam,Tussen Hellevoetsluis/Oudenhoorn en Stellendam-Havens Zuid.,,7.0,3000,51.84676,4.082827,2026-09-18 16:55,10005435303
+2026-09-19 12:30,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,5.0,2200,52.31377,7.043839,2026-09-19 11:49,10005435922
+2026-09-19 12:30,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,Ongeval(len),50.0,5200,52.162807,5.515056,2026-09-19 11:51,10005435924
+2026-09-19 12:30,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Tussen Waardenburg (16) en Geldermalsen (15).,,9.0,4600,51.868134,5.219194,2026-09-19 12:18,10005435957
+2026-09-19 12:30,A10,Stilstaand verkeer,Knooppunt Watergraafsmeer - Knooppunt Coenplein,Tussen Volendam (16) en Amsterdam-Tuindorp Oostzaan (18).,,7.0,2200,52.42349,4.900994,2026-09-19 12:05,10005435943
+2026-09-19 12:30,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Wegwerkzaamheden,19.0,2600,51.898357,6.165913,2026-09-19 11:13,10005435893
+2026-09-19 12:30,A12,Stilstaand verkeer,Arnhem - Duitse grens,Tussen knooppunt Velperbroek en Zevenaar (29).,Demonstratie,38.0,6500,51.944344,6.077568,2026-09-19 12:09,10005435947
+2026-09-19 12:30,A12,Stilstaand verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,Demonstratie,18.0,4800,51.943687,6.079534,2026-09-19 12:13,10005435952
+2026-09-19 12:30,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht-Centrum (21).,,9.0,3400,51.773197,4.649271,2026-09-19 12:12,10005435950
+2026-09-19 12:30,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,4.0,2300,51.702106,3.790141,2026-09-19 12:17,10005435956
