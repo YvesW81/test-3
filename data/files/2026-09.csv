@@ -1146,3 +1146,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-19 12:30,A12,Stilstaand verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,Demonstratie,18.0,4800,51.943687,6.079534,2026-09-19 12:13,10005435952
 2026-09-19 12:30,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht-Centrum (21).,,9.0,3400,51.773197,4.649271,2026-09-19 12:12,10005435950
 2026-09-19 12:30,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,4.0,2300,51.702106,3.790141,2026-09-19 12:17,10005435956
+2026-09-19 15:58,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen knooppunt Hintham en de Maasbrug.,,12.0,3400,51.733654,5.310317,2026-09-19 14:38,10005436142
+2026-09-19 15:58,A10,Stilstaand verkeer,Knooppunt Watergraafsmeer - Knooppunt Coenplein,Tussen Volendam (16) en Amsterdam-Tuindorp Oostzaan (18).,,9.0,2600,52.42349,4.900994,2026-09-19 13:18,10005436034
+2026-09-19 15:58,A12,Stilstaand verkeer,Arnhem - Duitse grens,Tussen knooppunt Velperbroek en Duiven (28).,Demonstratie,29.0,2900,51.96188,6.019073,2026-09-19 12:09,10005435947
+2026-09-19 15:58,A12,Stilstaand verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,Demonstratie,8.0,2500,51.945522,6.074578,2026-09-19 12:13,10005435952
+2026-09-19 15:58,A12,Stilstaand verkeer op parallelrijbaan,Duitse grens - Arnhem,Op de parallelbaan. Tussen Zevenaar (29) en Westervoort (27).,Demonstratie,9.0,2800,51.968674,5.997559,2026-09-19 12:34,10005435978
+2026-09-19 15:58,A12,Stilstaand verkeer,Arnhem - Duitse grens,Tussen Duiven (28) en Zevenaar (29).,Demonstratie,11.0,1200,51.944344,6.077568,2026-09-19 12:59,10005436010
+2026-09-19 15:58,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en Dordrecht-Centrum (21).,,32.0,12500,51.797913,4.649507,2026-09-19 13:43,10005436065
+2026-09-19 15:58,A17,Stilstaand verkeer,Roosendaal - Dordrecht,Ter hoogte van knooppunt Klaverpolder.,,15.0,1400,51.705498,4.645593,2026-09-19 15:51,10005436210
