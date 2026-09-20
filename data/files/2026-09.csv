@@ -1165,3 +1165,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-20 13:47,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht (20).,,6.0,2500,51.766315,4.647701,2026-09-20 13:38,10005436561
 2026-09-20 13:47,A67,Stilstaand verkeer,Venlo - Eindhoven,Tussen Someren (35) en Geldrop (34).,Onwelwording,8.0,3000,51.415802,5.588766,2026-09-20 13:39,10005436562
 2026-09-20 13:47,N9,Stilstaand verkeer,Den Helder - Alkmaar,Tussen Warmenhuizen en Koedijk.,,13.0,5100,52.6609,4.742934,2026-09-20 13:14,10005436541
+2026-09-20 16:54,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,,13.0,4700,52.163086,5.52721,2026-09-20 16:25,10005436715
+2026-09-20 16:54,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Tussen Waardenburg (16) en Geldermalsen (15).,,8.0,3500,51.868134,5.219194,2026-09-20 16:19,10005436711
+2026-09-20 16:54,A10,Stilstaand verkeer,Knooppunt Amstel - Knooppunt De Nieuwe Meer,Tussen Amsterdam-Rivierenbuurt (9) en de Schinkelbrug.,,6.0,2000,52.338413,4.852112,2026-09-20 16:23,10005436713
+2026-09-20 16:54,A10,Langzaam rijdend verkeer,Knooppunt Watergraafsmeer - Knooppunt Coenplein,Tussen Volendam (16) en Amsterdam-Tuindorp Oostzaan (18).,,5.0,2500,52.42349,4.900994,2026-09-20 16:38,10005436729
+2026-09-20 16:54,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen Beek (30) en Duitsland.,Wegwerkzaamheden,14.0,1300,51.898357,6.165913,2026-09-20 16:09,10005436702
+2026-09-20 16:54,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht-Centrum (21).,,4.0,2400,51.772762,4.649172,2026-09-20 16:33,10005436722
+2026-09-20 16:54,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,13.0,1900,50.81876,6.024742,2026-09-20 16:06,10005436697
