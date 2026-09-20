@@ -1156,3 +1156,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-19 15:58,A17,Stilstaand verkeer,Roosendaal - Dordrecht,Ter hoogte van knooppunt Klaverpolder.,,15.0,1400,51.705498,4.645593,2026-09-19 15:51,10005436210
 2026-09-19 19:05,A20,Stilstaand verkeer,Hoek van Holland - Gouda,Tussen Prins Alexander (16) en Moordrecht (18).,Spoedreparatie,15.0,3000,51.98387,4.625698,2026-09-19 17:21,10005436321
 2026-09-19 21:17,A27,Stilstaand verkeer,Gorinchem - Utrecht,Tussen Noordeloos (25) en Lexmond (26).,Spoedreparatie,9.0,2200,51.95134,5.016729,2026-09-19 19:20,10005436378
+2026-09-20 13:47,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,15.0,2600,52.31377,7.043839,2026-09-20 13:07,10005436532
+2026-09-20 13:47,A2,Stilstaand verkeer,'s-Hertogenbosch - Maastricht,Tussen knooppunt Ekkersweijer en knooppunt De Hogt.,Ongeval(len),45.0,4600,51.451584,5.422809,2026-09-20 12:43,10005436522
+2026-09-20 13:47,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Tussen Waardenburg (16) en knooppunt Deil.,Wegwerkzaamheden,6.0,2800,51.866707,5.220317,2026-09-20 13:15,10005436542
+2026-09-20 13:47,A10,Langzaam rijdend verkeer,Knooppunt Watergraafsmeer - Knooppunt Coenplein,Tussen Volendam (16) en Amsterdam-Tuindorp Oostzaan (18).,Wegwerkzaamheden,6.0,2400,52.42349,4.900994,2026-09-20 12:40,10005436519
+2026-09-20 13:47,A10,Stilstaand verkeer,Knooppunt Amstel - Knooppunt De Nieuwe Meer,Tussen Amsterdam-Rivierenbuurt (9) en de Schinkelbrug.,Wegwerkzaamheden,9.0,2900,52.33816,4.848535,2026-09-20 13:32,10005436555
+2026-09-20 13:47,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Wegwerkzaamheden,18.0,2000,51.898357,6.165913,2026-09-20 12:42,10005436520
+2026-09-20 13:47,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht (20).,,6.0,2500,51.766315,4.647701,2026-09-20 13:38,10005436561
+2026-09-20 13:47,A67,Stilstaand verkeer,Venlo - Eindhoven,Tussen Someren (35) en Geldrop (34).,Onwelwording,8.0,3000,51.415802,5.588766,2026-09-20 13:39,10005436562
+2026-09-20 13:47,N9,Stilstaand verkeer,Den Helder - Alkmaar,Tussen Warmenhuizen en Koedijk.,,13.0,5100,52.6609,4.742934,2026-09-20 13:14,10005436541
