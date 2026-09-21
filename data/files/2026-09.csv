@@ -1182,3 +1182,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-21 12:48,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,,8.0,2400,52.31377,7.043839,2026-09-21 12:30,10005437706
 2026-09-21 12:48,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Wegwerkzaamheden,15.0,2500,51.898357,6.165913,2026-09-21 12:05,10005437697
 2026-09-21 12:48,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,,6.0,2900,51.94591,6.073343,2026-09-21 12:43,10005437712
+2026-09-21 18:38,A15,Stilstaand verkeer,Ridderkerk - Gorinchem,Op de verbindingsweg van de A15 vanuit Rotterdam naar de A27 richting Breda.,,7.0,400,51.84229,4.948431,2026-09-21 15:46,10005437914
+2026-09-21 18:38,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Op de verbindingsweg van de A15 vanuit Nijmegen naar de A27 richting Breda.,,4.0,300,51.846325,4.950328,2026-09-21 18:19,10005438609
+2026-09-21 18:38,A27,Stilstaand verkeer,Utrecht - Breda,Tussen Noordeloos (25) en de Merwedebrug.,,14.0,4200,51.82893,4.942995,2026-09-21 16:17,10005438026
+2026-09-21 18:38,A35,Stilstaand verkeer,Enschede - Almelo,Tussen Enschede-West (26) en Hengelo-Zuid (27).,Bergingswerkzaamheden,26.0,4200,52.233154,6.772096,2026-09-21 17:19,10005438388
