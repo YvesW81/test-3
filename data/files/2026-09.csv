@@ -1243,3 +1243,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-22 08:51,N35,Langzaam rijdend verkeer,Almelo - Zwolle,Tussen Heino-Zuid en Hoonhorst.,,6.0,3100,52.468018,6.201318,2026-09-22 08:43,10005439353
 2026-09-22 08:51,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2100,51.702415,3.792988,2026-09-22 08:46,10005439377
 2026-09-22 08:51,N434,Langzaam rijdend verkeer,Wassenaar - Zoeterwoude,Tussen de Corbulotunnel en knooppunt Hofvliet.,,4.0,2600,52.125263,4.472725,2026-09-22 07:55,10005439050
+2026-09-22 14:18,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,6.0,2600,52.31377,7.043839,2026-09-22 13:14,10005439611
+2026-09-22 14:18,A29,Stilstaand verkeer,Rotterdam - Sabina,Tussen Numansdorp (22) en de Haringvlietbrug.,,16.0,2700,51.72925,4.409043,2026-09-22 14:05,10005439639
+2026-09-22 14:18,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen Heerde-Zuid (28) en Vaassen (26).,Bergingswerkzaamheden,26.0,6300,52.296776,6.009005,2026-09-22 13:34,10005439620
+2026-09-22 14:18,A73,Langzaam rijdend verkeer,Nijmegen - Maasbracht,Tussen Wijchen (1a) en Nijmegen-Dukenburg (2).,,6.0,2300,51.807632,5.78469,2026-09-22 14:09,10005439642
