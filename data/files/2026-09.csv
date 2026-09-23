@@ -1283,3 +1283,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-23 08:02,A76,Langzaam rijdend verkeer,Geleen - Aken,Tussen Geleen (2) en Nuth (5).,,4.0,2400,50.942238,5.851984,2026-09-23 07:58,10005440988
 2026-09-23 08:02,N35,Langzaam rijdend verkeer,Almelo - Zwolle,Tussen Heino-Zuid en Hoonhorst.,,5.0,2600,52.464367,6.205601,2026-09-23 07:54,10005440971
 2026-09-23 08:02,N59,Langzaam rijdend verkeer,Serooskerke - Bruinisse,Tussen Serooskerke en Brouwershaven/Renesse.,,5.0,3100,51.654995,3.921299,2026-09-23 07:55,10005440977
+2026-09-23 13:26,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,6.0,2400,52.31377,7.043839,2026-09-23 12:16,10005441364
+2026-09-23 13:26,A6,Stilstaand verkeer,Lelystad - Emmeloord,Tussen Lelystad-Noord (11) en de Ketelbrug.,Gekantelde aanhangwagen,33.0,4300,52.609577,5.640178,2026-09-23 12:55,10005441399
+2026-09-23 13:26,A12,Stilstaand verkeer,Arnhem - Oberhausen,Tussen knooppunt Oud-Dijk en Duitsland.,Wegwerkzaamheden over de grens,11.0,1500,51.898357,6.165913,2026-09-23 12:17,10005441366
+2026-09-23 13:26,A50,Langzaam rijdend verkeer,Eindhoven - Oss,Tussen Veghel (11) en Veghel-Noord (12).,,6.0,2600,51.63483,5.549341,2026-09-23 13:19,10005441412
+2026-09-23 13:26,A58,Langzaam rijdend verkeer,Eindhoven - Tilburg,Tussen Best (7) en Moergestel (9).,,7.0,3800,51.49978,5.297512,2026-09-23 13:13,10005441409
