@@ -1317,3 +1317,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-24 07:29,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Op de verbindingsweg van de A59 vanuit 's-Hertogenbosch naar de A16 richting Rotterdam.,,8.0,900,51.651215,4.6883864,2026-09-24 07:18,10005442439
 2026-09-24 07:29,N11,Langzaam rijdend verkeer,Bodegraven - Leiden,Tussen Hazerswoude (7) en A4: Zoeterwoude-Rijndijk.,,3.0,2200,52.140472,4.50682,2026-09-24 07:25,10005442455
 2026-09-24 07:29,N36,Langzaam rijdend verkeer,Dedemsvaart - Almelo,Tussen Aadorp en Almelo-West.,,4.0,2100,52.359276,6.615458,2026-09-24 07:26,10005442457
+2026-09-24 12:25,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,,9.0,3500,52.31377,7.043839,2026-09-24 12:03,10005443339
+2026-09-24 12:25,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen knooppunt Badhoevedorp en knooppunt Raasdorp.,Ongevalsonderzoek,12.0,1800,52.35231,4.748715,2026-09-24 08:18,10005442773
+2026-09-24 12:25,A325,Langzaam rijdend verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elst en Kronenburg.,,5.0,2600,51.96278,5.897284,2026-09-24 12:20,10005443349
