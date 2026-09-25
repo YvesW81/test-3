@@ -1515,3 +1515,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-25 17:24,N57,Stilstaand verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,14.0,3800,51.85765,4.128141,2026-09-25 17:15,10005447369
 2026-09-25 17:24,N57,Langzaam rijdend verkeer,Stellendam - Ouddorp,Tussen Stellendam-Noord en Ouddorp.,,5.0,2200,51.815773,3.981904,2026-09-25 17:17,10005447390
 2026-09-25 17:24,N65,Stilstaand verkeer,'s-Hertogenbosch - Oisterwijk,Tussen knooppunt Vught en A65: Vught.,,10.0,2500,51.65662,5.287062,2026-09-25 16:16,10005446889
+2026-09-25 21:23,A1,Stilstaand verkeer,Amersfoort - Amsterdam,Tussen knooppunt Muiderberg en knooppunt Diemen.,,15.0,4000,52.331913,5.028039,2026-09-25 20:14,10005447861
+2026-09-25 21:23,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen Culemborg (13) en Geldermalsen (15).,Extra verkeersdrukte door wegwerkzaamheden elders,20.0,4300,51.88013,5.207169,2026-09-25 11:27,10005445589
+2026-09-25 21:23,A27,Stilstaand verkeer,Gorinchem - Utrecht,Tussen Hagestein (27) en de Houtensebrug.,Wegwerkzaamheden,14.0,2300,52.023705,5.129371,2026-09-25 20:08,10005447854
