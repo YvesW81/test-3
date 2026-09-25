@@ -1421,3 +1421,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-24 17:21,N57,Stilstaand verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,6.0,2200,51.544376,3.6051,2026-09-24 16:38,10005443980
 2026-09-24 21:22,A27,Stilstaand verkeer,Gorinchem - Utrecht,Tussen Hagestein (27) en de Houtensebrug.,Wegwerkzaamheden,13.0,2400,52.022617,5.128386,2026-09-24 20:43,10005444804
 2026-09-25 00:36,A27,Stilstaand verkeer,Utrecht - Breda,Tussen Noordeloos (25) en knooppunt Gorinchem.,Wegwerkzaamheden,8.0,2400,51.85475,4.954462,2026-09-24 21:43,10005444825
+2026-09-25 07:27,A12,Stilstaand verkeer,Den Haag - Utrecht,Tussen Woerden (14) en De Meern (15).,Ongeval(len),60.0,6900,52.074146,5.020506,2026-09-25 06:52,10005444884
+2026-09-25 07:27,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen Brielle (12) en Havens 5500-5700 (11).,,5.0,2400,51.921673,4.176338,2026-09-25 07:23,10005444896
+2026-09-25 07:27,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen Nieuwegein (28) en de Hagesteinsebrug.,Uitgelopen werkzaamheden,17.0,2200,52.000698,5.114045,2026-09-25 06:15,10005444871
+2026-09-25 07:27,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2000,51.702633,3.794994,2026-09-25 07:24,10005444897
