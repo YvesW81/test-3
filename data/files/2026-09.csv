@@ -1555,3 +1555,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-26 16:34,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,Wegwerkzaamheden,7.0,2972,51.997643,4.647383,2026-09-26 16:06,10005448724
 2026-09-26 16:34,A28,Stilstaand verkeer,Utrecht - Amersfoort,Tussen Leusden-Zuid (6) en Amersfoort (8).,,9.0,2200,52.158947,5.41897,2026-09-26 16:23,10005448742
 2026-09-26 16:34,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Op de verbindingsweg van de A59 vanuit 's-Hertogenbosch naar de A16 richting Rotterdam.,,4.0,900,51.651215,4.6883864,2026-09-26 16:19,10005448740
+2026-09-26 19:58,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Barneveld (15) en Hoevelaken (14).,Defecte vrachtwagen,24.0,4200,52.16426,5.493709,2026-09-26 19:32,10005448857
+2026-09-26 19:58,A28,Stilstaand verkeer,Utrecht - Amersfoort,Tussen Leusden-Zuid (6) en Amersfoort (8).,Wegwerkzaamheden,10.0,2700,52.158947,5.41897,2026-09-26 19:39,10005448859
