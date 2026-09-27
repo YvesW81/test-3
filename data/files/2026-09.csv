@@ -1558,3 +1558,11 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-26 19:58,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Barneveld (15) en Hoevelaken (14).,Defecte vrachtwagen,24.0,4200,52.16426,5.493709,2026-09-26 19:32,10005448857
 2026-09-26 19:58,A28,Stilstaand verkeer,Utrecht - Amersfoort,Tussen Leusden-Zuid (6) en Amersfoort (8).,Wegwerkzaamheden,10.0,2700,52.158947,5.41897,2026-09-26 19:39,10005448859
 2026-09-26 22:53,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Zonzeel en Zevenbergschen Hoek (18).,Politieactie,8.0,2100,51.659702,4.682482,2026-09-26 22:18,10005448883
+2026-09-27 14:57,A1,Stilstaand verkeer,Amersfoort - Amsterdam,Tussen knooppunt Diemen en knooppunt Watergraafsmeer.,,10.0,3000,52.352318,4.963194,2026-09-27 12:38,10005449009
+2026-09-27 14:57,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,12.0,1800,52.31377,7.043839,2026-09-27 12:52,10005449019
+2026-09-27 14:57,A2,Stilstaand verkeer,Utrecht - Amsterdam,Op de verbindingsweg van de A2 vanuit Utrecht naar de A10 richting Den Haag.,Extra verkeersdrukte door wegwerkzaamheden elders,5.0,1800,52.330402,4.904622,2026-09-27 12:16,10005448985
+2026-09-27 14:57,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen knooppunt Badhoevedorp en knooppunt De Nieuwe Meer.,Extra verkeersdrukte door wegwerkzaamheden elders,14.0,5100,52.337193,4.846571,2026-09-27 11:30,10005448954
+2026-09-27 14:57,A10,Stilstaand verkeer,Knooppunt Watergraafsmeer - Knooppunt De Nieuwe Meer,Tussen Amsterdam-Overamstel (11) en Amsterdam-Oud Zuid (8).,Extra verkeersdrukte door wegwerkzaamheden elders,12.0,4800,52.339138,4.867201,2026-09-27 12:17,10005448981
+2026-09-27 14:57,A10,Langzaam rijdend verkeer,Knooppunt Amstel - Knooppunt Coenplein,Tussen Amsterdam-Watergraafsmeer (13) en de Zeeburgertunnel.,,8.0,3200,52.373573,4.974154,2026-09-27 12:28,10005448994
+2026-09-27 14:57,A28,Langzaam rijdend verkeer,Zwolle - Amersfoort,Tussen Amersfoort-Vathorst (8a) en knooppunt Hoevelaken.,,10.0,5000,52.171616,5.42422,2026-09-27 14:29,10005449105
+2026-09-27 14:57,A28,Stilstaand verkeer,Utrecht - Amersfoort,Tussen Leusden-Zuid (6) en Amersfoort (8).,Wegwerkzaamheden,12.0,2900,52.159355,5.419122,2026-09-27 14:30,10005449106
