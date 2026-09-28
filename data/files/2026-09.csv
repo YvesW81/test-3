@@ -1568,3 +1568,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-27 14:57,A28,Stilstaand verkeer,Utrecht - Amersfoort,Tussen Leusden-Zuid (6) en Amersfoort (8).,Wegwerkzaamheden,12.0,2900,52.159355,5.419122,2026-09-27 14:30,10005449106
 2026-09-27 19:33,A28,Stilstaand verkeer,Utrecht - Amersfoort,Tussen Leusden-Zuid (6) en Amersfoort (8).,,7.0,2300,52.15653,5.418074,2026-09-27 19:14,10005449345
 2026-09-27 22:21,A4,Langzaam rijdend verkeer,Amsterdam - Den Haag,Tussen Zoeterwoude-Rijndijk (6A) en knooppunt Hofvliet.,Bergingswerkzaamheden,3.0,2400,52.122925,4.477405,2026-09-27 22:18,10005449395
+2026-09-28 09:41,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen Waardenburg (16) en Kerkdriel (19).,,8.0,3800,51.790997,5.257855,2026-09-28 09:33,10005450351
+2026-09-28 09:41,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Tussen Waardenburg (16) en knooppunt Deil.,Wegwerkzaamheden,5.0,2300,51.865025,5.221734,2026-09-28 09:38,10005450354
+2026-09-28 09:41,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen Havens 5700-6200 (10) en Havens 6200-7000 (9).,Veiligheidsmaatregelen,4.0,2200,51.93658,4.125259,2026-09-28 05:41,10005449408
+2026-09-28 09:41,A15,Langzaam rijdend verkeer,Gorinchem - Ridderkerk,Tussen Gorinchem (27) en Sliedrecht-Oost (25).,Eerder ongeval,7.0,3900,51.821716,4.81176,2026-09-28 08:22,10005450045
+2026-09-28 09:41,A15,Stilstaand verkeer,Nijmegen - Gorinchem,Tussen knooppunt Deil en Arkel (28).,,27.0,5600,51.83965,5.073178,2026-09-28 08:40,10005450156
+2026-09-28 09:41,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2000,51.702705,3.795663,2026-09-28 09:36,10005450353
