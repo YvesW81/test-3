@@ -1753,3 +1753,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-09-29 16:06,N48,Stilstaand verkeer,Ommen - Hoogeveen,Tussen Zuidwolde en knooppunt Hoogeveen.,,12.0,2500,52.6993,6.451072,2026-09-29 15:43,10005452918
 2026-09-29 16:06,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2100,51.70256,3.794326,2026-09-29 15:47,10005452936
 2026-09-29 16:06,N434,Langzaam rijdend verkeer,Wassenaar - Zoeterwoude,Tussen knooppunt Ommedijk en knooppunt Hofvliet.,,7.0,4000,52.125263,4.472725,2026-09-29 15:45,10005452929
+2026-09-30 10:24,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen Kerkdriel (19) en de Martinus Nijhoffbrug.,Ongeval(len),28.0,6800,51.8222,5.259508,2026-09-30 10:00,10005454906
+2026-09-30 10:24,A4,Langzaam rijdend verkeer,Knooppunt Sabina - Belgische grens,Tussen Tholen (26) en knooppunt Zoomland.,,5.0,2800,51.50053,4.314397,2026-09-30 10:07,10005454913
+2026-09-30 10:24,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Sliedrecht-West (24) en Alblasserdam (22).,Ongeval(len),13.0,3900,51.845596,4.68996,2026-09-30 07:32,10005454374
+2026-09-30 10:24,A15,Stilstaand verkeer,Europoort - Ridderkerk,Tussen Rozenburg (13) en knooppunt Rozenburg.,Eerder pechgeval,8.0,2600,51.886948,4.258327,2026-09-30 09:14,10005454851
+2026-09-30 10:24,A29,Langzaam rijdend verkeer,Sabina - Rotterdam,Tussen knooppunt Hellegatsplein en de Haringvlietbrug.,,3.0,2200,51.711784,4.398311,2026-09-30 10:21,10005454923
+2026-09-30 10:24,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,,17.0,3700,51.687298,4.883118,2026-09-30 10:05,10005454911
+2026-09-30 10:24,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Oosterhout (33) en knooppunt Hooipolder.,,9.0,2100,51.687374,4.88553,2026-09-30 10:06,10005454912
