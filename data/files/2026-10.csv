@@ -1,0 +1,4 @@
+tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,start_tijd,file_id
+2026-10-01 11:13,A15,Stilstaand verkeer,Europoort - Ridderkerk,Tussen Brielle (12) en knooppunt Rozenburg.,Defecte vrachtwagen,8.0,2500,51.899605,4.236759,2026-10-01 10:41,10005457877
+2026-10-01 11:13,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen Hoenderloo (22) en knooppunt Waterberg.,Defecte vrachtwagen,16.0,5900,52.02015,5.923315,2026-10-01 09:07,10005457592
+2026-10-01 11:13,A59,Langzaam rijdend verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,,7.0,3600,51.687405,4.883728,2026-10-01 10:20,10005457866
