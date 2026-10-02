@@ -39,3 +39,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-01 18:28,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Op de verbindingsweg van de A59 vanuit Waalwijk naar de A2 richting Utrecht.,,4.0,1000,51.72585,5.32191,2026-10-01 15:37,10005458214
 2026-10-01 18:28,A59,Langzaam rijdend verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,,4.0,2800,51.687504,4.884326,2026-10-01 18:24,10005459433
 2026-10-01 23:13,A1,Stilstaand verkeer,Amsterdam - Amersfoort,Tussen Muiden (3) en knooppunt Muiderberg.,Wegwerkzaamheden,9.0,3000,52.316463,5.099331,2026-10-01 21:58,10005459543
+2026-10-02 08:36,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,,4.0,2400,52.166454,5.555859,2026-10-02 08:30,10005459647
+2026-10-02 08:36,A4,Stilstaand verkeer,Den Haag - Rotterdam,Tussen Rijswijk (11) en Den Hoorn (13).,Wegwerkzaamheden,8.0,2600,52.00157,4.312186,2026-10-02 06:46,10005459591
+2026-10-02 08:36,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen Havens 5700-6200 (10) en Havens 6200-7000 (9).,Veiligheidsmaatregelen,6.0,2200,51.936825,4.123922,2026-10-02 05:53,10005459581
+2026-10-02 08:36,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Rotterdam-Schiebroek (14) en de Giessenbrug.,,5.0,2200,51.928165,4.430768,2026-10-02 07:30,10005459604
+2026-10-02 08:36,A27,Stilstaand verkeer,Breda - Gorinchem,Tussen Hank (21) en Werkendam (23).,,10.0,2100,51.778824,4.927455,2026-10-02 08:32,10005459649
+2026-10-02 08:36,A59,Langzaam rijdend verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Drunen-West (40) en Nieuwkuijk (43).,,8.0,4200,51.697407,5.173682,2026-10-02 08:27,10005459643
