@@ -132,3 +132,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-03 18:07,A28,Stilstaand verkeer,Utrecht - Zwolle,Tussen Leusden (7) en knooppunt Hoevelaken.,Wegwerkzaamheden,11.0,2100,52.166916,5.422221,2026-10-03 09:03,10005461560
 2026-10-03 18:07,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,13.0,1500,50.81876,6.024742,2026-10-03 15:55,10005461878
 2026-10-03 18:07,N35,Langzaam rijdend verkeer,Almelo - Duitse grens,Tussen Enschede (25) en Enschede-Oost.,,6.0,2800,52.201694,6.92802,2026-10-03 16:56,10005461934
+2026-10-03 21:11,A4,Langzaam rijdend verkeer,Rotterdam - Den Haag,Tussen knooppunt Benelux en de Beneluxtunnel.,Defect voertuig,6.0,2900,51.90406,4.370762,2026-10-03 21:01,10005462061
+2026-10-03 21:11,A28,Stilstaand verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,Incident op aansluitende weg,3.0,800,52.078636,5.1592064,2026-10-03 20:28,10005462055
