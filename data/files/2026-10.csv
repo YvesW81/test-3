@@ -118,3 +118,17 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-03 13:59,N35,Stilstaand verkeer,Duitse grens - Almelo,Tussen Nederland en Enschede (25).,,6.0,2400,52.20062,6.885979,2026-10-03 13:55,10005461782
 2026-10-03 13:59,N57,Stilstaand verkeer,Ellemeet - Middelburg,Tussen Burgh-Haamstede en Vrouwenpolder/Veere.,,30.0,9200,51.588654,3.674042,2026-10-03 10:16,10005461750
 2026-10-03 13:59,N57,Langzaam rijdend verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,5.0,3000,51.544376,3.6051,2026-10-03 13:57,10005461786
+2026-10-03 18:07,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,16.0,2800,52.31377,7.043839,2026-10-03 17:09,10005461947
+2026-10-03 18:07,A1,Stilstaand verkeer,Amersfoort - Amsterdam,Tussen Baarn (11) en Hilversum-Noord (9).,Ongevalsonderzoek,43.0,5500,52.250896,5.212512,2026-10-03 17:16,10005461956
+2026-10-03 18:07,A1,Stilstaand verkeer op parallelrijbaan,Amersfoort - Amsterdam,Op de parallelbaan. Tussen knooppunt Eemnes en Hilversum-Noord (9).,Ongevalsonderzoek,24.0,2000,52.241215,5.223709,2026-10-03 17:54,10005461991
+2026-10-03 18:07,A4,Stilstaand verkeer,Rotterdam - Amsterdam,Tussen Rijswijk (11) en Leidschendam (8).,Ongeval(len),32.0,7100,52.073067,4.394223,2026-10-03 16:10,10005461888
+2026-10-03 18:07,A10,Langzaam rijdend verkeer,Knooppunt Amstel - Knooppunt Coenplein,Tussen knooppunt Watergraafsmeer en Durgerdam (15).,,5.0,3000,52.374813,4.974228,2026-10-03 18:00,10005461997
+2026-10-03 18:07,A15,Stilstaand verkeer,Ridderkerk - Europoort,Op de verbindingsweg van de A15 vanuit Ridderkerk naar de A4 richting Vlaardingen.,Extra verkeersdrukte door wegwerkzaamheden elders,4.0,500,51.876118,4.387863,2026-10-03 11:34,10005461648
+2026-10-03 18:07,A15,Stilstaand verkeer op parallelrijbaan,Ridderkerk - Europoort,Op de parallelbaan. Tussen knooppunt Vaanplein en Rotterdam-Charlois (19).,,7.0,2100,51.86311,4.483784,2026-10-03 17:26,10005461964
+2026-10-03 18:07,A15,Stilstaand verkeer op parallelrijbaan,Ridderkerk - Europoort,Op de parallelbaan. Tussen knooppunt Vaanplein en Rotterdam-Charlois (19).,,7.0,2300,51.8682,4.441266,2026-10-03 17:28,10005461967
+2026-10-03 18:07,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen Rotterdam-Charlois (19) en knooppunt Benelux.,,8.0,2700,51.873432,4.411438,2026-10-03 17:56,10005461994
+2026-10-03 18:07,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Hendrik-Ido-Ambacht (23) en knooppunt Ridderkerk-Zuid.,,7.0,2500,51.84964,4.604647,2026-10-03 18:02,10005461999
+2026-10-03 18:07,A27,Stilstaand verkeer,Breda - Utrecht,Tussen knooppunt Gorinchem en Lexmond (26).,,8.0,2200,51.903896,4.981141,2026-10-03 16:24,10005461906
+2026-10-03 18:07,A28,Stilstaand verkeer,Utrecht - Zwolle,Tussen Leusden (7) en knooppunt Hoevelaken.,Wegwerkzaamheden,11.0,2100,52.166916,5.422221,2026-10-03 09:03,10005461560
+2026-10-03 18:07,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,13.0,1500,50.81876,6.024742,2026-10-03 15:55,10005461878
+2026-10-03 18:07,N35,Langzaam rijdend verkeer,Almelo - Duitse grens,Tussen Enschede (25) en Enschede-Oost.,,6.0,2800,52.201694,6.92802,2026-10-03 16:56,10005461934
