@@ -96,3 +96,25 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-02 15:08,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen A15: Brielle en Hellevoetsluis/Oudenhoorn.,,5.0,2700,51.880814,4.192882,2026-10-02 15:05,10005460171
 2026-10-02 15:08,N57,Langzaam rijdend verkeer,Rotterdam - Stellendam,Tussen Hellevoetsluis/Oudenhoorn en Stellendam-Havens Zuid.,,4.0,3000,51.84676,4.082827,2026-10-02 15:05,10005460170
 2026-10-02 20:22,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,9.0,4100,52.31377,7.043839,2026-10-02 18:32,10005461424
+2026-10-03 13:59,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,11.0,2000,52.31377,7.043839,2026-10-03 12:50,10005461709
+2026-10-03 13:59,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen Zaltbommel (17) en knooppunt Deil.,,8.0,3100,51.835556,5.249433,2026-10-03 13:54,10005461780
+2026-10-03 13:59,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Op de verbindingsweg van de A2 vanuit 's-Hertogenbosch naar de A12 richting Den Haag.,,3.0,1300,52.06929,5.054532,2026-10-03 13:57,10005461785
+2026-10-03 13:59,A4,Langzaam rijdend verkeer,Rotterdam - Den Haag,Tussen knooppunt Benelux en de Beneluxtunnel.,Extra verkeersdrukte door wegwerkzaamheden elders,7.0,3300,51.90406,4.370762,2026-10-03 13:33,10005461762
+2026-10-03 13:59,A4,Langzaam rijdend verkeer,Rotterdam - Den Haag,Tussen knooppunt Kethelplein en Gaag-Aquaduct.,,4.0,2200,51.98831,4.32478,2026-10-03 13:54,10005461781
+2026-10-03 13:59,A6,Stilstaand verkeer,Emmeloord - Lelystad,Tussen Emmeloord-West (14) en de Ketelbrug.,Wegwerkzaamheden,21.0,3000,52.635914,5.671339,2026-10-03 09:19,10005461564
+2026-10-03 13:59,A10,Langzaam rijdend verkeer,Knooppunt Amstel - Knooppunt Coenplein,Tussen knooppunt Watergraafsmeer en de Zeeburgertunnel.,,5.0,2700,52.374397,4.974215,2026-10-03 13:38,10005461764
+2026-10-03 13:59,A12,Stilstaand verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,,13.0,5100,51.94572,6.073955,2026-10-03 10:11,10005461577
+2026-10-03 13:59,A12,Langzaam rijdend verkeer,Utrecht - Den Haag,Tussen knooppunt Lunetten en Houten (18).,,5.0,2100,52.056858,5.120929,2026-10-03 13:57,10005461784
+2026-10-03 13:59,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Op de verbindingsweg van de A15 vanuit Ridderkerk naar de A4 richting Vlaardingen.,Extra verkeersdrukte door wegwerkzaamheden elders,4.0,900,51.876118,4.387863,2026-10-03 11:34,10005461648
+2026-10-03 13:59,A15,Langzaam rijdend verkeer op parallelrijbaan,Ridderkerk - Europoort,Op de parallelbaan. Tussen knooppunt Vaanplein en Rotterdam-Charlois (19).,Extra verkeersdrukte door wegwerkzaamheden elders,5.0,2100,51.867554,4.443921,2026-10-03 12:33,10005461700
+2026-10-03 13:59,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen knooppunt Vaanplein en knooppunt Benelux.,Extra verkeersdrukte door wegwerkzaamheden elders,8.0,3700,51.873432,4.411438,2026-10-03 13:44,10005461769
+2026-10-03 13:59,A15,Langzaam rijdend verkeer op parallelrijbaan,Ridderkerk - Europoort,Op de parallelbaan. Tussen Rotterdam-Heijplaat (18) en knooppunt Benelux.,,5.0,2000,51.87415,4.399993,2026-10-03 13:56,10005461783
+2026-10-03 13:59,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zwijndrecht (22) en knooppunt Ridderkerk-Zuid.,Wegwerkzaamheden,12.0,3300,51.847843,4.606449,2026-10-03 09:25,10005461562
+2026-10-03 13:59,A20,Stilstaand verkeer,Hoek van Holland - Gouda,Tussen knooppunt Kethelplein en de Giessenbrug.,Extra verkeersdrukte door wegwerkzaamheden elders,9.0,3600,51.92785,4.430341,2026-10-03 13:11,10005461741
+2026-10-03 13:59,A27,Stilstaand verkeer,Breda - Utrecht,Tussen knooppunt Gorinchem en Lexmond (26).,,13.0,3100,51.904324,4.981311,2026-10-03 11:53,10005461664
+2026-10-03 13:59,A27,Stilstaand verkeer,Breda - Gorinchem,Tussen Hank (21) en Werkendam (23).,,17.0,5100,51.79239,4.929909,2026-10-03 13:08,10005461734
+2026-10-03 13:59,A28,Stilstaand verkeer,Utrecht - Zwolle,Tussen Leusden-Zuid (6) en knooppunt Hoevelaken.,Wegwerkzaamheden,19.0,3000,52.166916,5.422221,2026-10-03 09:03,10005461560
+2026-10-03 13:59,A32,Stilstaand verkeer,Meppel - Heerenveen,Tussen Wolvega (8) en Heerenveen-Zuid (10).,,7.0,2300,52.915077,5.982205,2026-10-03 13:44,10005461770
+2026-10-03 13:59,N35,Stilstaand verkeer,Duitse grens - Almelo,Tussen Nederland en Enschede (25).,,6.0,2400,52.20062,6.885979,2026-10-03 13:55,10005461782
+2026-10-03 13:59,N57,Stilstaand verkeer,Ellemeet - Middelburg,Tussen Burgh-Haamstede en Vrouwenpolder/Veere.,,30.0,9200,51.588654,3.674042,2026-10-03 10:16,10005461750
+2026-10-03 13:59,N57,Langzaam rijdend verkeer,Middelburg - Vrouwenpolder,Tussen Middelburg-Noord/Veere en Oostkapelle.,,5.0,3000,51.544376,3.6051,2026-10-03 13:57,10005461786
