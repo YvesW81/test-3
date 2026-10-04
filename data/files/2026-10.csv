@@ -134,3 +134,17 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-03 18:07,N35,Langzaam rijdend verkeer,Almelo - Duitse grens,Tussen Enschede (25) en Enschede-Oost.,,6.0,2800,52.201694,6.92802,2026-10-03 16:56,10005461934
 2026-10-03 21:11,A4,Langzaam rijdend verkeer,Rotterdam - Den Haag,Tussen knooppunt Benelux en de Beneluxtunnel.,Defect voertuig,6.0,2900,51.90406,4.370762,2026-10-03 21:01,10005462061
 2026-10-03 21:11,A28,Stilstaand verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,Incident op aansluitende weg,3.0,800,52.078636,5.1592064,2026-10-03 20:28,10005462055
+2026-10-04 14:31,A1,Stilstaand verkeer,Amersfoort - Amsterdam,Tussen Naarden-Vesting (6) en Vechtzicht.,Eerder ongeval,15.0,4900,52.321815,5.076408,2026-10-04 14:00,10005462239
+2026-10-04 14:31,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Barneveld (15) en Hoevelaken (14).,,5.0,2500,52.163303,5.530775,2026-10-04 14:22,10005462259
+2026-10-04 14:31,A1,Langzaam rijdend verkeer,Amersfoort - Amsterdam,Tussen knooppunt Eemnes en Hilversum-Noord (9).,,5.0,2300,52.241802,5.222645,2026-10-04 14:23,10005462261
+2026-10-04 14:31,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen knooppunt Badhoevedorp en knooppunt De Nieuwe Meer.,Extra verkeersdrukte door incident elders,14.0,5000,52.337193,4.846571,2026-10-04 12:45,10005462177
+2026-10-04 14:31,A4,Langzaam rijdend verkeer,Rotterdam - Den Haag,Tussen knooppunt Benelux en de Beneluxtunnel.,,5.0,3100,51.902306,4.370754,2026-10-04 14:26,10005462265
+2026-10-04 14:31,A4,Langzaam rijdend verkeer,Amsterdam - Den Haag,Tussen knooppunt De Nieuwe Meer en knooppunt Badhoevedorp.,,5.0,3300,52.332375,4.801428,2026-10-04 14:27,10005462267
+2026-10-04 14:31,A6,Stilstaand verkeer,Emmeloord - Lelystad,Tussen Emmeloord-West (14) en de Ketelbrug.,,19.0,3500,52.63506,5.670959,2026-10-04 13:27,10005462205
+2026-10-04 14:31,A12,Langzaam rijdend verkeer,Arnhem - Duitse grens,Tussen Westervoort (27) en Zevenaar (29).,,5.0,2900,51.95586,6.041382,2026-10-04 14:21,10005462257
+2026-10-04 14:31,A15,Langzaam rijdend verkeer op parallelrijbaan,Ridderkerk - Europoort,Op de parallelbaan. Tussen Rotterdam-Heijplaat (18) en knooppunt Benelux.,,4.0,2200,51.87415,4.399993,2026-10-04 13:46,10005462220
+2026-10-04 14:31,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Hendrik-Ido-Ambacht (23) en knooppunt Ridderkerk-Zuid.,,9.0,2100,51.84624,4.608021,2026-10-04 14:20,10005462256
+2026-10-04 14:31,A27,Langzaam rijdend verkeer,Breda - Gorinchem,Tussen Hank (21) en de Merwedebrug.,,11.0,5100,51.805656,4.933527,2026-10-04 14:21,10005462258
+2026-10-04 14:31,A28,Stilstaand verkeer,Utrecht - Zwolle,Tussen Leusden (7) en knooppunt Hoevelaken.,Wegwerkzaamheden,13.0,2300,52.167328,5.422411,2026-10-04 13:43,10005462216
+2026-10-04 14:31,A73,Stilstaand verkeer,Nijmegen - Maasbracht,Tussen Malden (3) en Cuijk (4).,,14.0,1800,51.739143,5.843187,2026-10-04 14:28,10005462268
+2026-10-04 14:31,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2000,51.702633,3.794994,2026-10-04 14:24,10005462263
