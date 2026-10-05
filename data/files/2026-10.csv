@@ -165,3 +165,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-05 10:10,A58,Stilstaand verkeer,Eindhoven - Tilburg,Tussen Oirschot (8) en Moergestel (9).,,12.0,2000,51.516624,5.246674,2026-10-05 09:50,10005463668
 2026-10-05 10:10,A59,Langzaam rijdend verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen knooppunt Hooipolder en Sprang-Capelle-West (36).,,6.0,2900,51.693535,4.958919,2026-10-05 10:04,10005463692
 2026-10-05 10:10,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2500,51.70177,3.786989,2026-10-05 10:05,10005463693
+2026-10-05 19:10,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,10.0,3800,52.31377,7.043839,2026-10-05 18:38,10005465190
+2026-10-05 19:10,A12,Langzaam rijdend verkeer,Utrecht - Den Haag,Tussen Harmelen (14a) en Woerden (14).,,4.0,2200,52.080647,4.96012,2026-10-05 19:02,10005465200
+2026-10-05 19:10,A50,Stilstaand verkeer,Arnhem - Eindhoven,Tussen knooppunt Ewijk en knooppunt Paalgraven.,Defecte bus,40.0,9000,51.780434,5.637848,2026-10-05 17:25,10005464853
