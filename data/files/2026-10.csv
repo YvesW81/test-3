@@ -148,3 +148,20 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-04 14:31,A28,Stilstaand verkeer,Utrecht - Zwolle,Tussen Leusden (7) en knooppunt Hoevelaken.,Wegwerkzaamheden,13.0,2300,52.167328,5.422411,2026-10-04 13:43,10005462216
 2026-10-04 14:31,A73,Stilstaand verkeer,Nijmegen - Maasbracht,Tussen Malden (3) en Cuijk (4).,,14.0,1800,51.739143,5.843187,2026-10-04 14:28,10005462268
 2026-10-04 14:31,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2000,51.702633,3.794994,2026-10-04 14:24,10005462263
+2026-10-05 10:10,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Tussen knooppunt Empel en de Martinus Nijhoffbrug.,,12.0,6600,51.795525,5.258398,2026-10-05 06:32,10005462681
+2026-10-05 10:10,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen Everdingen (12) en Beesd (14).,Eerder pechgeval,6.0,3300,51.912567,5.17916,2026-10-05 07:42,10005462952
+2026-10-05 10:10,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen Geldermalsen (15) en de Martinus Nijhoffbrug.,,10.0,4700,51.831104,5.253125,2026-10-05 10:03,10005463691
+2026-10-05 10:10,A7,Langzaam rijdend verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,3.0,2200,53.0737,5.334949,2026-10-05 09:58,10005463687
+2026-10-05 10:10,A15,Stilstaand verkeer,Gorinchem - Nijmegen,Op de verbindingsweg van de A15 vanuit Gorinchem naar de A2 richting 's-Hertogenbosch.,,10.0,1200,51.851105,5.2332377,2026-10-05 07:30,10005462893
+2026-10-05 10:10,A15,Stilstaand verkeer,Nijmegen - Gorinchem,Op de verbindingsweg van de A15 vanuit Nijmegen naar de A2 richting 's-Hertogenbosch.,,8.0,1900,51.846233,5.238497,2026-10-05 07:52,10005463016
+2026-10-05 10:10,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Papendrecht (23) en de Noordtunnel.,,14.0,2600,51.85601,4.668366,2026-10-05 09:02,10005463529
+2026-10-05 10:10,A15,Stilstaand verkeer,Ridderkerk - Gorinchem,Tussen Sliedrecht-West (24) en Sliedrecht-Oost (25).,,13.0,3300,51.822067,4.80889,2026-10-05 09:12,10005463568
+2026-10-05 10:10,A15,Stilstaand verkeer,Ridderkerk - Gorinchem,Op de verbindingsweg van de A15 vanuit Rotterdam naar de A27 richting Breda.,,5.0,400,51.84229,4.948431,2026-10-05 09:30,10005463632
+2026-10-05 10:10,A15,Langzaam rijdend verkeer,Gorinchem - Ridderkerk,Tussen Alblasserdam (22) en knooppunt Ridderkerk-Zuid.,,4.0,2200,51.85655,4.61991,2026-10-05 10:08,10005463695
+2026-10-05 10:10,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Ridderkerk-Noord en de Drechttunnel.,Schade aan wegmeubilair,31.0,6700,51.813152,4.636796,2026-10-05 08:39,10005463381
+2026-10-05 10:10,A22,Stilstaand verkeer,Beverwijk - Velsen,Tussen knooppunt Beverwijk en de Velsertunnel.,,12.0,2400,52.456913,4.656326,2026-10-05 09:54,10005463678
+2026-10-05 10:10,A27,Stilstaand verkeer,Gorinchem - Breda,Tussen knooppunt Gorinchem en de Merwedebrug.,,6.0,2000,51.832558,4.944298,2026-10-05 10:02,10005463690
+2026-10-05 10:10,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Valburg en de Maasbrug.,,18.0,8700,51.800404,5.670778,2026-10-05 09:49,10005463667
+2026-10-05 10:10,A58,Stilstaand verkeer,Eindhoven - Tilburg,Tussen Oirschot (8) en Moergestel (9).,,12.0,2000,51.516624,5.246674,2026-10-05 09:50,10005463668
+2026-10-05 10:10,A59,Langzaam rijdend verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen knooppunt Hooipolder en Sprang-Capelle-West (36).,,6.0,2900,51.693535,4.958919,2026-10-05 10:04,10005463692
+2026-10-05 10:10,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2500,51.70177,3.786989,2026-10-05 10:05,10005463693
