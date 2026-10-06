@@ -170,3 +170,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-05 19:10,A50,Stilstaand verkeer,Arnhem - Eindhoven,Tussen knooppunt Ewijk en knooppunt Paalgraven.,Defecte bus,40.0,9000,51.780434,5.637848,2026-10-05 17:25,10005464853
 2026-10-06 12:07,A15,Langzaam rijdend verkeer,Ridderkerk - Rotterdam Maasvlakte,Tussen Havens 5700-6200 (10) en A15: Oostvoorne.,Wegwerkzaamheden,5.0,3700,51.93321,4.104129,2026-10-06 05:39,10005465267
 2026-10-06 12:07,A15,Stilstaand verkeer,Ridderkerk - Gorinchem,Tussen Sliedrecht-West (24) en Hardinxveld-Giessendam (26).,Defecte vrachtwagen,22.0,4500,51.82128,4.820079,2026-10-06 11:55,10005466678
+2026-10-06 18:45,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Everdingen en Culemborg (13).,,6.0,3700,51.93528,5.157651,2026-10-06 18:27,10005468069
+2026-10-06 18:45,A27,Langzaam rijdend verkeer,Utrecht - Gorinchem,Tussen knooppunt Everdingen en Lexmond (26).,,8.0,3900,51.95564,5.059747,2026-10-06 17:42,10005467880
+2026-10-06 18:45,A50,Langzaam rijdend verkeer,Eindhoven - Arnhem,Tussen Oss-Oost (16) en Ravenstein (17).,,9.0,4600,51.766815,5.629776,2026-10-06 17:56,10005467985
+2026-10-06 18:45,A50,Langzaam rijdend verkeer,Eindhoven - Arnhem,Tussen knooppunt Paalgraven en de Maasbrug.,,4.0,2300,51.791035,5.659304,2026-10-06 18:35,10005468077
+2026-10-06 18:45,N15,Stilstaand verkeer,Rotterdam Maasvlakte - Ridderkerk,Tussen Havens 8100-8120 en Oostvoorne (8).,Wegwerkzaamheden,53.0,6600,51.93345,4.087509,2026-10-06 13:35,10005466724
