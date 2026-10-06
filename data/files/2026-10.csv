@@ -168,3 +168,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-05 19:10,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,10.0,3800,52.31377,7.043839,2026-10-05 18:38,10005465190
 2026-10-05 19:10,A12,Langzaam rijdend verkeer,Utrecht - Den Haag,Tussen Harmelen (14a) en Woerden (14).,,4.0,2200,52.080647,4.96012,2026-10-05 19:02,10005465200
 2026-10-05 19:10,A50,Stilstaand verkeer,Arnhem - Eindhoven,Tussen knooppunt Ewijk en knooppunt Paalgraven.,Defecte bus,40.0,9000,51.780434,5.637848,2026-10-05 17:25,10005464853
+2026-10-06 12:07,A15,Langzaam rijdend verkeer,Ridderkerk - Rotterdam Maasvlakte,Tussen Havens 5700-6200 (10) en A15: Oostvoorne.,Wegwerkzaamheden,5.0,3700,51.93321,4.104129,2026-10-06 05:39,10005465267
+2026-10-06 12:07,A15,Stilstaand verkeer,Ridderkerk - Gorinchem,Tussen Sliedrecht-West (24) en Hardinxveld-Giessendam (26).,Defecte vrachtwagen,22.0,4500,51.82128,4.820079,2026-10-06 11:55,10005466678
