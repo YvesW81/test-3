@@ -175,3 +175,57 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-06 18:45,A50,Langzaam rijdend verkeer,Eindhoven - Arnhem,Tussen Oss-Oost (16) en Ravenstein (17).,,9.0,4600,51.766815,5.629776,2026-10-06 17:56,10005467985
 2026-10-06 18:45,A50,Langzaam rijdend verkeer,Eindhoven - Arnhem,Tussen knooppunt Paalgraven en de Maasbrug.,,4.0,2300,51.791035,5.659304,2026-10-06 18:35,10005468077
 2026-10-06 18:45,N15,Stilstaand verkeer,Rotterdam Maasvlakte - Ridderkerk,Tussen Havens 8100-8120 en Oostvoorne (8).,Wegwerkzaamheden,53.0,6600,51.93345,4.087509,2026-10-06 13:35,10005466724
+2026-10-07 08:33,A1,Stilstaand verkeer,Apeldoorn - Amersfoort,Tussen Stroe (17) en Voorthuizen (16).,Eerder ongeval,7.0,2500,52.175453,5.644312,2026-10-07 07:32,10005468374
+2026-10-07 08:33,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,,5.0,3300,52.166714,5.55792,2026-10-07 08:17,10005468615
+2026-10-07 08:33,A1,Stilstaand verkeer,Amersfoort - Amsterdam,Tussen knooppunt Diemen en knooppunt Watergraafsmeer.,,11.0,4300,52.34353,4.955145,2026-10-07 08:20,10005468634
+2026-10-07 08:33,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,,9.0,2200,52.166325,5.554006,2026-10-07 08:26,10005468668
+2026-10-07 08:33,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen Rosmalen-West (20) en Kerkdriel (19).,,32.0,4500,51.74975,5.292588,2026-10-07 07:13,10005468280
+2026-10-07 08:33,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Op de verbindingsweg van de A2 vanuit Amsterdam naar de A12 richting Arnhem.,,11.0,3000,52.061695,5.0867257,2026-10-07 08:11,10005468596
+2026-10-07 08:33,A2,Langzaam rijdend verkeer,Maastricht - Eindhoven,Tussen knooppunt Leenderheide en knooppunt Batadorp.,,6.0,2800,51.419872,5.428853,2026-10-07 08:22,10005468640
+2026-10-07 08:33,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen Waardenburg (16) en Zaltbommel (17).,,13.0,2800,51.798347,5.258308,2026-10-07 08:25,10005468663
+2026-10-07 08:33,A2,Stilstaand verkeer op parallelrijbaan,'s-Hertogenbosch - Utrecht,Op de parallelbaan. Tussen Rosmalen-West (20) en de Maasbrug.,,19.0,2000,51.731255,5.313449,2026-10-07 08:26,10005468670
+2026-10-07 08:33,A2,Langzaam rijdend verkeer,Maastricht - Eindhoven,Tussen Maarheeze (36) en Valkenswaard (34).,,7.0,3000,51.33567,5.574864,2026-10-07 08:26,10005468671
+2026-10-07 08:33,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Everdingen en Culemborg (13).,Wegwerkzaamheden,4.0,2600,51.936874,5.155206,2026-10-07 08:27,10005468677
+2026-10-07 08:33,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Tussen Kerkdriel (19) en de Martinus Nijhoffbrug.,,4.0,2700,51.795967,5.258425,2026-10-07 08:28,10005468681
+2026-10-07 08:33,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Tussen knooppunt Deil en de Lingebrug.,,7.0,3700,51.880016,5.207674,2026-10-07 08:30,10005468694
+2026-10-07 08:33,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen Zoeterwoude-Rijndijk (6A) en Roelofarendsveen (5).,Ongeval(len),19.0,6100,52.187557,4.603192,2026-10-07 07:27,10005468349
+2026-10-07 08:33,A4,Langzaam rijdend verkeer,Rotterdam - Den Haag,Tussen Den Hoorn (13) en Rijswijk (11).,,8.0,3600,52.028038,4.324908,2026-10-07 07:55,10005468489
+2026-10-07 08:33,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen knooppunt Prins Clausplein en Leidschendam (8).,Eerder ongeval,9.0,2500,52.075584,4.40095,2026-10-07 07:57,10005468503
+2026-10-07 08:33,A4,Langzaam rijdend verkeer op parallelrijbaan,Amsterdam - Rotterdam,Op de parallelbaan. Tussen knooppunt Prins Clausplein en knooppunt Ypenburg.,,6.0,2400,52.042286,4.345842,2026-10-07 08:17,10005468618
+2026-10-07 08:33,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen knooppunt Badhoevedorp en knooppunt De Nieuwe Meer.,,6.0,3000,52.33822,4.828819,2026-10-07 08:22,10005468643
+2026-10-07 08:33,A10,Langzaam rijdend verkeer,Knooppunt Watergraafsmeer - Knooppunt De Nieuwe Meer,Tussen knooppunt Watergraafsmeer en knooppunt Amstel.,,4.0,2900,52.32988,4.921296,2026-10-07 08:29,10005468686
+2026-10-07 08:33,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Duiven (28).,,12.0,5500,51.945522,6.074578,2026-10-07 07:59,10005468509
+2026-10-07 08:33,A12,Langzaam rijdend verkeer,Duitse grens - Utrecht,Tussen knooppunt Velperbroek en knooppunt Grijsoord.,,8.0,3500,52.01878,5.90498,2026-10-07 08:09,10005468570
+2026-10-07 08:33,A12,Langzaam rijdend verkeer,Den Haag - Utrecht,Tussen Reeuwijk (12) en Nieuwerbrug (13).,,4.0,2100,52.06646,4.763857,2026-10-07 08:30,10005468690
+2026-10-07 08:33,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen knooppunt Rozenburg en Havens 6200-7000 (9).,Veiligheidsmaatregelen,41.0,11400,51.937073,4.122589,2026-10-07 05:30,10005468168
+2026-10-07 08:33,A15,Langzaam rijdend verkeer,Ridderkerk - Gorinchem,Tussen Sliedrecht-West (24) en Sliedrecht-Oost (25).,,7.0,3300,51.82326,4.803779,2026-10-07 07:17,10005468290
+2026-10-07 08:33,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Gorinchem (27) en Sliedrecht-West (24).,,42.0,6900,51.828815,4.766424,2026-10-07 07:22,10005468316
+2026-10-07 08:33,A15,Stilstaand verkeer,Gorinchem - Nijmegen,Op de verbindingsweg van de A15 vanuit Gorinchem naar de A2 richting 's-Hertogenbosch.,,3.0,600,51.851105,5.2332377,2026-10-07 07:51,10005468483
+2026-10-07 08:33,A15,Stilstaand verkeer op parallelrijbaan,Ridderkerk - Europoort,Op de parallelbaan. Tussen knooppunt Rozenburg en Havens 5500-5700 (11).,,9.0,3100,51.922382,4.175691,2026-10-07 08:11,10005468582
+2026-10-07 08:33,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Zonzeel en Zevenbergschen Hoek (18).,,18.0,2600,51.66816,4.676489,2026-10-07 08:05,10005468547
+2026-10-07 08:33,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht-Centrum (21).,,5.0,2100,51.785023,4.65045,2026-10-07 08:23,10005468648
+2026-10-07 08:33,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Zevenbergschen Hoek (18) en de Moerdijkbrug.,,9.0,3100,51.70748,4.64366,2026-10-07 08:25,10005468658
+2026-10-07 08:33,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Dordrecht-Centrum (21) en Hendrik-Ido-Ambacht (23).,,5.0,3500,51.835117,4.619002,2026-10-07 08:26,10005468667
+2026-10-07 08:33,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen knooppunt Terbregseplein en de Rottemerentunnel.,,4.0,2700,51.965637,4.511765,2026-10-07 08:30,10005468691
+2026-10-07 08:33,A20,Stilstaand verkeer,Hoek van Holland - Gouda,Op de verbindingsweg van de A20 vanuit Hoek van Holland naar de A16 richting Breda.,,5.0,1200,51.945976,4.5315943,2026-10-07 08:06,10005468551
+2026-10-07 08:33,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,6.0,2923,51.997955,4.647881,2026-10-07 08:19,10005468628
+2026-10-07 08:33,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Rotterdam-Schiebroek (14) en de Giessenbrug.,,5.0,2100,51.928165,4.430768,2026-10-07 08:29,10005468688
+2026-10-07 08:33,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Nieuwerkerk aan den IJssel (17) en knooppunt Terbregseplein.,,6.0,4200,51.952732,4.543006,2026-10-07 08:30,10005468692
+2026-10-07 08:33,A27,Stilstaand verkeer,Breda - Utrecht,Tussen knooppunt Gorinchem en Lexmond (26).,Ongeval(len),10.0,3000,51.903896,4.981141,2026-10-07 06:49,10005468233
+2026-10-07 08:33,A27,Stilstaand verkeer,Breda - Gorinchem,Tussen Geertruidenberg (20) en Nieuwendijk (22).,,16.0,4100,51.7541,4.924409,2026-10-07 07:59,10005468510
+2026-10-07 08:33,A27,Langzaam rijdend verkeer,Almere - Gorinchem,Tussen Bilthoven (32) en knooppunt Rijnsweerd.,,11.0,5500,52.0843,5.162069,2026-10-07 08:26,10005468669
+2026-10-07 08:33,A28,Stilstaand verkeer,Zwolle - Amersfoort,Tussen Harderwijk-Zuid (11) en Nijkerk (9).,,27.0,4600,52.25432,5.510245,2026-10-07 08:10,10005468579
+2026-10-07 08:33,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen knooppunt Hellegatsplein en de Haringvlietbrug.,,21.0,2400,51.71261,4.398827,2026-10-07 07:55,10005468487
+2026-10-07 08:33,A32,Stilstaand verkeer,Meppel - Heerenveen,Tussen Wolvega (8) en Heerenveen-Zuid (10).,,21.0,3300,52.913033,5.989379,2026-10-07 07:25,10005468337
+2026-10-07 08:33,A50,Stilstaand verkeer,Arnhem - Oss,Tussen knooppunt Valburg en knooppunt Ewijk.,Ongeval(len),14.0,2700,51.851425,5.703522,2026-10-07 06:47,10005468223
+2026-10-07 08:33,A50,Stilstaand verkeer,Oss - Eindhoven,Tussen Zeeland (14) en Veghel-Noord (12).,,7.0,2800,51.64516,5.588487,2026-10-07 08:01,10005468520
+2026-10-07 08:33,A50,Langzaam rijdend verkeer,Oss - Arnhem,Tussen knooppunt Ewijk en Heteren (18).,,10.0,6800,51.926456,5.770281,2026-10-07 08:12,10005468591
+2026-10-07 08:33,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,7.0,3400,51.803905,5.674853,2026-10-07 08:19,10005468631
+2026-10-07 08:33,A50,Langzaam rijdend verkeer,Emmeloord - Apeldoorn,Tussen Kampen (32) en Hattemerbroek.,,6.0,3100,52.49402,6.012985,2026-10-07 08:26,10005468673
+2026-10-07 08:33,A58,Stilstaand verkeer,Breda - Eindhoven,Tussen knooppunt De Baars en Moergestel (9).,,7.0,2800,51.548347,5.143151,2026-10-07 07:52,10005468474
+2026-10-07 08:33,A58,Langzaam rijdend verkeer,Breda - Tilburg,Tussen knooppunt Sint Annabosch en Tilburg-Reeshof (12).,,6.0,2900,51.55892,4.877053,2026-10-07 08:26,10005468672
+2026-10-07 08:33,A59,Langzaam rijdend verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Waalwijk (37) en Vlijmen (44).,,23.0,9900,51.693424,5.203691,2026-10-07 07:20,10005468307
+2026-10-07 08:33,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Op de verbindingsweg van de A59 vanuit Waalwijk naar de A2 richting Utrecht.,,5.0,500,51.72585,5.32191,2026-10-07 07:47,10005468455
+2026-10-07 08:33,A76,Langzaam rijdend verkeer,Belgische grens - Aken,Tussen knooppunt Kerensheide en Nuth (5).,,9.0,4000,50.942238,5.851984,2026-10-07 08:07,10005468564
+2026-10-07 08:33,N44,Stilstaand verkeer,Den Haag - Amsterdam,Tussen Scheveningen en Wassenaar.,,22.0,4200,52.14191,4.415675,2026-10-07 08:21,10005468639
+2026-10-07 08:33,N57,Stilstaand verkeer,Voorne-Putten - Rotterdam,Tussen Rockanje en A15: Brielle.,,25.0,7300,51.90292,4.212706,2026-10-07 06:06,10005468172
