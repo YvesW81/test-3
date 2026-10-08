@@ -283,3 +283,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-07 15:50,N15,Stilstaand verkeer,Rotterdam Maasvlakte - Ridderkerk,Tussen Havens 8100-8120 en Oostvoorne (8).,Veiligheidsmaatregelen,65.0,6600,51.93345,4.087509,2026-10-07 12:46,10005469091
 2026-10-07 15:50,N65,Stilstaand verkeer,Oisterwijk - Vught,Tussen Biezenmortel en Cromvoirt/Vught-Zuid.,Ongeval(len),21.0,3700,51.633602,5.246191,2026-10-07 15:28,10005469251
 2026-10-08 06:11,A7,Stilstaand verkeer,Den Oever - Zaanstad,Tussen Wognum (10) en Hoorn (8).,,19.0,2900,52.66237,5.03599,2026-10-08 06:02,10005470403
+2026-10-08 13:24,A1,Stilstaand verkeer,Amsterdam - Amersfoort,Tussen Amersfoort-Noord (13) en knooppunt Hoevelaken.,Omgewaaide bo(o)m(en),11.0,2200,52.17257,5.43408,2026-10-08 08:13,10005471098
+2026-10-08 13:24,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,13.0,4800,52.31377,7.043839,2026-10-08 11:58,10005471932
+2026-10-08 13:24,A15,Stilstaand verkeer,Gorinchem - Nijmegen,Tussen Tiel (33) en Ochten (35).,Ongeval(len),22.0,4400,51.915474,5.492564,2026-10-08 13:02,10005471972
+2026-10-08 13:24,A15,Stilstaand verkeer,Ridderkerk - Gorinchem,Tussen Sliedrecht-Oost (25) en Gorinchem (27).,,11.0,3900,51.82751,4.870052,2026-10-08 13:13,10005471981
+2026-10-08 13:24,N434,Stilstaand verkeer,Wassenaar - Zoeterwoude,Tussen knooppunt Ommedijk en knooppunt Hofvliet.,Defecte vrachtwagen,10.0,3600,52.128345,4.469723,2026-10-08 11:07,10005471907
