@@ -335,3 +335,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-10 22:43,A1,Stilstaand verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,Spoedreparatie,14.0,2400,52.165653,5.473143,2026-10-10 20:42,10005476744
 2026-10-11 18:20,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,2200,50.81876,6.024742,2026-10-11 17:30,10005476927
 2026-10-12 06:01,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen Havens 5500-5700 (11) en Havens 6200-7000 (9).,Veiligheidsmaatregelen,15.0,3300,51.937214,4.12193,2026-10-12 05:40,10005477005
+2026-10-12 13:52,A4,Stilstaand verkeer,Den Haag - Rotterdam,Tussen Schiedam-Noord (10) en knooppunt Benelux.,,23.0,3800,51.88065,4.383319,2026-10-12 13:33,10005478078
+2026-10-12 13:52,A4,Stilstaand verkeer,Belgische grens - Knooppunt Sabina,Op de verbindingsweg van de A4 vanuit Antwerpen naar de A58 richting Roosendaal.,Ongeval op aansluitende weg,10.0,700,51.499798,4.3211346,2026-10-12 13:41,10005478087
+2026-10-12 13:52,A7,Langzaam rijdend verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,Verkeerssituatie gewijzigd als gevolg van wegwerkzaamheden,6.0,3500,52.93327,5.039222,2026-10-12 13:39,10005478085
+2026-10-12 13:52,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen Hendrik-Ido-Ambacht (23) en Zwijndrecht (22).,,6.0,2900,51.815235,4.632234,2026-10-12 13:38,10005478083
+2026-10-12 13:52,N11,Stilstaand verkeer,Bodegraven - Leiden,Tussen Hazerswoude (7) en A4: Zoeterwoude-Rijndijk.,Bergingswerkzaamheden,11.0,2300,52.140472,4.50682,2026-10-12 13:41,10005478088
