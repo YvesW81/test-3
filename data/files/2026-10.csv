@@ -341,3 +341,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-12 13:52,A16,Langzaam rijdend verkeer,Rotterdam - Breda,Tussen Hendrik-Ido-Ambacht (23) en Zwijndrecht (22).,,6.0,2900,51.815235,4.632234,2026-10-12 13:38,10005478083
 2026-10-12 13:52,N11,Stilstaand verkeer,Bodegraven - Leiden,Tussen Hazerswoude (7) en A4: Zoeterwoude-Rijndijk.,Bergingswerkzaamheden,11.0,2300,52.140472,4.50682,2026-10-12 13:41,10005478088
 2026-10-12 22:49,A73,Stilstaand verkeer,Nijmegen - Maasbracht,Tussen Malden (3) en Cuijk (4).,Ongeval(len),14.0,1900,51.743202,5.841944,2026-10-12 22:27,10005479437
+2026-10-13 11:30,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen Havens 5700-6200 (10) en Havens 6200-7000 (9).,Veiligheidsmaatregelen,5.0,2100,51.938896,4.117268,2026-10-13 10:50,10005480729
+2026-10-13 11:30,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Gorinchem (27) en Hardinxveld-Giessendam (26).,Defecte vrachtwagen,11.0,4300,51.831673,4.881281,2026-10-13 11:20,10005480740
+2026-10-13 11:30,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2000,51.702633,3.794994,2026-10-13 11:07,10005480735
