@@ -344,3 +344,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-13 11:30,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen Havens 5700-6200 (10) en Havens 6200-7000 (9).,Veiligheidsmaatregelen,5.0,2100,51.938896,4.117268,2026-10-13 10:50,10005480729
 2026-10-13 11:30,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Gorinchem (27) en Hardinxveld-Giessendam (26).,Defecte vrachtwagen,11.0,4300,51.831673,4.881281,2026-10-13 11:20,10005480740
 2026-10-13 11:30,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2000,51.702633,3.794994,2026-10-13 11:07,10005480735
+2026-10-13 19:06,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Everdingen en Beesd (14).,,5.0,3100,51.92501,5.168315,2026-10-13 18:28,10005482191
+2026-10-13 19:06,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen Havens 5700-6200 (10) en Havens 6200-7000 (9).,Veiligheidsmaatregelen,4.0,2200,51.9403,4.114616,2026-10-13 13:53,10005480800
+2026-10-13 19:06,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen Lexmond (26) en Noordeloos (25).,Ongeval(len),39.0,6200,51.900616,4.979667,2026-10-13 18:07,10005482113
