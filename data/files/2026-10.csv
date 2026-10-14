@@ -368,3 +368,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-14 07:23,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Oosterhout (33) en knooppunt Hooipolder.,,7.0,2300,51.687374,4.88553,2026-10-14 06:47,10005482324
 2026-10-14 07:23,A67,Langzaam rijdend verkeer,Venlo - Eindhoven,Tussen Asten (36) en Geldrop (34).,,6.0,2800,51.423595,5.668683,2026-10-14 07:19,10005482402
 2026-10-14 07:23,N57,Stilstaand verkeer,Voorne-Putten - Rotterdam,Tussen Hellevoetsluis/Oudenhoorn en A15: Brielle.,,7.0,2000,51.90292,4.212706,2026-10-14 07:19,10005482403
+2026-10-14 12:24,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,,10.0,4100,52.31377,7.043839,2026-10-14 11:34,10005482958
+2026-10-14 12:24,A1,Langzaam rijdend verkeer,Amersfoort - Apeldoorn,Tussen Voorthuizen (16) en Stroe (17).,,6.0,3200,52.19022,5.691941,2026-10-14 12:17,10005482986
+2026-10-14 12:24,A10,Langzaam rijdend verkeer,Knooppunt De Nieuwe Meer - Knooppunt Watergraafsmeer,Tussen Amsterdam-Hemhavens (1) en knooppunt Coenplein.,Defecte vrachtwagen,3.0,2200,52.418335,4.868666,2026-10-14 12:18,10005482987
+2026-10-14 12:24,A15,Stilstaand verkeer op parallelrijbaan,Ridderkerk - Europoort,Op de parallelbaan. Tussen knooppunt Benelux en Hoogvliet (17).,Ongeval(len),8.0,2600,51.876163,4.362852,2026-10-14 12:18,10005482988
+2026-10-14 12:24,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen Rotterdam-Charlois (19) en knooppunt Benelux.,Ongeval(len),10.0,2100,51.872883,4.41664,2026-10-14 12:20,10005482993
+2026-10-14 12:24,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Zonzeel en knooppunt Princeville.,Opruimwerkzaamheden,12.0,3700,51.589058,4.723314,2026-10-14 09:38,10005482883
