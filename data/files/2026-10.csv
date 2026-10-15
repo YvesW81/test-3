@@ -517,3 +517,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-15 07:19,N35,Langzaam rijdend verkeer,Almelo - Zwolle,Tussen Haarle en Industriegebied De Zegge.,,3.0,2100,52.38446,6.294801,2026-10-15 07:14,10005484675
 2026-10-15 07:19,N57,Stilstaand verkeer,Voorne-Putten - Rotterdam,Tussen Hellevoetsluis/Oudenhoorn en A15: Brielle.,,7.0,2200,51.90292,4.212706,2026-10-15 07:14,10005484676
 2026-10-15 07:19,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2100,51.702633,3.794994,2026-10-15 07:16,10005484688
+2026-10-15 12:05,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,13.0,4500,52.31377,7.043839,2026-10-15 11:39,10005485453
+2026-10-15 12:05,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen Havens 5700-6200 (10) en Havens 6200-7000 (9).,Veiligheidsmaatregelen,6.0,2200,51.936825,4.123922,2026-10-15 05:48,10005484550
+2026-10-15 12:05,A20,Langzaam rijdend verkeer,Hoek van Holland - Gouda,Tussen Prins Alexander (16) en Moordrecht (18).,,4.0,2300,51.983555,4.6252,2026-10-15 12:01,10005485462
+2026-10-15 12:05,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,7.0,2100,50.81876,6.024742,2026-10-15 11:54,10005485459
