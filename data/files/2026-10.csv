@@ -759,3 +759,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-16 15:59,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen A15: Brielle en Hellevoetsluis/Oudenhoorn.,,15.0,6352,51.86176,4.158385,2026-10-16 15:13,10005488095
 2026-10-16 15:59,N57,Langzaam rijdend verkeer,Ellemeet - Westenschouwen,Tussen Ellemeet en Burgh-Haamstede.,,3.0,2100,51.702415,3.792988,2026-10-16 15:52,10005488417
 2026-10-16 15:59,N434,Stilstaand verkeer,Wassenaar - Zoeterwoude,Tussen knooppunt Ommedijk en knooppunt Hofvliet.,,8.0,2900,52.125263,4.472725,2026-10-16 15:32,10005488234
+2026-10-16 19:55,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,9.0,4100,52.31377,7.043839,2026-10-16 10:38,10005487228
+2026-10-16 19:55,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen Havens 5700-6200 (10) en Havens 6200-7000 (9).,Veiligheidsmaatregelen,8.0,2100,51.936703,4.124591,2026-10-16 05:59,10005487123
+2026-10-16 19:55,A32,Langzaam rijdend verkeer,Meppel - Heerenveen,Tussen Ter Idzard (9) en Heerenveen-Zuid (10).,Verkeerssituatie gewijzigd als gevolg van wegwerkzaamheden,4.0,2300,52.91751,5.974678,2026-10-16 18:24,10005489421
+2026-10-16 19:55,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Schaarsbergen (21).,,9.0,2300,52.035824,5.929703,2026-10-16 19:34,10005489496
+2026-10-16 19:55,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,14.0,1800,50.81876,6.024742,2026-10-16 19:25,10005489487
