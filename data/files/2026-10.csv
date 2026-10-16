@@ -640,3 +640,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-15 20:51,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,10.0,2600,52.31377,7.043839,2026-10-15 20:21,10005487067
 2026-10-15 23:54,A35,Stilstaand verkeer,Enschede - Almelo,Tussen Enschede-West (26) en de Loofrietbrug.,,15.0,4000,52.248318,6.755301,2026-10-15 23:25,10005487105
 2026-10-16 06:22,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen Havens 5500-5700 (11) en Havens 6200-7000 (9).,Veiligheidsmaatregelen,17.0,3400,51.937073,4.122589,2026-10-16 05:59,10005487123
+2026-10-16 11:10,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,,15.0,4400,52.31377,7.043839,2026-10-16 10:38,10005487228
+2026-10-16 11:10,A6,Langzaam rijdend verkeer,Emmeloord - Lelystad,Tussen Urk (13) en de Ketelbrug.,,6.0,3300,52.61825,5.655852,2026-10-16 10:54,10005487243
+2026-10-16 11:10,A7,Stilstaand verkeer,Den Oever - Knooppunt Zurich,Tussen Breezanddijk en de brug over de Lorentzsluis.,,8.0,2900,53.0737,5.334949,2026-10-16 11:07,10005487251
+2026-10-16 11:10,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen Havens 5700-6200 (10) en Havens 6200-7000 (9).,Veiligheidsmaatregelen,8.0,2100,51.936703,4.124591,2026-10-16 05:59,10005487123
+2026-10-16 11:10,A28,Stilstaand verkeer,Amersfoort - Utrecht,Tussen Maarn (5) en Soesterberg (4).,Ongeval(len),13.0,3100,52.12563,5.350367,2026-10-16 10:58,10005487245
