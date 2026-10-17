@@ -781,3 +781,13 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-17 11:38,N2,Stilstaand verkeer,Leenderheide - Batadorp,Tussen Waalre (33) en High Tech Campus (32a).,,9.0,2300,51.40529,5.449438,2026-10-17 11:23,10005489699
 2026-10-17 11:38,N2,Langzaam rijdend verkeer,Batadorp - Leenderheide,Tussen Eindhoven-Centrum (30) en Veldhoven (31).,,3.0,2300,51.430973,5.427178,2026-10-17 11:33,10005489715
 2026-10-17 11:38,N50,Stilstaand verkeer,Emmeloord - Zwolle,Tussen Ens (33) en de Eilandbrug.,,24.0,4100,52.60325,5.847465,2026-10-17 09:31,10005489613
+2026-10-17 15:11,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,,8.0,2400,52.16695,5.558916,2026-10-17 15:05,10005489988
+2026-10-17 15:11,A2,Stilstaand verkeer,'s-Hertogenbosch - Eindhoven,Tussen Vught (24) en Boxtel (26).,Ongeval(len),14.0,2800,51.607918,5.325956,2026-10-17 14:57,10005489972
+2026-10-17 15:11,A6,Stilstaand verkeer,Lelystad - Emmeloord,Tussen Lelystad-Noord (11) en de Ketelbrug.,,30.0,3000,52.610157,5.64127,2026-10-17 13:33,10005489849
+2026-10-17 15:11,A28,Stilstaand verkeer,Zwolle - Amersfoort,Tussen Wezep (17) en Epe (15).,Ongeval(len),37.0,5400,52.39967,5.870735,2026-10-17 14:18,10005489912
+2026-10-17 15:11,A58,Stilstaand verkeer,Tilburg - Breda,Tussen Bavel (13) en Ulvenhout (14).,,8.0,2700,51.543907,4.813554,2026-10-17 13:05,10005489812
+2026-10-17 15:11,A58,Stilstaand verkeer,Tilburg - Breda,Tussen Tilburg-Reeshof (12) en Bavel (13).,,8.0,2400,51.558365,4.868607,2026-10-17 15:08,10005489990
+2026-10-17 15:11,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,11.0,1800,50.81876,6.024742,2026-10-17 12:29,10005489760
+2026-10-17 15:11,A76,Stilstaand verkeer,Aken - Belgische grens,Tussen Spaubeek (3) en knooppunt Kerensheide.,Ongeval(len),10.0,2800,50.96215,5.80108,2026-10-17 15:00,10005489981
+2026-10-17 15:11,N50,Stilstaand verkeer,Emmeloord - Zwolle,Tussen Ens (33) en Kampen (32).,Extra verkeersdrukte door wegwerkzaamheden elders,38.0,8300,52.558365,5.87772,2026-10-17 09:31,10005489613
+2026-10-17 15:11,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,9.0,4400,51.861423,4.156718,2026-10-17 15:01,10005489982
