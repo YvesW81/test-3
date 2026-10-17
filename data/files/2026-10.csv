@@ -769,3 +769,15 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-17 00:57,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,6.0,2100,52.31377,7.043839,2026-10-16 20:57,10005489543
 2026-10-17 00:57,A1,Stilstaand verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,Ongeval(len),11.0,2300,52.16306,5.508517,2026-10-16 23:58,10005489560
 2026-10-17 00:57,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen Havens 5700-6200 (10) en Havens 6200-7000 (9).,Veiligheidsmaatregelen,8.0,2100,51.936703,4.124591,2026-10-16 05:59,10005487123
+2026-10-17 11:38,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,6.0,2500,52.31377,7.043839,2026-10-17 10:35,10005489641
+2026-10-17 11:38,A2,Stilstaand verkeer,Eindhoven - Maastricht,Tussen Born (47) en Urmond (48).,Wegwerkzaamheden,9.0,3700,50.994972,5.786817,2026-10-17 10:52,10005489665
+2026-10-17 11:38,A2,Stilstaand verkeer,Maastricht - Eindhoven,Tussen knooppunt Leenderheide en knooppunt Batadorp.,Afremmend verkeer als gevolg van kijkers naar ongeval(len),17.0,5800,51.43957,5.426537,2026-10-17 10:53,10005489667
+2026-10-17 11:38,A2,Stilstaand verkeer,Eindhoven - Maastricht,Tussen knooppunt Batadorp en knooppunt De Hogt.,Ongeval(len),41.0,4900,51.43983,5.42638,2026-10-17 10:54,10005489668
+2026-10-17 11:38,A7,Stilstaand verkeer,Knooppunt Zurich - Hoorn,Tussen Breezanddijk en Den Helder (14).,,12.0,3300,52.93355,5.039739,2026-10-17 11:27,10005489705
+2026-10-17 11:38,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen Beek (30) en Duiven (28).,,12.0,5700,51.945522,6.074578,2026-10-17 11:28,10005489707
+2026-10-17 11:38,A28,Stilstaand verkeer,Amersfoort - Utrecht,Tussen Utrecht-Science Park (2) en Utrecht-Centrum.,Eerder ongeval,13.0,2500,52.089073,5.149193,2026-10-17 10:37,10005489644
+2026-10-17 11:38,A28,Stilstaand verkeer,Zwolle - Amersfoort,Op de verbindingsweg van de A28 vanuit Zwolle naar de A1 richting Amsterdam.,,4.0,500,52.178528,5.42471,2026-10-17 10:59,10005489678
+2026-10-17 11:38,A58,Stilstaand verkeer,Tilburg - Breda,Tussen Bavel (13) en knooppunt Galder.,,15.0,4400,51.533127,4.786949,2026-10-17 09:48,10005489713
+2026-10-17 11:38,N2,Stilstaand verkeer,Leenderheide - Batadorp,Tussen Waalre (33) en High Tech Campus (32a).,,9.0,2300,51.40529,5.449438,2026-10-17 11:23,10005489699
+2026-10-17 11:38,N2,Langzaam rijdend verkeer,Batadorp - Leenderheide,Tussen Eindhoven-Centrum (30) en Veldhoven (31).,,3.0,2300,51.430973,5.427178,2026-10-17 11:33,10005489715
+2026-10-17 11:38,N50,Stilstaand verkeer,Emmeloord - Zwolle,Tussen Ens (33) en de Eilandbrug.,,24.0,4100,52.60325,5.847465,2026-10-17 09:31,10005489613
