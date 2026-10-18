@@ -792,3 +792,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-17 15:11,N50,Stilstaand verkeer,Emmeloord - Zwolle,Tussen Ens (33) en Kampen (32).,Extra verkeersdrukte door wegwerkzaamheden elders,38.0,8300,52.558365,5.87772,2026-10-17 09:31,10005489613
 2026-10-17 15:11,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle/Zwartewaal en Hellevoetsluis/Oudenhoorn.,,9.0,4400,51.861423,4.156718,2026-10-17 15:01,10005489982
 2026-10-17 18:28,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,,12.0,1600,50.81876,6.024742,2026-10-17 18:25,10005490120
+2026-10-18 15:36,A2,Langzaam rijdend verkeer,Maastricht - Eindhoven,Tussen knooppunt Leenderheide en knooppunt Batadorp.,Wegwerkzaamheden op aansluitende weg,5.0,3400,51.415916,5.42935,2026-10-18 13:01,10005490217
+2026-10-18 15:36,A7,Stilstaand verkeer,Ring-Sneek-West - Den Oever,Tussen Zurich (15) en de brug over de Lorentzsluis.,,12.0,3100,53.07305,5.327994,2026-10-18 15:14,10005490274
+2026-10-18 15:36,N50,Stilstaand verkeer,Emmeloord - Zwolle,Tussen Ens (33) en Kampen (32).,Extra verkeersdrukte door wegwerkzaamheden elders,16.0,5600,52.56737,5.867862,2026-10-18 14:25,10005490255
