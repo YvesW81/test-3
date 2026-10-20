@@ -933,3 +933,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-20 08:41,N35,Stilstaand verkeer,Almelo - Zwolle,Tussen Deventer en Hoonhorst.,,10.0,3800,52.477245,6.190413,2026-10-20 07:34,10005492686
 2026-10-20 08:41,N36,Stilstaand verkeer,Dedemsvaart - Almelo,Tussen Aadorp en Almelo-West.,,8.0,3000,52.359276,6.615458,2026-10-20 08:35,10005492996
 2026-10-20 08:41,N57,Stilstaand verkeer,Voorne-Putten - Rotterdam,Tussen Rockanje en Brielle/Zwartewaal.,,7.0,2300,51.871365,4.182846,2026-10-20 08:34,10005492988
+2026-10-20 14:16,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,5.0,2100,52.31377,7.043839,2026-10-20 13:41,10005493440
+2026-10-20 14:16,A2,Stilstaand verkeer,Eindhoven - Maastricht,Tussen Echt (45) en Roosteren (46).,Ongeval(len),7.0,2000,51.09137,5.836928,2026-10-20 14:13,10005493483
+2026-10-20 14:16,A4,Stilstaand verkeer,Knooppunt Sabina - Belgische grens,Tussen Tholen (26) en Hoogerheide (30).,Ongeval(len),29.0,7100,51.45577,4.313122,2026-10-20 12:57,10005493397
+2026-10-20 14:16,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Gorinchem (27) en Papendrecht (23).,Ongeval(len),52.0,11100,51.83602,4.726248,2026-10-20 13:45,10005493448
+2026-10-20 14:16,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en Dordrecht-Centrum (21).,,5.0,2200,51.78018,4.650725,2026-10-20 13:41,10005493439
+2026-10-20 14:16,A29,Langzaam rijdend verkeer,Sabina - Rotterdam,Op de verbindingsweg van de A29 vanuit Bergen op Zoom naar de A15 richting Europoort.,Wegwerkzaamheden op aansluitende weg,3.0,1500,51.865833,4.502469,2026-10-20 11:07,10005493339
+2026-10-20 14:16,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen knooppunt Hellegatsplein en Numansdorp (22).,Eerder ongeval,17.0,4600,51.747467,4.414326,2026-10-20 13:35,10005493433
+2026-10-20 14:16,A58,Stilstaand verkeer,Tilburg - Breda,Tussen Tilburg-Centrum Oost (10) en Tilburg-Reeshof (12).,Defecte vrachtwagen,35.0,8800,51.548744,4.971509,2026-10-20 10:18,10005493247
+2026-10-20 14:16,A58,Stilstaand verkeer,Breda - Tilburg,Tussen Ulvenhout (14) en Bavel (13).,Extra verkeersdrukte door wegwerkzaamheden elders,8.0,2000,51.55637,4.854733,2026-10-20 14:04,10005493472
