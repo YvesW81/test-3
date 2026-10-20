@@ -942,3 +942,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-20 14:16,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen knooppunt Hellegatsplein en Numansdorp (22).,Eerder ongeval,17.0,4600,51.747467,4.414326,2026-10-20 13:35,10005493433
 2026-10-20 14:16,A58,Stilstaand verkeer,Tilburg - Breda,Tussen Tilburg-Centrum Oost (10) en Tilburg-Reeshof (12).,Defecte vrachtwagen,35.0,8800,51.548744,4.971509,2026-10-20 10:18,10005493247
 2026-10-20 14:16,A58,Stilstaand verkeer,Breda - Tilburg,Tussen Ulvenhout (14) en Bavel (13).,Extra verkeersdrukte door wegwerkzaamheden elders,8.0,2000,51.55637,4.854733,2026-10-20 14:04,10005493472
+2026-10-20 19:17,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,5.0,2100,52.31377,7.043839,2026-10-20 13:41,10005493440
+2026-10-20 19:17,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen Zoeterwoude-Rijndijk (6A) en Leidschendam (8).,Ongeval(len),58.0,9200,52.081886,4.409914,2026-10-20 18:47,10005495031
+2026-10-20 19:17,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen knooppunt Vaanplein en knooppunt Benelux.,,6.0,3300,51.873123,4.414546,2026-10-20 17:36,10005494683
+2026-10-20 19:17,A15,Stilstaand verkeer op parallelrijbaan,Ridderkerk - Europoort,Op de parallelbaan. Tussen Rotterdam-Charlois (19) en knooppunt Benelux.,,9.0,3600,51.87415,4.399993,2026-10-20 18:14,10005494939
+2026-10-20 19:17,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen Oud-Beijerland (21) en knooppunt Vaanplein.,Wegwerkzaamheden op aansluitende weg,6.0,3100,51.857414,4.51636,2026-10-20 14:39,10005493524
