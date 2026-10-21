@@ -947,3 +947,20 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-20 19:17,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen knooppunt Vaanplein en knooppunt Benelux.,,6.0,3300,51.873123,4.414546,2026-10-20 17:36,10005494683
 2026-10-20 19:17,A15,Stilstaand verkeer op parallelrijbaan,Ridderkerk - Europoort,Op de parallelbaan. Tussen Rotterdam-Charlois (19) en knooppunt Benelux.,,9.0,3600,51.87415,4.399993,2026-10-20 18:14,10005494939
 2026-10-20 19:17,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen Oud-Beijerland (21) en knooppunt Vaanplein.,Wegwerkzaamheden op aansluitende weg,6.0,3100,51.857414,4.51636,2026-10-20 14:39,10005493524
+2026-10-21 08:57,A1,Stilstaand verkeer,Amersfoort - Amsterdam,Tussen Diemen (2) en knooppunt Watergraafsmeer.,,6.0,2300,52.344963,4.956431,2026-10-21 08:51,10005495464
+2026-10-21 08:57,A1,Langzaam rijdend verkeer,Amsterdam - Amersfoort,Tussen Blaricum (8) en Hotel/Restaurant De Witte Bergen (9a).,,5.0,2300,52.243973,5.218703,2026-10-21 08:52,10005495467
+2026-10-21 08:57,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen Kerkdriel (19) en de Martinus Nijhoffbrug.,Ongeval(len),34.0,7400,51.818424,5.260199,2026-10-21 08:33,10005495425
+2026-10-21 08:57,A6,Stilstaand verkeer,Emmeloord - Lelystad,Tussen Emmeloord-West (14) en Urk (13).,Defecte bus,14.0,2300,52.648563,5.67724,2026-10-21 08:32,10005495424
+2026-10-21 08:57,A8,Langzaam rijdend verkeer,Zaandam - Amsterdam,Tussen Zaanstad-Zuid (1) en knooppunt Coenplein.,,4.0,2100,52.424652,4.884714,2026-10-21 08:54,10005495471
+2026-10-21 08:57,A9,Langzaam rijdend verkeer,Diemen - Amstelveen,Tussen knooppunt Holendrecht en Amstelveen (4).,,8.0,3600,52.2922,4.899333,2026-10-21 08:17,10005495400
+2026-10-21 08:57,A10,Stilstaand verkeer,Knooppunt Coenplein - Knooppunt De Nieuwe Meer,Tussen Amsterdam-De Baarsjes (5) en knooppunt De Nieuwe Meer.,,9.0,2900,52.337246,4.844082,2026-10-21 08:34,10005495426
+2026-10-21 08:57,A10,Langzaam rijdend verkeer,Knooppunt Watergraafsmeer - Knooppunt De Nieuwe Meer,Tussen Amsterdam-Watergraafsmeer (13) en knooppunt Amstel.,,6.0,3300,52.329124,4.908486,2026-10-21 08:50,10005495462
+2026-10-21 08:57,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen Havens 5700-6200 (10) en Havens 6200-7000 (9).,Veiligheidsmaatregelen,5.0,2200,51.936703,4.124591,2026-10-21 05:48,10005495150
+2026-10-21 08:57,A15,Stilstaand verkeer,Ridderkerk - Gorinchem,Tussen Sliedrecht-West (24) en Hardinxveld-Giessendam (26).,Ongeval(len),20.0,4100,51.822193,4.83346,2026-10-21 08:40,10005495442
+2026-10-21 08:57,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht-Centrum (21) en Hendrik-Ido-Ambacht (23).,Ongeval(len),13.0,4800,51.833595,4.620329,2026-10-21 08:42,10005495451
+2026-10-21 08:57,A20,Stilstaand verkeer,Hoek van Holland - Gouda,Tussen Prins Alexander (16) en Moordrecht (18).,,9.0,2700,51.983555,4.6252,2026-10-21 07:40,10005495314
+2026-10-21 08:57,A27,Stilstaand verkeer,Gorinchem - Utrecht,Tussen Noordeloos (25) en Lexmond (26).,Eerder ongeval,26.0,3600,51.940376,5.004872,2026-10-21 08:07,10005495382
+2026-10-21 08:57,A29,Langzaam rijdend verkeer,Sabina - Rotterdam,Op de verbindingsweg van de A29 vanuit Bergen op Zoom naar de A15 richting Europoort.,Wegwerkzaamheden op aansluitende weg,4.0,1400,51.865833,4.502469,2026-10-21 05:48,10005495151
+2026-10-21 08:57,A29,Langzaam rijdend verkeer,Sabina - Rotterdam,Tussen Oud-Beijerland (21) en knooppunt Vaanplein.,Wegwerkzaamheden op aansluitende weg,5.0,2400,51.859135,4.516277,2026-10-21 06:18,10005495158
+2026-10-21 08:57,A58,Stilstaand verkeer,Breda - Tilburg,Tussen knooppunt Galder en knooppunt Sint Annabosch.,,17.0,6200,51.549984,4.828754,2026-10-21 06:56,10005495225
+2026-10-21 08:57,N36,Langzaam rijdend verkeer,Dedemsvaart - Almelo,Tussen Aadorp en Almelo-West.,,4.0,2400,52.357506,6.61498,2026-10-21 08:41,10005495450
