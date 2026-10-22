@@ -966,3 +966,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-21 08:57,N36,Langzaam rijdend verkeer,Dedemsvaart - Almelo,Tussen Aadorp en Almelo-West.,,4.0,2400,52.357506,6.61498,2026-10-21 08:41,10005495450
 2026-10-21 19:41,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,9.0,3000,52.31377,7.043839,2026-10-21 14:13,10005495828
 2026-10-21 19:41,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen Moordrecht (18) en Prins Alexander (16).,Spoedreparatie,27.0,4200,51.962578,4.579115,2026-10-21 17:41,10005496832
+2026-10-22 10:30,A15,Stilstaand verkeer,Ridderkerk - Gorinchem,Tussen Sliedrecht-West (24) en Hardinxveld-Giessendam (26).,,18.0,6600,51.822628,4.835472,2026-10-22 07:50,10005497249
+2026-10-22 10:30,A20,Langzaam rijdend verkeer,Hoek van Holland - Gouda,Tussen Prins Alexander (16) en Moordrecht (18).,,9.0,3800,51.986073,4.629198,2026-10-22 09:22,10005497592
+2026-10-22 10:30,A58,Langzaam rijdend verkeer,Tilburg - Breda,Tussen Tilburg-Centrum Oost (10) en Tilburg-Reeshof (12).,,7.0,4100,51.538677,5.008939,2026-10-22 10:05,10005497652
+2026-10-22 10:30,A58,Langzaam rijdend verkeer,Breda - Tilburg,Tussen Ulvenhout (14) en Tilburg-Reeshof (12).,,6.0,3400,51.557278,4.861126,2026-10-22 10:23,10005497668
+2026-10-22 10:30,A58,Langzaam rijdend verkeer,Tilburg - Breda,Tussen Tilburg-Centrum West (11) en Bavel (13).,,7.0,4000,51.552513,4.939072,2026-10-22 10:27,10005497672
