@@ -1045,3 +1045,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-22 16:04,A325,Langzaam rijdend verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Velperbroek.,,16.0,6600,51.98133,5.978122,2026-10-22 15:11,10005498159
 2026-10-22 16:04,N35,Langzaam rijdend verkeer,Zwolle - Almelo,Tussen Haarle en NS Nijverdal-West/Holterberg.,,5.0,3500,52.36714,6.442953,2026-10-22 16:00,10005498397
 2026-10-22 20:28,A67,Stilstaand verkeer,Venlo - Eindhoven,Tussen Geldrop (34) en Leenderheide/Randweg N2.,Wegwerkzaamheden,8.0,3000,51.405,5.516846,2026-10-22 20:16,10005499517
+2026-10-23 07:09,A1,Stilstaand verkeer,Hengelo - Apeldoorn,Tussen knooppunt Azelo en Rijssen (28).,Wegwerkzaamheden,13.0,2900,52.293144,6.640859,2026-10-23 06:30,10005499604
+2026-10-23 07:09,A12,Stilstaand verkeer,Utrecht - Arnhem,Tussen Oosterbeek (25) en knooppunt Waterberg.,Brandend voertuig,28.0,4600,52.02542,5.874444,2026-10-23 06:30,10005499603
+2026-10-23 07:09,A12,Langzaam rijdend verkeer,Arnhem - Utrecht,Tussen knooppunt Waterberg en knooppunt Grijsoord.,,5.0,3000,52.025997,5.872882,2026-10-23 07:03,10005499621
+2026-10-23 07:09,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen Havens 5700-6200 (10) en Havens 6200-7000 (9).,Veiligheidsmaatregelen,8.0,2300,51.936703,4.124591,2026-10-23 05:54,10005499594
+2026-10-23 07:09,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Gorinchem (27) en Sliedrecht-West (24).,Defecte vrachtwagen,70.0,10700,51.826324,4.789542,2026-10-23 06:09,10005499596
+2026-10-23 07:09,A29,Stilstaand verkeer,Sabina - Rotterdam,Op de verbindingsweg van de A29 vanuit Bergen op Zoom naar de A15 richting Europoort.,Wegwerkzaamheden op aansluitende weg,7.0,1500,51.865833,4.502469,2026-10-23 05:56,10005499595
+2026-10-23 07:09,A50,Stilstaand verkeer,Oss - Arnhem,Op de verbindingsweg van de A50 vanuit Eindhoven naar de A12 richting Arnhem.,Incident op aansluitende weg,10.0,900,52.026405,5.827753,2026-10-23 06:39,10005499608
