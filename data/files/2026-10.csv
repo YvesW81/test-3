@@ -1214,3 +1214,24 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-24 11:09,A12,Langzaam rijdend verkeer,Den Haag - Utrecht,Tussen Harmelen (14a) en De Meern (15).,,5.0,3900,52.0733,5.026376,2026-10-24 11:03,10005502468
 2026-10-24 11:09,A27,Stilstaand verkeer,Gorinchem - Utrecht,Tussen Lexmond (26) en knooppunt Everdingen.,Wegwerkzaamheden,9.0,2700,51.967052,5.092504,2026-10-24 10:10,10005502438
 2026-10-24 11:09,A50,Stilstaand verkeer,Zwolle - Apeldoorn,Tussen knooppunt Hattemerbroek en Hattem (30).,,11.0,2100,52.464546,6.036322,2026-10-24 10:59,10005502464
+2026-10-24 15:17,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,6.0,2700,52.31377,7.043839,2026-10-24 12:20,10005502574
+2026-10-24 15:17,A1,Stilstaand verkeer,Amersfoort - Amsterdam,Tussen knooppunt Diemen en knooppunt Watergraafsmeer.,,9.0,3600,52.352318,4.963194,2026-10-24 14:02,10005502775
+2026-10-24 15:17,A1,Stilstaand verkeer,Hengelo - Apeldoorn,Tussen knooppunt Azelo en Rijssen (28).,,12.0,2100,52.293144,6.640859,2026-10-24 14:25,10005502819
+2026-10-24 15:17,A2,Langzaam rijdend verkeer,Utrecht - Amsterdam,Op de verbindingsweg van de A2 vanuit Utrecht naar de A10 richting Den Haag.,,4.0,1800,52.330402,4.904622,2026-10-24 14:20,10005502813
+2026-10-24 15:17,A2,Stilstaand verkeer,Utrecht - Amsterdam,Tussen Abcoude (3) en knooppunt Amstel.,,16.0,5400,52.31975,4.916184,2026-10-24 14:30,10005502827
+2026-10-24 15:17,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Op de verbindingsweg van de A2 vanuit 's-Hertogenbosch naar de A12 richting Arnhem.,,6.0,700,52.063625,5.076874,2026-10-24 14:45,10005502862
+2026-10-24 15:17,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Tussen Everdingen (12) en knooppunt Everdingen.,Wegwerkzaamheden op aansluitende weg,6.0,2800,51.96088,5.118636,2026-10-24 14:53,10005502876
+2026-10-24 15:17,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Op de verbindingsweg van de A2 vanuit Amsterdam naar de A12 richting Arnhem.,,3.0,900,52.061695,5.0867257,2026-10-24 14:56,10005502874
+2026-10-24 15:17,A2,Stilstaand verkeer,Eindhoven - Maastricht,Tussen knooppunt Batadorp en knooppunt De Hogt.,Ongeval(len),13.0,2400,51.452038,5.421618,2026-10-24 15:09,10005502898
+2026-10-24 15:17,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen Schiphol (2) en knooppunt De Nieuwe Meer.,Extra verkeersdrukte door wegwerkzaamheden elders,17.0,5500,52.337193,4.846571,2026-10-24 13:22,10005502705
+2026-10-24 15:17,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen knooppunt De Nieuwe Meer en knooppunt Badhoevedorp.,Extra verkeersdrukte door wegwerkzaamheden elders,9.0,2900,52.333534,4.803344,2026-10-24 15:10,10005502901
+2026-10-24 15:17,A5,Langzaam rijdend verkeer,Hoofddorp - Amsterdam,Tussen knooppunt Raasdorp en IJmuiden (2).,,4.0,2400,52.391853,4.774413,2026-10-24 15:14,10005502907
+2026-10-24 15:17,A10,Langzaam rijdend verkeer,Knooppunt Watergraafsmeer - Knooppunt De Nieuwe Meer,Tussen Amsterdam-Centrum (12) en Amsterdam-Rivierenbuurt (9).,,9.0,3800,52.336697,4.892254,2026-10-24 14:33,10005502833
+2026-10-24 15:17,A10,Langzaam rijdend verkeer,Knooppunt Amstel - Knooppunt Coenplein,Tussen knooppunt Watergraafsmeer en Durgerdam (15).,,4.0,2600,52.375233,4.974231,2026-10-24 14:48,10005502861
+2026-10-24 15:17,A10,Langzaam rijdend verkeer,Knooppunt Coenplein - Knooppunt Amstel,Tussen Amsterdam-Slotervaart (7) en Amsterdam-Rivierenbuurt (9).,,5.0,2300,52.338318,4.868835,2026-10-24 15:04,10005502886
+2026-10-24 15:17,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,,5.0,2500,51.944893,6.076422,2026-10-24 12:20,10005502573
+2026-10-24 15:17,A12,Stilstaand verkeer op parallelrijbaan,Utrecht - Den Haag,Op de parallelbaan. Tussen Houten (18) en knooppunt Oudenrijn.,Extra verkeersdrukte door wegwerkzaamheden elders,11.0,3700,52.065216,5.072568,2026-10-24 12:37,10005502613
+2026-10-24 15:17,A12,Langzaam rijdend verkeer op parallelrijbaan,Den Haag - Utrecht,Op de parallelbaan. Tussen knooppunt Oudenrijn en knooppunt Lunetten.,,9.0,4200,52.05435,5.134976,2026-10-24 15:03,10005502885
+2026-10-24 15:17,A12,Langzaam rijdend verkeer,Arnhem - Den Haag,Tussen Bunnik (19) en knooppunt Oudenrijn.,,9.0,6900,52.064125,5.076307,2026-10-24 15:09,10005502897
+2026-10-24 15:17,A50,Stilstaand verkeer,Arnhem - Oss,Tussen knooppunt Valburg en knooppunt Ewijk.,,8.0,2700,51.861885,5.71573,2026-10-24 15:08,10005502896
+2026-10-24 15:17,A58,Stilstaand verkeer,Tilburg - Breda,Tussen Tilburg-Centrum West (11) en Bavel (13).,Eerder ongeval,16.0,2700,51.55313,4.924264,2026-10-24 14:25,10005502820
