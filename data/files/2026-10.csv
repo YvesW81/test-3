@@ -1235,3 +1235,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-24 15:17,A12,Langzaam rijdend verkeer,Arnhem - Den Haag,Tussen Bunnik (19) en knooppunt Oudenrijn.,,9.0,6900,52.064125,5.076307,2026-10-24 15:09,10005502897
 2026-10-24 15:17,A50,Stilstaand verkeer,Arnhem - Oss,Tussen knooppunt Valburg en knooppunt Ewijk.,,8.0,2700,51.861885,5.71573,2026-10-24 15:08,10005502896
 2026-10-24 15:17,A58,Stilstaand verkeer,Tilburg - Breda,Tussen Tilburg-Centrum West (11) en Bavel (13).,Eerder ongeval,16.0,2700,51.55313,4.924264,2026-10-24 14:25,10005502820
+2026-10-24 18:41,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Tussen Everdingen (12) en knooppunt Everdingen.,Wegwerkzaamheden op aansluitende weg,4.0,2100,51.95939,5.120148,2026-10-24 14:53,10005502876
+2026-10-24 18:41,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen knooppunt Badhoevedorp en knooppunt De Nieuwe Meer.,,7.0,4300,52.337193,4.846571,2026-10-24 16:21,10005503000
+2026-10-24 18:41,A4,Stilstaand verkeer,Rotterdam - Den Haag,Tussen knooppunt Benelux en de Beneluxtunnel.,Ongeval(len),10.0,3100,51.90406,4.370762,2026-10-24 18:30,10005503100
+2026-10-24 18:41,A12,Stilstaand verkeer op parallelrijbaan,Den Haag - Utrecht,Op de parallelbaan. Tussen Kanaleneiland (17) en knooppunt Lunetten.,Wegwerkzaamheden op aansluitende weg,6.0,2300,52.05453,5.133571,2026-10-24 15:03,10005502885
+2026-10-24 18:41,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1800,50.81876,6.024742,2026-10-24 16:40,10005503021
