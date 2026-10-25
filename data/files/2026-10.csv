@@ -1250,3 +1250,9 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-25 13:06,A12,Stilstaand verkeer,Arnhem - Duitse grens,Tussen knooppunt Velperbroek en Duiven (28).,,7.0,2900,51.962685,6.015905,2026-10-25 12:31,10005503292
 2026-10-25 13:06,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht (20) en Dordrecht-Centrum (21).,Schade aan wegmeubilair,6.0,2300,51.788517,4.649708,2026-10-25 11:56,10005503258
 2026-10-25 13:06,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Valburg en knooppunt Ewijk.,Wegwerkzaamheden op aansluitende weg,4.0,2900,51.849693,5.701695,2026-10-25 12:36,10005503301
+2026-10-25 17:07,A1,Stilstaand verkeer,Hengelo - Apeldoorn,Tussen knooppunt Azelo en Rijssen (28).,,8.0,2100,52.292652,6.6381,2026-10-25 16:55,10005503542
+2026-10-25 17:07,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen Kerkdriel (19) en knooppunt Empel.,Gekantelde vrachtwagen,4.0,2200,51.730026,5.314725,2026-10-25 15:46,10005503484
+2026-10-25 17:07,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen knooppunt Badhoevedorp en knooppunt De Nieuwe Meer.,Extra verkeersdrukte door wegwerkzaamheden elders,9.0,4800,52.337193,4.846571,2026-10-25 12:20,10005503280
+2026-10-25 17:07,A10,Langzaam rijdend verkeer,Knooppunt Coenplein - Knooppunt Amstel,Tussen knooppunt De Nieuwe Meer en de Rozenoordbrug.,,7.0,4000,52.332977,4.897326,2026-10-25 16:49,10005503534
+2026-10-25 17:07,A10,Langzaam rijdend verkeer,Knooppunt Amstel - Knooppunt De Nieuwe Meer,Tussen knooppunt Amstel en Amsterdam-Oud Zuid (8).,,7.0,4700,52.33875,4.858561,2026-10-25 17:00,10005503545
+2026-10-25 17:07,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1900,50.81876,6.024742,2026-10-25 14:31,10005503417
