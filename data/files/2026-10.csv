@@ -1240,3 +1240,13 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-24 18:41,A4,Stilstaand verkeer,Rotterdam - Den Haag,Tussen knooppunt Benelux en de Beneluxtunnel.,Ongeval(len),10.0,3100,51.90406,4.370762,2026-10-24 18:30,10005503100
 2026-10-24 18:41,A12,Stilstaand verkeer op parallelrijbaan,Den Haag - Utrecht,Op de parallelbaan. Tussen Kanaleneiland (17) en knooppunt Lunetten.,Wegwerkzaamheden op aansluitende weg,6.0,2300,52.05453,5.133571,2026-10-24 15:03,10005502885
 2026-10-24 18:41,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1800,50.81876,6.024742,2026-10-24 16:40,10005503021
+2026-10-25 13:06,A1,Stilstaand verkeer,Hengelo - Apeldoorn,Tussen knooppunt Azelo en Rijssen (28).,Wegwerkzaamheden,7.0,2200,52.293144,6.640859,2026-10-25 12:19,10005503278
+2026-10-25 13:06,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,20.0,2500,52.31377,7.043839,2026-10-25 12:50,10005503313
+2026-10-25 13:06,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Tussen Everdingen (12) en knooppunt Everdingen.,,6.0,2500,51.959763,5.119768,2026-10-25 12:42,10005503308
+2026-10-25 13:06,A2,Langzaam rijdend verkeer,Utrecht - Amsterdam,Tussen Abcoude (3) en knooppunt Holendrecht.,Wegwerkzaamheden op aansluitende weg,4.0,2000,52.293755,4.941747,2026-10-25 13:01,10005503323
+2026-10-25 13:06,A4,Langzaam rijdend verkeer,Amsterdam - Den Haag,Tussen knooppunt De Nieuwe Meer en knooppunt Badhoevedorp.,Wegwerkzaamheden op aansluitende weg,5.0,3200,52.332924,4.802345,2026-10-25 10:47,10005503234
+2026-10-25 13:06,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen knooppunt Badhoevedorp en knooppunt De Nieuwe Meer.,Extra verkeersdrukte door wegwerkzaamheden elders,11.0,5000,52.337193,4.846571,2026-10-25 12:20,10005503280
+2026-10-25 13:06,A7,Stilstaand verkeer,Hoorn - Zaanstad,Tussen Avenhorn (7) en Purmerend-Noord (6).,,18.0,3900,52.553356,4.960656,2026-10-25 12:21,10005503281
+2026-10-25 13:06,A12,Stilstaand verkeer,Arnhem - Duitse grens,Tussen knooppunt Velperbroek en Duiven (28).,,7.0,2900,51.962685,6.015905,2026-10-25 12:31,10005503292
+2026-10-25 13:06,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht (20) en Dordrecht-Centrum (21).,Schade aan wegmeubilair,6.0,2300,51.788517,4.649708,2026-10-25 11:56,10005503258
+2026-10-25 13:06,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Valburg en knooppunt Ewijk.,Wegwerkzaamheden op aansluitende weg,4.0,2900,51.849693,5.701695,2026-10-25 12:36,10005503301
