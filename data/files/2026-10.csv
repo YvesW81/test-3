@@ -1344,3 +1344,14 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-26 07:56,N36,Langzaam rijdend verkeer,Dedemsvaart - Almelo,Tussen Almelo-Noord en Almelo-West.,,13.0,5600,52.36105,6.615882,2026-10-26 07:26,10005503885
 2026-10-26 07:56,N57,Langzaam rijdend verkeer,Voorne-Putten - Rotterdam,Tussen Rockanje en A15: Brielle.,,12.0,6400,51.90292,4.212706,2026-10-26 06:20,10005503636
 2026-10-26 07:56,N434,Langzaam rijdend verkeer,Wassenaar - Zoeterwoude,Tussen knooppunt Ommedijk en knooppunt Hofvliet.,,8.0,3600,52.125263,4.472725,2026-10-26 07:36,10005503954
+2026-10-26 14:55,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,7.0,3600,52.31377,7.043839,2026-10-26 14:33,10005504746
+2026-10-26 14:55,A12,Langzaam rijdend verkeer,Duitse grens - Arnhem,Tussen knooppunt Oud-Dijk en Duiven (28).,,8.0,4700,51.94611,6.072719,2026-10-26 12:01,10005504697
+2026-10-26 14:55,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen Havens 5500-5700 (11) en Havens 6200-7000 (9).,,9.0,3200,51.93737,4.121282,2026-10-26 14:15,10005504737
+2026-10-26 14:55,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen knooppunt Ridderkerk-Noord en de Van Brienenoordbrug.,Defect voertuig,14.0,3300,51.902283,4.544169,2026-10-26 14:42,10005504754
+2026-10-26 14:55,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Terbregseplein en de Giessenbrug.,,7.0,2900,51.927464,4.429053,2026-10-26 14:30,10005504743
+2026-10-26 14:55,A28,Stilstaand verkeer,Zwolle - Amersfoort,Tussen Harderwijk-Zuid (11) en Strand Nulde (10).,Defecte vrachtwagen,15.0,3700,52.26494,5.533499,2026-10-26 14:20,10005504740
+2026-10-26 14:55,A28,Langzaam rijdend verkeer,Utrecht - Amersfoort,Tussen Leusden-Zuid (6) en Amersfoort (8).,,4.0,2100,52.15397,5.417113,2026-10-26 14:52,10005504763
+2026-10-26 14:55,A50,Stilstaand verkeer,Apeldoorn - Zwolle,Tussen Heerde (29) en Hattem (30).,,9.0,3200,52.4577,6.03372,2026-10-26 14:36,10005504749
+2026-10-26 14:55,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Technische storing,7.0,3100,52.04168,5.933365,2026-10-26 14:40,10005504753
+2026-10-26 14:55,A58,Langzaam rijdend verkeer,Breda - Tilburg,Tussen knooppunt Galder en Ulvenhout (14).,,5.0,2400,51.536346,4.796519,2026-10-26 14:49,10005504761
+2026-10-26 14:55,A76,Stilstaand verkeer,Geleen - Keulen,Tussen knooppunt Kunderberg en Duitsland.,Door grenscontrole,9.0,2700,50.81876,6.024742,2026-10-26 14:15,10005504738
