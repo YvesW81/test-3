@@ -1437,3 +1437,17 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-27 08:57,A325,Langzaam rijdend verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Velperbroek.,,13.0,5800,51.98133,5.978122,2026-10-27 08:25,10005506935
 2026-10-27 08:57,N36,Langzaam rijdend verkeer,Dedemsvaart - Almelo,Tussen Aadorp en Almelo-West.,,8.0,3700,52.359276,6.615458,2026-10-27 08:46,10005507124
 2026-10-27 08:57,N434,Langzaam rijdend verkeer,Wassenaar - Zoeterwoude,Tussen knooppunt Ommedijk en knooppunt Hofvliet.,,7.0,3700,52.125263,4.472725,2026-10-27 08:31,10005506999
+2026-10-27 15:05,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,5.0,2200,52.31377,7.043839,2026-10-27 13:05,10005507458
+2026-10-27 15:05,A1,Langzaam rijdend verkeer,Amersfoort - Apeldoorn,Tussen Voorthuizen (16) en Stroe (17).,,6.0,4300,52.18778,5.68274,2026-10-27 15:00,10005507526
+2026-10-27 15:05,A4,Langzaam rijdend verkeer,Amsterdam - Rotterdam,Tussen knooppunt Hofvliet en Rijswijk-Plaspoelpolder (10).,,15.0,6700,52.037773,4.33844,2026-10-27 14:46,10005507506
+2026-10-27 15:05,A4,Langzaam rijdend verkeer,Amsterdam - Den Haag,Tussen Hoofddorp-Zuid (3a) en Ringvaart-Aquaduct.,,7.0,3600,52.22782,4.64033,2026-10-27 14:52,10005507519
+2026-10-27 15:05,A4,Langzaam rijdend verkeer,Amsterdam - Den Haag,Tussen knooppunt Hofvliet en Leidschendam (8).,,4.0,2100,52.093006,4.429176,2026-10-27 14:59,10005507524
+2026-10-27 15:05,A12,Langzaam rijdend verkeer,Arnhem - Duitse grens,Tussen Westervoort (27) en Zevenaar (29).,,3.0,2000,51.957314,6.036191,2026-10-27 15:02,10005507527
+2026-10-27 15:05,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen Havens 5500-5700 (11) en Havens 6200-7000 (9).,,12.0,3600,51.938896,4.117268,2026-10-27 14:15,10005507480
+2026-10-27 15:05,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Zwijndrecht (22) en knooppunt Ridderkerk-Zuid.,,5.0,3300,51.842197,4.612043,2026-10-27 14:58,10005507523
+2026-10-27 15:05,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen knooppunt Terbregseplein en de Giessenbrug.,,8.0,2900,51.92793,4.430193,2026-10-27 14:51,10005507515
+2026-10-27 15:05,A20,Langzaam rijdend verkeer,Hoek van Holland - Gouda,Tussen Prins Alexander (16) en Nieuwerkerk aan den IJssel (17).,,4.0,2100,51.98205,4.622666,2026-10-27 14:55,10005507521
+2026-10-27 15:05,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,8.0,2300,51.997955,4.647881,2026-10-27 15:02,10005507528
+2026-10-27 15:05,A27,Langzaam rijdend verkeer,Almere - Gorinchem,Tussen Utrecht-Noord (31) en knooppunt Rijnsweerd.,,5.0,2800,52.08641,5.162286,2026-10-27 14:49,10005507511
+2026-10-27 15:05,A325,Langzaam rijdend verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Velperbroek.,Eerder pechgeval,12.0,5800,51.98133,5.978122,2026-10-27 13:44,10005507471
+2026-10-27 15:05,N57,Stilstaand verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,11.0,3000,51.85744,4.124384,2026-10-27 14:46,10005507507
