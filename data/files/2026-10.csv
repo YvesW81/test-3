@@ -1578,3 +1578,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-29 06:42,A29,Langzaam rijdend verkeer,Sabina - Rotterdam,Tussen Numansdorp (22) en Oud-Beijerland (21).,,5.0,2400,51.776566,4.420927,2026-10-29 06:38,10005511669
 2026-10-29 06:42,A50,Stilstaand verkeer,Eindhoven - Arnhem,Tussen Oss-Oost (16) en Ravenstein (17).,,11.0,2800,51.753227,5.621422,2026-10-29 06:38,10005511672
 2026-10-29 06:42,A50,Stilstaand verkeer,Apeldoorn - Arnhem,Tussen Schaarsbergen (21) en knooppunt Waterberg.,,16.0,2900,52.01816,5.909513,2026-10-29 06:38,10005511671
+2026-10-29 12:48,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,9.0,4400,52.31377,7.043839,2026-10-29 11:34,10005512914
+2026-10-29 12:48,A73,Stilstaand verkeer,Nijmegen - Maasbracht,Tussen Horst-Noord (10) en Grubbenvorst (12).,Defecte vrachtwagen,9.0,2600,51.44359,6.076937,2026-10-29 12:37,10005512934
