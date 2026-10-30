@@ -1696,3 +1696,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-30 15:33,A325,Langzaam rijdend verkeer,Nijmegen - Knooppunt Velperbroek,Tussen Elden en Kronenburg.,,5.0,2100,51.96278,5.897284,2026-10-30 14:46,10005515447
 2026-10-30 15:33,N44,Stilstaand verkeer,Amsterdam - Den Haag,Tussen knooppunt Ommedijk en Voorschoten.,,16.0,2200,52.141827,4.414984,2026-10-30 15:17,10005515612
 2026-10-30 15:33,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,7.0,2600,51.857746,4.129026,2026-10-30 15:17,10005515616
+2026-10-30 20:39,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen Uitgeest (10) en Akersloot (11).,Politieonderzoek,34.0,3200,52.54591,4.720011,2026-10-30 18:06,10005516689
+2026-10-30 20:39,A9,Stilstaand verkeer,Den Helder - Amstelveen,Tussen Kooimeerplein en Akersloot (11).,Politieonderzoek,13.0,2100,52.592102,4.723088,2026-10-30 18:35,10005516732
