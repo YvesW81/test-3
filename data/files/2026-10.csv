@@ -1698,3 +1698,16 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-10-30 15:33,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen Brielle-Noord en Hellevoetsluis/Oudenhoorn.,,7.0,2600,51.857746,4.129026,2026-10-30 15:17,10005515616
 2026-10-30 20:39,A9,Stilstaand verkeer,Amstelveen - Alkmaar,Tussen Uitgeest (10) en Akersloot (11).,Politieonderzoek,34.0,3200,52.54591,4.720011,2026-10-30 18:06,10005516689
 2026-10-30 20:39,A9,Stilstaand verkeer,Den Helder - Amstelveen,Tussen Kooimeerplein en Akersloot (11).,Politieonderzoek,13.0,2100,52.592102,4.723088,2026-10-30 18:35,10005516732
+2026-10-31 15:48,A4,Langzaam rijdend verkeer,Den Haag - Rotterdam,Tussen Vlaardingen-Oost (16) en knooppunt Benelux.,,6.0,3100,51.88315,4.381647,2026-10-31 15:06,10005517189
+2026-10-31 15:48,A4,Stilstaand verkeer,Den Haag - Rotterdam,Tussen Rijswijk (11) en Slinksloot.,,14.0,5300,51.97555,4.336162,2026-10-31 15:11,10005517196
+2026-10-31 15:48,A12,Stilstaand verkeer op parallelrijbaan,Utrecht - Den Haag,Op de parallelbaan. Tussen knooppunt Lunetten en knooppunt Oudenrijn.,Extra verkeersdrukte door wegwerkzaamheden elders,14.0,4800,52.065342,5.071991,2026-10-31 12:14,10005516961
+2026-10-31 15:48,A12,Stilstaand verkeer,Arnhem - Den Haag,Tussen Bunnik (19) en knooppunt Oudenrijn.,Extra verkeersdrukte door wegwerkzaamheden elders,21.0,7600,52.062363,5.083626,2026-10-31 15:22,10005517214
+2026-10-31 15:48,A12,Stilstaand verkeer,Utrecht - Den Haag,Op de verbindingsweg van de A12 vanuit Arnhem naar de A2 richting Amsterdam.,,3.0,400,52.072166,5.072734,2026-10-31 15:43,10005517249
+2026-10-31 15:48,A15,Langzaam rijdend verkeer,Gorinchem - Ridderkerk,Tussen Hardinxveld-Giessendam (26) en Sliedrecht-West (24).,,12.0,5100,51.82846,4.769938,2026-10-31 14:39,10005517147
+2026-10-31 15:48,A15,Stilstaand verkeer,Nijmegen - Gorinchem,Tussen Tiel (33) en Wadenoijen (31).,Ongeval(len),12.0,4200,51.882374,5.362744,2026-10-31 15:27,10005517222
+2026-10-31 15:48,A15,Stilstaand verkeer,Europoort - Ridderkerk,Op de verbindingsweg van de A15 vanuit Europoort naar de A16 richting Rotterdam.,,4.0,500,51.878033,4.569121,2026-10-31 15:43,10005517252
+2026-10-31 15:48,A16,Stilstaand verkeer op parallelrijbaan,Rotterdam - Breda,Op de parallelbaan. Tussen Rotterdam-Kralingen (26) en Rotterdam-Feijenoord (24).,,25.0,4400,51.893684,4.558517,2026-10-31 14:33,10005517134
+2026-10-31 15:48,A27,Stilstaand verkeer,Gorinchem - Utrecht,Tussen Lexmond (26) en knooppunt Everdingen.,Wegwerkzaamheden,8.0,2500,51.967403,5.092942,2026-10-31 15:41,10005517245
+2026-10-31 15:48,A50,Stilstaand verkeer,Oss - Arnhem,Tussen knooppunt Ewijk en de Tacitusbrug.,Wegwerkzaamheden,12.0,2400,51.86979,5.725703,2026-10-31 15:32,10005517230
+2026-10-31 15:48,A58,Stilstaand verkeer,Tilburg - Breda,Tussen Tilburg-Reeshof (12) en Bavel (13).,,10.0,2300,51.558136,4.86656,2026-10-31 15:40,10005517244
+2026-10-31 15:48,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,2100,50.81876,6.024742,2026-10-31 13:24,10005517023
