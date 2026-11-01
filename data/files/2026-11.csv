@@ -1,0 +1,5 @@
+tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,start_tijd,file_id
+2026-11-01 15:24,A12,Stilstaand verkeer op parallelrijbaan,Utrecht - Den Haag,Op de parallelbaan. Tussen Houten (18) en knooppunt Oudenrijn.,Extra verkeersdrukte door wegwerkzaamheden elders,12.0,3600,52.067955,5.07268,2026-11-01 15:11,10005517596
+2026-11-01 15:24,A50,Stilstaand verkeer,Oss - Arnhem,Tussen knooppunt Ewijk en de Tacitusbrug.,Wegwerkzaamheden,11.0,2200,51.86979,5.725703,2026-11-01 14:18,10005517570
+2026-11-01 15:24,A58,Stilstaand verkeer,Vlissingen - Bergen op Zoom,Tussen Kapelle (35) en de Vlaketunnel.,Bergingswerkzaamheden,10.0,2400,51.466774,3.998861,2026-11-01 15:10,10005517594
+2026-11-01 15:24,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1600,50.81876,6.024742,2026-11-01 14:56,10005517585
