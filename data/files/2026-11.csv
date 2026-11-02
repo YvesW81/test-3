@@ -3,3 +3,19 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-01 15:24,A50,Stilstaand verkeer,Oss - Arnhem,Tussen knooppunt Ewijk en de Tacitusbrug.,Wegwerkzaamheden,11.0,2200,51.86979,5.725703,2026-11-01 14:18,10005517570
 2026-11-01 15:24,A58,Stilstaand verkeer,Vlissingen - Bergen op Zoom,Tussen Kapelle (35) en de Vlaketunnel.,Bergingswerkzaamheden,10.0,2400,51.466774,3.998861,2026-11-01 15:10,10005517594
 2026-11-01 15:24,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1600,50.81876,6.024742,2026-11-01 14:56,10005517585
+2026-11-02 09:46,A2,Stilstaand verkeer op parallelrijbaan,'s-Hertogenbosch - Utrecht,Op de parallelbaan. Tussen Veghel (21) en de Maasbrug.,,18.0,5700,51.731255,5.313449,2026-11-02 06:11,10005517723
+2026-11-02 09:46,A2,Langzaam rijdend verkeer,Maastricht - Eindhoven,Tussen knooppunt Leenderheide en knooppunt Batadorp.,Ongeval(len),6.0,3600,51.424698,5.428247,2026-11-02 07:11,10005517941
+2026-11-02 09:46,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Tussen Rosmalen-West (20) en de Martinus Nijhoffbrug.,,25.0,11000,51.795086,5.258371,2026-11-02 09:10,10005518944
+2026-11-02 09:46,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen knooppunt Burgerveen en Hoofddorp-Zuid (3a).,,4.0,2400,52.26414,4.692483,2026-11-02 09:43,10005519024
+2026-11-02 09:46,A9,Stilstaand verkeer,Diemen - Amstelveen,Ter hoogte van knooppunt Diemen.,,9.0,2100,52.32332,5.003992,2026-11-02 08:18,10005519023
+2026-11-02 09:46,A15,Stilstaand verkeer op parallelrijbaan,Europoort - Ridderkerk,Op de parallelbaan. Tussen knooppunt Benelux en Rotterdam-Heijplaat (18).,,14.0,2900,51.87092,4.428124,2026-11-02 07:07,10005517924
+2026-11-02 09:46,A15,Stilstaand verkeer op parallelrijbaan,Ridderkerk - Europoort,Op de parallelbaan. Tussen knooppunt Vaanplein en Rotterdam-Charlois (19).,,7.0,2500,51.864925,4.494952,2026-11-02 08:32,10005518679
+2026-11-02 09:46,A15,Stilstaand verkeer op parallelrijbaan,Ridderkerk - Europoort,Op de parallelbaan. Tussen knooppunt Vaanplein en Rotterdam-Charlois (19).,,9.0,2400,51.86747,4.443125,2026-11-02 09:37,10005519014
+2026-11-02 09:46,A27,Langzaam rijdend verkeer,Almere - Gorinchem,Tussen Utrecht-Noord (31) en knooppunt Rijnsweerd.,,5.0,2900,52.08641,5.162286,2026-11-02 06:54,10005517867
+2026-11-02 09:46,A29,Stilstaand verkeer,Sabina - Rotterdam,Op de verbindingsweg van de A29 vanuit Bergen op Zoom naar de A15 richting Europoort.,,6.0,1500,51.865833,4.502469,2026-11-02 08:27,10005518639
+2026-11-02 09:46,A29,Langzaam rijdend verkeer,Sabina - Rotterdam,Tussen Oud-Beijerland (21) en knooppunt Vaanplein.,,5.0,2500,51.858307,4.516323,2026-11-02 09:39,10005519019
+2026-11-02 09:46,A30,Stilstaand verkeer,Lunteren - Ede,Tussen Ede-Noord (2) en knooppunt Maanderbroek.,Ongevalsonderzoek,12.0,1800,52.02987,5.612542,2026-11-02 07:42,10005518173
+2026-11-02 09:46,A50,Langzaam rijdend verkeer,Oss - Arnhem,Tussen knooppunt Ewijk en knooppunt Valburg.,,7.0,3700,51.90393,5.762478,2026-11-02 06:47,10005517835
+2026-11-02 09:46,A50,Stilstaand verkeer,Oss - Arnhem,Tussen knooppunt Bankhoef en knooppunt Ewijk.,,10.0,3000,51.855137,5.707792,2026-11-02 09:36,10005519013
+2026-11-02 09:46,A58,Stilstaand verkeer,Tilburg - Breda,Tussen Tilburg-Reeshof (12) en Bavel (13).,Wegwerkzaamheden,15.0,5600,51.557976,4.865211,2026-11-02 06:01,10005517715
+2026-11-02 09:46,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Op de verbindingsweg van de A59 vanuit Waalwijk naar de A2 richting Utrecht.,,7.0,1200,51.72585,5.32191,2026-11-02 06:14,10005517730
