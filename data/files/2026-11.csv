@@ -139,3 +139,17 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-03 17:19,N57,Langzaam rijdend verkeer,Rotterdam - Voorne-Putten,Tussen A15: Brielle en Hellevoetsluis/Oudenhoorn.,,6.0,2700,51.88344,4.193841,2026-11-03 17:10,10005522890
 2026-11-03 17:19,N65,Stilstaand verkeer,'s-Hertogenbosch - Oisterwijk,Tussen knooppunt Vught en A65: Vught.,,10.0,2775,51.656036,5.286318,2026-11-03 16:39,10005522571
 2026-11-03 17:19,N434,Stilstaand verkeer,Wassenaar - Zoeterwoude,Tussen de Corbulotunnel en knooppunt Hofvliet.,,7.0,2500,52.125263,4.472725,2026-11-03 15:48,10005522198
+2026-11-04 09:30,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen knooppunt Badhoevedorp en knooppunt De Nieuwe Meer.,,8.0,5100,52.337193,4.846571,2026-11-04 08:54,10005524052
+2026-11-04 09:30,A4,Stilstaand verkeer,Den Haag - Rotterdam,Tussen Rijswijk (11) en Slinksloot.,,19.0,6200,51.970104,4.340824,2026-11-04 09:07,10005524103
+2026-11-04 09:30,A7,Stilstaand verkeer,Hoorn - Zaanstad,Tussen Purmerend (5) en knooppunt Zaandam.,,23.0,8900,52.458874,4.84665,2026-11-04 09:01,10005524080
+2026-11-04 09:30,A8,Langzaam rijdend verkeer,Zaandam - Amsterdam,Tussen Zaanstad-Assendelft (4) en Zaanstad-Zuid (1).,,10.0,4200,52.43203,4.867468,2026-11-04 08:05,10005523818
+2026-11-04 09:30,A10,Stilstaand verkeer,Knooppunt Watergraafsmeer - Knooppunt Amstel,Tussen knooppunt Watergraafsmeer en Amsterdam-Overamstel (11).,,9.0,2400,52.33273,4.929574,2026-11-04 08:42,10005523992
+2026-11-04 09:30,A10,Stilstaand verkeer,Knooppunt Watergraafsmeer - Knooppunt De Nieuwe Meer,Tussen Landsmeer (17) en de Coentunnel.,,6.0,2200,52.419666,4.869284,2026-11-04 09:26,10005524136
+2026-11-04 09:30,A10,Langzaam rijdend verkeer op parallelrijbaan,Knooppunt Watergraafsmeer - Knooppunt De Nieuwe Meer,Op de parallelbaan. Tussen knooppunt Coenplein en Amsterdam-Hemhavens (1).,,3.0,2000,52.404457,4.853471,2026-11-04 09:27,10005524137
+2026-11-04 09:30,A12,Stilstaand verkeer,Den Haag - Utrecht,Tussen Reeuwijk (12) en Nieuwerbrug (13).,,9.0,2600,52.066586,4.761719,2026-11-04 09:13,10005524119
+2026-11-04 09:30,A13,Stilstaand verkeer,Rijswijk - Rotterdam,Tussen Delft-Noord (8) en knooppunt Zestienhoven.,Ongeval(len),43.0,6400,51.972244,4.399247,2026-11-04 08:54,10005524049
+2026-11-04 09:30,A15,Stilstaand verkeer,Gorinchem - Ridderkerk,Tussen Alblasserdam (22) en de Noordtunnel.,,7.0,2100,51.857704,4.658226,2026-11-04 09:27,10005524138
+2026-11-04 09:30,A27,Stilstaand verkeer,Breda - Gorinchem,Tussen Nieuwendijk (22) en Werkendam (23).,,13.0,2000,51.788887,4.929232,2026-11-04 09:23,10005524135
+2026-11-04 09:30,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,6.0,2600,51.806248,5.676587,2026-11-04 09:19,10005524131
+2026-11-04 09:30,A67,Stilstaand verkeer,Eindhoven - Venlo,Tussen Liessel (37) en Panningen (38).,Defecte vrachtwagen,22.0,4000,51.377663,5.974767,2026-11-04 07:30,10005523644
+2026-11-04 09:30,N36,Langzaam rijdend verkeer,Dedemsvaart - Almelo,Tussen Dedemsvaart/Raalte en de brug over de Overijsselse Vecht.,Verkeer ingesloten tussen afrit en incident met volledige wegblokkade,4.0,2300,52.534996,6.547665,2026-11-04 08:47,10005524025
