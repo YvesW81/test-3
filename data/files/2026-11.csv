@@ -253,3 +253,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-04 17:31,N200,Langzaam rijdend verkeer,Amsterdam - Halfweg,Tussen A10: Amsterdam-Westerpark en Halfweg.,,4.0,2505,52.38438,4.802735,2026-11-04 15:37,10005524694
 2026-11-04 17:31,N434,Stilstaand verkeer,Wassenaar - Zoeterwoude,Tussen de Corbulotunnel en knooppunt Hofvliet.,,8.0,2500,52.125263,4.472725,2026-11-04 15:36,10005524599
 2026-11-04 17:31,N915,Stilstaand verkeer,Ridderkerk - Alblasserdam,Tussen A15: Hendrik-Ido-Ambacht en A15: Alblasserdam.,,10.0,3700,51.849503,4.676877,2026-11-04 15:52,10005524684
+2026-11-05 10:42,A2,Langzaam rijdend verkeer,Maastricht - Eindhoven,Tussen Weert-Noord (38) en Budel (37).,Bergingswerkzaamheden,4.0,2300,51.288998,5.644588,2026-11-05 09:37,10005527085
+2026-11-05 10:42,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Tussen Kerkdriel (19) en de Martinus Nijhoffbrug.,,7.0,4100,51.795086,5.258371,2026-11-05 09:49,10005527125
+2026-11-05 10:42,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen knooppunt De Hoek en de Schipholtunnel.,,6.0,2300,52.3105,4.74929,2026-11-05 10:36,10005527221
