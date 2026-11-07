@@ -336,3 +336,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-07 16:12,A27,Langzaam rijdend verkeer,Utrecht - Gorinchem,Tussen knooppunt Lunetten en de Hagesteinsebrug.,Extra verkeersdrukte door wegwerkzaamheden elders,15.0,6700,52.00199,5.11453,2026-11-07 14:41,10005531443
 2026-11-07 16:12,A27,Langzaam rijdend verkeer,Utrecht - Gorinchem,Tussen knooppunt Rijnsweerd en knooppunt Lunetten.,,4.0,2100,52.078255,5.158884,2026-11-07 16:09,10005531517
 2026-11-07 16:12,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1600,50.81876,6.024742,2026-11-07 11:29,10005531284
+2026-11-07 20:27,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen Everdingen (12) en knooppunt Everdingen.,Wegwerkzaamheden,11.0,2300,51.96237,5.117122,2026-11-07 19:23,10005531668
+2026-11-07 20:27,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,Defecte vrachtwagen,12.0,2200,51.694088,4.916406,2026-11-07 20:11,10005531678
