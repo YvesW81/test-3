@@ -321,3 +321,18 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-06 18:41,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Valburg en de Maasbrug.,,22.0,9500,51.801094,5.671626,2026-11-06 16:54,10005530699
 2026-11-06 18:41,A58,Langzaam rijdend verkeer,Tilburg - Breda,Tussen Ulvenhout (14) en knooppunt Galder.,,6.0,3900,51.52652,4.745951,2026-11-06 18:33,10005531136
 2026-11-07 09:41,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen Everdingen (12) en knooppunt Everdingen.,Wegwerkzaamheden,20.0,3400,51.96311,5.116344,2026-11-07 08:28,10005531246
+2026-11-07 16:12,A1,Stilstaand verkeer,Amersfoort - Amsterdam,Tussen knooppunt Diemen en knooppunt Watergraafsmeer.,,13.0,3000,52.352318,4.963194,2026-11-07 15:15,10005531467
+2026-11-07 16:12,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen Everdingen (12) en knooppunt Everdingen.,Wegwerkzaamheden,20.0,3100,51.963486,5.115965,2026-11-07 08:28,10005531246
+2026-11-07 16:12,A2,Stilstaand verkeer,Utrecht - Amsterdam,Op de verbindingsweg van de A2 vanuit Utrecht naar de A10 richting Den Haag.,,5.0,1800,52.330402,4.904622,2026-11-07 13:31,10005531381
+2026-11-07 16:12,A2,Stilstaand verkeer,Utrecht - Amsterdam,Tussen knooppunt Holendrecht en knooppunt Amstel.,,9.0,3300,52.31975,4.916184,2026-11-07 15:56,10005531507
+2026-11-07 16:12,A4,Langzaam rijdend verkeer,Den Haag - Amsterdam,Tussen knooppunt Prins Clausplein en Leidschendam (8).,,6.0,3100,52.07534,4.400356,2026-11-07 15:52,10005531501
+2026-11-07 16:12,A4,Stilstaand verkeer,Den Haag - Rotterdam,Tussen Den Haag-Zuid (12) en Gaag-Aquaduct.,,9.0,3000,51.991108,4.321926,2026-11-07 15:58,10005531510
+2026-11-07 16:12,A10,Stilstaand verkeer,Knooppunt Watergraafsmeer - Knooppunt De Nieuwe Meer,Tussen Amsterdam-Centrum (12) en Amsterdam-Oud Zuid (8).,Extra verkeersdrukte door verkeer dat een omleiding volgt,14.0,5700,52.338726,4.857848,2026-11-07 14:39,10005531440
+2026-11-07 16:12,A10,Langzaam rijdend verkeer,Knooppunt Amstel - Knooppunt Coenplein,Tussen knooppunt Watergraafsmeer en de Zeeburgertunnel.,,4.0,2800,52.373573,4.974154,2026-11-07 15:19,10005531472
+2026-11-07 16:12,A12,Langzaam rijdend verkeer op parallelrijbaan,Utrecht - Den Haag,Op de parallelbaan. Tussen knooppunt Lunetten en Nieuwegein (16).,Extra verkeersdrukte door wegwerkzaamheden elders,7.0,3500,52.06124,5.094125,2026-11-07 15:32,10005531480
+2026-11-07 16:12,A12,Langzaam rijdend verkeer,Utrecht - Den Haag,Tussen knooppunt Lunetten en knooppunt Oudenrijn.,,10.0,5500,52.063637,5.078301,2026-11-07 15:58,10005531508
+2026-11-07 16:12,A13,Stilstaand verkeer,Rijswijk - Rotterdam,Tussen Delft-Zuid (10) en knooppunt Zestienhoven.,,9.0,2500,51.976833,4.397283,2026-11-07 16:07,10005531514
+2026-11-07 16:12,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,4.0,2000,51.99733,4.646885,2026-11-07 16:09,10005531516
+2026-11-07 16:12,A27,Langzaam rijdend verkeer,Utrecht - Gorinchem,Tussen knooppunt Lunetten en de Hagesteinsebrug.,Extra verkeersdrukte door wegwerkzaamheden elders,15.0,6700,52.00199,5.11453,2026-11-07 14:41,10005531443
+2026-11-07 16:12,A27,Langzaam rijdend verkeer,Utrecht - Gorinchem,Tussen knooppunt Rijnsweerd en knooppunt Lunetten.,,4.0,2100,52.078255,5.158884,2026-11-07 16:09,10005531517
+2026-11-07 16:12,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1600,50.81876,6.024742,2026-11-07 11:29,10005531284
