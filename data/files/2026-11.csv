@@ -339,3 +339,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-07 20:27,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Tussen Everdingen (12) en knooppunt Everdingen.,Wegwerkzaamheden,11.0,2300,51.96237,5.117122,2026-11-07 19:23,10005531668
 2026-11-07 20:27,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,Defecte vrachtwagen,12.0,2200,51.694088,4.916406,2026-11-07 20:11,10005531678
 2026-11-08 09:51,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen Leiden-Oost (6A) en Leidschendam (8).,Defect voertuig,9.0,3000,52.114708,4.465341,2026-11-08 09:41,10005531700
+2026-11-08 16:43,A10,Langzaam rijdend verkeer,Knooppunt Amstel - Knooppunt De Nieuwe Meer,Tussen Amsterdam-Rivierenbuurt (10) en Amsterdam-Oud Zuid (8).,,7.0,3500,52.339645,4.88011,2026-11-08 16:29,10005531785
+2026-11-08 16:43,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,18.0,1900,50.81876,6.024742,2026-11-08 16:17,10005531779
