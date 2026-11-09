@@ -341,3 +341,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-08 09:51,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen Leiden-Oost (6A) en Leidschendam (8).,Defect voertuig,9.0,3000,52.114708,4.465341,2026-11-08 09:41,10005531700
 2026-11-08 16:43,A10,Langzaam rijdend verkeer,Knooppunt Amstel - Knooppunt De Nieuwe Meer,Tussen Amsterdam-Rivierenbuurt (10) en Amsterdam-Oud Zuid (8).,,7.0,3500,52.339645,4.88011,2026-11-08 16:29,10005531785
 2026-11-08 16:43,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,18.0,1900,50.81876,6.024742,2026-11-08 16:17,10005531779
+2026-11-09 11:55,A76,Stilstaand verkeer,Geleen - Aken,Tussen Spaubeek (3) en Nuth-Centrum (5a).,,9.0,3400,50.927036,5.886341,2026-11-09 11:16,10005532929
+2026-11-09 11:55,A76,Langzaam rijdend verkeer,Aken - Geleen,Tussen knooppunt Kunderberg en Nuth (5).,,11.0,4500,50.912148,5.909772,2026-11-09 11:44,10005532936
