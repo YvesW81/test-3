@@ -349,3 +349,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-10 12:43,A35,Stilstaand verkeer,Enschede - Zwolle,Tussen Wierden (32) en Rijssen.,,10.0,2700,52.36205,6.512192,2026-11-10 12:12,10005535752
 2026-11-10 12:43,A35,Stilstaand verkeer,Zwolle - Enschede,Tussen Rijssen en Wierden (32).,,10.0,2400,52.35021,6.586204,2026-11-10 12:36,10005535768
 2026-11-10 12:43,A50,Stilstaand verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,,20.0,6400,52.09713,5.951529,2026-11-10 12:27,10005535763
+2026-11-10 19:52,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen knooppunt Vaanplein en Rotterdam-Charlois (19).,Veiligheidsincident,0,5000,51.862785,4.462188,2026-11-10 19:06,10005537380
+2026-11-10 19:52,A15,Stilstaand verkeer op parallelrijbaan,Ridderkerk - Europoort,Op de parallelbaan. Tussen knooppunt Vaanplein en Rotterdam-Charlois (19).,Veiligheidsincident,0,5000,51.862934,4.462305,2026-11-10 19:07,10005537382
+2026-11-10 19:52,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Rotterdam-Schiebroek (14) en de Giessenbrug.,,4.0,2100,51.928165,4.430768,2026-11-10 19:38,10005537391
+2026-11-10 19:52,A50,Langzaam rijdend verkeer,Arnhem - Apeldoorn,Tussen knooppunt Waterberg en Hoenderloo (22).,Spitsstrook aan de rechterzijde gesloten,5.0,3500,52.0591,5.940653,2026-11-10 19:39,10005537392
