@@ -356,3 +356,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-11 13:00,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,6.0,4000,52.31377,7.043839,2026-11-11 11:12,10005538215
 2026-11-11 13:00,A76,Stilstaand verkeer,Aken - Geleen,Tussen Nuth-Centrum (5a) en Geleen (2).,Spoedreparatie,29.0,6300,50.951702,5.821511,2026-11-11 12:13,10005538234
 2026-11-11 20:29,A58,Langzaam rijdend verkeer,Tilburg - Breda,Tussen Ulvenhout (14) en knooppunt Galder.,,6.0,3200,51.528137,4.742667,2026-11-11 19:43,10005539494
+2026-11-12 09:49,A9,Langzaam rijdend verkeer,Diemen - Amstelveen,Tussen knooppunt Holendrecht en Amstelveen (4).,,7.0,3600,52.29261,4.898083,2026-11-12 08:28,10005540256
+2026-11-12 09:49,A12,Stilstaand verkeer,Den Haag - Utrecht,Tussen Nieuwerbrug (13) en Woerden (14).,Ongeval(len),23.0,5000,52.070164,4.897253,2026-11-12 09:18,10005540555
+2026-11-12 09:49,A50,Langzaam rijdend verkeer,Apeldoorn - Arnhem,Tussen knooppunt Beekbergen en Loenen (23).,Bergingswerkzaamheden,6.0,2900,52.16326,6.02249,2026-11-12 09:32,10005540599
