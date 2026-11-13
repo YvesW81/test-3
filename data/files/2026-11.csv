@@ -419,3 +419,10 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-12 18:07,A58,Langzaam rijdend verkeer,Tilburg - Eindhoven,Tussen Moergestel (9) en Best (7).,,9.0,3900,51.49253,5.346905,2026-11-12 18:04,10005542158
 2026-11-12 18:07,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Op de verbindingsweg van de A59 vanuit Waalwijk naar de A2 richting Utrecht.,,4.0,800,51.72585,5.32191,2026-11-12 15:49,10005541051
 2026-11-12 18:07,A76,Stilstaand verkeer,Belgische grens - Aken,Tussen knooppunt Kerensheide en Spaubeek (3).,,22.0,3100,50.94588,5.841915,2026-11-12 17:55,10005542117
+2026-11-13 19:02,A1,Stilstaand verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,6.0,2200,52.31377,7.043839,2026-11-13 14:18,10005542578
+2026-11-13 19:02,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen Waardenburg (16) en de Maasbrug.,Eerder ongeval,35.0,6900,51.750572,5.291341,2026-11-13 15:19,10005542818
+2026-11-13 19:02,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Deil en de Martinus Nijhoffbrug.,,13.0,3200,51.823875,5.25883,2026-11-13 18:58,10005543723
+2026-11-13 19:02,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen Leidschendam (8) en knooppunt Hofvliet.,,15.0,4100,52.11219,4.462716,2026-11-13 18:16,10005543688
+2026-11-13 19:02,A12,Stilstaand verkeer,Utrecht - Den Haag,Op de verbindingsweg van de A12 vanuit Utrecht naar de A20 richting Hoek van Holland.,,5.0,800,52.02232,4.654686,2026-11-13 18:56,10005543722
+2026-11-13 19:02,A15,Stilstaand verkeer,Ridderkerk - Gorinchem,Op de verbindingsweg van de A15 vanuit Rotterdam naar de A27 richting Breda.,,6.0,400,51.84229,4.948431,2026-11-13 15:22,10005542847
+2026-11-13 19:02,A27,Stilstaand verkeer,Utrecht - Breda,Tussen Noordeloos (25) en Industriegebied Avelingen (24).,,10.0,3600,51.832153,4.944147,2026-11-13 15:47,10005542986
