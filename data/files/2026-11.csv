@@ -433,3 +433,14 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-14 11:48,A20,Langzaam rijdend verkeer,Hoek van Holland - Gouda,Tussen knooppunt Kethelplein en Rotterdam-Overschie (13).,Veiligheidsmaatregelen,9.0,3600,51.928093,4.430941,2026-11-14 10:49,10005543848
 2026-11-14 11:48,A38,Stilstaand verkeer,Ridderkerk - Knooppunt Ridderkerk-Noord,Op de verbindingsweg van de A38 vanuit Ridderkerk naar de A16 richting Rotterdam (parallelbaan).,Ongeval op aansluitende weg,7.0,700,51.877384,4.5689173,2026-11-14 11:07,10005543871
 2026-11-14 11:48,A38,Stilstaand verkeer,Knooppunt Ridderkerk-Noord - Ridderkerk,Tussen knooppunt Ridderkerk-Noord en Ridderkerk.,Ongeval op aansluitende weg,11.0,1600,51.8858,4.580776,2026-11-14 11:40,10005543896
+2026-11-14 17:44,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen Geldermalsen (15) en Waardenburg (16).,Extra verkeersdrukte door wegwerkzaamheden elders,12.0,4000,51.844044,5.240726,2026-11-14 17:00,10005544324
+2026-11-14 17:44,A2,Langzaam rijdend verkeer,'s-Hertogenbosch - Utrecht,Tussen knooppunt Empel en de Martinus Nijhoffbrug.,,12.0,6200,51.799484,5.25864,2026-11-14 17:26,10005544362
+2026-11-14 17:44,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen Hoogmade (6) en Leiden-Oost (6A).,Ongeval(len),19.0,4200,52.1401,4.508935,2026-11-14 17:27,10005544363
+2026-11-14 17:44,A13,Stilstaand verkeer,Rotterdam - Rijswijk,Tussen Rotterdam-Airport (11) en Delft-Zuid (10).,Extra verkeersdrukte door wegwerkzaamheden elders,12.0,2600,51.973045,4.399132,2026-11-14 17:08,10005544331
+2026-11-14 17:44,A15,Langzaam rijdend verkeer,Gorinchem - Ridderkerk,Tussen Alblasserdam (22) en knooppunt Ridderkerk-Zuid.,Extra verkeersdrukte door wegwerkzaamheden elders,12.0,5200,51.85656,4.617059,2026-11-14 15:42,10005544213
+2026-11-14 17:44,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,Extra verkeersdrukte door wegwerkzaamheden elders,6.0,2726,51.999264,4.649795,2026-11-14 16:39,10005544296
+2026-11-14 17:44,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Rotterdam-Schiebroek (14) en de Giessenbrug.,,5.0,2200,51.92793,4.430193,2026-11-14 17:39,10005544379
+2026-11-14 17:44,A29,Stilstaand verkeer,Sabina - Rotterdam,Tussen Oud-Beijerland (21) en knooppunt Vaanplein.,,7.0,2600,51.859894,4.51629,2026-11-14 17:33,10005544371
+2026-11-14 17:44,A59,Stilstaand verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Op de verbindingsweg van de A59 vanuit Waalwijk naar de A2 richting Utrecht.,,9.0,1200,51.72585,5.32191,2026-11-14 16:20,10005544270
+2026-11-14 17:44,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,16.0,1600,50.81876,6.024742,2026-11-14 17:29,10005544368
+2026-11-14 17:44,N2,Langzaam rijdend verkeer,Europaplein - Kruisdonk,Tussen A2: Maastricht-Centrum Zuid (54) en knooppunt Kruisdonk.,,6.0,3000,50.863876,5.720098,2026-11-14 12:38,10005544358
