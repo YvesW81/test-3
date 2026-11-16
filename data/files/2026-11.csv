@@ -445,3 +445,13 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-14 17:44,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,16.0,1600,50.81876,6.024742,2026-11-14 17:29,10005544368
 2026-11-14 17:44,N2,Langzaam rijdend verkeer,Europaplein - Kruisdonk,Tussen A2: Maastricht-Centrum Zuid (54) en knooppunt Kruisdonk.,,6.0,3000,50.863876,5.720098,2026-11-14 12:38,10005544358
 2026-11-15 20:59,A59,Stilstaand verkeer,'s-Hertogenbosch - Knooppunt Zonzeel,Tussen Waspik (35) en knooppunt Hooipolder.,Ongeval(len),30.0,2900,51.68709,4.881953,2026-11-15 20:29,10005544606
+2026-11-16 14:03,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen Nieuwegein-Zuid (10) en knooppunt Everdingen.,Water op de weg,11.0,3400,51.975792,5.102804,2026-11-16 12:09,10005546101
+2026-11-16 14:03,A2,Stilstaand verkeer,'s-Hertogenbosch - Utrecht,Op de verbindingsweg van de A2 vanuit 's-Hertogenbosch naar de A12 richting Arnhem.,Brandstof op de weg,4.0,500,52.063625,5.076874,2026-11-16 13:31,10005546148
+2026-11-16 14:03,A12,Langzaam rijdend verkeer,Den Haag - Utrecht,Op de verbindingsweg van de A12 vanuit Den Haag naar de A27 richting Hilversum.,Ongeval op aansluitende weg,3.0,1200,52.066177,5.1469555,2026-11-16 12:56,10005546142
+2026-11-16 14:03,A12,Langzaam rijdend verkeer,Den Haag - Utrecht,Tussen knooppunt Oudenrijn en knooppunt Lunetten.,Ongeval op aansluitende weg,9.0,3500,52.05481,5.13535,2026-11-16 13:08,10005546130
+2026-11-16 14:03,A12,Langzaam rijdend verkeer op parallelrijbaan,Den Haag - Utrecht,Op de parallelbaan. Tussen knooppunt Oudenrijn en Houten (18).,Ongeval op aansluitende weg,6.0,2500,52.056503,5.122355,2026-11-16 13:18,10005546134
+2026-11-16 14:03,A12,Langzaam rijdend verkeer,Den Haag - Arnhem,Tussen knooppunt Lunetten en Bunnik (19).,Ongeval op aansluitende weg,4.0,2400,52.059875,5.209905,2026-11-16 13:38,10005546150
+2026-11-16 14:03,A12,Langzaam rijdend verkeer,Utrecht - Arnhem,Tussen Driebergen (20) en Maarsbergen (22).,,9.0,4500,52.06539,5.349711,2026-11-16 13:48,10005546158
+2026-11-16 14:03,A27,Stilstaand verkeer,Gorinchem - Utrecht,Tussen Houten (29) en knooppunt Lunetten.,Ongeval(len),8.0,3000,52.056053,5.144826,2026-11-16 12:57,10005546125
+2026-11-16 14:03,A28,Langzaam rijdend verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,,6.0,1900,52.078636,5.1592064,2026-11-16 13:09,10005546132
+2026-11-16 14:03,A28,Langzaam rijdend verkeer,Amersfoort - Utrecht,Tussen knooppunt Rijnsweerd en Utrecht-Centrum.,,5.0,2100,52.089073,5.149193,2026-11-16 14:00,10005546162
