@@ -456,3 +456,24 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-16 14:03,A28,Langzaam rijdend verkeer,Amersfoort - Utrecht,Op de verbindingsweg van de A28 vanuit Amersfoort naar de A27 richting Breda.,,6.0,1900,52.078636,5.1592064,2026-11-16 13:09,10005546132
 2026-11-16 14:03,A28,Langzaam rijdend verkeer,Amersfoort - Utrecht,Tussen knooppunt Rijnsweerd en Utrecht-Centrum.,,5.0,2100,52.089073,5.149193,2026-11-16 14:00,10005546162
 2026-11-17 05:55,A15,Stilstaand verkeer,Ridderkerk - Europoort,Tussen Havens 5700-6200 (10) en Havens 6200-7000 (9).,Veiligheidsmaatregelen,8.0,2600,51.93737,4.121282,2026-11-17 05:44,10005547507
+2026-11-17 15:05,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,Door grenscontrole,5.0,2200,52.31377,7.043839,2026-11-17 13:46,10005549505
+2026-11-17 15:05,A1,Stilstaand verkeer,Amersfoort - Apeldoorn,Tussen Voorthuizen (16) en Stroe (17).,,16.0,3200,52.175438,5.644657,2026-11-17 14:51,10005549581
+2026-11-17 15:05,A2,Stilstaand verkeer,Eindhoven - Maastricht,Tussen Batadorp/Randweg N2 en knooppunt De Hogt.,Opruimwerkzaamheden,30.0,5400,51.442017,5.426801,2026-11-17 13:44,10005549503
+2026-11-17 15:05,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen Vianen (11) en Everdingen (12).,,3.0,2000,51.969975,5.108945,2026-11-17 15:02,10005549602
+2026-11-17 15:05,A4,Stilstaand verkeer,Knooppunt Sabina - Antwerpen,Tussen knooppunt Markiezaat en België.,,15.0,4000,51.37619,4.304729,2026-11-17 14:41,10005549564
+2026-11-17 15:05,A4,Langzaam rijdend verkeer,Amsterdam - Rotterdam,Tussen knooppunt Hofvliet en Rijswijk-Plaspoelpolder (10).,,8.0,6000,52.037468,4.337947,2026-11-17 14:42,10005549565
+2026-11-17 15:05,A4,Langzaam rijdend verkeer,Den Haag - Rotterdam,Tussen Vlaardingen-Oost (16) en knooppunt Benelux.,,6.0,3100,51.88315,4.381647,2026-11-17 14:52,10005549585
+2026-11-17 15:05,A4,Langzaam rijdend verkeer,Amsterdam - Den Haag,Tussen knooppunt Hofvliet en Leidschendam (8).,,5.0,2800,52.090134,4.423762,2026-11-17 15:02,10005549603
+2026-11-17 15:05,A15,Langzaam rijdend verkeer,Ridderkerk - Gorinchem,Tussen Sliedrecht-West (24) en Hardinxveld-Giessendam (26).,,9.0,3500,51.82154,4.826458,2026-11-17 14:57,10005549593
+2026-11-17 15:05,A16,Stilstaand verkeer op parallelrijbaan,Rotterdam - Breda,Op de parallelbaan. Tussen Rotterdam-Kralingen (26) en Rotterdam-Feijenoord (24).,,13.0,3900,51.893684,4.558517,2026-11-17 14:12,10005549525
+2026-11-17 15:05,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en de Drechttunnel.,,9.0,4300,51.80052,4.6499,2026-11-17 14:12,10005549522
+2026-11-17 15:05,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Ridderkerk-Zuid en de Drechttunnel.,,13.0,5300,51.81202,4.641391,2026-11-17 14:51,10005549580
+2026-11-17 15:05,A16,Langzaam rijdend verkeer,Breda - Rotterdam,Tussen knooppunt Terbregseplein en de Rottemerentunnel.,,4.0,2100,51.96201,4.518935,2026-11-17 15:01,10005549597
+2026-11-17 15:05,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen knooppunt Terbregseplein en de Giessenbrug.,,13.0,4100,51.928165,4.430768,2026-11-17 14:32,10005549554
+2026-11-17 15:05,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen knooppunt Gouwe en Nieuwerkerk aan den IJssel (17).,,7.0,2400,51.997955,4.647881,2026-11-17 15:01,10005549598
+2026-11-17 15:05,A27,Stilstaand verkeer,Utrecht - Gorinchem,Tussen knooppunt Everdingen en Lexmond (26).,,24.0,2900,51.955692,5.047078,2026-11-17 14:53,10005549586
+2026-11-17 15:05,A27,Langzaam rijdend verkeer,Utrecht - Gorinchem,Tussen knooppunt Rijnsweerd en knooppunt Lunetten.,,5.0,2100,52.077496,5.158224,2026-11-17 15:02,10005549601
+2026-11-17 15:05,A28,Stilstaand verkeer,Zwolle - Amersfoort,Op de verbindingsweg van de A28 vanuit Zwolle naar de A1 richting Amsterdam.,,5.0,500,52.178528,5.42471,2026-11-17 14:51,10005549589
+2026-11-17 15:05,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,4.0,2400,51.80282,5.673722,2026-11-17 15:01,10005549599
+2026-11-17 15:05,A58,Stilstaand verkeer,Tilburg - Eindhoven,Tussen Oirschot (8) en knooppunt Batadorp.,,16.0,3800,51.480984,5.402094,2026-11-17 14:31,10005549553
+2026-11-17 15:05,N2,Stilstaand verkeer,Batadorp - Leenderheide,Tussen A2: Batadorp/Randweg N2 en Meerhoven-Zuid (30a).,Defecte vrachtwagen,14.0,4400,51.438847,5.426088,2026-11-17 14:35,10005549558
