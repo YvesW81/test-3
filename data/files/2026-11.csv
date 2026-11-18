@@ -478,3 +478,15 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-17 15:05,A58,Stilstaand verkeer,Tilburg - Eindhoven,Tussen Oirschot (8) en knooppunt Batadorp.,,16.0,3800,51.480984,5.402094,2026-11-17 14:31,10005549553
 2026-11-17 15:05,N2,Stilstaand verkeer,Batadorp - Leenderheide,Tussen A2: Batadorp/Randweg N2 en Meerhoven-Zuid (30a).,Defecte vrachtwagen,14.0,4400,51.438847,5.426088,2026-11-17 14:35,10005549558
 2026-11-17 23:14,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Ridderkerk-Zuid en Zwijndrecht (22).,Ongeval met vrachtwagen,9.0,3400,51.81822,4.629054,2026-11-17 22:03,10005550899
+2026-11-18 13:18,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen De Lutte (34) en Duitsland.,,5.0,2400,52.31377,7.043839,2026-11-18 13:05,10005552143
+2026-11-18 13:18,A2,Stilstaand verkeer,Belgische grens - Eindhoven,Tussen Maastricht-Centrum Noord (53) en Meerssen (51).,Opruimwerkzaamheden,15.0,2600,50.87892,5.735539,2026-11-18 10:52,10005552056
+2026-11-18 13:18,A2,Langzaam rijdend verkeer,Belgische grens - Maastricht,Tussen Gronsveld (56) en Maastricht-Zuid (55).,,4.0,2100,50.83283,5.718465,2026-11-18 12:57,10005552132
+2026-11-18 13:18,A12,Langzaam rijdend verkeer,Arnhem - Duitse grens,Tussen Zevenaar (29) en knooppunt Oud-Dijk.,,4.0,2800,51.919228,6.129972,2026-11-18 13:13,10005552155
+2026-11-18 13:18,A15,Langzaam rijdend verkeer,Gorinchem - Ridderkerk,Tussen Alblasserdam (22) en Hendrik-Ido-Ambacht (21).,,4.0,2800,51.85664,4.631043,2026-11-18 12:58,10005552135
+2026-11-18 13:18,A15,Langzaam rijdend verkeer,Ridderkerk - Europoort,Tussen Havens 5700-6200 (10) en Havens 6200-7000 (9).,,5.0,2100,51.937073,4.122589,2026-11-18 13:01,10005552138
+2026-11-18 13:18,A15,Langzaam rijdend verkeer,Gorinchem - Ridderkerk,Tussen Sliedrecht-Oost (25) en Papendrecht (23).,,4.0,2600,51.83288,4.73961,2026-11-18 13:12,10005552153
+2026-11-18 13:18,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht-Willemsdorp (19) en de Drechttunnel.,,16.0,6300,51.80052,4.6499,2026-11-18 12:34,10005552109
+2026-11-18 13:18,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Nieuwerkerk aan den IJssel (17) en knooppunt Terbregseplein.,Spoedreparatie,10.0,4800,51.95254,4.541608,2026-11-18 11:21,10005552073
+2026-11-18 13:18,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Rotterdam-Schiebroek (14) en de Giessenbrug.,,4.0,2100,51.928394,4.43133,2026-11-18 13:09,10005552149
+2026-11-18 13:18,A50,Langzaam rijdend verkeer,Eindhoven - Arnhem,Tussen knooppunt Paalgraven en Ravenstein (17).,,5.0,2500,51.753574,5.621847,2026-11-18 13:07,10005552146
+2026-11-18 13:18,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,8.0,5200,51.799374,5.669516,2026-11-18 13:10,10005552150
