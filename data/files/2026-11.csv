@@ -490,3 +490,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-18 13:18,A20,Langzaam rijdend verkeer,Gouda - Hoek van Holland,Tussen Rotterdam-Schiebroek (14) en de Giessenbrug.,,4.0,2100,51.928394,4.43133,2026-11-18 13:09,10005552149
 2026-11-18 13:18,A50,Langzaam rijdend verkeer,Eindhoven - Arnhem,Tussen knooppunt Paalgraven en Ravenstein (17).,,5.0,2500,51.753574,5.621847,2026-11-18 13:07,10005552146
 2026-11-18 13:18,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,8.0,5200,51.799374,5.669516,2026-11-18 13:10,10005552150
+2026-11-19 11:11,A2,Stilstaand verkeer,Belgische grens - Eindhoven,Tussen Maastricht-Centrum Noord (53) en Ulestraten (50).,,25.0,5200,50.895096,5.749081,2026-11-19 10:28,10005554971
+2026-11-19 11:11,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen Zaltbommel (17) en knooppunt Empel.,,13.0,5000,51.7314,5.312855,2026-11-19 10:48,10005554980
+2026-11-19 11:11,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen Leiden-Oost (6A) en knooppunt Hofvliet.,Ongeval(len),19.0,3200,52.121376,4.474856,2026-11-19 10:57,10005554984
+2026-11-19 11:11,A28,Stilstaand verkeer,Utrecht - Amersfoort,Tussen Soesterberg (4) en Leusden (7).,,42.0,5900,52.13927,5.404552,2026-11-19 10:27,10005554969
