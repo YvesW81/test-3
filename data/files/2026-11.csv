@@ -494,3 +494,7 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-19 11:11,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen Zaltbommel (17) en knooppunt Empel.,,13.0,5000,51.7314,5.312855,2026-11-19 10:48,10005554980
 2026-11-19 11:11,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen Leiden-Oost (6A) en knooppunt Hofvliet.,Ongeval(len),19.0,3200,52.121376,4.474856,2026-11-19 10:57,10005554984
 2026-11-19 11:11,A28,Stilstaand verkeer,Utrecht - Amersfoort,Tussen Soesterberg (4) en Leusden (7).,,42.0,5900,52.13927,5.404552,2026-11-19 10:27,10005554969
+2026-11-19 20:00,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen knooppunt Hofvliet en knooppunt Prins Clausplein.,Bergingswerkzaamheden,52.0,7300,52.066113,4.380038,2026-11-19 15:07,10005555199
+2026-11-19 20:00,A4,Stilstaand verkeer op parallelrijbaan,Amsterdam - Den Haag,Op de parallelbaan. Tussen knooppunt Hofvliet en knooppunt Prins Clausplein.,Bergingswerkzaamheden,7.0,2100,52.066395,4.380076,2026-11-19 19:41,10005556670
+2026-11-19 20:00,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen Leiden-Oost (6A) en Leiden (7).,,22.0,2300,52.124413,4.48,2026-11-19 19:55,10005556674
+2026-11-19 20:00,A12,Stilstaand verkeer,Utrecht - Arnhem,Tussen Driebergen (20) en Maarsbergen (22).,Ongeval(len),22.0,2900,52.06538,5.345425,2026-11-19 19:42,10005556671
