@@ -498,3 +498,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-19 20:00,A4,Stilstaand verkeer op parallelrijbaan,Amsterdam - Den Haag,Op de parallelbaan. Tussen knooppunt Hofvliet en knooppunt Prins Clausplein.,Bergingswerkzaamheden,7.0,2100,52.066395,4.380076,2026-11-19 19:41,10005556670
 2026-11-19 20:00,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen Leiden-Oost (6A) en Leiden (7).,,22.0,2300,52.124413,4.48,2026-11-19 19:55,10005556674
 2026-11-19 20:00,A12,Stilstaand verkeer,Utrecht - Arnhem,Tussen Driebergen (20) en Maarsbergen (22).,Ongeval(len),22.0,2900,52.06538,5.345425,2026-11-19 19:42,10005556671
+2026-11-20 09:37,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Barneveld (15) en Hoevelaken (14).,,8.0,2200,52.163,5.52508,2026-11-20 09:32,10005556945
+2026-11-20 09:37,A4,Stilstaand verkeer,Amsterdam - Den Haag,Tussen knooppunt Hofvliet en Leidschendam (8).,Defect voertuig,6.0,2200,52.072823,4.393124,2026-11-20 09:33,10005556946
