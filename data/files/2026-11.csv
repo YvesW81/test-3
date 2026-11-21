@@ -530,3 +530,4 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-20 18:14,N44,Stilstaand verkeer,Amsterdam - Den Haag,Tussen knooppunt Ommedijk en Voorschoten.,,11.0,1600,52.141827,4.414984,2026-11-20 18:10,10005558412
 2026-11-21 13:03,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,,6.0,2700,52.165134,5.546264,2026-11-21 11:49,10005558600
 2026-11-21 13:03,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,Defecte vrachtwagen,23.0,3200,52.16477,5.542777,2026-11-21 12:40,10005558617
+2026-11-21 20:06,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen Leidschendam (8) en knooppunt Hofvliet.,Ongeval(len),12.0,2900,52.119484,4.47244,2026-11-21 18:46,10005558896
