@@ -528,3 +528,5 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-20 18:14,A50,Langzaam rijdend verkeer,Eindhoven - Arnhem,Tussen Oss-Oost (16) en Ravenstein (17).,Ongeval(len),14.0,7500,51.78823,5.653993,2026-11-20 17:35,10005558318
 2026-11-20 18:14,A73,Stilstaand verkeer,Nijmegen - Maasbracht,Tussen Linne (21) en knooppunt Het Vonderen.,Ongeval(len),11.0,3000,51.127876,5.897515,2026-11-20 17:29,10005558290
 2026-11-20 18:14,N44,Stilstaand verkeer,Amsterdam - Den Haag,Tussen knooppunt Ommedijk en Voorschoten.,,11.0,1600,52.141827,4.414984,2026-11-20 18:10,10005558412
+2026-11-21 13:03,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,,6.0,2700,52.165134,5.546264,2026-11-21 11:49,10005558600
+2026-11-21 13:03,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,Defecte vrachtwagen,23.0,3200,52.16477,5.542777,2026-11-21 12:40,10005558617
