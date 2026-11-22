@@ -531,3 +531,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-21 13:03,A1,Langzaam rijdend verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,,6.0,2700,52.165134,5.546264,2026-11-21 11:49,10005558600
 2026-11-21 13:03,A1,Stilstaand verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,Defecte vrachtwagen,23.0,3200,52.16477,5.542777,2026-11-21 12:40,10005558617
 2026-11-21 20:06,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen Leidschendam (8) en knooppunt Hofvliet.,Ongeval(len),12.0,2900,52.119484,4.47244,2026-11-21 18:46,10005558896
+2026-11-22 12:56,A4,Stilstaand verkeer,Den Haag - Amsterdam,Tussen knooppunt Prins Clausplein en knooppunt Hofvliet.,Bergingswerkzaamheden,36.0,8000,52.122566,4.477344,2026-11-22 12:16,10005558931
+2026-11-22 12:56,A10,Stilstaand verkeer,Knooppunt Watergraafsmeer - Knooppunt De Nieuwe Meer,Tussen knooppunt Coenplein en Amsterdam-Hemhavens (1).,Ongeval(len),21.0,3000,52.409237,4.859188,2026-11-22 12:15,10005558930
+2026-11-22 12:56,A13,Stilstaand verkeer,Rotterdam - Rijswijk,Tussen Delft-Zuid (10) en Delft-Noord (8).,Ongeval(len),7.0,2500,52.02276,4.364779,2026-11-22 12:53,10005558940
