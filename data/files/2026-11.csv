@@ -821,3 +821,12 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-25 18:38,A50,Stilstaand verkeer,Arnhem - Oss,Tussen knooppunt Grijsoord en de Rijnbrug.,Ongeval(len),47.0,8600,51.963264,5.767458,2026-11-25 15:43,10005566691
 2026-11-25 18:38,A50,Langzaam rijdend verkeer,Eindhoven - Arnhem,Tussen knooppunt Paalgraven en de Maasbrug.,,5.0,2800,51.791992,5.660639,2026-11-25 18:34,10005567866
 2026-11-25 18:38,A50,Langzaam rijdend verkeer,Eindhoven - Arnhem,Tussen knooppunt Paalgraven en Ravenstein (17).,,7.0,3600,51.76425,5.628736,2026-11-25 18:34,10005567865
+2026-11-26 10:29,A1,Langzaam rijdend verkeer,Apeldoorn - Amsterdam,Tussen Voorthuizen (16) en Hoevelaken (14).,,5.0,2300,52.166782,5.5575,2026-11-26 07:46,10005568234
+2026-11-26 10:29,A1,Stilstaand verkeer,Amsterdam - Apeldoorn,Tussen knooppunt Hoevelaken en Barneveld (15).,Eerder pechgeval,12.0,2700,52.162697,5.518511,2026-11-26 10:04,10005568897
+2026-11-26 10:29,A2,Stilstaand verkeer,Utrecht - 's-Hertogenbosch,Tussen Beesd (14) en Waardenburg (16).,Ongeval(len),27.0,5400,51.84185,5.242954,2026-11-26 10:01,10005568890
+2026-11-26 10:29,A15,Stilstaand verkeer,Gorinchem - Nijmegen,Op de verbindingsweg van de A15 vanuit Gorinchem naar de A2 richting 's-Hertogenbosch.,,13.0,1200,51.851105,5.2332377,2026-11-26 10:03,10005568901
+2026-11-26 10:29,A15,Stilstaand verkeer,Nijmegen - Gorinchem,Tussen Echteld (34) en Tiel (33).,Ongeval(len),9.0,3700,51.90106,5.43217,2026-11-26 10:17,10005568911
+2026-11-26 10:29,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,7.0,3600,51.803905,5.674853,2026-11-26 10:22,10005568915
+2026-11-26 10:29,A58,Stilstaand verkeer,Eindhoven - Tilburg,Tussen Best (7) en Oirschot (8).,,8.0,2500,51.4931,5.31909,2026-11-26 09:39,10005568854
+2026-11-26 10:29,A58,Stilstaand verkeer,Breda - Eindhoven,Tussen knooppunt De Baars en Oirschot (8).,,21.0,6600,51.52761,5.207261,2026-11-26 09:55,10005568879
+2026-11-26 10:29,A59,Langzaam rijdend verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Oosterhout (33) en knooppunt Hooipolder.,Bergingswerkzaamheden,5.0,2100,51.68729,4.885205,2026-11-26 09:57,10005568882
