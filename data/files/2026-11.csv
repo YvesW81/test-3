@@ -846,3 +846,6 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-27 11:57,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,4.0,2000,51.801777,5.672465,2026-11-27 11:52,10005571006
 2026-11-27 11:57,A59,Langzaam rijdend verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Oosterhout (33) en knooppunt Hooipolder.,Bergingswerkzaamheden,5.0,2100,51.68729,4.885205,2026-11-26 09:57,10005568882
 2026-11-27 11:57,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,8.0,2100,50.81876,6.024742,2026-11-27 11:07,10005570961
+2026-11-27 20:48,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,Door grenscontrole,5.0,3000,52.31377,7.043839,2026-11-27 19:47,10005572767
+2026-11-27 20:48,A2,Stilstaand verkeer,Eindhoven - Maastricht,Tussen Roosteren (46) en Born (47).,Wegwerkzaamheden,10.0,2600,51.042847,5.825761,2026-11-27 20:08,10005572771
+2026-11-27 20:48,A59,Langzaam rijdend verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Oosterhout (33) en knooppunt Hooipolder.,Bergingswerkzaamheden,5.0,2100,51.68729,4.885205,2026-11-26 09:57,10005568882
