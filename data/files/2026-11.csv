@@ -832,3 +832,17 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-26 10:29,A59,Langzaam rijdend verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Oosterhout (33) en knooppunt Hooipolder.,Bergingswerkzaamheden,5.0,2100,51.68729,4.885205,2026-11-26 09:57,10005568882
 2026-11-26 20:14,A59,Langzaam rijdend verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Oosterhout (33) en knooppunt Hooipolder.,Bergingswerkzaamheden,5.0,2100,51.68729,4.885205,2026-11-26 09:57,10005568882
 2026-11-27 03:14,A59,Langzaam rijdend verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Oosterhout (33) en knooppunt Hooipolder.,Bergingswerkzaamheden,5.0,2100,51.68729,4.885205,2026-11-26 09:57,10005568882
+2026-11-27 11:57,A1,Langzaam rijdend verkeer,Hengelo - Osnabrück,Tussen Oldenzaal-Zuid (33) en Duitsland.,,7.0,3100,52.31377,7.043839,2026-11-27 11:45,10005570997
+2026-11-27 11:57,A1,Langzaam rijdend verkeer,Amersfoort - Apeldoorn,Tussen Voorthuizen (16) en Stroe (17).,,5.0,2500,52.19088,5.695461,2026-11-27 11:53,10005571008
+2026-11-27 11:57,A2,Langzaam rijdend verkeer,Utrecht - 's-Hertogenbosch,Tussen knooppunt Deil en de Martinus Nijhoffbrug.,,7.0,3400,51.831474,5.252793,2026-11-27 11:53,10005571009
+2026-11-27 11:57,A4,Langzaam rijdend verkeer,Den Haag - Rotterdam,Tussen Schiedam-Noord (10) en de Beneluxtunnel.,,3.0,2100,51.89569,4.374238,2026-11-27 11:52,10005571005
+2026-11-27 11:57,A6,Stilstaand verkeer,Joure - Emmeloord,Tussen Lemmer (17) en Bant (16).,Ongeval met vrachtwagen,14.0,4400,52.803738,5.748857,2026-11-27 11:00,10005570954
+2026-11-27 11:57,A15,Stilstaand verkeer,Ridderkerk - Gorinchem,Tussen Hendrik-Ido-Ambacht (21) en de Noordtunnel.,,12.0,1500,51.857327,4.644428,2026-11-27 11:53,10005571007
+2026-11-27 11:57,A16,Stilstaand verkeer,Rotterdam - Breda,Tussen knooppunt Terbregseplein en de Van Brienenoordbrug.,Ongeval(len),18.0,4800,51.907135,4.540439,2026-11-27 11:18,10005570967
+2026-11-27 11:57,A16,Stilstaand verkeer op parallelrijbaan,Rotterdam - Breda,Op de parallelbaan. Tussen knooppunt Terbregseplein en de Van Brienenoordbrug.,Defect voertuig,12.0,2800,51.907967,4.539651,2026-11-27 11:26,10005570974
+2026-11-27 11:57,A16,Stilstaand verkeer,Breda - Rotterdam,Tussen Dordrecht (20) en knooppunt Ridderkerk-Zuid.,Ongeval(len),42.0,6700,51.843662,4.610583,2026-11-27 11:36,10005570986
+2026-11-27 11:57,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Op de verbindingsweg van de A20 vanuit Gouda naar de A16 richting Breda.,,9.0,1200,51.941357,4.5335994,2026-11-27 11:31,10005570980
+2026-11-27 11:57,A20,Stilstaand verkeer,Gouda - Hoek van Holland,Tussen knooppunt Terbregseplein en de Giessenbrug.,,16.0,4600,51.92793,4.430193,2026-11-27 11:38,10005570988
+2026-11-27 11:57,A50,Langzaam rijdend verkeer,Arnhem - Oss,Tussen knooppunt Ewijk en de Maasbrug.,,4.0,2000,51.801777,5.672465,2026-11-27 11:52,10005571006
+2026-11-27 11:57,A59,Langzaam rijdend verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Oosterhout (33) en knooppunt Hooipolder.,Bergingswerkzaamheden,5.0,2100,51.68729,4.885205,2026-11-26 09:57,10005568882
+2026-11-27 11:57,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,8.0,2100,50.81876,6.024742,2026-11-27 11:07,10005570961
