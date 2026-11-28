@@ -850,3 +850,8 @@ tijdstip,weg,titel,richting,traject,oorzaak,vertraging_min,lengte_m,lat,lon,star
 2026-11-27 20:48,A2,Stilstaand verkeer,Eindhoven - Maastricht,Tussen Roosteren (46) en Born (47).,Wegwerkzaamheden,10.0,2600,51.042847,5.825761,2026-11-27 20:08,10005572771
 2026-11-27 20:48,A59,Langzaam rijdend verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Oosterhout (33) en knooppunt Hooipolder.,Bergingswerkzaamheden,5.0,2100,51.68729,4.885205,2026-11-26 09:57,10005568882
 2026-11-28 03:13,A59,Langzaam rijdend verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Oosterhout (33) en knooppunt Hooipolder.,Bergingswerkzaamheden,5.0,2100,51.68729,4.885205,2026-11-26 09:57,10005568882
+2026-11-28 11:32,A12,Stilstaand verkeer,Arnhem - Duitse grens,Tussen knooppunt Velperbroek en Zevenaar (29).,,13.0,4600,51.95605,6.04074,2026-11-28 10:26,10005572874
+2026-11-28 11:32,A12,Langzaam rijdend verkeer,Den Haag - Utrecht,Tussen Woerden (14) en De Meern (15).,Politieactie,8.0,4100,52.07476,5.017076,2026-11-28 10:44,10005572901
+2026-11-28 11:32,A28,Stilstaand verkeer,Amersfoort - Zwolle,Tussen Nijkerk (9) en Strand Nulde (10).,,9.0,2700,52.253872,5.509362,2026-11-28 09:38,10005572852
+2026-11-28 11:32,A59,Langzaam rijdend verkeer,Knooppunt Zonzeel - 's-Hertogenbosch,Tussen Oosterhout (33) en knooppunt Hooipolder.,Bergingswerkzaamheden,5.0,2100,51.68729,4.885205,2026-11-26 09:57,10005568882
+2026-11-28 11:32,A76,Stilstaand verkeer,Geleen - Keulen,Tussen Simpelveld (7) en Duitsland.,Door grenscontrole,12.0,1900,50.81876,6.024742,2026-11-28 10:00,10005572861
